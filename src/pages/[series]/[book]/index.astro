@@ -46,9 +46,10 @@ export async function getStaticPaths() {
 }
 
 const { seriesName, bookName, chunks } = Astro.props;
+const pageDescription = `Panic recap index for ${bookName}. Select a chapter range to begin your concrete narrative refresher for the ${seriesName} series.`;
 ---
 
-<Layout title={`${bookName} | The Distiller`}>
+<Layout title={`${bookName} | The Distiller`} description={pageDescription}>
   <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6">
     
     <!-- Header -->

@@ -4,20 +4,40 @@ import ReaderControls from '../components/ReaderControls.tsx';
 
 interface Props {
   title: string;
+  description?: string;
+  ogType?: string;
+  ogImage?: string;
 }
 
-const { title } = Astro.props;
+const { 
+  title, 
+  description = "Project: Panic Catchup. High-density narrative summaries for returning readers.",
+  ogType = "website",
+  ogImage = "/favicon.svg" // In the future, we can point this to a real social banner image
+} = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="A concrete narrative refresher for returning readers." />
+    <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+
+    <!-- OpenGraph SEO Tags -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:image" content={ogImage} />
+    
+    <!-- Twitter SEO Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
     <script is:inline>
       const theme = localStorage.getItem('theme') || 'dark';
       if (theme === 'dark') {

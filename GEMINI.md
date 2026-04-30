@@ -37,17 +37,18 @@ We are using a modern Static Site Generation (SSG) approach.
 *   [x] Ingested the Dune series (Books 1-6), The Stormlight Archive (Books 1-3), the Red Rising series (Books 1-6), and The Lord of the Rings (Books 1-3).
 *   [x] Implemented proper `bookOrder` routing sorting and updated the UI to display "Book X" instead of "Volume".
 *   [x] Built a smart, fuzzy-search component (`SearchBar.tsx`) powered by `fuse.js` on the homepage to find series and books.
+*   [x] Injected dynamic SEO meta tags (Title, Description, OpenGraph, Twitter Cards) targeting "Panic Recap" keywords into the layout templates.
 
 ## 🚧 Current Status & Next Steps
-The core platform is fully functional locally (`npm run dev`). You can browse from the homepage down to reading chunks of *The Suneater Series*, *Dune*, *The Stormlight Archive*, and *Red Rising*.
+The core platform is fully functional locally (`npm run dev`) and is prepared for its initial deployment to Vercel. You can browse from the new landing page to the archive, down to reading chunks of *The Suneater Series*, *Dune*, *The Stormlight Archive*, *Red Rising*, and *The Lord of the Rings*.
 
 **Decisions Made:**
 *   **CSS Strategy:** Decided to keep Tailwind CSS.
+*   **Audio TTS Strategy:** The native Web Speech API voices are too robotic/inaccurate for sci-fi jargon. Any future audio integration will require pre-generated MP3s using a premium AI API (like Google Cloud Journey or ElevenLabs).
 
 **Future Phases (Not Started):**
 1.  **Search Functionality:** Implementing a local static search (like Pagefind) so users can search for specific character names across the entire archive.
 2.  **UI/UX Polish:** Refining the interface based on having real, varied data.
-3.  **SEO Optimization:** Injecting dynamic meta tags (Title, Description, OpenGraph) for "Panic Recap" keywords into the `<head>` of the `[range].astro` pages.
 4.  **Deployment (Hosting Strategy):** Building the static site (`npm run build`) and deploying it to a 100% free hosting platform. Because this is a static Astro site without an active database, we can use top-tier static hosts:
     *   **Vercel (Recommended):** The gold standard for modern frameworks. Connects directly to GitHub and auto-deploys in seconds.
     *   **Netlify:** Extremely fast, free, and features automatic GitHub deployments.
