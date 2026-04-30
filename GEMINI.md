@@ -52,3 +52,11 @@ The core platform is fully functional locally (`npm run dev`). You can browse fr
     *   **Vercel (Recommended):** The gold standard for modern frameworks. Connects directly to GitHub and auto-deploys in seconds.
     *   **Netlify:** Extremely fast, free, and features automatic GitHub deployments.
     *   **GitHub Pages:** Host directly from the repository using a GitHub Action.
+
+## 💡 Ideas for Future Enhancements
+These are high-utility features brainstormed to elevate the platform from a simple archive to an indispensable reading companion:
+1.  **Dramatis Personae (Character Directory):** A `/characters` section for each series with brief allegiances/descriptions, potentially with interactive popups linking names within the reading text directly to their definitions.
+2.  **The "Mega-Catchup" (Continuous Scroll):** A button on the book index to stitch all chunk files into a single, massive scrolling page for users who want to binge an entire book recap without paginating.
+3.  **Spoiler Protection Profiles (The "Safe Zone"):** A global setting where users select their reading progress (e.g., "I've read up to *Words of Radiance*"). The site would use JS to blur or hide any search results, links, or text related to subsequent books to guarantee a spoiler-free experience.
+4.  **High-Resolution Maps & Appendices:** An `/appendix` page for each series hosting high-res official maps or brief summaries of magic systems and political hierarchies.
+5.  **Text-to-Speech (Audio Catchup):** Generating audio files for each 5-chapter chunk using an AI Voice API (like Google Cloud TTS or ElevenLabs) and embedding an HTML `<audio>` player at the top of the reading page for a podcast-like experience.
