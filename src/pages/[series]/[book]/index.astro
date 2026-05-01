@@ -54,7 +54,7 @@ const bookshopUrl = `https://bookshop.org/search?keywords=${q}`;
 const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
 ---
 
-<Layout title={`${bookName} | The Lorebrary`} description={pageDescription}>
+<Layout title={`${bookName} | The Lorebrary`} description={pageDescription} showBackBtn={false}>
   <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6">
 
     <!-- Header -->
@@ -111,8 +111,8 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
 
   </div>
 
-  <!-- Get the Book FAB — disabled for now, preserved for potential re-enable -->
-  {false && <div id="book-fab-wrap" class="fixed bottom-[28px] left-[28px] z-50 flex flex-col items-start gap-[14px]">
+  <!-- Get the Book FAB -->
+  <div id="book-fab-wrap" class="fixed bottom-[28px] left-[28px] z-50 flex flex-col items-start gap-[14px]">
 
     <!-- Floating card panel -->
     <div
@@ -160,7 +160,7 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
       <span class="text-[8px] font-bold font-display uppercase leading-tight tracking-wide text-center select-none">Get<br/>the Book</span>
     </button>
 
-  </div>}
+  </div>
 
 </Layout>
 
