@@ -69,6 +69,15 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
       <p class="text-lg text-cream-600 dark:text-cream-300 max-w-2xl transition-colors duration-300">
         Pick up where your memory left off.
       </p>
+      <button
+        id="book-inline-trigger"
+        class="mt-4 inline-flex items-center gap-2 px-3 py-1.5 rounded border border-gold-400/30 dark:border-gold-400/20 text-[11px] font-bold font-display uppercase tracking-[0.15em] text-gold-600 dark:text-gold-400/70 hover:border-gold-400/70 dark:hover:border-gold-400/50 hover:text-gold-500 dark:hover:text-gold-400 transition-all duration-200"
+      >
+        <svg class="w-3 h-3 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+        </svg>
+        Support the author — Get the book
+      </button>
     </div>
 
     <!-- Mega-Catchup CTA -->
@@ -165,22 +174,33 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
 </Layout>
 
 <script>
-  const fab   = document.getElementById('book-fab');
-  const panel = document.getElementById('book-panel');
-  if (fab && panel) {
-    fab.addEventListener('click', e => {
-      e.stopPropagation();
-      const open = panel.style.display !== 'none';
-      panel.style.display = open ? 'none' : 'block';
-      fab.style.background = open ? '#c9a84c' : '#b09220';
-    });
-    document.addEventListener('click', e => {
-      if (!panel.contains(e.target as Node) && e.target !== fab) {
-        panel.style.display = 'none';
-        fab.style.background = '#c9a84c';
-      }
-    });
+  const fab     = document.getElementById('book-fab');
+  const inline  = document.getElementById('book-inline-trigger');
+  const panel   = document.getElementById('book-panel');
+
+  function openPanel() {
+    if (panel) panel.style.display = 'block';
+    if (fab)   fab.style.background = '#b09220';
   }
+  function closePanel() {
+    if (panel) panel.style.display = 'none';
+    if (fab)   fab.style.background = '#c9a84c';
+  }
+  function togglePanel() {
+    panel && panel.style.display !== 'none' ? closePanel() : openPanel();
+  }
+
+  fab?.addEventListener('click',    e => { e.stopPropagation(); togglePanel(); });
+  inline?.addEventListener('click', e => { e.stopPropagation(); openPanel(); });
+
+  document.addEventListener('click', e => {
+    if (panel && panel.style.display !== 'none') {
+      const target = e.target as Node;
+      if (!panel.contains(target) && target !== fab && target !== inline) {
+        closePanel();
+      }
+    }
+  });
 </script>
 
 <script define:vars={{ seriesSlug, bookSlug }}>
