@@ -1,4 +1,4 @@
-### Chapter 11: Chapter 11
+### Chapter 11
 Scytale, the last Tleilaxu Master, walks through his restricted area of the Ixian no-ship. He observes Duncan Idaho through a soundproof forcefield and acknowledges the ghola's silent curse. Scytale reflects on his secret possession of a nullentropy capsule, a small storage device hidden beneath his skin. This capsule contains the genetic cells of Paul Atreides, Chani, and various historical figures. He also preserves the blueprints for perfect Face Dancers, who are advanced mimics capable of deceiving even Truthsayers.
 
 Mother Superior Odrade visits Scytale’s quarters to negotiate for technical information about axlotl tanks. Scytale uses the meeting to demand his own Face Dancer servants and a shipsystem console. Odrade refuses these requests but continues to probe for the secrets of melange production. She reveals that the Bene Gesserit are already using their own tanks on Chapterhouse. Scytale notes that Odrade views the Tleilaxu as the architects of their own destruction.
@@ -9,7 +9,7 @@ Odrade takes Scytale on a guarded walk to observe a Bene Gesserit burial in an o
 
 ---
 
-### Chapter 12: Chapter 12
+### Chapter 12
 Lucilla is wheeled into the presence of the Great Honored Matre, also known as the Spider Queen, inside a shigawire cage. The Spider Queen sits in a windowless interrogation room with acid-green walls and silver glowglobes. A second cage is brought in containing a Futar, a genetically engineered predator with human-like features and large canines. The Futar demands food and purrs when the Spider Queen promises a back rub. Lucilla realizes she is on the planet Junction based on the architecture of the Guild hallways.
 
 The Spider Queen claims she keeps the Futar for pleasure despite the species being designed to hunt Honored Matres. Lucilla provokes her captor by mentioning the futility of their defenses against a coordinated attack. The Great Honored Matre offers Lucilla a chair and a tray of food containing stimtea and melange. Lucilla identifies garlic in the sauce and realizes her captor is interested in the Lampadas library. The Spider Queen demands access to Bene Gesserit science to achieve a stable utopia.
@@ -20,7 +20,7 @@ Lucilla explains the Missionaria Protectiva and the Tleilaxu's religious singula
 
 ---
 
-### Chapter 13: Chapter 13
+### Chapter 13
 Odrade enters the Acolyte Dining Hall to observe the behavior and morale of the students. She chooses a seat at a checkerboard-patterned table near the western windows. Outside, a massive dust storm from the encroaching southern desert inflames the sunset and coats the buildings in grit. Odrade eats a meal of sligpork and recognizes that the kitchen staff has tailored the nutrients to her specific needs. She reflects on Taraza’s legacy and the increasing violence of the Honored Matres.
 
 The Mother Superior notices a blond acolyte named Streggi sitting beside her in a white-trimmed black dress. Streggi reports that she is creating the desert growth map for Odrade’s bedchamber. She informs Odrade that the orchards around Central must be abandoned or reinforced against the sand. Odrade tests Streggi’s intelligence and reactions by recalling an old training incident with an inept pilot. She decides that the orchards are essential for the Sisterhood's morale and must be sustained.
@@ -31,7 +31,7 @@ Odrade assigns Streggi to be her personal assistant and orders her to report to 
 
 ---
 
-### Chapter 14: Chapter 14
+### Chapter 14
 Murbella collapses on the practice floor after an exhausting training session directed by Mother Superior Odrade. She reflects on her Honored Matre upbringing and the pervasive culture of cheating she was taught. Duncan Idaho finds her and calls for a Suk doctor to assist the unconscious woman. A Reverend Mother Suk identifies the problem as overstress caused by Murbella pushing beyond her physical limits. They move Murbella to the Proctor’s Ward for observation and muscle response testing.
 
 Odrade visits the ward and finds Murbella propped up in bed under the care of two Proctors. She explains that Honored Matre conditioning has made Murbella incapable of making independent decisions. Murbella admits she wants to be like the Bene Gesserit, which Odrade finds amusing given Murbella's pregnancy. Odrade promises that Murbella will be enrolled in a special class to mesh her decisions with her physical sensitivity. She tells Murbella that the Sisterhood takes care of its own members.
@@ -42,7 +42,7 @@ Murbella repeats the formal oath of service to the Proctors as Odrade leaves the
 
 ---
 
-### Chapter 15: Chapter 15
+### Chapter 15
 Odrade conducts a morning inspection of Central accompanied by Bellonda and Tamalane. They walk through the support facilities, including the clinic, kitchen, and reclamation systems. Bellonda warns Odrade about the extreme danger posed by Duncan Idaho's multiple memories. They observe acolytes studying melange store projections and Odrade decides to limit access to this depressing data. The group travels down "The Way" on an open transporter toward the southern outskirts of the city.
 
 The trio stops at a stone railing to observe the dust-filled desert light over the dying plantations. Odrade reflects on the destruction of Sietch Tabr and the Honored Matres' role as "killers of history." Bellonda demands that Idaho be eliminated if he shows any sign of becoming a Kwisatz Haderach. Odrade returns to her workroom and admits to herself that she is following a high-risk strategy. She feels a sense of alienation, viewing her surroundings as if through the eyes of a future historian.

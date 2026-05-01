@@ -1,4 +1,4 @@
-### 26: THE ABYSS
+### Chapter 26: THE ABYSS
 No-Name the harpy leads Will, Lyra, and a column of ghosts through dark caves toward a window to another world. The ghosts of Lee Scoresby and John Parry appear to the children in the gloom. John Parry warns Will of a threat and instructs him to cut off a lock of Lyra's hair. Will places the hair in another world using the subtle knife and closes the window just before a bomb detonates. The explosion causes a massive rockslide that carries the children and the Gallivespians to the edge of a vast abyss.
 
 The children discover that the abyss is a deep shaft into which Dust is flowing like a waterfall. Ghosts follow them along a narrow ledge while some express fear and doubt about the journey. Will identifies the edge of the abyss as having the same properties as the windows he cuts with the knife. The ghosts of Lee and John Parry discuss their plan to fight alongside Lord Asriel's forces against Specters. Tialys and Salmakia encourage the children as they navigate the treacherous path above the void.
@@ -7,7 +7,7 @@ Lyra suffers a moment of vertigo and vanity, losing her footing on the loose roc
 
 **Sentence Count Check:** 15
 
-### 27: THE PLATFORM
+### Chapter 27: THE PLATFORM
 The mulefa construct an observation platform in a high tree for Mary Malone within two days. Mary uses her amber spyglass to watch the sraf, or shadow particles, drifting away from the trees. She reflects on the history of her own world and the inventions of the alethiometer and subtle knife three hundred years prior. While resting on the platform, Mary experiences an accidental out-of-body experience where her consciousness floats among the branches. She witnesses the Dust current moving with the speed of a flood and realizes she is in danger of being swept away.
 
 Mary uses physical memories of being alive to tether her consciousness back to her physical body. She notices that the shadow particles respond to her anxiety and help carry her back to safety. Upon returning to her body, she uses the spyglass again and confirms the Dust is flowing in a massive, silent inundation. She concludes that all conscious life across every world is at risk of drifting away into oblivion. Mary decides to leave the canopy and begins the long climb down to the ground. Father Gomez enters the world of the mulefa through a window and observes the landscape.
@@ -16,7 +16,7 @@ He encounters a group of large, white birds with wing-sails floating in a bay an
 
 **Sentence Count Check:** 15
 
-### 28: MIDNIGHT
+### Chapter 28: MIDNIGHT
 Lord Asriel and Mrs. Coulter return to the basalt fortress in an intention craft during a blustery dawn. Mrs. Coulter seeks information about Lyra from the alethiometrist Teukros Basilides after being ignored by Asriel. Basilides reveals that Lyra and Will are in the world of the dead and have opened a way for ghosts to escape. Lord Asriel observes the Clouded Mountain, also known as the Chariot, hanging in the western sky. He identifies the Regent Metatron as the ruler of the Kingdom and a former man named Enoch.
 
 Metatron sends tens of thousands of angels out from the Clouded Mountain to begin his invasion. Lord Asriel prepares his diverse army, which includes armored bears led by Iorek Byrnison and various witch clans. At a midnight meeting, Basilides informs Asriel that the children's dæmons are lost in this world and Metatron is searching for them. Asriel orders Madame Oxentiel and the Gallivespians to find the children and their dæmons before the enemy does. He tasks Xaphania with finding a way down to the abyss created by the bomb's explosion.
@@ -25,7 +25,7 @@ Mrs. Coulter confronts Lord Asriel in his chamber and expresses her fear of obli
 
 **Sentence Count Check:** 15
 
-### 29: THE BATTLE ON THE PLAIN
+### Chapter 29: THE BATTLE ON THE PLAIN
 Lyra and Will re-enter the dark tunnels to search for their dæmons despite the physical pain of their separation. Lyra uses the alethiometer with great difficulty as her natural connection to the instrument begins to fade. Lee Scoresby's ghost encourages Lyra one last time before she prepares to open a way into Lord Asriel's world. Lyra gives the harpy the name Gracious Wings as a reward for her guidance and for saving her life. The children reach a sheet of wet rock near the fortress and Will uses the subtle knife to cut a window.
 
 They emerge into a chaotic battlefield where Lord Asriel's forces are fighting angels, witches, and flying machines. Will opens the window wide to allow the army of ghosts to charge out and engage the Specters. The ghosts grapple with the invisible Specters, protecting the living soldiers who are vulnerable to the soul-consuming creatures. Lyra and Will both experience waves of nausea and fear as they feel the presence of their dæmons nearby. A massive storm breaks over the plain with yellow and green clouds and violent thunder.
@@ -34,7 +34,7 @@ Witches fly into the storm carrying torches of pitch pine to attack a flight of 
 
 **Sentence Count Check:** 15
 
-### 30: THE CLOUDED MOUNTAIN
+### Chapter 30: THE CLOUDED MOUNTAIN
 Mrs. Coulter pilots a stolen intention craft through the violent storm toward the glowing Clouded Mountain. She navigates by sight, avoiding fighting angels and using the lightning as a beacon to reach the mountain's terrace. The mountain appears as a complex force field of folded dimensions and shifting perspectives of air and light. Mrs. Coulter observes a procession of angels carrying a crystal litter containing the decrepit, aged Authority. She avoids the procession and climbs upward until an angel with a spear confronts her in a misty piazza.
 
 She demands to be taken to the Regent Metatron and is led into an antechamber where the prince of angels appears. Metatron reveals his human origins as Enoch and searches Mrs. Coulter's soul, identifying her malice and cruelty. Mrs. Coulter lies to the Regent, claiming Lord Asriel has Lyra's dæmon and offering to betray him. She plays on Metatron's suppressed human desires for flesh to gain his trust and lure him into a trap. Meanwhile, a troop of cliff-ghasts spots the Authority's crystal litter and begins to attack it in the mud.

@@ -1,4 +1,4 @@
-### 46: Chapter 46
+### Chapter 46
 Duncan Idaho prepares for the escape of the no-ship by manipulating the ship's monitors through strategic muttering. He exploits the presence of the Honored Matres on Chapterhouse to heighten the anxiety of the ship's guards and Proctors. Sheeana joins Idaho in the workroom and performs a choreographed show of disapproval to further deceive the watching Bene Gesserit. Idaho publicly voices his concern for Murbella's safety while Sheeana works to neutralize the Reverend Mothers within the vessel. Sheeana uses the power of her ascendancy to gain control of the ship's flight systems and remove all hidden explosives.
 
 Idaho calls Murbella on the projection screen one final time to emphasize his concern to the monitors in the Archives. He meets with Garimi and other Proctors in the guard section where they have disabled the surveillance comeyes. Idaho decides to join the Bene Gesserit defectors in their flight into the Scattering instead of staying with Murbella. He uses his Mentat abilities to identify the necessary circuit segments to bypass the flight control breakage. The no-ship lifts off from the surface of Chapterhouse and enters foldspace to begin its journey into the unknown.
@@ -9,7 +9,7 @@ Inside foldspace Idaho encounters a vision of an old couple in a garden who atte
 
 ---
 
-### 47: Chapter 47
+### Chapter 47
 Murbella feels the quaking of Central and immediately realizes that Duncan Idaho has chosen to vanish into space. She stops Bellonda from reaching for the communication board because the no-ship has already departed the planet's surface. The new Mother Superior suppresses her internal pain to maintain her authority over the remaining Bene Gesserit Sisters. She instructs Bellonda to prepare for a lunch with the council members in her private dining room. Murbella reflects on her new duties which include redrawing maps and domesticating the newly arrived Honored Matres.
 
 The Reverend Mother recalls eating dinner alone the previous night to prevent the Honored Matres from poisoning the council. She notes that Sheeana has stolen the Van Gogh painting from her sleeping chamber to take on the ship. Murbella realizes that Sheeana and Idaho have escaped with axlotl tanks and the cells of Idaho's children. Bellonda expresses concern for Murbella's state but the Mother Superior refocuses on her inspection tour of Central. She hears the caustic laughter of Darwi Odrade within her Other Memory as she contemplates the future.
@@ -20,7 +20,7 @@ Odrade's voice guides Murbella to understand that the theft of the painting is p
 
 ---
 
-### 48: Chapter 48
+### Chapter 48
 An old woman named Marty wears a stained garden apron and scolds an old man named Daniel in a garden. Daniel removes his porkpie hat and explains that Duncan Idaho surprised him by seeing the net in foldspace. Marty complains that she had already selected a nice planet for the escaped ship to use as a test. Daniel insists that the no-ship has moved to a place where they can no longer touch its inhabitants. Marty mentions that she saw a Tleilaxu Master on the ship and wished she could have studied him.
 
 The old couple reveals that they are independent Face Dancers who have absorbed the memories of countless people. They discuss how the Tleilaxu Masters failed to realize their creations would eventually gather enough personas to make independent decisions. Marty jokes that she would have asked the Master if he expected to see God with a flowing beard. Daniel goes back to pruning his black roses and ignores Marty's continued boasting about her collection of people. Marty claims she would have told the Bene Gesserit how many of their kind she already possesses.
