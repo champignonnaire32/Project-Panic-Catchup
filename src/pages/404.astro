@@ -1,0 +1,30 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Page Not Found | The Distiller">
+  <div class="flex flex-col items-center justify-center min-h-[70vh] px-4 text-center">
+
+    <div class="mb-6 text-[7rem] font-display font-bold leading-none text-gold-400 dark:text-gold-400 select-none opacity-90">
+      404
+    </div>
+
+    <h1 class="text-2xl font-display font-semibold text-cream-900 dark:text-cream-100 mb-3 tracking-wide">
+      Record Not Found
+    </h1>
+    <p class="text-cream-600 dark:text-cream-300 max-w-sm mb-10 leading-relaxed">
+      This page doesn't exist in the archive. It may have been moved, renamed, or never catalogued.
+    </p>
+
+    <a
+      href="/archive"
+      class="inline-flex items-center gap-3 px-8 py-4 bg-gold-400 hover:bg-gold-300 text-ink-950 font-bold font-display uppercase tracking-widest rounded-xl shadow-lg shadow-gold-400/20 transition-all hover:scale-105 active:scale-95"
+    >
+      Return to Archive
+      <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+      </svg>
+    </a>
+
+  </div>
+</Layout>

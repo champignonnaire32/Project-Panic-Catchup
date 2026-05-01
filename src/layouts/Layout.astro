@@ -48,11 +48,9 @@ const {
     <meta name="twitter:image" content={ogImage} />
     <script is:inline>
       const theme = localStorage.getItem('theme') || 'dark';
-      if (theme === 'dark') {
-        document.documentElement.classList.add('dark');
-      } else {
-        document.documentElement.classList.remove('dark');
-      }
+      document.documentElement.classList.remove('dark', 'sepia');
+      if (theme === 'dark') document.documentElement.classList.add('dark');
+      else if (theme === 'sepia') document.documentElement.classList.add('sepia');
       
       const fontSize = localStorage.getItem('fontSize') || '18';
       document.documentElement.style.fontSize = `${fontSize}px`;

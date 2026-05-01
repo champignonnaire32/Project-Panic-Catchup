@@ -28,7 +28,8 @@ export async function getStaticPaths() {
 
     const formattedChunks = chunks.map(chunk => ({
       range: chunk.data.range,
-      url: `/${seriesSlug}/${bookSlug}/${chunk.data.range}`
+      url: `/${seriesSlug}/${bookSlug}/${chunk.data.range}`,
+      readTime: Math.max(1, Math.ceil((chunk.body?.split(/\s+/).filter(Boolean).length ?? 100) / 220))
     }));
 
     paths.push({
@@ -99,6 +100,7 @@ const pageDescription = `Panic recap index for ${bookName}. Select a chapter ran
         >
           <div class="text-xs text-cream-500 dark:text-cream-500 uppercase tracking-[0.12em] mb-1.5 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200">Chapters</div>
           <div class="text-2xl font-display font-semibold text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200">{chunk.range}</div>
+          <div class="text-[11px] text-cream-500 dark:text-cream-500 mt-1.5">~{chunk.readTime} min</div>
         </a>
       ))}
     </div>

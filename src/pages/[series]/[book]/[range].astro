@@ -6,6 +6,18 @@ import Breadcrumb from '../../../components/Breadcrumb.astro';
 export async function getStaticPaths() {
   const allSummaries = await getCollection('summaries');
 
+  // Build a sorted book list per series for "Next Book" navigation
+  const seriesBooksMap: Record<string, { bookName: string; bookSlug: string; bookOrder: number }[]> = {};
+  allSummaries.forEach(chunk => {
+    const sSlug = chunk.data.series.toLowerCase().replace(/\s+/g, '-');
+    const bSlug = chunk.data.book.toLowerCase().replace(/\s+/g, '-');
+    if (!seriesBooksMap[sSlug]) seriesBooksMap[sSlug] = [];
+    if (!seriesBooksMap[sSlug].find(b => b.bookSlug === bSlug)) {
+      seriesBooksMap[sSlug].push({ bookName: chunk.data.book, bookSlug: bSlug, bookOrder: chunk.data.bookOrder ?? 99 });
+    }
+  });
+  Object.values(seriesBooksMap).forEach(books => books.sort((a, b) => a.bookOrder - b.bookOrder));
+
   // Group all chunks by their Series and Book
   const grouped = allSummaries.reduce((acc, chunk) => {
     const key = `${chunk.data.series}|${chunk.data.book}`;
@@ -16,22 +28,28 @@ export async function getStaticPaths() {
 
   const paths = [];
 
-  // Loop through each book
   for (const [key, chunks] of Object.entries(grouped)) {
     const seriesData = chunks[0].data.series;
-    const bookData = chunks[0].data.book;
-
+    const bookData   = chunks[0].data.book;
     const seriesSlug = seriesData.toLowerCase().replace(/\s+/g, '-');
-    const bookSlug = bookData.toLowerCase().replace(/\s+/g, '-');
+    const bookSlug   = bookData.toLowerCase().replace(/\s+/g, '-');
 
     chunks.sort((a, b) => a.data.startChapter - b.data.startChapter);
 
     const bookUrl = `/${seriesSlug}/${bookSlug}`;
 
+    // Determine next book in series (used only on the final chunk)
+    const seriesBooks   = seriesBooksMap[seriesSlug] ?? [];
+    const currentBookIdx = seriesBooks.findIndex(b => b.bookSlug === bookSlug);
+    const nextBookData  = currentBookIdx >= 0 && currentBookIdx < seriesBooks.length - 1
+      ? seriesBooks[currentBookIdx + 1]
+      : null;
+
     for (let i = 0; i < chunks.length; i++) {
       const currentChunk = chunks[i];
-      const prevChunk = i > 0 ? chunks[i - 1] : null;
-      const nextChunk = i < chunks.length - 1 ? chunks[i + 1] : null;
+      const prevChunk    = i > 0 ? chunks[i - 1] : null;
+      const nextChunk    = i < chunks.length - 1 ? chunks[i + 1] : null;
+      const isLastChunk  = i === chunks.length - 1;
 
       paths.push({
         params: { series: seriesSlug, book: bookSlug, range: currentChunk.data.range },
@@ -41,10 +59,12 @@ export async function getStaticPaths() {
           range: currentChunk.data.range,
           chunk: currentChunk,
           bookUrl,
-          prevUrl: prevChunk ? `${bookUrl}/${prevChunk.data.range}` : null,
-          nextUrl: nextChunk ? `${bookUrl}/${nextChunk.data.range}` : null,
-          prevRange: prevChunk ? prevChunk.data.range : null,
-          nextRange: nextChunk ? nextChunk.data.range : null,
+          prevUrl:      prevChunk ? `${bookUrl}/${prevChunk.data.range}` : null,
+          nextUrl:      nextChunk ? `${bookUrl}/${nextChunk.data.range}` : null,
+          prevRange:    prevChunk ? prevChunk.data.range : null,
+          nextRange:    nextChunk ? nextChunk.data.range : null,
+          nextBookName: isLastChunk && nextBookData ? nextBookData.bookName : null,
+          nextBookUrl:  isLastChunk && nextBookData ? `/${seriesSlug}/${nextBookData.bookSlug}` : null,
         },
       });
     }
@@ -53,7 +73,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { seriesName, bookName, range, chunk, bookUrl, prevUrl, nextUrl, prevRange, nextRange } = Astro.props;
+const { seriesName, bookName, range, chunk, bookUrl, prevUrl, nextUrl, prevRange, nextRange, nextBookName, nextBookUrl } = Astro.props;
 const seriesSlug = Astro.params.series;
 const bookSlug = Astro.params.book;
 
@@ -120,6 +140,27 @@ const pageDescription = `Panic recap of ${bookName} chapters ${range}. A concret
         </a>
       ) : <div class="hidden sm:block"></div>}
     </div>
+
+    <!-- Next Book card — only appears on the final chunk of a book -->
+    {nextBookName && nextBookUrl && (
+      <div class="mt-12 pt-10 border-t border-cream-200 dark:border-ink-700">
+        <p class="text-xs font-bold text-cream-500 dark:text-cream-500 uppercase tracking-[0.18em] mb-4 text-center">You've finished this book</p>
+        <a
+          href={nextBookUrl}
+          class="flex items-center justify-between w-full px-6 py-5 bg-cream-50 dark:bg-ink-800 border border-gold-400/40 dark:border-gold-400/30 rounded-xl hover:border-gold-400 dark:hover:border-gold-400 hover:shadow-[0_4px_28px_rgba(201,168,76,0.14)] transition-all duration-200 group"
+        >
+          <div>
+            <div class="text-[10px] font-bold uppercase tracking-[0.18em] text-cream-500 dark:text-cream-500 mb-1">Up Next in {seriesName}</div>
+            <div class="text-xl font-display font-semibold text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200">
+              {nextBookName}
+            </div>
+          </div>
+          <svg class="w-6 h-6 text-cream-500 dark:text-cream-500 group-hover:text-gold-400 group-hover:translate-x-1 transition-all duration-200 flex-shrink-0 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+          </svg>
+        </a>
+      </div>
+    )}
 
   </div>
 

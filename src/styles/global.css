@@ -67,6 +67,37 @@ html:not(.dark) .prose :is(h1, h2, h3, h4) {
   color: #8f6a10;
 }
 
+/* Sepia reading mode — overrides the light-mode CSS custom properties
+   so all Tailwind bg-cream-* / text-cream-* utilities shift to amber tones */
+html.sepia {
+  --color-cream-50:  #fdf6e3;
+  --color-cream-100: #f5e9cc;
+  --color-cream-200: #e8d5a5;
+  --color-cream-300: #d4bc82;
+  --color-cream-500: #9a7a50;
+  --color-cream-600: #6e4e28;
+  --color-cream-800: #3d2010;
+  --color-cream-900: #2a1508;
+  --color-gold-400:  #b8821a;
+  --color-gold-500:  #9a6a10;
+  --color-gold-600:  #7d540c;
+}
+
+html.sepia .prose {
+  --tw-prose-body:          #2a1508;
+  --tw-prose-headings:      #7a4f1a;
+  --tw-prose-bold:          #2a1508;
+  --tw-prose-bullets:       #9a6e1a;
+  --tw-prose-counters:      #8a6040;
+  --tw-prose-links:         #9a6e1a;
+  --tw-prose-hr:            rgba(154,110,26,0.3);
+  --tw-prose-quote-borders: #9a6e1a;
+}
+
+html.sepia .prose :is(h1, h2, h3, h4) {
+  color: #7a4f1a !important;
+}
+
 /* Read-state indicator on chunk cards */
 .chunk-is-read {
   background-color: rgba(201, 168, 76, 0.04);
