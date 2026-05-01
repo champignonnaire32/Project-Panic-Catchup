@@ -51,6 +51,3 @@ To prevent the AI from being "blind" to chapter headers (especially when titles 
 
 ---
 **Status:** Operational (v2.0) | **Project:** The Distiller | **Date:** April 2026
-
----
-**Status:** Operational | **Project:** The Distiller | **Date:** April 2026

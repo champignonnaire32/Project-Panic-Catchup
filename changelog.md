@@ -1,9 +1,20 @@
 # The Lorebrary - Changelog
 
-All notable changes, accomplishments, and updates to this project will be documented in this file.
+**[AI INSTRUCTIONS FOR UPDATING THIS FILE]**
+*   **Location:** Always add the newest entry at the VERY TOP of the log (immediately below this instruction block and above the previous entries).
+*   **Format:** Every entry heading must include the **Date**, the **Topic**, and the **Name of the AI** that completed the work (e.g., `## [May 1, 2026 - Feature Name] (by Gemini)`).
+*   **Content:** Keep entries concise and bulleted. 
+
+---
+
+## [May 1, 2026 - Documentation & Workflow Overhaul] (by Gemini)
+*   **Documentation Restructuring:** Modularized the monolithic `GEMINI.md` into a token-efficient, lazy-loading structure (`thelorebrary-overview.md`, `workflow.md`, `roadmap-and-design.md`, `system-architecture.md`, `changelog.md`, `thelorebrary-disclaimer.md`, `the-distiller-engineering.md`).
+*   **Workflow Refinement:** Updated `workflow.md` to explicitly include sanity checks for chapter numbering and orphaned chapters, stringent "Next Book" button verification, and a comprehensive SEO strategy section.
+*   **AI Context Routing:** Established a strict "Context Routing Guide" in the overview file to dictate exactly which files future AI instances should read or update, preventing "junk drawer" clutter.
+*   **Distiller Pipeline Hardening:** Moved the Python prompt dependencies (`chapter-summary-expectations.md`, `chapter-summary-initial-instructions.md`) into the project directory and safely updated the Desktop `.command` scripts to prevent pipeline breakage.
+*   **Consolidated Ideas:** Integrated the floating `lorebrary-ideas.md` series list directly into `roadmap-and-design.md` and removed the redundant Desktop file.
 
 ## [May 1, 2026 - Purchase Buttons, UI Polish & Content Fixes]
-
 *   **Purchase Buttons:** Added "Get the Book" section to every book index page (`/[series]/[book]/`) with auto-generated Bookshop.org and Barnes & Noble search links built from `bookName`. Includes Libby library note. Amazon intentionally excluded. Both buttons use solid gold fill; Bookshop.org listed first with "supports indie bookshops" caption to subtly signal preference.
 *   **Book Index Page Tagline:** Replaced generic "Select a chapter range below..." with "Pick up where your memory left off." across all book index pages.
 *   **Mega-Catchup Card Redesign:** Shrunk from full-width to `max-w-xs`, centered on page, text block centered to the right of the book icon, "Mega-Catchup" label removed from inside the card.
@@ -12,13 +23,6 @@ All notable changes, accomplishments, and updates to this project will be docume
 *   **Iron Flame Content Fixes:** Replaced revised `Chapter36-40_Summary.md`, re-ran ingestion script. Also committed pre-existing Gemini edits to Iron Flame raw files: fixed wrong chapter numbers in `Chapter56-60` (were labeled Chapter 6–9), removed stale Distiller Archive header from `Chapter16-20`, minor cleanup in `Chapter1-5`.
 *   **Series Ideas File:** Generated `lorebrary-ideas.md` on the Desktop with a tiered priority list of series to add next (ACOTAR, Eragon, Mistborn, Wheel of Time, etc.) based on upcoming adaptations and releases.
 *   **Documentation Updates:** Added purchase button documentation to `workflow.md` (checklist step 6), `system-architecture.md` (full technical section), and `thelorebrary-disclaimer.md` (good-faith one-liner). Added ISBN future upgrade path to `roadmap-and-design.md`.
-
-## [May 1, 2026 - Documentation & Workflow Overhaul]
-*   **Documentation Restructuring:** Modularized the monolithic `GEMINI.md` into a token-efficient, lazy-loading structure (`thelorebrary-overview.md`, `workflow.md`, `roadmap-and-design.md`, `system-architecture.md`, `changelog.md`, `thelorebrary-disclaimer.md`, `the-distiller-engineering.md`).
-*   **Workflow Refinement:** Updated `workflow.md` to explicitly include sanity checks for chapter numbering and orphaned chapters, stringent "Next Book" button verification, and a comprehensive SEO strategy section.
-*   **AI Context Routing:** Established a strict "Context Routing Guide" in the overview file to dictate exactly which files future AI instances should read or update, preventing "junk drawer" clutter.
-*   **Distiller Pipeline Hardening:** Moved the Python prompt dependencies (`chapter-summary-expectations.md`, `chapter-summary-initial-instructions.md`) into the project directory and safely updated the Desktop `.command` scripts to prevent pipeline breakage.
-*   **Consolidated Ideas:** Integrated the floating `lorebrary-ideas.md` series list directly into `roadmap-and-design.md` and removed the redundant Desktop file.
 
 ## [Prior Accomplishments - Setup Phase]
 *   Initialized the Astro project with React and Tailwind integrations.
