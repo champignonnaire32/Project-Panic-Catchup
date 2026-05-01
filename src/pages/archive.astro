@@ -40,12 +40,17 @@ allSummaries.forEach(summary => {
   }
 });
 
-const seriesList = Array.from(uniqueSeriesMap.values()).map(series => {
-  const slug      = series.url.slice(1);
-  const meta      = seriesMetadata[series.seriesName];
-  const bookCount = seriesBookSets.get(slug)?.size ?? 0;
-  return { ...series, author: meta?.author ?? '', genre: meta?.genre ?? '', bookCount };
-});
+const SKIP_ARTICLES = /^(the|a|an)\s+/i;
+const sortKey = (name: string) => name.replace(SKIP_ARTICLES, '').toLowerCase();
+
+const seriesList = Array.from(uniqueSeriesMap.values())
+  .map(series => {
+    const slug      = series.url.slice(1);
+    const meta      = seriesMetadata[series.seriesName];
+    const bookCount = seriesBookSets.get(slug)?.size ?? 0;
+    return { ...series, author: meta?.author ?? '', genre: meta?.genre ?? '', bookCount };
+  })
+  .sort((a, b) => sortKey(a.seriesName).localeCompare(sortKey(b.seriesName)));
 
 const searchData = Array.from(searchDataMap.values());
 ---
@@ -54,7 +59,7 @@ const searchData = Array.from(searchDataMap.values());
   <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6">
     <div class="mb-12 flex flex-col items-center text-center">
       <h1 class="text-4xl md:text-5xl font-display font-semibold mb-6 tracking-wide text-cream-900 dark:text-cream-100 transition-colors duration-300">
-        The Lorebrary Archive
+        The Lorebrary
       </h1>
       <p class="text-lg text-cream-600 dark:text-cream-300 leading-relaxed max-w-2xl mb-8 transition-colors duration-300">
         High-Density Narrative Summaries for returning readers.
@@ -95,10 +100,10 @@ const searchData = Array.from(searchDataMap.values());
               <svg class="w-3.5 h-3.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/>
               </svg>
-              {series.bookCount} {series.bookCount === 1 ? 'book' : 'books'} in archive
+              {series.bookCount} {series.bookCount === 1 ? 'book' : 'books'}
             </div>
             <div class="flex items-center gap-1.5 text-xs text-cream-500 dark:text-cream-500 group-hover:text-gold-500 dark:group-hover:text-gold-400 transition-colors duration-200">
-              Access Records
+              Into the Lore
               <svg class="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
               </svg>
