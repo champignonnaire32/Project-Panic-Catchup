@@ -9,7 +9,7 @@ interface Props {
 const { items } = Astro.props;
 ---
 
-<nav class="flex items-center flex-wrap gap-1.5 text-xs font-bold uppercase tracking-[0.12em] mb-8" aria-label="Breadcrumb">
+<nav class="flex items-center flex-wrap gap-1.5 text-xs font-bold uppercase tracking-[0.12em] mb-8 border-l-2 border-gold-400/40 pl-3" aria-label="Breadcrumb">
   {items.map((item, i) => (
     <span class="flex items-center gap-1.5">
       {i > 0 && (
