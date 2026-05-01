@@ -73,28 +73,28 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
 
     <!-- Buy the Book -->
     <div class="mb-10">
-      <p class="text-[10px] font-bold uppercase tracking-[0.18em] text-cream-500 dark:text-cream-500 mb-3">Get the Book</p>
-      <div class="flex gap-3 justify-center mb-2.5">
+      <p class="text-[10px] font-bold uppercase tracking-[0.18em] text-cream-500 dark:text-cream-500 mb-3 text-center">Get the Book</p>
+      <div class="flex gap-3 justify-center items-stretch mb-2.5">
 
         <!-- Bookshop.org — solid gold fill (preferred) -->
         <a
           href={bookshopUrl}
           target="_blank"
           rel="noopener noreferrer"
-          class="flex flex-col items-center gap-0.5 px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded-lg transition-all duration-200 shadow-sm"
+          class="flex flex-col items-center justify-center gap-0.5 px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded-lg transition-all duration-200 shadow-sm"
         >
           <span class="text-sm font-bold font-display text-ink-950">Bookshop.org</span>
           <span class="text-[10px] uppercase tracking-[0.1em] text-ink-950/60">supports indie bookshops</span>
         </a>
 
-        <!-- Barnes & Noble — outlined gold (secondary) -->
+        <!-- Barnes & Noble — same gold fill -->
         <a
           href={bnUrl}
           target="_blank"
           rel="noopener noreferrer"
-          class="flex items-center justify-center px-5 py-2.5 border border-gold-500/50 dark:border-gold-400/50 hover:border-gold-500 dark:hover:border-gold-400 hover:bg-gold-400/10 rounded-lg transition-all duration-200"
+          class="flex items-center justify-center px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded-lg transition-all duration-200 shadow-sm"
         >
-          <span class="text-sm font-bold font-display text-gold-600 dark:text-gold-400">Barnes &amp; Noble</span>
+          <span class="text-sm font-bold font-display text-ink-950">Barnes &amp; Noble</span>
         </a>
 
       </div>
