@@ -1,0 +1,52 @@
+### Chapter 11: Aboard the Hogwart Express
+Amos Diggory uses the Floo Network to alert Mr. Weasley about a disturbance at Mad-Eye Moody's house involving exploding dustbins. Mr. Weasley rushes to the Ministry to prevent the ex-Auror, a specialized Dark wizard catcher, from being arrested for using magic in front of Muggles. Mrs. Weasley takes Harry, Ron, and Hermione to King's Cross station in Muggle taxis to board the Hogwarts Express. On the train, Draco Malfoy taunts Ron about his secondhand dress robes and hints at a major event coming to Hogwarts. Hermione explains that Durmstrang is a rival wizarding school that hides its location and emphasizes the Dark Arts in its curriculum.
+
+The train travels through heavy rain while students discuss the upcoming year and the miniature model of Viktor Krum that Ron bought. Harry and his friends find a compartment together and eventually change into their school robes as they reach Hogsmeade. Hagrid meets the students on the dark, rain-soaked platform to lead the first years across the lake. The older students board a long procession of horseless carriages that splash through the storm toward the castle gates. Lightning flashes across the sky as the carriages come to a halt before the great oak front doors of Hogwarts.
+
+Harry, Ron, and Hermione dash up the stone steps to enter the cavernous, torch-lit entrance hall. Peeves the Poltergeist floats above the arriving students and drops water balloons on them as they attempt to enter. Professor McGonagall appears and shouts at the poltergeist to stop his assault on the wet students. The trio successfully enters the Great Hall, which is decorated with hundreds of floating candles and golden plates. They take their seats at the Gryffindor table and wait for the start-of-term feast and the Sorting ceremony.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 12: The Triwizard Tournament
+The Sorting Hat sings a song about the four Hogwarts founders and their specific criteria for choosing students for their Houses. Dennis Creevey, Colin’s younger brother, is sorted into Gryffindor after falling into the lake during the crossing. Professor Dumbledore introduces Albus Dumbledore, who announces that the Inter-House Quidditch Cup is canceled for the year. Mad-Eye Moody, a scarred man with a mechanical blue eye and a wooden leg, enters the Great Hall and joins the staff table. Dumbledore officially announces the revival of the Triwizard Tournament, a competition between Hogwarts, Beauxbatons, and Durmstrang.
+
+The tournament consists of three magical tasks designed to test the skill and courage of the school champions. Dumbledore explains that an impartial judge will select one champion from each school to compete for a thousand-Galleon prize. A new age restriction is implemented, allowing only students who are seventeen or older to enter their names for consideration. Fred and George Weasley react with fury at the restriction and immediately begin planning ways to bypass it. The students finish their feast and head to their respective common rooms to discuss the tournament and the new teacher.
+
+In the Gryffindor common room, Hermione expresses her outrage after learning that over a hundred house-elves perform the school's labor. Harry and Ron go to their dormitory where Neville is already reading a book on magical plants. Ron expresses his desire to enter the tournament despite being underage while Harry imagines himself as the champion. Harry falls asleep while visualizing himself winning the Triwizard Cup and receiving admiration from Cho Chang. The storm continues to rage outside the tower as the students settle into their four-poster beds for the night.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 13: Mad-Eye Moody
+The next morning, Harry and his friends receive their new course schedules during breakfast in the Great Hall. Harry begins the day with Herbology, where Professor Sprout teaches the class how to collect pus from squirming Bubotuber plants. The class then moves to Hagrid's hut for Care of Magical Creatures to study newly hatched Blast-Ended Skrewts. These creatures are shell-less, slimy hybrids that emit sparks from their ends and give off a strong smell of rotting fish. Draco Malfoy questions the purpose of the dangerous creatures while Hagrid insists the students should try feeding them various items.
+
+After lunch, Harry and Ron attend a Double Divination lesson with Professor Trelawney in the dimly lit North Tower. Trelawney predicts that the things Harry dreads will come to pass and claims he was born under the baleful influence of Saturn. Harry and Ron spend the rest of the period making up tragic predictions for their personal astrology charts to satisfy the teacher. In the entrance hall later that day, Malfoy shows Ron a newspaper article about Mr. Weasley's involvement in the Moody incident. Malfoy insults Ron's mother, prompting Harry to retaliate by insulting Malfoy's mother's facial expression.
+
+As Harry and Hermione hold Ron back, Malfoy attempts to curse Harry's back with his wand. Professor Moody intervenes by transforming Malfoy into a white ferret and bouncing him repeatedly on the stone floor. Professor McGonagall arrives and forces Moody to transform Malfoy back into a human, reprimanding him for using Transfiguration as punishment. Moody ignores the lecture and marches Malfoy off to see Professor Snape in the dungeons. Fred and George later tell Harry and Ron that Moody’s first lesson was the most impressive they have ever experienced.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 14: The Unforgivable Curses
+Neville returns from a detention with Professor Snape where he was forced to disembowel a barrel of horned toads. The fourth-year Gryffindors attend their first Defense Against the Dark Arts lesson with Professor Moody. Moody announces that he will be teaching them about illegal Dark curses despite Ministry guidelines suggesting otherwise. He retrieves three spiders from a jar and demonstrates the Imperius Curse, which allows him to control the spider's movements completely. Moody explains that many wizards claimed they were under this curse to avoid punishment after Voldemort's first downfall.
+
+The second curse Moody demonstrates is the Cruciatus Curse, which causes the engorged spider to twitch and rock in visible agony. Hermione notices that Neville is visibly distressed by the demonstration and shouts for Moody to stop the torture. Moody then performs the Killing Curse, Avada Kedavra, which kills the third spider instantly with a flash of green light. He informs the class that there is no countercurse for the Killing Curse and that Harry is the only known survivor. The students spend the remainder of the lesson taking notes on these three Unforgivable Curses and their consequences.
+
+After class, Moody pulls Neville aside and takes him to his office for a cup of tea and some books. Hermione founds S.P.E.W., the Society for the Promotion of Elfish Welfare, and begins pressuring Harry and Ron to join. Hedwig arrives with a letter from Sirius Black, who states he is flying north because of the news about Harry's scar. Harry realizes that his letter has put Sirius in danger and regrets sharing the information about his pain. Ron and Harry spend the evening in the common room inventing increasingly miserable predictions for their Divination homework.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 15: Beauxbatons and Durmstrang
+Harry writes a second letter to Sirius claiming he imagined his scar hurting to prevent his godfather from returning to England. He takes the letter to the Owlery and convinces a reluctant Hedwig to deliver it to Sirius's hiding place. In Defense Against the Dark Arts, Moody places the Imperius Curse on every student to teach them how to resist its effects. Harry is the only student who manages to fight off the curse, eventually throwing it off entirely after four attempts. The workload for all fourth-year subjects increases as teachers begin preparing the students for their future O.W.L. exams.
+
+A sign appears in the entrance hall announcing that the delegations from Beauxbatons and Durmstrang will arrive on October 30th. Hagrid continues to grow the Blast-Ended Skrewts, which have now reached three feet in length and developed stings and suckers. Hermione continues her S.P.E.W. campaign, though most students either ignore her or treat the organization as a joke. Sirius sends a reply via a different owl, stating he is back in the country and hidden. He warns Harry to keep him posted on Hogwarts events and to change owls frequently to avoid detection.
+
+On the evening of the thirtieth, the students and staff gather on the front lawn to welcome the foreign visitors. A massive powder-blue carriage pulled by twelve winged palomino horses lands on the grounds, carrying the students of Beauxbatons. Madame Maxime, a woman of giant stature, emerges from the carriage and is greeted by Albus Dumbledore. Shortly after, a skeletal ship rises from the middle of the lake and docks at the bank to deliver the Durmstrang party. Professor Karkaroff leads his students toward the castle, and Ron realizes that the famous Seeker Viktor Krum is among them.
+
+**Sentence Count Check:** 15

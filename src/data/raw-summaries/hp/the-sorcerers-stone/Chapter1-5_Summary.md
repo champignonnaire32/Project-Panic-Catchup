@@ -1,0 +1,52 @@
+### 1: CHAPTER 1 - The Boy Who Lived
+Mr. Dursley notices a tabby cat reading a map on Privet Drive while driving to his job at a drill-making firm. He observes strangely dressed people in cloaks whispering about the Potters and their son, Harry. In broad daylight, owls fly across the country and shooting stars appear in the night sky. Albus Dumbledore, a tall wizard with a long silver beard and half-moon spectacles, arrives on Privet Drive and uses a silver Put-Outer to extinguish the streetlights. The tabby cat transforms into Professor McGonagall, a severe woman in square glasses and an emerald cloak.
+
+Dumbledore confirms that Voldemort, an evil wizard, has been defeated after failing to kill the infant Harry Potter in Godric’s Hollow. James and Lily Potter are dead, but Harry survived with only a lightning-bolt-shaped scar on his forehead. Hagrid, a giant man nearly twice as tall as a normal human, arrives on a flying motorcycle borrowed from Sirius Black. He carries the sleeping baby Harry in a bundle of blankets. McGonagall expresses concern about leaving the boy with the Dursleys, whom she describes as the worst kind of Muggles.
+
+Dumbledore places Harry on the doorstep of number four, Privet Drive, with an explanatory letter for his aunt and uncle. Hagrid howls in grief before departing on the motorcycle to return it to its owner. McGonagall and Dumbledore leave the neighborhood as the streetlights are restored to their original state. Harry remains on the doorstep, unaware of his fame or the death of his parents. Throughout the country, hidden witches and wizards toast to "The Boy Who Lived" as the sun begins to rise.
+
+**Sentence Count Check:** 15
+
+---
+
+### 2: CHAPTER 2 - The Vanishing Glass
+Ten years pass, and Harry Potter lives in a dark cupboard under the stairs at the Dursley household. His cousin Dudley is a large, blond boy who celebrates his eleventh birthday with thirty-seven presents. Harry has a thin face, knobbly knees, and wears round glasses held together with Scotch tape. He possesses a thin, lightning-shaped scar on his forehead which he was told resulted from a car crash. The Dursleys force Harry to cook breakfast and treat him with open hostility while pampering Dudley.
+
+Mrs. Figg, the neighbor who usually watches Harry, breaks her leg and cannot take him for the day. The Dursleys reluctantly bring Harry along to the zoo with Dudley and his friend Piers Polkiss. Uncle Vernon warns Harry that any "funny business" will result in him being locked in his cupboard until Christmas. At the zoo, Harry is bought a cheap lemon ice pop while the other boys eat large chocolate ice creams. Strange things often happen around Harry, like his hair growing back overnight after a bad haircut or a sweater shrinking to the size of a puppet.
+
+In the reptile house, Harry observes a large boa constrictor from Brazil that appears to be bored. The snake winks at Harry, and they begin to communicate through the glass until Dudley punches Harry aside. Suddenly, the glass front of the tank vanishes, allowing the snake to slither out and snap at the boys' heels. People scream and run for the exits as the snake thanks Harry and departs for Brazil. Uncle Vernon blames Harry for the incident and locks him in the cupboard without any meals.
+
+**Sentence Count Check:** 15
+
+---
+
+### 3: CHAPTER 3 - Letters From No One
+Harry's punishment for the snake incident lasts through the start of the summer holidays. He prepares to attend Stonewall High, a local public school, while Dudley heads to a private school called Smeltings. A letter arrives for Harry addressed in green ink to "The Cupboard under the Stairs." Uncle Vernon seizes the letter and turns gray upon reading the contents, refusing to show it to Harry. The Dursleys move Harry into Dudley’s second bedroom to appease the unknown sender.
+
+More letters arrive every day, addressed to Harry's new room, but Uncle Vernon destroys them all. He nails up the mail slot and boards the cracks around the doors to prevent any further deliveries. On Sunday, thirty or forty letters fly out of the fireplace like bullets, hitting Uncle Vernon in the head. Harry tries to catch one, but his uncle tackles him and forces the family to leave the house immediately. They drive aimlessly across the country, staying at a gloomy hotel where more letters eventually find them.
+
+Uncle Vernon takes the family to a remote, broken-down shack on a large rock in the middle of the sea. A fierce storm rages outside, and the shack lacks food, heat, or a television. Harry lies on the floor under a thin blanket, watching the minutes tick down to his eleventh birthday. He counts the seconds until midnight on Dudley’s glowing watch dial as the storm worsens. Exactly at midnight, a thunderous boom shakes the cabin, and someone begins knocking loudly on the door.
+
+**Sentence Count Check:** 15
+
+---
+
+### 4: CHAPTER 4 - The Keeper of the Keys
+The door is smashed off its hinges, and Rubeus Hagrid, a giant with beetle-black eyes and a wild beard, enters the shack. Uncle Vernon threatens him with a rifle, but Hagrid simply bends the gun into a knot and tosses it away. Hagrid presents Harry with a squashed chocolate cake for his eleventh birthday and reveals he is the Keeper of Keys at Hogwarts. He uses a pink umbrella to start a roaring fire in the damp grate and cooks sausages for Harry. Hagrid expresses shock that Harry knows nothing about his magical heritage or the school of wizardry.
+
+Hagrid explains that Harry is a wizard and gives him a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Aunt Petunia admits she always knew, calling her sister Lily a "freak" who turned teacups into rats. She reveals that Harry’s parents did not die in a car crash but were killed by an evil wizard. Hagrid tells the story of Voldemort, a dark wizard who murdered James and Lily Potter ten years ago. Voldemort attempted to kill Harry as well, but his power broke, leaving Harry with only the lightning scar.
+
+Uncle Vernon refuses to pay for Harry to attend the school and insults Albus Dumbledore. In a fit of rage, Hagrid swings his umbrella and gives Dudley a curly pig's tail through a hole in his trousers. Hagrid admits he was expelled from Hogwarts in his third year and is not strictly allowed to perform magic. He gives Harry his thick black overcoat to sleep under for the remainder of the night. Harry goes to sleep, realizing that his life has changed forever and he is indeed a wizard.
+
+**Sentence Count Check:** 15
+
+---
+
+### 5: CHAPTER 5 - Diagon Alley
+Harry wakes up to the sound of an owl tapping on the window of the shack. The owl delivers a newspaper called the Daily Prophet and waits for payment in bronze coins called Knuts. Hagrid leads Harry to a boat, which he speeds up by tapping his pink umbrella against the side. They travel to London, where Hagrid explains that the wizarding bank, Gringotts, is run by goblins. Harry worries about paying for his school supplies, but Hagrid reveals that his parents left him a fortune in gold.
+
+They enter the Leaky Cauldron, a dark and shabby pub that Muggles cannot see. The patrons recognize Harry and crowd around him to shake his hand, including a nervous young man named Professor Quirrell. Hagrid leads Harry into a small courtyard and taps a specific brick to open a gateway into Diagon Alley. Diagon Alley is a cobblestone street filled with shops selling cauldrons, robes, wands, and owls. They visit Gringotts, where Harry sees his vault filled with mounds of gold, silver, and bronze coins.
+
+Hagrid removes a small, grubby package from high-security Vault 713 on behalf of Dumbledore. Harry buys his school uniform at Madam Malkin’s, where he meets a pale, arrogant boy also starting at Hogwarts. He receives a snowy white owl from Hagrid as a birthday present, which he names Hedwig. At Ollivanders, Harry tries dozens of wands until a holly and phoenix feather wand chooses him. Mr. Ollivander notes that the phoenix who provided Harry's feather also gave the feather for Voldemort's wand.
+
+**Sentence Count Check:** 15

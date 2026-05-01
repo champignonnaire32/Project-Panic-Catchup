@@ -1,0 +1,54 @@
+### 26: Gringotts
+Hermione uses Polyjuice Potion to transform into Bellatrix Lestrange, while Ron is disguised as a fictional foreigner named Dragomir Despard. Harry and the goblin Griphook hide under the Invisibility Cloak as the group travels to Diagon Alley to infiltrate Gringotts Bank. They encounter a Death Eater named Travers who accompanies them to the bank, forcing Harry to use the Imperius Curse on both Travers and a goblin named Bogrod to bypass security. The group passes through the Thief’s Downfall, a magical waterfall that washes away all enchantments and reveals their true identities. Despite the alarm being raised, they reach the Lestrange vault where Harry uses Gryffindor's sword to retrieve Hufflepuff’s Cup, a small gold chalice engraved with a badger.
+
+The vault is protected by Gemino and Flagrante Curses, causing every object touched to multiply and burn with intense heat. Griphook seizes the sword of Gryffindor and abandons the trio, alerting the Gringotts guards to their presence. Harry, Ron, and Hermione find themselves trapped by a horde of goblins and wizards at the vault's entrance. To escape, Harry casts a Relashio spell to break the chains of a partially blind, pale-scaled dragon tethered to the floor. The trio climbs onto the dragon's back as it rears up and prepares to fight for its freedom.
+
+The dragon launches into the air, clawing through the tunnel walls and knocking aside shreiking goblins. Hermione casts Defodio to gouge out the ceiling, assisting the beast in its ascent toward the surface. The dragon blasts through the marble floor of the Gringotts main hall and bursts through the bronze entrance doors. Harry, Ron, and Hermione cling to the jagged scales as the beast launches itself into the sky above Diagon Alley. They fly away from London, escaping the bank with the Horcrux but without the sword of Gryffindor.
+
+**Sentence Count Check:** 15
+
+---
+
+### 27: The Final Hiding Place
+The dragon flies north for hours while Harry, Ron, and Hermione cling to its back high above the English countryside. As the beast descends toward a remote mountain lake, the trio jumps from its back into the freezing water to escape. They swim to the shore and apply Essence of Dittany to the severe burns caused by the enchanted treasure in the vault. While resting, Harry experiences a sudden, agonizing vision through his connection to Voldemort’s mind. He watches as a terrified goblin informs Voldemort that the golden cup has been stolen from the Lestrange vault.
+
+Voldemort enters a murderous rage, slaughtering every person in the room with the Elder Wand, including the messenger goblin. He realizes that Dumbledore and Harry are systematically hunting his Horcruxes, his anchors to immortality. Voldemort reviews the locations of his remaining safeguards, mentioning the diary, the cup, the ring, the locket, and an object at Hogwarts. He decides to check his hiding places personally, starting with the Gaunt shack where he hid the ring. He also resolves to keep his giant snake, Nagini, under close protection at all times.
+
+Harry returns to consciousness and informs Ron and Hermione that Voldemort now knows they are hunting Horcruxes. He explains that the final Horcrux is hidden at Hogwarts and that Voldemort will likely check its safety soon. The trio realizes they must reach the school immediately before Voldemort can relocate the object or increase its protection. They abandon their plan to sleep in the tent and prepare to Disapparate to Hogsmeade under the Invisibility Cloak. The dragon takes flight again and vanishes over the mountains as the sun sets.
+
+**Sentence Count Check:** 15
+
+---
+
+### 28: The Missing Mirror
+Harry, Ron, and Hermione Apparate into Hogsmeade High Street and immediately trigger a Caterwauling Charm that alerts the Death Eaters. They hide under the Invisibility Cloak as a dozen Death Eaters swarm the street and attempt to summon the cloak with Accio. The Death Eaters release Dementors to search for the trio, forcing the environment into unnatural cold and darkness. Harry casts a stag Patronus to repel the creatures, which reveals their exact location to the pursuing guards. A man from the Hog's Head Inn suddenly opens a door and pulls the trio inside to hide.
+
+The barman, identified as Aberforth Dumbledore, shouts at the Death Eaters and claims the stag Patronus was actually his own goat Patronus. He uses a mirror on his mantelpiece, a twin to the one Sirius gave Harry, to explain how he has been watching them. Aberforth reveals that he sent Dobby to Malfoy Manor to rescue the group after seeing Harry's eye in the mirror fragment. He provides the hungry trio with bread, cheese, and mead while urging them to flee the country instead of fighting. Aberforth expresses deep resentment toward his brother Albus, claiming Albus was obsessed with power and "the greater good."
+
+Aberforth tells the story of his sister Ariana, who was attacked by Muggles as a child and left magically unstable and traumatized. He describes how Albus and Gellert Grindelwald's pursuit of the Deathly Hallows led to a three-way duel that accidentally killed Ariana. Harry counters by describing Albus's final moments and his remorse over the past, insisting they must finish the mission Albus started. Aberforth eventually relents and signals to the portrait of Ariana on the wall, who walks away through a painted tunnel. She returns with a limping, battered Neville Longbottom, who emerges from a secret passage behind the portrait.
+
+**Sentence Count Check:** 15
+
+---
+
+### 29: The Lost Diadem
+Neville Longbottom leads Harry, Ron, and Hermione through a secret passage that connects the Hog's Head Inn to the Room of Requirement. He describes the brutal regime at Hogwarts, where Death Eaters Amycus and Alecto Carrow teach the Dark Arts and Muggle Studies. Neville explains that students are forced to practice the Cruciatus Curse on their peers during detentions as a form of discipline. He reveals that Luna Lovegood was kidnapped from the Hogwarts Express and that Ginny Weasley never returned after the Easter break. The trio enters the Room of Requirement to find it transformed into a large, comfortable headquarters filled with members of Dumbledore's Army.
+
+The room has expanded to include hammocks, bookcases, and a wireless radio as more students have sought refuge from the Carrows. Harry's scar burns as he sees a vision of Voldemort discovering that the ring Horcrux has been stolen from the Gaunt shack. Realizing time is critical, Harry asks the gathered students if they know of any object belonging to Rowena Ravenclaw hidden in the school. Luna mentions the Lost Diadem of Ravenclaw, a crown rumored to enhance the wisdom of the wearer. Cho Chang offers to take Harry to the Ravenclaw common room to see the statue of Ravenclaw wearing the diadem.
+
+Ginny insists that Luna take Harry instead, and the two head out into the corridors under the Invisibility Cloak. They use the Marauder's Map to avoid Filch and the patrolling Death Eaters as they climb to the fifth floor. They reach the entrance to the Ravenclaw Tower, which is a plain wooden door with a bronze eagle knocker. Instead of a password, the eagle asks a philosophical question about the nature of the phoenix and the flame. Luna pauses to consider the answer while Harry feels Voldemort's proximity growing more intense.
+
+**Sentence Count Check:** 15
+
+---
+
+### 30: The Sacking of Severus Snape
+Luna answers the eagle’s riddle by stating that a circle has no beginning, and the door opens to reveal the Ravenclaw common room. Inside, Harry examines the marble statue of Rowena Ravenclaw and observes the delicate diadem resting on her head. Alecto Carrow, who has been waiting in the common room, presses her Dark Mark to summon Voldemort and then attempts to Stun Harry. Luna quickly Stuns Alecto, but the summon has already been sent, and Harry feels Voldemort’s joy at knowing his location. Amycus Carrow bangs on the door, and when Professor McGonagall opens it, he spits in her face and blames the students for his sister's state.
+
+Harry drops the Invisibility Cloak and uses the Cruciatus Curse on Amycus, knocking the Death Eater unconscious against a bookcase. Professor McGonagall uses the Imperius Curse on Amycus to force him to hand over the wands and then binds both Carrows in silver ropes. She tells Harry that Voldemort is on his way and that the school must be evacuated to prepare for battle. As they move into the corridor, they encounter Severus Snape, who demands to know the whereabouts of Harry Potter. McGonagall and Snape engage in a fierce magical duel, with McGonagall conjuring fire and daggers to drive him back.
+
+Snape deflects the spells and eventually jumps through a window, transforming into a giant bat-like shape to fly away toward the perimeter. McGonagall yells that Snape is a coward as the other Heads of House, Sprout and Flitwick, arrive to assist in the defense. She begins casting Piertotum Locomotor to animate the statues and suits of armor throughout the castle to protect the boundaries. Harry tells McGonagall he is searching for an object that belonged to Ravenclaw, and she promises to hold the castle while he looks. The school bells begin to ring, signaling the start of the evacuation and the impending arrival of Voldemort's army.
+
+**Sentence Count Check:** 15
+
+---

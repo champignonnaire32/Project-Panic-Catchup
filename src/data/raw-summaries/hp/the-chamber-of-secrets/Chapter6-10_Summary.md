@@ -1,0 +1,52 @@
+### 6: Gilderoy Lockhart
+The next morning, Ron receives a Howler from his mother during breakfast in the Great Hall. The magical red envelope screams Mrs. Weasley’s fury at Ron for stealing the flying car before bursting into flames. Professor Sprout leads the second-years to Greenhouse Three to begin repotting Mandrakes, which are plants that look like ugly, crying human babies. Gilderoy Lockhart pulls Harry aside to lecture him on the dangers of seeking publicity after his arrival in the flying car. Ron struggles in Transfiguration because his wand is broken and held together only by Spellotape, causing it to emit foul-smelling smoke.
+
+Colin Creevey, a first-year Gryffindor with a camera, approaches Harry in the courtyard and asks for a signed photograph to prove they met. Draco Malfoy mocks Harry’s fame, leading to a confrontation that is interrupted by Lockhart’s arrival. Lockhart forces Harry into a double portrait with Colin and continues to offer unsolicited advice on managing celebrity status. During the first Defense Against the Dark Arts lesson, Lockhart administers a quiz focused entirely on his own personal preferences and achievements. He then releases a cage of electric blue Cornish pixies that immediately begin to dismantle the classroom and terrorize the students.
+
+Lockhart attempts to use a Peskipiksi Pesternomi charm to stop the pixies, but one of the creatures steals his wand and throws it out a window. The professor flees his own classroom and locks the door, leaving Harry, Ron, and Hermione to deal with the rampaging pixies alone. Hermione successfully uses a Freezing Charm to immobilize the creatures and return them to their cage. Ron expresses deep skepticism about Lockhart’s actual abilities, despite Hermione’s defense of the professor's published accomplishments. The incident leaves the classroom in ruins with shredded books and a broken chandelier.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: Mudbloods and Murmurs
+Oliver Wood wakes Harry at dawn for an intensive Quidditch training session to prepare for the season. Colin Creevey follows Harry to the pitch and repeatedly takes photographs while Harry explains the complex rules and positions of the game. Wood presents several complicated tactical diagrams to the team, who are mostly still asleep and uninterested in the lengthy lecture. The Gryffindor practice is interrupted by the arrival of the Slytherin team, who claim they have permission from Snape to use the field. Marcus Flint reveals that Lucius Malfoy has purchased brand-new Nimbus 2001 racing brooms for the entire Slytherin team.
+
+Draco Malfoy announces he is the new Slytherin Seeker and insults Hermione by calling her a "Mudblood" when she criticizes his arrival on the team. Ron attempts to curse Malfoy with a slug-vomiting spell, but his damaged wand backfires and hits Ron in the stomach instead. Harry and Hermione rush the belching Ron to Hagrid’s cabin, where the gamekeeper provides a basin for the slugs. Hagrid explains that "Mudblood" is a highly offensive term for Muggle-born wizards used by pure-blood supremacists. While at the cabin, Hagrid shows them his magically enlarged pumpkins and mentions seeing Ginny Weasley wandering the grounds.
+
+Professor McGonagall assigns Harry and Ron detentions for their earlier flying car incident. Ron is tasked with polishing the silver in the trophy room without using magic, while Harry is sent to Lockhart’s office to answer fan mail. During his detention, Harry hears a cold, murderous voice coming from the walls that speaks of ripping and killing. Lockhart claims he hears nothing and assumes Harry is simply getting drowsy after four hours of work. Harry returns to the Gryffindor dormitory late at night and tells Ron about the chilling voice he heard.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: The Deathday Party
+Nearly Headless Nick is denied entry into the Headless Hunt because his head is still attached to his neck by a thin strip of skin. Filch catches Harry dripping mud in the corridor and hauls him to his office to record a formal punishment. While Filch is distracted by a loud crash caused by Peeves, Harry finds a Kwikspell letter on the desk and realizes Filch is a Squib. Filch returns and panics when he thinks Harry has read his private mail, allowing Harry to leave without further discipline. Nick reveals he persuaded Peeves to crash a vanishing cabinet to save Harry and asks him to attend his Deathday Party.
+
+Harry, Ron, and Hermione descend into the cold dungeons on Halloween to attend Nearly Headless Nick’s five-hundredth deathday celebration. The room is filled with hundreds of translucent ghosts and features a musical orchestra playing saws. The buffet table is covered in rotten fish, moldy cheese, and maggoty haggis to provide a strong enough scent for the ghosts to "taste." The trio encounters Moaning Myrtle, a ghost who haunts a girls' toilet, and she flees in tears after Peeves insults her. Sir Patrick Delaney-Podmore arrives with the Headless Hunt and interrupts Nick’s commemorative speech with a game of Head Hockey.
+
+Hungry and freezing, the trio leaves the party early and heads back toward the Great Hall for dinner. Harry hears the murderous voice again and follows it up several flights of stairs as it speaks of smelling blood. They find the second-floor corridor flooded with water and discover foot-high words painted on the wall near the ceiling. The message states that the Chamber of Secrets has been opened and warns the "Enemies of the Heir." They find Mrs. Norris, Filch’s cat, petrified and hanging by her tail from a torch bracket just as the school feast ends.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: The Writing on the Wall
+Filch discovers his petrified cat and immediately accuses Harry of being the culprit. Dumbledore arrives and leads the trio, along with several teachers, to Lockhart’s office for a private investigation. Lockhart attempts to diagnose the cat’s condition with various unverified theories while Dumbledore examines the animal. Dumbledore concludes that Mrs. Norris is not dead but petrified by advanced Dark Magic. He informs Filch that the cat can be cured once Professor Sprout’s Mandrakes are fully grown and used to brew a restorative potion.
+
+Snape questions why the trio was not at the feast, and Harry hides the truth about the voices he heard. After being dismissed, Ron explains that a Squib is a non-magical person born to wizarding parents, explaining Filch's bitterness. Hermione asks Professor Binns about the Chamber of Secrets during a History of Magic lesson. Binns explains that Salazar Slytherin built a hidden chamber that only his true heir could open to purge the school of Muggle-borns. He insists the story is a myth, but the students remain unsettled by the recent events.
+
+The trio returns to the scene of the attack and notices spiders fleeing through a window in an unusual manner. They enter Moaning Myrtle’s bathroom to look for clues, but the ghost is unhelpful and dives into a toilet. Percy Weasley discovers them in the girls' bathroom and deducts points from Gryffindor for their presence there. Hermione concludes that Draco Malfoy is the most likely Heir of Slytherin due to his family’s pure-blood views. She proposes brewing Polyjuice Potion to impersonate Slytherins and interrogate Malfoy in his own common room.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: The Rogue Bludger
+Hermione obtains a signed permission slip from Lockhart by flattering him, allowing her to borrow Moste Potente Potions from the Restricted Section. The book contains the recipe for Polyjuice Potion, which requires complex ingredients and takes a full month to brew. Harry, Ron, and Hermione set up a hidden cauldron in Moaning Myrtle’s bathroom to begin the brewing process. On the day of the first Quidditch match, the Gryffindor team faces the Slytherins on their superior Nimbus 2001 brooms. During the game, a rogue Bludger begins targeting Harry exclusively, ignoring all other players on the field.
+
+Fred and George Weasley stay close to Harry to protect him from the Bludger, but the team’s offensive play suffers. Harry orders the twins to leave him alone so he can find the Snitch before the Slytherins score more points. The Bludger eventually strikes Harry’s arm, shattering the bone and leaving it limp. Despite the agonizing pain, Harry spots the Snitch near Malfoy’s ear and dives for it. He manages to grab the Golden Snitch with his one good hand before crashing into the mud.
+
+Lockhart attempts to fix Harry’s arm but accidentally removes all thirty-three bones, leaving the arm like a rubber glove. Harry is sent to the hospital wing, where Madam Pomfrey gives him Skele-Gro to painfully regrow his bones overnight. During the night, Dobby the house-elf appears and confesses he blocked the station barrier and tampered with the Bludger. He explains that he was trying to force Harry to leave Hogwarts to protect him from the reopening of the Chamber. Later that night, Dumbledore and McGonagall bring in a petrified Colin Creevey, confirming that the Chamber of Secrets is officially open.
+
+**Sentence Count Check:** 15

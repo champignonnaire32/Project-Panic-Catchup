@@ -1,0 +1,52 @@
+### 1: Owl Post
+Harry Potter studies magic history by flashlight under his bedsheets to avoid detection by the Dursleys. He completes an essay on medieval witch burnings while listening for his snoring cousin Dudley. Ron Weasley previously caused trouble for Harry by shouting over the telephone at Uncle Vernon. Harry has spent five weeks without contact from his wizarding friends except for night flights with Hedwig. He turns thirteen years old at midnight and expects no acknowledgment from his relatives.
+
+Three owls fly through Harry's bedroom window carrying birthday packages and letters. Errol arrives unconscious while delivering a card and a newspaper clipping from the Weasley family. The clipping reveals that Arthur Weasley won seven hundred galleons and took his family to Egypt. Ron's letter mentions his new wand and a future trip to London to buy school supplies. Harry receives a Pocket Sneakoscope from Ron which spins and glows when untrustworthy people are nearby.
+
+Hermione sends a heavy Broomstick Servicing Kit and a letter detailing her vacation in France. Hagrid provides a birthday gift wrapped in brown paper that quivers and snaps at Harry's touch. The gift is a copy of The Monster Book of Monsters which Harry must wrestle and belt shut. A letter from Hogwarts includes a permission form for third-year students to visit the village of Hogsmeade. Harry worries about how to get the Dursleys to sign the form but feels happy about his birthday.
+
+**Sentence Count Check: 15**
+
+---
+
+### 2: Aunt Marge's Big Mistake
+Harry watches a news report about an escaped convict named Sirius Black while eating breakfast with the Dursleys. Uncle Vernon announces that his sister Marge will visit for one week starting that morning. Aunt Marge breeds bulldogs and previously allowed her dog Ripper to chase Harry up a tree. Vernon demands that Harry pretend to attend St. Brutus’s Secure Center for Incurably Criminal Boys during her stay. Harry strikes a bargain to behave in exchange for Vernon signing his Hogsmeade permission form.
+
+Aunt Marge arrives at Privet Drive with her favorite bulldog and immediately insults Harry’s appearance and nature. She gives Dudley a twenty-pound note while thrusting her heavy suitcase into Harry's stomach. For several days, Harry endures Marge's verbal abuse by concentrating on his broomstick maintenance manual. Marge claims Harry's "rotten" nature is due to his mother being a "bad egg" like a poorly bred dog. Harry loses control of his magic and causes Marge's wineglass to explode in her hand during dinner.
+
+On the final night, Marge gets drunk on brandy and begins disparaging Harry’s deceased parents. She calls Harry’s father an unemployed wastrel and claims the Potters died in a drunk-driving car crash. Harry's fury causes Marge to inflate like a giant balloon and float toward the dining room ceiling. Uncle Vernon tries to pull her down but Ripper bites his leg and pins him to the floor. Harry retrieves his trunk and wand, threatens Vernon, and flees the house into the dark street.
+
+**Sentence Count Check: 15**
+
+---
+
+### 3: The Knight Bus
+Harry sits on a low wall in Magnolia Crescent and panics about being expelled for using magic. He observes a large hulking creature with wide gleaming eyes watching him from a dark alleyway. Harry trips over his trunk and accidentally signals for magical transport by raising his wand hand. A triple-decker purple bus called the Knight Bus appears out of thin air and stops before him. The conductor Stan Shunpike helps Harry board the bus after Harry provides the fake name Neville Longbottom.
+
+The bus travels at high speeds while trees and lampposts jump out of its way to avoid collision. Harry reads a copy of the Daily Prophet and learns that Sirius Black is a dangerous mass murderer. Stan explains that Black was a supporter of Voldemort and allegedly killed thirteen people with a single curse. The wizarding community believes Black is the first person to ever escape from the prison of Azkaban. Harry worries that his own magical accident might be serious enough to warrant a sentence in that prison.
+
+The Knight Bus drops Harry off at the Leaky Cauldron pub in London just before dawn. Minister of Magic Cornelius Fudge waits outside and immediately identifies Harry to the excited bus crew. Fudge reveals that the Ministry has reversed Marge's inflation and modified her memory to forget the incident. He informs Harry that no charges will be brought against him for the accidental magic on his aunt. Harry is instructed to stay in Diagon Alley and return to the pub before dark every night.
+
+**Sentence Count Check: 15**
+
+---
+
+### 4: The Leaky Cauldron
+Harry enjoys his freedom in Diagon Alley while staying in a comfortable room at the Leaky Cauldron. He spends his days finishing homework at an outdoor cafe and window-shopping for magical items. A new racing broom called the Firebolt appears in a shop window and becomes Harry's primary obsession. Harry buys his school supplies including a copy of Unfogging the Future for his new Divination class. He also encounters a book on death omens featuring a large black dog that resembles the beast he saw.
+
+On the last day of summer, Harry reunites with Ron and Hermione at an ice cream parlor. Ron shows off his new willow wand while Hermione displays several bags of books for her extra classes. Hermione buys a large ginger cat named Crookshanks that immediately tries to attack Ron's pet rat Scabbers. The group meets the rest of the Weasley family at the pub for a celebratory dinner. Harry notices Mr. Weasley acting strained and looking at the newspaper photographs of the fugitive Sirius Black.
+
+Harry goes downstairs at night to find Ron's missing rat tonic and overhears the Weasleys arguing. Mr. Weasley reveals that Sirius Black is a deranged killer who is specifically hunting Harry Potter. The Minister of Magic believes Black thinks killing Harry will return Lord Voldemort to power and influence. Dumbledore has allowed Azkaban guards to be stationed around Hogwarts to prevent Black from entering the castle. Harry decides not to tell his friends what he heard but feels safe under Dumbledore’s protection.
+
+**Sentence Count Check: 15**
+
+---
+
+### 5: The Dementor
+The Ministry provides two green cars to transport Harry and the Weasleys to King’s Cross station. Mr. Weasley pulls Harry aside to warn him about Sirius Black but Harry admits he already knows. Harry promises not to go looking for Black despite Mr. Weasley's obvious fear for Harry's safety. The students board the Hogwarts Express and find a compartment occupied by a sleeping man named Remus Lupin. Professor Lupin wears shabby robes and appears ill as he sleeps through the train journey north.
+
+The train stops unexpectedly in the middle of a dark wasteland during a heavy rainstorm. All lights go out and a tall hooded figure called a Dementor enters the compartment door. The Dementor draws a long rattling breath that causes intense cold and feelings of despair in everyone. Harry hears a woman screaming and faints while a thick white fog fills his vision and mind. Professor Lupin repels the creature with a silvery light from his wand and gives Harry chocolate to recover.
+
+The students arrive at Hogwarts where Dumbledore announces that Dementors will guard all entrances to the school. Harry feels embarrassed about fainting and learns that the Dementors are searching for the escaped Sirius Black. Dumbledore introduces Professor Lupin as the new Defense Against the Dark Arts teacher to scattered applause. Rubeus Hagrid is named the new Care of Magical Creatures teacher and weeps with joy at the news. The Gryffindors enter their common room using the new password and Harry goes to bed feeling home.
+
+**Sentence Count Check: 15**

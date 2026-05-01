@@ -1,0 +1,52 @@
+### Chapter 21: The Tale of the Three Brothers
+The trio questions Xenophilius Lovegood about the symbol of the Deathly Hallows he wore at the wedding. Xenophilius explains that the symbol represents three legendary objects: the Elder Wand, the Resurrection Stone, and the Cloak of Invisibility. Hermione reads "The Tale of the Three Brothers" aloud from Beedle the Bard's book to provide the narrative origin of these items. The story describes three brothers who receive powerful gifts from Death but meet tragic ends, except for the youngest who uses the Cloak to evade Death until old age. Xenophilius asserts that these objects exist and that possessing all three makes one the "Master of Death."
+
+Xenophilius claims the Elder Wand is traced through a bloody history of wizards murdering each other to claim its power. Hermione remains skeptical, dismissing the Hallows as a children's morality tale meant to warn against power and grief. Harry, Ron, and Hermione debate which Hallow they would choose, with Harry secretly favoring the Stone to bring back his parents. While Xenophilius is in the kitchen, Harry explores the upper floor and finds Luna's bedroom decorated with paintings of her friends. He notices the room is thick with dust and lacks any personal belongings, suggesting Luna has not lived there for weeks.
+
+Harry confronts Xenophilius about Luna’s absence and realizes the man has been stalling them to wait for the Ministry. Xenophilius admits the Death Eaters kidnapped Luna because of his pro-Potter articles and promised her return if he handed over Harry. Suddenly, Death Eaters on broomsticks arrive outside the house and Xenophilius attempts to Stun the trio to keep them there. His spell hits a highly explosive Erumpent horn he kept in the room, causing a massive explosion that destroys the house. Hermione manages to hide Ron under the Invisibility Cloak while ensuring the Death Eaters see Harry before they Apparate away.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 22: The Deathly Hallows
+The trio Apparates to a field where Hermione immediately casts protective enchantments around their new campsite. Ron praises Hermione for her quick thinking in ensuring the Death Eaters saw Harry while keeping Ron’s presence a secret to protect the Weasley family. They discuss Luna’s likely imprisonment in Azkaban and Harry’s growing belief that the Deathly Hallows are real. Harry connects the Hallows to Dumbledore’s secrets, realizing the Headmaster once held his Invisibility Cloak. He also remembers Marvolo Gaunt claiming descent from the Peverells, the family named on the grave in Godric’s Hollow.
+
+Harry becomes obsessed with the idea that the Resurrection Stone is hidden inside the Snitch Dumbledore left him. He concludes that Voldemort is unaware of the Hallows and is seeking the Elder Wand simply as a powerful weapon. Hermione argues that Harry is being sidetracked from their mission to find and destroy Voldemort’s Horcruxes. Ron attempts to mediate between them but ultimately agrees with Hermione that they should stick to Dumbledore’s explicit instructions. Harry spends his nights unsuccessfully trying to open the Snitch and dreaming of the unbeatable Elder Wand.
+
+Weeks pass in the rain as the group moves between different Wizarding villages to avoid detection. Ron takes on a leadership role, suggesting potential Horcrux locations and tirelessly trying to tune a radio to an underground broadcast. He eventually finds the password "Albus" and successfully tunes into "Potterwatch," a rebel radio show featuring Lee Jordan, Kingsley Shacklebolt, and Remus Lupin. The broadcast confirms the deaths of several associates and provides news that Hagrid narrowly escaped arrest at Hogwarts. Inspired by the friendly voices, Harry accidentally speaks Voldemort's name, which has been Tabooed to track dissenters.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 23: Malfoy Manor
+The Taboo spell immediately alerts a gang of Snatchers, led by Fenrir Greyback, who surround the trio’s tent. Hermione casts a Stinging Jinx on Harry’s face to distort his features and prevent immediate identification. The Snatchers capture Harry, Ron, and Hermione along with Dean Thomas and the goblin Griphook. Despite their false names, the Snatchers find the Sword of Gryffindor in the tent and realize they have caught high-value prisoners. Greyback decides to take them to Malfoy Manor, which serves as a base for the Death Eaters, instead of the Ministry.
+
+At Malfoy Manor, Narcissa and Lucius Malfoy examine the prisoners but find Harry’s swollen face difficult to confirm. Draco Malfoy is brought in to identify them but displays significant reluctance and fear, refusing to be certain. Bellatrix Lestrange arrives and is jubilant until she notices the Sword of Gryffindor held by the Snatchers. She panics at the sight of the sword, claiming it should be in her Gringotts vault, and Stuns the Snatchers to take it. Bellatrix orders the male prisoners to the cellar while she keeps Hermione upstairs for torture and interrogation.
+
+In the cellar, Harry and Ron find Luna Lovegood and Mr. Ollivander, who have been held captive for months. Hermione’s screams of agony during Bellatrix's interrogation drive Ron to desperation as he tries to break out. Harry uses a shard of his two-way mirror and sees an eye he believes belongs to Dumbledore, shouting for help. Dobby the house-elf Apparates into the cellar and begins transporting the prisoners to Bill and Fleur’s Shell Cottage. Wormtail enters the cellar to investigate a noise, and in the ensuing struggle, his magical silver hand strangles him when he shows a moment of hesitation.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 24: The Wandmaker
+Harry and Ron burst into the drawing room to save Hermione just as Bellatrix prepares to summon Voldemort. They manage to disarm the Malfoys and Bellatrix, but Bellatrix threatens Hermione’s life with a silver knife. Dobby reappears and causes a crystal chandelier to fall from the ceiling, allowing Harry to seize several wands from Draco. As the group Disapparates to Shell Cottage, Bellatrix hurls her silver knife at them through the vanishing space. They land on the beach near the cottage, but Harry discovers that Dobby has been fatally wounded by the knife.
+
+Dobby dies in Harry’s arms after speaking his final words, leaving Harry devastated on the grass. Harry decides to bury the elf without using magic, digging the grave by hand with a spade at the end of the garden. This manual labor helps Harry clear his mind and gain control over his connection to Voldemort’s thoughts. He realizes that Voldemort has been at Nurmengard to kill Gellert Grindelwald in his search for the Elder Wand. The group holds a small funeral for Dobby, and Luna speaks a touching tribute over the grave before they depart.
+
+Harry carves "HERE LIES DOBBY, A FREE ELF" onto a stone and places it on the burial mound. He then retreats to the cottage to speak with the survivors and plan his next moves. Harry realizes he must interview both the goblin Griphook and the wandmaker Ollivander to gather information. He wants to know why Bellatrix was so afraid of someone entering her vault and how the Elder Wand can be won. Despite the grief and the stakes, Harry feels a new sense of clarity regarding the balance between Hallows and Horcruxes.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 25: Shell Cottage
+Bill Weasley warns Harry that the goblin Griphook will likely be difficult to handle once he recovers. Harry visits Griphook and asks for his help in breaking into Gringotts Bank to search Bellatrix Lestrange’s vault. The goblin is surprised by Harry’s request, as no one has ever successfully robbed Gringotts or returned a stolen goblin artifact. Harry promises the goblin anything he wants in return for his assistance, though he worries about the ethics of the deal. Griphook remains noncommittal but agrees to consider the proposal while he continues to heal from his injuries.
+
+Harry then interviews Mr. Ollivander, the wandmaker, who confirms that the Elder Wand is a real and legendary object. Ollivander explains that the wand passes its allegiance through the defeat of its previous owner, making it a dangerous and sought-after tool. He confirms that he was tortured by Voldemort to reveal the location of the wand and the history of its owners. Ollivander also identifies the wands Harry captured at Malfoy Manor, explaining that Draco’s wand now owes its allegiance to Harry. This confirmation strengthens Harry's understanding of wandlore and his own advantage in the coming conflict.
+
+Lupin arrives at Shell Cottage to announce the birth of his son, Teddy, and asks Harry to be the godfather. The celebratory atmosphere provides a brief respite for the group as they prepare for the dangerous task ahead. Bill takes Harry aside to warn him about the nature of goblins and their different views on ownership and property. Harry, Ron, and Hermione begin planning their infiltration of Gringotts, knowing it is their only chance to find a Horcrux. They realize the magnitude of the risk but remain committed to Dumbledore’s original mission despite the allure of the Hallows.
+
+**Sentence Count Check:** 15

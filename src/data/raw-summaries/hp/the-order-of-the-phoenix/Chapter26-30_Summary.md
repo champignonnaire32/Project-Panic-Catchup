@@ -1,0 +1,52 @@
+### 26: Seen and Unforeseen
+Harry gives a detailed interview to Rita Skeeter for The Quibbler regarding the night of Lord Voldemort's return. Gryffindor loses a Quidditch match to Hufflepuff by ten points despite Ginny Weasley catching the Golden Snitch. Harry dreams of the Department of Mysteries and sees a plain black door that is slightly ajar. The Quibbler arrives at Hogwarts and many students express their belief in Harry's account of the graveyard events. Professor Umbridge bans the magazine immediately and assigns Harry a week of detentions for giving the interview.
+
+The interview's ban causes nearly every student in the school to read the article in secret. Teachers find subtle ways to reward Harry for speaking out, such as Professor Flitwick giving him sugar mice. Harry experiences a vision where he is Lord Voldemort and learns that a man named Bode cannot remove a specific item. Rookwood, a pockmarked former Unspeakable who recently escaped from Azkaban, provides Voldemort with information about the Department of Mysteries. Harry realizes Voldemort is seeking a weapon and that Bode was under the Imperius Curse.
+
+Hermione deduces that Lucius Malfoy placed the Imperius Curse on Sturgis Podmore and Bode to steal the weapon. During an Occlumency lesson, Harry uses a Shield Charm and accidentally enters Snape's memories of a shouting man and a crying boy. Harry has another vision of the black door opening and entering a circular room with blue-flamed candles. Professor Umbridge publicly sacks Professor Trelawney in the Entrance Hall, but Dumbledore insists she remain living at the castle. Dumbledore introduces Firenze, a centaur with white-blond hair and blue eyes, as the new Divination teacher.
+
+Sentence Count Check: 15
+
+---
+
+### 27: The Centaur and the Sneak
+Firenze teaches Divination in Classroom Eleven, which Dumbledore has magically transformed into a forest clearing with moss and trees. The centaur explains that his herd banished him for agreeing to work for humans at Hogwarts. He dismisses human astrology as nonsense and teaches the students to observe the heavens for great tides of evil. Firenze gives Harry a private warning that Hagrid's secret attempt is not working and should be abandoned. Harry delivers the warning to Hagrid, who is covered in injuries but refuses to stop his mysterious project.
+
+The D.A. begins practicing the Patronus Charm, and Harry helps members conjure silver animals including an otter and a swan. Dobby the house-elf rushes into the Room of Requirement to warn Harry that Professor Umbridge is coming. Most D.A. members escape, but Harry is caught by Draco Malfoy after being tripped by a jinx. Umbridge takes Harry to Dumbledore's office, where the Minister for Magic and Percy Weasley are waiting. Marietta Edgecombe is brought in as an informant but has the word SNEAK written in purple pustules across her face.
+
+Kingsley Shacklebolt secretly modifies Marietta's memory so she cannot testify about the previous D.A. meetings. Umbridge produces the signed membership list labeled "Dumbledore's Army" as proof of a conspiracy against the Ministry. Dumbledore claims full responsibility for the group to protect Harry from expulsion and legal trouble. When Fudge attempts to arrest him for trial at Azkaban, Dumbledore hexes everyone in the room and disappears. Dumbledore leaves a message for Harry to continue practicing Occlumency every night to close his mind.
+
+Sentence Count Check: 15
+
+---
+
+### 28: Snape's Worst Memory
+Professor Umbridge is appointed Headmistress of Hogwarts by the Ministry and creates an Inquisitorial Squad composed of students. Draco Malfoy uses his new authority to dock points from Gryffindor, Hufflepuff, and Ravenclaw for minor or fabricated infractions. Fred and George Weasley decide to stop following school rules and force a student named Montague into a Vanishing Cabinet. Umbridge calls Harry to her office and attempts to trick him into drinking tea spiked with Veritaserum. Harry avoids the potion and refuses to disclose the whereabouts of Albus Dumbledore or Sirius Black.
+
+Fred and George set off a massive display of enchanted fireworks that spread throughout the entire castle. The fireworks multiply when hit with Stunning Spells and eventually take the form of fire-breathing dragons and Catherine wheels. The teachers refuse to help Umbridge clear the fireworks, claiming they lack the authority to do so themselves. Harry has another dream of the Department of Mysteries and sees a room full of dusty glass spheres. Cho Chang confronts Harry about the jinxed D.A. list, leading to a heated argument and their eventual breakup.
+
+During an Occlumency lesson, Snape is called away to help Montague, who was found jammed inside a toilet. Harry looks into Snape's Pensieve and enters a memory of Snape taking his Defense Against the Dark Arts OWL. He sees his father, James Potter, and Sirius Black bullying a teenage Snape by the lake. James uses the Scourgify spell to fill Snape's mouth with soap and later hangs him upside-down. Snape catches Harry in the Pensieve, terminates the lessons permanently, and orders Harry to leave his office.
+
+Sentence Count Check: 15
+
+---
+
+### 29: Career Advice
+Harry feels deeply disturbed and disappointed by the realization that his father was an arrogant bully. Hermione tries to convince Harry to resume Occlumency lessons, but he refuses to speak to Snape again. The fifth-year students receive career pamphlets and prepare for consultations with their Heads of House. Ginny Weasley gives Harry an Easter egg from her mother and suggests a way to talk to Sirius. Fred and George offer to provide a major diversion so Harry can use Umbridge's fireplace.
+
+During his career meeting, Harry tells Professor McGonagall that he wants to become an Auror after leaving school. Umbridge interrupts the meeting repeatedly to insist that Harry has no chance of being hired by the Ministry. McGonagall becomes furious and vows to help Harry achieve his goal even if she has to coach him nightly. Harry uses Sirius's magical knife to break into Umbridge's office while a diversion occurs elsewhere. He uses Floo powder to contact Sirius and Lupin at Number Twelve, Grimmauld Place.
+
+Sirius and Lupin admit they were sometimes arrogant at fifteen but insist that James Potter eventually grew out of it. Lupin is horrified to learn that Harry has stopped his Occlumency lessons and orders him to resume them. Filch enters the office with an approval form for whipping students just as Harry escapes under his Invisibility Cloak. Umbridge corners Fred and George in the Entrance Hall for creating a magical swamp in a corridor. The twins summon their broomsticks, quit school publicly, and fly away from Hogwarts into the sunset.
+
+Sentence Count Check: 15
+
+---
+
+### 30: Grawp
+The story of Fred and George's escape becomes a legend at Hogwarts and inspires other students to cause chaos. Peeves the Poltergeist begins a campaign of destruction against Umbridge, following her around and blowing loud raspberries. Students use Skiving Snackboxes to avoid Umbridge's classes, claiming they are suffering from a condition called "Umbridge-itis." During a Quidditch match against Ravenclaw, Hagrid leads Harry and Hermione deep into the Forbidden Forest. Hagrid reveals he has brought his giant half-brother, Grawp, back from the mountains and hidden him.
+
+Grawp is sixteen feet tall and is kept tied to trees with thick ropes because he is violent. Hagrid explains that the other giants were bullying Grawp and he could not leave his brother behind. He asks Harry and Hermione to look after Grawp and teach him English if he is sacked. Grawp wakes up and grabs Hermione, forcing Harry to pull her to safety behind a tree. Hagrid is hit in the face by Grawp while trying to calm the giant down during the introduction.
+
+The group is confronted by a herd of angry centaurs led by Magorian and the black-bodied Bane. The centaurs warn Hagrid that they will no longer tolerate his presence or his secrets in the forest. Hagrid ignores the warning and tells the students that the centaurs will not harm children or foals. Harry and Hermione return to the castle and find that Gryffindor has won the Quidditch match and the cup. Ron is carried on the shoulders of his teammates while the crowd sings "Weasley is our King."
+
+Sentence Count Check: 15

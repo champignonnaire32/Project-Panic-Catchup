@@ -1,0 +1,52 @@
+### CHAPTER 31: The Third Task
+Harry practices the Impediment Curse, Reductor Curse, and Four-Point Spell with Ron and Hermione in an empty classroom. Rita Skeeter publishes an article in the Daily Prophet claiming Harry is "disturbed and dangerous" due to his fainting spells and Parseltongue ability. Hermione suddenly realizes how Skeeter has been eavesdropping and rushes to the library to confirm her theory. Mrs. Weasley and Bill Weasley arrive at Hogwarts to support Harry as his invited family for the final task. The four champions gather at the entrance of a twenty-foot-high hedge maze constructed on the Quidditch field.
+
+Harry and Cedric enter the maze first, followed by Krum and Fleur at timed intervals. Inside the dark hedges, Harry uses the Four-Point Spell, which makes his wand point north like a compass, to navigate toward the center. He encounters a boggart in the form of a dementor and successfully repels it with the Patronus Charm. After passing through a golden mist that flips his perspective upside down, Harry hears Fleur scream and finds her gone. Harry discovers Krum using the Cruciatus Curse, an illegal torture spell, on Cedric and stuns Krum to stop the attack.
+
+Harry encounters a sphinx, a creature with a lion's body and a woman's head, and correctly solves her riddle to pass. He spots the Triwizard Cup on a plinth but is attacked by a gigantic spider with eight eyes and sharp pincers. Cedric helps Harry defeat the spider, but Harry's leg is badly injured in the struggle. The two champions decide to take a Hogwarts victory together and grasp the cup's handles simultaneously. The cup acts as a Portkey, a magical object that transports users to a prearranged location, and whisks them away from the maze.
+
+**Sentence Count Check:** 15
+
+---
+
+### CHAPTER 32: Flesh, Blood, and Bone
+Harry and Cedric land in a dark graveyard and see a small church and an old house on a nearby hill. A short, hooded figure carrying a bundle that resembles a baby approaches them between the graves. Harry's scar explodes with pain as a high, cold voice commands the figure to "kill the spare." Wormtail, the hooded man, uses the Killing Curse to strike Cedric, who falls dead to the ground. Wormtail drags Harry to a marble headstone bearing the name Tom Riddle and binds him tightly with magical cords.
+
+A gigantic snake slithers around the headstone while Wormtail pushes a massive stone cauldron into place. Wormtail lights a fire beneath the cauldron and unwraps the bundle to reveal a hairless, scaly, snakelike creature with red eyes. He drops the small, helpless form into the bubbling potion and begins the ritual of resurrection. Wormtail takes a bone from the grave beneath Harry's feet and drops it into the liquid. He then uses a silver dagger to cut off his own right hand as a sacrifice of flesh from a servant.
+
+Wormtail stabs Harry's arm with the dagger and collects a vial of blood to add to the cauldron. The potion turns a blinding white and sends out a thick surge of steam. A tall, skeletally thin man with a white face and scarlet eyes rises slowly from the cauldron. Wormtail puts black robes over the man's head as he steps out onto the grass. Lord Voldemort has regained his physical body and stares directly at Harry.
+
+**Sentence Count Check:** 15
+
+---
+
+### CHAPTER 33: The Death Eaters
+Voldemort examines his new pale body and long fingers while a large snake named Nagini circles Harry. He takes his wand from his pocket and uses it to summon a silver hand to replace the one Wormtail sacrificed. Voldemort presses his finger against the Dark Mark, a skull-and-snake tattoo, on Wormtail's arm to call his followers. He tells Harry about his Muggle father and how he murdered him to avenge his mother. Masked wizards known as Death Eaters begin to Apparate into the graveyard and form a circle around their master.
+
+Voldemort berates the Death Eaters for their lack of loyalty during his thirteen years of absence. He tortures a wizard named Avery with the Cruciatus Curse to demonstrate his lack of forgiveness. Lucius Malfoy attempts to explain his actions, but Voldemort silences him with reminders of his cowardice. Voldemort explains how he survived as a spirit by possessing animals and a gullible teacher named Quirrell. He describes how Wormtail found him in Albania and captured Bertha Jorkins, a Ministry witch who provided vital information.
+
+Voldemort reveals that he broke Bertha's Memory Charm and learned about the faithful servant stationed at Hogwarts. He explains that he needed Harry's blood specifically to overcome the protection left by Lily Potter's sacrifice. The Dark Lord tortures Harry again to show the Death Eaters that the boy is not stronger than him. He orders Wormtail to untie Harry and return his wand so they can duel in front of the witnesses. Voldemort intends to kill Harry to prove his absolute power and eliminate the threat of his downfall.
+
+**Sentence Count Check:** 15
+
+---
+
+### CHAPTER 34: Prior Incantatem
+Wormtail cuts Harry's bonds with his silver hand and thrusts Harry's wand back into his grasp. Voldemort forces Harry to bow using a magical pressure that bends his spine against his will. The Dark Lord hits Harry with the Cruciatus Curse again, causing him to scream in agonizing pain. Harry manages to resist the Imperius Curse, a spell that controls the victim's mind, by shouting his refusal. He dives behind a headstone to avoid a Killing Curse and decides to face Voldemort upright like his father.
+
+Harry and Voldemort cast spells at the same moment, and their wands connect with a beam of deep gold light. They are lifted into the air and enclosed within a golden, dome-shaped web made of thousands of light beams. Phoenix song fills the air, and Harry concentrates on forcing beads of light back toward Voldemort's wand. The connection causes Voldemort's wand to experience Prior Incantatem, a reverse spell effect that regurgitates echoes of previous victims. Smoky shadows of Cedric Diggory, Frank Bryce, Bertha Jorkins, and Harry's parents emerge from the wand.
+
+The shadows pace around the dome and whisper words of encouragement to Harry while distracting Voldemort. Lily and James Potter tell Harry to run for the Portkey as soon as the connection is broken. Cedric's shadow asks Harry to take his body back to his parents at Hogwarts. Harry breaks the light thread, sprints past the stunned Death Eaters, and reaches Cedric's corpse. He uses the Summoning Charm to pull the Triwizard Cup to him and is instantly transported away.
+
+**Sentence Count Check:** 15
+
+---
+
+### CHAPTER 35: Veritaserum
+Harry lands back on the Hogwarts grounds clutching Cedric's body and the Triwizard Cup. Dumbledore and Fudge rush to him as the crowd realizes Cedric Diggory is dead. Mad-Eye Moody pulls Harry away from the scene and carries him back to the castle. Inside his office, Moody locks the door and confesses that he put Harry's name in the Goblet of Fire. Moody reveals he is a Death Eater who used the tournament to deliver Harry to Voldemort.
+
+Dumbledore, Snape, and McGonagall blast open the door and stun Moody before he can kill Harry. Dumbledore opens a seven-locked trunk and finds the real Alastor Moody imprisoned in a pit at the bottom. The imposter's Polyjuice Potion wears off, revealing him to be Barty Crouch Jr., the son of the Ministry official. Snape provides Veritaserum, a powerful truth potion, which Dumbledore forces Crouch Jr. to drink. Under the potion's influence, Crouch Jr. explains how his mother helped him escape Azkaban years ago.
+
+Crouch Jr. describes how he lived under his father's Imperius Curse until Voldemort and Wormtail rescued him. He admits to killing his father in the Hogwarts forest and transfiguring the body into a bone to hide it. The imposter details how he kidnapped the real Moody and used his hair to maintain his disguise all year. He explains that he manipulated the tournament tasks and the Portkey to ensure Harry reached the graveyard. Dumbledore listens as the confession confirms the return of Lord Voldemort and the extent of the infiltration.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,52 @@
+### 6: The Portkey
+Mrs. Weasley wakes Harry and the Weasley children before dawn to prepare for their journey to the Quidditch World Cup. Mr. Weasley explains that Bill, Charlie, and Percy will Apparate to the site later because they are of age and licensed. Mrs. Weasley uses a Summoning Charm to confiscate Ton-Tongue Toffees from Fred and George's pockets before they depart. The group sets out on a long walk through the dark toward Stoatshead Hill to find a Portkey. Mr. Weasley explains that Portkeys are enchanted everyday objects used to transport large groups of wizards simultaneously at prearranged times.
+
+Upon reaching the summit of Stoatshead Hill, the group meets Amos Diggory and his son Cedric, a Hufflepuff Seeker. Amos boasts about Cedric beating Harry in a previous Quidditch match, causing embarrassment for Cedric and irritation for the twins. The nine wizards gather around a moldy old boot that serves as the designated Portkey for their time slot. Mr. Weasley counts down the seconds until the group must make physical contact with the object. At exactly five past five, the Portkey activates and pulls them irresistibly forward through a howl of wind.
+
+The group slams into the ground upon arrival at a misty moor, with only the adult wizards and Cedric remaining on their feet. A Ministry wizard named Basil collects the used boot and places it in a box with other discarded Portkeys. Mr. Weasley leads the group toward their assigned campsite, which is managed by a Muggle named Mr. Roberts. They pass through a gate and see thousands of tents stretching toward a distant wood. Harry notices two grumpy wizards in inexpert Muggle disguises monitoring the arrivals.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: Bagman and Crouch
+Mr. Weasley struggles to pay the campsite manager, Mr. Roberts, using unfamiliar Muggle currency until Harry assists him. A Ministry wizard frequently uses a Memory Charm on Mr. Roberts to prevent him from noticing the blatant magical activity. The Weasleys set up two shabby tents by hand to maintain the appearance of being Muggles. Harry enters the first tent and discovers a three-room flat inside, complete with a kitchen and a bathroom. Ron, Harry, and Hermione set out across the vast campsite to fetch water from a communal tap.
+
+The trio passes elaborate magical tents, including a miniature palace with live peacocks and a four-story structure. They encounter Seamus Finnigan and Dean Thomas at a tent covered in Irish shamrocks and posters of Viktor Krum. At the water tap, a Ministry official unsuccessfully tries to convince an old wizard named Archie to wear trousers instead of a nightgown. Harry sees Cho Chang and Oliver Wood while walking back through the crowded rows of international campers. Back at the tent, Bill, Charlie, and Percy arrive by Apparation just as the fire is finally lit.
+
+Ludo Bagman, the Head of Magical Games and Sports, arrives at the campfire wearing his old Wimbourne Wasps Quidditch robes. Fred and George bet all their savings on Ireland winning the match but Viktor Krum catching the Snitch. Barty Crouch, a high-ranking Ministry official, Apparates at the fireside and discusses administrative difficulties with Bagman. Crouch accidentally calls Percy "Weatherby," much to the twins' amusement, while discussing the ban on flying carpets. As night falls, the group follows a lantern-lit trail through the woods toward the massive Quidditch stadium.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: The Quidditch World Cup
+The group enters the Top Box of the stadium, which is situated at the highest point between the goalposts. Harry meets Winky, a house-elf who is saving a seat for her master, Barty Crouch, despite her fear of heights. Cornelius Fudge, the Minister of Magic, introduces Harry to the Bulgarian Minister, who pretends not to understand English. Lucius Malfoy and his family arrive as Fudge’s guests, leading to a tense exchange with Mr. Weasley. Ludo Bagman uses a Sonorus charm on his throat to provide commentary for the hundred thousand spectators.
+
+The Bulgarian mascots, a hundred veela, perform a dance that briefly hypnotizes Harry and Ron into attempting to jump from the box. The Irish mascots, thousands of leprechauns, fly into the stadium and rain gold coins down upon the crowd. The match begins at a frantic pace, and Harry uses his Omnioculars to watch the Irish Chasers score three quick goals. Viktor Krum, the Bulgarian Seeker, performs a Wronski Feint to trick the Irish Seeker, Aidan Lynch, into crashing. The match turns violent as the veela transform into bird-like creatures and throw fire after the referee calls a foul.
+
+Ireland maintains a significant lead despite Krum catching the Snitch to end the game on his own terms. Krum lands with a bloody face and a broken nose while the Irish players celebrate their victory. Fred and George collect their winnings from Ludo Bagman, who looks stunned by the twins' successful bet. The Quidditch World Cup is presented to the Irish team in the Top Box as the stadium is magically illuminated. Harry and the Weasleys eventually leave the stadium and return to their tents to celebrate the match.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: The Dark Mark
+Mr. Weasley warns Fred and George not to tell their mother about their gambling winnings before the group goes to bed. Harry is woken suddenly by Mr. Weasley, who commands everyone to grab their jackets and flee into the woods immediately. Outside, a group of hooded and masked wizards marches across the campsite, levitating the Muggle manager and his family. The masked wizards use their wands to contort the Muggles into grotesque shapes while setting fire to nearby tents. Bill, Charlie, and Percy join the Ministry wizards to stop the riot while the younger children hide in the trees.
+
+Harry, Ron, and Hermione encounter Draco Malfoy, who mocks them and warns that the rioters are targeting Muggles and Muggle-borns. Harry realizes he has lost his wand as they move deeper into the forest to avoid the chaos. They find Winky the house-elf struggling through the bushes, acting as though she is being physically restrained by an invisible force. Ludo Bagman Apparates in the woods and expresses shock when told about the riot at the campsite. A voice nearby shouts "MORSMORDRE," and a colossal green skull with a serpent tongue erupts into the night sky.
+
+Ministry wizards Apparate and fire Stupefy charms in all directions, nearly hitting Harry, Ron, and Hermione. Amos Diggory finds Winky unconscious behind a tree and discovers Harry’s lost wand in her hand. Mr. Diggory uses the Prior Incantato spell to prove that Harry’s wand was used to conjure the Dark Mark. Barty Crouch arrives and dismisses Winky for her disobedience, despite Hermione’s protests about the elf’s fear. Mr. Weasley explains that the Dark Mark is Lord Voldemort’s symbol, which his followers used to cast over the houses of their victims.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: Mayhem at the Ministry
+The group returns to the Burrow via Portkey and finds Mrs. Weasley waiting in the yard in a state of panic. She hugs the twins tightly, expressing regret for scolding them about their academic performance before they left. Mr. Weasley reads the Daily Prophet, which features a critical article by Rita Skeeter about the Ministry's failure to maintain order. Percy and Mr. Weasley head to the Ministry immediately to handle the administrative fallout and the influx of complaining Howlers. Harry tells Ron and Hermione that his scar hurt for the first time in thirteen years three days before the riot.
+
+Harry explains his dream about Voldemort and Wormtail and mentions that he has already written to Sirius Black for advice. Hermione expresses skepticism about Professor Trelawney's prediction that the Dark Lord would rise again with his servant's help. The teenagers spend the rest of the week playing Quidditch in the orchard and avoiding the tension in the house. Mrs. Weasley buys the students' school supplies in Diagon Alley, including refills for Harry’s potion kit and new quills. Mr. Weasley returns home exhausted, reporting that Rita Skeeter has discovered that Bertha Jorkins, a Ministry employee, is missing.
+
+Mrs. Weasley presents Ron with his new dress robes, which are secondhand, maroon, and decorated with moldy lace. Ron is horrified by the appearance of the robes and insists he will not wear them for formal school occasions. Harry receives bottle-green dress robes that are much simpler in design and do not have any lace. Ron complains about the poor quality of his belongings while Harry worries about the lack of a reply from Sirius. The chapter ends with the students preparing their trunks for the return to Hogwarts the following morning.
+
+**Sentence Count Check:** 15

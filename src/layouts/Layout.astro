@@ -27,6 +27,9 @@ const {
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
 
+    <!-- Canonical URL -->
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+
     <!-- OpenGraph SEO Tags -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />

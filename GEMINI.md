@@ -34,13 +34,14 @@ We are using a modern Static Site Generation (SSG) approach.
 *   [x] Built a custom React floating action button (`ReaderControls.tsx`) that successfully toggles Dark/Light mode and adjusts the root font size across the site.
 *   [x] Fixed the Tailwind v4 dark mode class variant issue across all pages.
 *   [x] Ingested the rest of the Sun Eater series (Howling Dark, Demon in White, Kingdoms of Death) and refactored the ingestion script to handle multiple books/series dynamically.
-*   [x] Ingested the Dune series (Books 1-6), The Stormlight Archive (Books 1-3), the Red Rising series (Books 1-6), and The Lord of the Rings (Books 1-3).
+*   [x] Ingested the Dune series (Books 1-6), The Stormlight Archive (Books 1-3), the Red Rising series (Books 1-6), The Lord of the Rings (Books 1-3), and Harry Potter (Books 1-7).
 *   [x] Implemented proper `bookOrder` routing sorting and updated the UI to display "Book X" instead of "Volume".
 *   [x] Built a smart, fuzzy-search component (`SearchBar.tsx`) powered by `fuse.js` on the homepage to find series and books.
 *   [x] Injected dynamic SEO meta tags (Title, Description, OpenGraph, Twitter Cards) targeting "Panic Recap" keywords into the layout templates.
+*   [x] Implemented Advanced SEO: auto-generated `sitemap.xml`, `robots.txt`, and Canonical URLs to explicitly guide search crawlers.
 
 ## 🚧 Current Status & Next Steps
-The core platform is fully functional locally (`npm run dev`) and is prepared for its initial deployment to Vercel. You can browse from the new landing page to the archive, down to reading chunks of *The Suneater Series*, *Dune*, *The Stormlight Archive*, *Red Rising*, and *The Lord of the Rings*.
+The core platform is fully functional locally (`npm run dev`) and is prepared for its initial deployment to Vercel. You can browse from the new landing page to the archive, down to reading chunks of *The Suneater Series*, *Dune*, *The Stormlight Archive*, *Red Rising*, *The Lord of the Rings*, and *Harry Potter*.
 
 **Decisions Made:**
 *   **CSS Strategy:** Decided to keep Tailwind CSS.

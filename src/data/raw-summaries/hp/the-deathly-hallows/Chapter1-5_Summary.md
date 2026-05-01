@@ -1,0 +1,52 @@
+### Chapter 1: The Dark Lord Ascending
+Severus Snape and Yaxley meet outside Malfoy Manor to report their findings to Lord Voldemort regarding Harry Potter's departure from Privet Drive. The Death Eaters gather in a drawing room where Charity Burbage, the Hogwarts Muggle Studies professor, hangs unconscious and suspended over a long table. Snape reveals that the Order of the Phoenix intends to move Harry on the coming Saturday at nightfall. Yaxley counters with information from a Confunded Auror named Dawlish, but Voldemort accepts Snape's intelligence as superior. Voldemort explains that he must be the one to kill Harry Potter personally to avoid past failures.
+
+Voldemort demands a replacement wand for his own and forcibly takes the elm and dragon heartstring wand belonging to Lucius Malfoy. He humiliates the Malfoy family by mocking their lack of enthusiasm for his presence and their relation to the werewolf Remus Lupin. Bellatrix Lestrange eagerly attempts to distance herself from her niece Nymphadora Tonks, who has married the werewolf. Voldemort uses Lucius's wand to wake Charity Burbage, who pleads with Snape for help as she revolves in midair. Snape remains silent and expressionless as Voldemort mocks Burbage’s public defense of Muggle-borns and her desire for wizard-Muggle mating.
+
+Voldemort executes Charity Burbage with the Avada Kedavra killing curse, causing her body to slam onto the table with a loud crash. Draco Malfoy falls out of his chair in terror while the other Death Eaters jump back from the green light. Voldemort then feeds the corpse to his giant snake, Nagini, which slithers from his shoulders onto the table. The snake is described as being as thick as a man's thigh with unblinking vertical-slit eyes. The meeting concludes as the snake begins to consume the former professor in front of the assembled Death Eaters. Lord Voldemort remains focused on his plan to intercept Harry Potter during his transit to a new safe house.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 2: In Memorandum
+Harry Potter cuts his finger on a sharp fragment of Sirius Black's enchanted mirror while emptying his school trunk at Privet Drive. He discovers several items including a Potter Stinks badge, a cracked Sneakoscope, and the gold locket with the note from R.A.B. inside. Harry spends an hour sorting his belongings into piles of things to keep and things to leave behind for the Dursleys. He repacks his Invisibility Cloak, the Marauder's Map, and his wand into a rucksack for his upcoming departure. Hedwig remains in her cage, appearing to ignore Harry due to her lack of flight time during the summer.
+
+Harry reads an obituary for Albus Dumbledore written by Elphias Doge in the Daily Prophet. The article details Dumbledore's brilliant student years, his family tragedies involving his father Percival and sister Ariana, and his legendary duel with Grindelwald. Harry feels a sense of humiliation and regret realizing how little he actually knew about his headmaster's personal history. He finds a second article by Rita Skeeter promoting her upcoming scandalous biography, *The Life and Lies of Albus Dumbledore*. Skeeter claims that Dumbledore dabbled in the Dark Arts and that his famous victory over Grindelwald might be a fabrication.
+
+Harry reacts with fury to Skeeter's claims of an "unhealthy" and "sinister" relationship between himself and Dumbledore. He balls up the newspaper and throws it against the wall while pacing his room in a state of revulsion. While looking at the broken mirror fragment, Harry sees a flash of brightest blue that reminds him of Dumbledore's eyes. He convinces himself that he imagined the reflection because the wall behind him is a sickly peach color. Harry concludes that Dumbledore's blue eyes will never pierce him again as he prepares for the Order's arrival. He tucks the obituary into a defensive magic book and waits for the final four days of his underage status to pass.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 3: The Dursleys Departing
+Vernon Dursley bellows for Harry to come downstairs and announces that he has changed his mind about leaving the house. Vernon believes the Order's warning is a plot to steal the Dursley home while property prices are skyrocketing. Harry argues that he already owns a house left to him by Sirius Black and has no interest in Privet Drive. He explains that once he turns seventeen, the protective charm on the house will break and leave the Dursleys vulnerable. Dudley Dursley decides to accept the Order's protection, forcing his parents to agree to go with him.
+
+Dedalus Diggle and Hestia Jones arrive at the house to escort the Dursleys to a secure location. Dedalus wears a mauve top hat and possesses a pocket watch that screeches at him to hurry up. Vernon Dursley expresses deep skepticism and indignation when Dedalus admits he does not know how to drive a Muggle car. The Dursleys pack their car, and Vernon attempts a half-hearted handshake with Harry before closing his fist and swinging it away. Hestia is outraged that the Dursleys show no interest in Harry's safety or his unique position in the war.
+
+Dudley surprises Harry by shaking his hand and stating that he does not think Harry is a waste of space. He acknowledges that Harry saved his life from the dementors two years prior, though Harry clarifies it was Dudley's soul at risk. Petunia Dursley bursts into tears and embraces Dudley for his kindness rather than saying a proper goodbye to her nephew. Aunt Petunia hesitates at the door as if wanting to speak to Harry, but ultimately leaves without saying anything of substance. The Dursleys drive away with Dedalus and Hestia, leaving Harry alone in the house to wait for his own guard. Harry watches the car disappear at the end of Privet Drive as the sun begins to set.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 4: The Seven Potters
+Harry gathers his rucksack, Firebolt, and Hedwig's cage before meeting the Order of the Phoenix in his kitchen. Mad-Eye Moody explains that the Ministry has made it an offense to use the Floo Network or Portkeys at the house. The Order's plan involves using six decoys who will all consume Polyjuice Potion to transform into identical Harry Potters. Ron, Hermione, Fred, George, Fleur Delacour, and Mundungus Fletcher drink the potion and take on Harry's appearance. Each Harry is assigned a protector and a different mode of transport, such as a broom, a thestral, or Hagrid’s motorbike.
+
+Harry rides in the sidecar of Sirius’s old motorbike with Hagrid, who wears goggles and a leather helmet. As soon as the fourteen members rise into the air, they are surrounded by thirty hooded Death Eaters. A green Killing Curse strikes Hedwig, killing the owl instantly as she sits in her cage between Harry's knees. Hagrid uses a green button on the bike to release a solid black wall from the exhaust, knocking one Death Eater out of the sky. Another button releases a net, and a purple button triggers dragon fire to boost the motorbike's speed.
+
+The sidecar breaks away from the motorbike during the high-speed pursuit, forcing Harry to use a Levitation Charm to stay airborne. Hagrid eventually pulls Harry onto the bike's main seat just before the sidecar falls and Harry explodes it with a curse. Harry recognizes an Imperiused Stan Shunpike among the pursuers and uses the Disarming Charm instead of a lethal spell. This action identifies him as the real Harry, and the Death Eaters immediately summon Lord Voldemort to their location. Voldemort flies through the air without a support, but Harry's wand acts independently to shoot golden fire at the Dark Lord.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 5: Fallen Warrior
+Harry and Hagrid crash into a muddy pond inside the protective boundaries of Ted Tonks's garden. Voldemort is forced to retreat because he cannot penetrate the Order's magical enchantments protecting the property. Ted Tonks, a fair-haired man, heals Harry's broken ribs, regrown tooth, and injured arm inside his home. Harry meets Andromeda Tonks, who bears a striking resemblance to her sister Bellatrix but possesses kinder eyes. Harry and Hagrid use a silver-backed hairbrush Portkey to travel from the Tonks residence to the Burrow.
+
+Upon arrival at the Burrow, Harry finds Mrs. Weasley and Ginny waiting anxiously for the other pairs to return. Lupin and George arrive next, but George is unconscious and has had one of his ears cursed off. Lupin violently pins Harry against a wall to verify his identity by asking about the creature in his old office. George wakes up and makes a joke about being "holey," which causes Mrs. Weasley to sob with relief. Hermione and Kingsley return on a thestral, and Kingsley immediately checks Lupin's identity with a secret question.
+
+Ron and Tonks arrive later, explaining that they were delayed by a battle with Bellatrix Lestrange and missed their Portkey. Bill and Fleur arrive last on a thestral and announce that Mad-Eye Moody was killed by a curse from Voldemort. Mundungus Fletcher panicked and Disapparated during the flight, leaving Moody exposed to the fatal attack. The group gathers in the living room to drink firewhisky in a somber toast to their fallen leader. Fleur suggests that someone in the Order must have been careless with the date of the move. Harry defends the group, stating that he trusts everyone present and believes no one would intentionally betray him.
+
+**Sentence Count Check:** 15

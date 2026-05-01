@@ -1,0 +1,52 @@
+### 6: Draco's Detour
+Harry celebrates his sixteenth birthday at the Burrow while news of disappearances and deaths fills the Daily Prophet. Remus Lupin arrives with news that Igor Karkaroff has been found dead and that Florean Fortescue and Ollivander have vanished. Harry receives his Hogwarts letter and discovers he has been made Quidditch Captain, giving him equal status to a prefect. The group travels to Diagon Alley under heavy Ministry security and meets Hagrid at the Leaky Cauldron. They witness the somber atmosphere of the wizarding shopping district, where many shops are boarded up or covered in security posters.
+
+Harry, Ron, and Hermione visit Madam Malkin's for new robes and encounter Draco Malfoy and his mother Narcissa. A tense confrontation occurs where wands are drawn and insults are exchanged before the Malfoys leave for another shop. The trio then visits Weasleys' Wizard Wheezes, the twins' highly successful and vibrant joke shop. While there, Harry spots Draco Malfoy moving through the street alone after apparently slipping away from his mother. Harry, Ron, and Hermione use the Invisibility Cloak to follow Malfoy into the dangerous side street known as Knockturn Alley.
+
+The trio tracks Malfoy to Borgin and Burkes, a shop specializing in Dark artifacts. They use Extendable Ears to listen as Malfoy threatens Mr. Borgin and demands he fix a mysterious object while reserving another. Malfoy mentions Fenrir Greyback, a family friend and notorious werewolf, to intimidate the shopkeeper. Hermione attempts to enter the shop to gather more information but is quickly identified and ejected by a suspicious Borgin. The trio rejoins the Weasleys and Hagrid, keeping their discovery of Malfoy's suspicious behavior a secret for the time being.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: The Slug Club
+Harry spends the final week of the holidays trying to convince Ron and Hermione that Draco Malfoy has become a Death Eater. He believes Malfoy was showing Borgin the Dark Mark on his left arm to intimidate him. Ron and Hermione remain skeptical, arguing that Voldemort would not recruit a sixteen-year-old boy. The group travels to King's Cross Station in Ministry cars and is escorted onto Platform Nine and Three-Quarters by Aurors. On the Hogwarts Express, Harry finds that his reputation as "The Chosen One" has led to intense staring from other students.
+
+Harry joins Neville and Luna in a compartment but is later invited to lunch by the new professor, Horace Slughorn. Slughorn has gathered a group of students with famous or influential connections, a group he calls the "Slug Club." The guests include Blaise Zabini, Cormac McLaggen, Marcus Belby, Neville, and Ginny, whom Slughorn invited after seeing her perform a Bat-Bogey Hex. Slughorn interrogates the students about their famous relatives and attempts to glean information from Harry about the events at the Ministry. Harry finds the meeting uncomfortable and is eager to return to his friends once the lunch concludes.
+
+Harry decides to spy on Malfoy by using his Invisibility Cloak to sneak into the Slytherin compartment behind Blaise Zabini. He hides in the luggage rack and overhears Malfoy boasting to his fellow Slytherins about a mission he has received from the Dark Lord. Malfoy implies he may not return to Hogwarts for his seventh year because he has moved on to bigger things. As the train arrives at Hogsmeade, Malfoy notices Harry's presence after a trunk hits Harry on the head. Once the compartment is empty, Malfoy paralyzes Harry with a curse, breaks his nose, and leaves him trapped under the cloak.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: Snape Victorious
+Harry lies paralyzed and bleeding under his Invisibility Cloak as the Hogwarts Express prepares to depart back to London. He is unable to speak or move, and he realizes that Ron and Hermione will likely assume he has already left the train. Nymphadora Tonks discovers Harry just as the train begins to move and uses a counter-spell to unfreeze him. She fixes Harry's broken nose with a healing spell and sends a Patronus message to the castle to inform them he is safe. They walk together from the station to the school gates, which are now heavily protected by anti-intruder jinxes.
+
+Severus Snape meets them at the gates and escorts Harry to the castle while making mocking remarks about Tonks's new Patronus. Snape deducts seventy points from Gryffindor for Harry's lateness and for wearing Muggle clothing instead of school robes. Harry enters the Great Hall during the start-of-term feast and joins Ron and Hermione, who are shocked by his bloodied appearance. Hermione cleans the dried blood from his face while Harry notices Draco Malfoy miming the breaking of a nose to his friends. Harry learns that the Sorting Hat's song urged the houses to unite in the face of external threats.
+
+Albus Dumbledore addresses the school and reveals that Professor Slughorn will be the new Potions master. He then announces that Severus Snape has finally been appointed as the Defense Against the Dark Arts teacher, a revelation that shocks Harry. Dumbledore warns the students about the increasing danger of Voldemort's return and emphasizes the need for strict security measures. After the feast, Harry tells Ron about Malfoy's attack and his overheard boasts about a mission for the Dark Lord. They meet Hagrid, who is excited to train his half-brother Grawp as an assistant, though Harry and Ron have decided to drop his class.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: The Half-Blood Prince
+On the first day of classes, Harry and Ron receive their new schedules from Professor McGonagall after their O.W.L. results are confirmed. Since Slughorn accepts students with "Exceeds Expectations" into his N.E.W.T. Potions class, Harry and Ron are now able to continue the subject. They attend their first Defense Against the Dark Arts lesson with Snape, who has decorated the room with gruesome pictures of Dark Arts victims. Snape emphasizes that the Dark Arts are unfixed and mutating, requiring flexible and inventive defenses. He instructs the class on the importance of nonverbal spells, leading to a confrontation where Harry accidentally knocks Snape off-balance.
+
+Harry receives a note from Dumbledore scheduling their first private lesson for Saturday night. During Potions class, Harry and Ron are forced to borrow old, battered textbooks and tarnished scales from Slughorn. Harry's borrowed copy of "Advanced Potion-Making" is filled with handwritten notes and alternative instructions from a previous owner. By following these scribbled tips, Harry successfully brews a perfect Draught of Living Death, far outperforming the rest of the class. Slughorn is highly impressed and awards Harry a small bottle of Felix Felicis, a potion of liquid luck. Harry's sudden success irritates Hermione, who followed the official instructions and produced a less successful potion.
+
+At dinner, Harry explains to Ron and Hermione that he won the prize by following the notes in his borrowed book. Ginny expresses concern when she hears Harry is following instructions from a mysterious source, reminding him of Tom Riddle's diary. Hermione performs a "Specialis Revelio" spell on the book to check for Dark magic, but the book appears to be ordinary. Harry retrieves the book after it falls and discovers a signature on the back cover. The inscription states that the book is the property of the Half-Blood Prince. Harry remains intrigued by this mysterious identity but decides to keep using the book's helpful advice.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: The Hour of Gaunt
+Harry continues to excel in Potions by following the Half-Blood Prince's notes, which leads to Slughorn frequently praising his "inherited" talent. Hermione remains frustrated by Harry's use of the unofficial instructions and refuses to use the book herself. On Saturday evening, Harry goes to Dumbledore's office for his first private lesson and finds the headmaster waiting with a Pensieve. Dumbledore explains that they will be exploring memories to understand Voldemort's past and the prophecy. He shows Harry a memory from Bob Ogden, a former Ministry official who visited the Gaunt family. They enter the Pensieve and find themselves in a secluded, squalid cottage near the village of Little Hangleton.
+
+In the memory, they observe Marvolo Gaunt and his son Morfin, who are both aggressive, impoverished, and speak only in Parseltongue. They also see Merope Gaunt, Marvolo's daughter, who appears defeated and is treated with extreme cruelty by her father and brother. Ogden has come to summons Morfin for a hearing after he attacked a Muggle named Tom Riddle senior. Marvolo proudly displays a family ring and a locket, claiming they are descendants of Salazar Slytherin. A confrontation occurs when Morfin reveals that Merope has a secret obsession with the Muggle Tom Riddle. Marvolo attempts to strangle his daughter in a rage before Ogden intervenes and eventually flees the violent scene.
+
+Back in the office, Dumbledore explains that Marvolo and Morfin were later imprisoned in Azkaban for their actions. He reveals that Merope was Voldemort's mother and Tom Riddle senior was his father. Merope likely used a love potion to ensnare Riddle, but he abandoned her once she stopped providing it during her pregnancy. Merope died shortly after giving birth to her son in a London orphanage, where Voldemort was subsequently raised. Dumbledore emphasizes that understanding this history is essential for Harry to survive the coming conflict. Harry notices that Dumbledore is now wearing Marvolo's ring, which features a cracked black stone.
+
+**Sentence Count Check:** 15

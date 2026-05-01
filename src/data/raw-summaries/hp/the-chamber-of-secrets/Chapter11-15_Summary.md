@@ -1,0 +1,52 @@
+### 11: The Dueling Club
+Harry Potter recovers in the hospital wing after his arm bones are regrown following a Quidditch injury. He discovers that Colin Creevey has been Petrified by a mysterious force and brought to the infirmary. Hermione Granger and Ron Weasley continue brewing Polyjuice Potion in Moaning Myrtle's bathroom to interrogate Draco Malfoy. Professor McGonagall collects names for the Christmas holidays, and the trio signs up to stay at Hogwarts. Hermione steals bicorn horn and boomslang skin from Professor Snape’s office while Harry creates a diversion with a firework.
+
+Gilderoy Lockhart starts a Dueling Club in the Great Hall with Professor Snape acting as his assistant. Snape disarms Lockhart with a scarlet flash, blasting the teacher off the golden stage and against a wall. The students are paired off to practice, and Harry is matched with Draco Malfoy while Hermione faces Millicent Bulstrode. Malfoy casts a Tickling Charm on Harry, and Harry responds with a spell that makes Malfoy's legs dance uncontrollably. Snape eventually ends the chaos by casting a freezing spell to stop the various magical effects.
+
+Snape suggests a public duel between Harry and Malfoy, leading Malfoy to conjure a long black snake using the Serpensortia spell. The snake prepares to strike Justin Finch-Fletchley, but Harry shouts at it in Parseltongue, causing the creature to become docile. Justin flees in terror, and Harry learns from Ron that he is a Parselmouth, a rare gift associated with Salazar Slytherin. Harry later discovers Justin and Nearly Headless Nick lying Petrified in a dark corridor near a line of scuttling spiders. Professor McGonagall leads Harry to the office of Albus Dumbledore after Peeves the Poltergeist alerts the school.
+
+Sentence Count Check: 15
+
+---
+
+### 12: The Polyjuice Potion
+Harry enters Dumbledore's circular office and encounters the Sorting Hat, which reiterates that he would have succeeded in Slytherin House. He witnesses Fawkes, a decrepit red and gold bird, burst into flames on a golden perch and be reborn from the ashes. Dumbledore explains that Fawkes is a phoenix with healing tears and the ability to carry heavy loads. Hagrid bursts into the office to defend Harry, but Dumbledore clarifies that he does not believe Harry is the attacker. Harry declines to tell Dumbledore about the voices he hears or the Polyjuice Potion brewing in the bathroom.
+
+The school is gripped by panic following the double attack on Justin and Nearly Headless Nick, leading many students to book seats home. Fred and George Weasley mock the situation by marching ahead of Harry and calling him the Heir of Slytherin. On Christmas morning, Hermione reveals that the Polyjuice Potion is complete and ready for use that night. Harry and Ron use sleeping-draught-filled chocolate cakes to knock out Crabbe and Goyle in the entrance hall. They hide the unconscious boys in a broom closet and pluck hairs from their heads to use as potion ingredients.
+
+Harry and Ron drink the potion in Moaning Myrtle’s bathroom and undergo a painful physical transformation into Crabbe and Goyle. Hermione remains in a locked stall, refusing to come out after her own transformation goes wrong. The boys encounter Percy Weasley in the dungeons before Draco Malfoy leads them into the Slytherin common room using the password "pure-blood." Malfoy reveals that his father, Lucius, hidden Dark Arts artifacts in a secret chamber under their drawing room floor. He also states that a girl died the last time the Chamber was opened fifty years ago.
+
+Sentence Count Check: 15
+
+---
+
+### 13: The Very Secret Diary
+Hermione remains in the hospital wing for several weeks because her Polyjuice Potion transformation turned her into a cat-human hybrid. Harry and Ron visit her daily and eventually discover a soggy, fifty-year-old diary in Moaning Myrtle’s flooded bathroom. The diary belongs to T. M. Riddle, a student who received an award for special services to the school. Harry notices that the diary is blank despite his attempts to reveal text using Hermione's Revealer and the Aparecium spell. He becomes obsessed with the book and carries it with him, feeling an unexplained connection to the owner.
+
+On Valentine's Day, Gilderoy Lockhart decorates the Great Hall with pink flowers and hires dwarves dressed as cupids to deliver messages. A dwarf tackles Harry in a crowded corridor to deliver a singing valentine, causing his bag to rip and spill ink. Draco Malfoy snatches the diary, but Harry uses a Disarming Charm to reclaim the book in front of a group of students. Harry later discovers that the diary has absorbed the spilled ink without leaving a single mark on the pages. He writes his name in the diary, and the ink vanishes before Tom Riddle’s handwriting appears in response.
+
+Riddle offers to show Harry a memory of the night he caught the person who opened the Chamber fifty years ago. Harry is pulled into the diary and finds himself in the past, standing in the office of Headmaster Armando Dippet. He watches a younger Tom Riddle plead to stay at Hogwarts over the summer to avoid returning to a Muggle orphanage. Riddle stalks a large student named Rubeus Hagrid to a dungeon and confronts him about a monster kept in a box. A giant, hairy spider with pincers escapes the box and flees into the castle as Riddle attempts to curse it.
+
+Sentence Count Check: 15
+
+---
+
+### 14: Cornelius Fudge
+Harry tells Ron and Hermione that a younger Hagrid was the person who opened the Chamber of Secrets fifty years ago. The trio discusses the possibility that Riddle caught the wrong person, though they acknowledge that the attacks stopped after Hagrid’s expulsion. They decide not to confront Hagrid about the memory unless another attack occurs within the school. In April, the second-year students choose their elective subjects for the third year, with Hermione signing up for every available class. Harry finds his dormitory ransacked and discovers that T. M. Riddle’s diary has been stolen from his trunk.
+
+The disembodied voice returns, and Harry hears it whispering about ripping and tearing just before a Quidditch match against Hufflepuff. Professor McGonagall cancels the game and orders all students to return to their common rooms for their own safety. She takes Harry and Ron to the hospital wing, where they find Hermione and a Ravenclaw prefect lying Petrified. New security measures are implemented, including a six o'clock curfew and teacher escorts between every classroom. Harry and Ron use the Invisibility Cloak to sneak out of the castle and visit Hagrid in his wooden cabin.
+
+Hagrid greets them with a crossbow, but their conversation is interrupted by the arrival of Albus Dumbledore and Cornelius Fudge. Fudge, the Minister of Magic, explains that he must take Hagrid to Azkaban prison as a precautionary measure due to the attacks. Lucius Malfoy arrives with an Order of Suspension, announcing that the governors have voted to remove Dumbledore as headmaster. Dumbledore states that help will always be given at Hogwarts to those who ask for it before departing. Hagrid leaves a final instruction for the boys to "follow the spiders" as he is led away by the Minister.
+
+Sentence Count Check: 15
+
+---
+
+### 15: Aragog
+The atmosphere at Hogwarts becomes increasingly grim with Dumbledore and Hagrid gone and visitors barred from the hospital wing. Draco Malfoy openly gloats about the situation and suggests that Professor Snape should apply for the headmaster's position. Harry and Ron observe a line of spiders scuttling toward the Forbidden Forest and decide to follow them that night. They take Hagrid's boarhound, Fang, and venture into the dark woods while using the Lumos spell for light. After walking for a long time, they encounter the Weasleys' Ford Anglia, which has turned wild and now roams the forest.
+
+Gigantic spiders seize Harry and Ron, carrying them deep into the heart of the forest to a vast, hollow clearing. They are presented to Aragog, a blind spider the size of a small elephant who lives in a domed web. Aragog explains that Hagrid raised him from an egg in a cupboard and protected him when the girl died. He reveals that he is not the monster from the Chamber of Secrets and that spiders fear the true creature. Aragog refuses to name the ancient beast and commands his many sons and daughters to eat the two boys.
+
+The Ford Anglia suddenly thunders into the hollow, knocking spiders aside and allowing Harry, Ron, and Fang to escape inside. The car drives them to the edge of the forest before disappearing back into the trees, leaving Ron shaken and ill. Harry realizes that Hagrid is innocent and that the girl who died fifty years ago was found in a bathroom. He concludes that Moaning Myrtle might be the ghost of the student who was killed during the previous opening. The boys return to the Gryffindor dormitory to rest after their narrow escape from the giant arachnids.
+
+Sentence Count Check: 15

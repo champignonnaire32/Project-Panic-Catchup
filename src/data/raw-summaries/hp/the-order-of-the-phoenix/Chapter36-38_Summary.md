@@ -1,0 +1,30 @@
+### 36: The Only One He Ever Feared
+Lupin restrains Harry as he yells for Sirius, who has just fallen through the veil. Dumbledore arrives and immobilizes most of the Death Eaters while Kingsley continues the duel with Bellatrix Lestrange. Bellatrix defeats Kingsley and flees the Death Chamber, prompting Harry to break free from Lupin and pursue her. Harry chases Bellatrix through the Department of Mysteries and into the Ministry Atrium. In the Atrium, Harry attempts to use the Unforgivable Cruciatus Curse on Bellatrix, but she mocks his inability to cause true pain.
+
+Voldemort suddenly appears in the Atrium and prepares to kill Harry for breaking the prophecy record. Dumbledore arrives through the Floo network and animates the statues of the Fountain of Magical Brethren—a gold wizard, witch, centaur, goblin, and house-elf—to protect Harry and pin Bellatrix. A fierce duel erupts between Dumbledore and Voldemort involving powerful spells, elemental transformations, and a fire serpent. Fawkes the phoenix swallows a Killing Curse intended for Dumbledore, bursting into flame and regressing to a chick. Dumbledore traps Voldemort in a cocoon of water, forcing the Dark Lord to abandon his physical form.
+
+Voldemort possesses Harry’s mind and body, using Harry's voice to taunt Dumbledore into killing them both. Harry's intense grief for Sirius and his desire for death force Voldemort out of his mind. Cornelius Fudge and other Ministry officials arrive via the Floo network just in time to see Voldemort Disapparate with Bellatrix. Fudge is forced to admit Voldemort has returned after seeing him with his own eyes. Dumbledore uses the head of the golden wizard statue to create a Portkey—an object that transports users between locations—and sends Harry back to Hogwarts.
+
+**Sentence Count Check:** 15
+
+---
+
+### 37: The Lost Prophecy
+Harry arrives in Dumbledore's office and finds the silver instruments repaired and the portraits sleeping. He attempts to leave the office, but the door is magically locked to keep him inside. When Dumbledore returns, Harry begins smashing the Headmaster's silver instruments and throwing a lunascope into the fire. Harry screams that he no longer cares about anything and wants to stop being human to escape the pain. Dumbledore remains calm throughout the outburst, eventually admitting that he is responsible for the night's tragic events.
+
+Dumbledore explains that he distanced himself from Harry all year to prevent Voldemort from using their connection to spy on him. He reveals that Kreacher the house-elf lied to Harry about Sirius being at the Ministry after Narcissa Malfoy instructed the creature to keep Sirius occupied. Snape is revealed to have alerted the Order of the Phoenix as soon as he realized Harry had gone to the Department of Mysteries. Dumbledore admits he made a mistake by not teaching Harry Occlumency himself and by choosing Snape for the task. The Headmaster confesses that he prioritized Harry's personal welfare over the necessary strategic preparations for the coming war.
+
+Dumbledore uses the Pensieve—a stone basin for viewing memories—to show Harry the full prophecy made by Sibyll Trelawney sixteen years ago. The prophecy states that a boy born at the end of July to parents who thrice defied Voldemort will have the power to vanquish the Dark Lord. Dumbledore explains that the prophecy could have applied to either Harry or Neville Longbottom. Voldemort marked Harry with the scar, choosing him as his equal and identifying him as the subject of the prediction. The final lines reveal that Harry and Voldemort must eventually kill one another because neither can live while the other survives.
+
+**Sentence Count Check:** 15
+
+---
+
+### 38: The Second War Begins
+The Daily Prophet officially announces Voldemort's return and confirms the mass revolt of Dementors from Azkaban. Harry visits his friends in the hospital wing, where Ron is recovering from brain-inflicted welts and Hermione from a purple-flame curse. Professor Umbridge is also in the hospital wing in a state of shock after being rescued from the centaurs by Dumbledore. Ron discovers that making clip-clopping noises causes Umbridge to react with terror and sit bolt upright. Harry receives fifty points for each member of the group from Professor McGonagall, securing the House Cup for Gryffindor.
+
+Harry unwraps a small, square two-way mirror that allows communication between holders, but he cannot contact Sirius with it. He seeks out Nearly Headless Nick to ask if Sirius can return as a ghost, but the ghost explains that Sirius chose to "go on." Luna Lovegood comforts Harry by sharing that she can hear voices behind the veil and believes her dead mother is still out there. On the Hogwarts Express, the D.A. members ambush Malfoy, Crabbe, and Goyle, turning them into giant slugs with various hexes. Ginny reveals she has broken up with Michael Corner and is now dating Dean Thomas, much to Ron's annoyance.
+
+At King's Cross Station, Harry is met by a group of Order members including Moody, Lupin, Tonks, and the Weasleys. The wizards confront Uncle Vernon and Aunt Petunia to warn them against mistreating Harry over the summer. Mad-Eye Moody threatens the Dursleys by implying the Order will be watching if Harry is not treated fairly. Uncle Vernon is left speechless and terrified by the colorful and intimidating group of magical people. Harry smiles and raises a hand in farewell before leading the Dursleys out of the station.
+
+**Sentence Count Check:** 15

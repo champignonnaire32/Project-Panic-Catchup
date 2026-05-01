@@ -12,7 +12,8 @@ const seriesMap = {
   'stormlight': 'The Stormlight Archive',
   'redrising': 'Red Rising',
   'dune': 'Dune',
-  'lotr': 'The Lord of the Rings'
+  'lotr': 'The Lord of the Rings',
+  'hp': 'Harry Potter'
 };
 
 // Define explicit book orders
@@ -39,6 +40,14 @@ const bookOrderMap = {
   'The Fellowship Of The Ring': 1,
   'The Two Towers': 2,
   'The Return Of The King': 3,
+  'The Sorcerers Stone': 1,
+  'The Chamber Of Secrets': 2,
+  'The Prison Of Azkaban': 3,
+  'The Goblet Of Fire': 4,
+  'The Order Of The Phoenix': 5,
+  'The Half-Blood Prince': 6,
+  'The Half Blood Prince': 6, // Just in case of hyphen splitting
+  'The Deathly Hallows': 7,
 };
 
 const rawBaseDir = path.join(process.cwd(), 'src', 'data', 'raw-summaries');

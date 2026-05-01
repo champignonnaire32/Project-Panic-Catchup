@@ -1,0 +1,52 @@
+### 16: CHAPTER 16 - In the Hogs Head
+Hermione suggests Harry start a private defense group in the library after his detentions end. Harry is reluctant at first but eventually agrees to teach those who want to learn. They choose the Hog's Head, a dingy and goat-scented pub in Hogsmeade, for their first meeting. Hermione invites several students from different houses to hear Harry's proposal. Harry worries that Sirius might try to attend the meeting in his giant black dog form.
+
+The pub is filthy and contains several hooded figures hiding their identities with veils and bandages. A large group of students arrives, much to Harry's surprise and discomfort. Zacharias Smith, a skeptical Hufflepuff, demands proof of Voldemort's return before joining. Harry refuses to describe Cedric Diggory's death but confirms he saw Voldemort return to power. Various students praise Harry's past feats like killing the Basilisk and producing a stag Patronus.
+
+The group votes unanimously to take lessons from Harry once a week. Hermione has everyone sign a parchment that she has secretly jinxed for security. On the walk back, Ron discovers that Ginny is dating the Ravenclaw Michael Corner. Hermione notices that Cho Chang could not keep her eyes off Harry during the meeting. Harry feels a surge of happiness because Cho seems impressed by his defensive abilities.
+
+**Sentence Count Check:** 15
+
+---
+
+### 17: CHAPTER 17 - Educational Decree Number Twenty-Four
+Umbridge posts a decree disbanding all student organizations and teams immediately. Harry realizes the Ministry knows about the secret meeting and suspects a traitor. Ron attempts to enter the girls' dormitory but the stairs turn into a stone slide. Hermione explains that her jinxed parchment will identify any student who betrays the group. Angelina Johnson is distraught because the Quidditch team is also dissolved under the new rule.
+
+Hedwig arrives in the middle of a lesson with a mangled wing and ruffed feathers. Harry takes the injured owl to Professor Grubbly-Plank, the substitute Care of Magical Creatures teacher. McGonagall warns Harry that all mail and fires are now being monitored by Umbridge. Malfoy taunts the Gryffindors because the Slytherin team was reinstated by the High Inquisitor. Neville charges Malfoy after being insulted about the long-term patients in St. Mungo's hospital.
+
+Snape and Umbridge clash during an inspection of the Potions dungeon. Trelawney becomes hysterical after Umbridge places her on probation during a Divination lesson. Sirius appears in the Gryffindor fire to discuss the progress of the new defense group. Umbridge's stubby, ring-covered hand suddenly reaches into the flames to grab the fleeing Sirius. The trio narrowly escapes being caught by the High Inquisitor in the common room corner.
+
+**Sentence Count Check:** 15
+
+---
+
+### 18: CHAPTER 18 - Dumbledore's Army
+Hermione is certain that Umbridge attacked Hedwig to read Harry's private correspondence. Sirius warns the trio that the Ministry is watching the Floo Network for unauthorized travel. Harry begins to suspect that Sirius is being reckless due to his forced isolation at home. Dobby reveals the existence of the Room of Requirement, also known as the Come and Go Room. The room only appears when someone is in dire need of a specific space or object.
+
+Harry finds the room equipped with dark detectors, cushions, and defensive library books. Twenty-eight students gather for the first official meeting of the secret defense group. The group elects Harry as their leader through a formal show of hands. Ginny suggests naming the group Dumbledore's Army to mock the Ministry's greatest fear. Harry chooses the Disarming Charm, Expelliarmus, as the first spell for the group to practice.
+
+Many students struggle with the basic charm during their initial attempts in the room. Neville successfully disarms Harry after several rounds of intense practice and concentration. Cho Chang talks to Harry and mentions her parents' fear of offending the Ministry. The D.A. members leave in small groups to avoid attracting the attention of Argus Filch. Harry feels a sense of accomplishment after successfully teaching his first defense lesson.
+
+**Sentence Count Check:** 15
+
+---
+
+### 19: CHAPTER 19 - The Lion and the Serpent
+Hermione creates enchanted fake Galleons to communicate the dates and times of D.A. meetings. The coins use a Protean Charm to mimic numbers changed on Harry's master coin. Ron's nerves worsen as the first Quidditch match against Slytherin approaches in November. Slytherin students wear silver, crown-shaped badges that mock Ron's lack of talent. Luna Lovegood wears a giant lion hat that emits a realistic roar to support Gryffindor.
+
+The Slytherins sing a derogatory song titled "Weasley Is Our King" to distract the Keeper. Ron allows several goals to pass as his confidence completely collapses during the game. Harry ignores the match commentary to search frantically for the elusive Golden Snitch. He finally spots the ball near the ground and dives against the Slytherin Draco Malfoy. Harry catches the Snitch to win the game for Gryffindor despite the poor score.
+
+Crabbe hits Harry in the back with a heavy Bludger after the whistle has blown. Malfoy insults Harry's mother and the Weasley family until a violent fight breaks out. Harry and George violently attack Malfoy on the pitch until they are magically restrained. Umbridge issues a lifelong Quidditch ban for Harry, Fred, and George using a new decree. The Gryffindor team is devastated as their broomsticks are confiscated by the Ministry.
+
+**Sentence Count Check:** 15
+
+---
+
+### 20: CHAPTER 20 - Hagrid's Tale
+Hagrid returns to Hogwarts with severe facial injuries and blood-matted hair. He explains that he and Madame Maxime traveled to the mountains to find giants. They brought gifts like everlasting Gubraithian fire to win over the giant chief, Karkus. Karkus was receptive to Dumbledore's message until he was decapitated by the rival Golgomath. Golgomath was a massive giant with a necklace of bones who aligned with the Ministry's enemies.
+
+Macnair, the Ministry executioner, arrived at the giant camp as a messenger for Voldemort. Hagrid and Maxime were forced to hide in caves to avoid being caught by Death Eaters. They attempted to secretly recruit smaller groups of giants during the night. The Death Eaters discovered their interference and drove the remaining giants further away. Hagrid confirms that his giantess mother died many years before his visit to the mountains.
+
+Umbridge arrives at Hagrid's cabin and interrogates him about his two-month absence. Hagrid claims he was away for his health while hiding the students under the Cloak. Umbridge notices three sets of footprints in the snow leading to the cabin door. She informs Hagrid that she will be informing the Minister of his late return and inspecting his class. Hermione stays behind to help Hagrid plan a safe and boring syllabus to keep his job.
+
+**Sentence Count Check:** 15

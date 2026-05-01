@@ -1,0 +1,54 @@
+### 1: The Other Minister
+The Muggle Prime Minister sits in his office waiting for a telephone call from a foreign president. A portrait on the wall announces the arrival of Cornelius Fudge, the Minister of Magic. Fudge enters the room through the fireplace via Floo powder and explains the recent disasters in the Muggle world are actually caused by wizards. He reveals that Lord Voldemort has returned and that the Brockdale Bridge collapse was a deliberate attack. The Prime Minister recalls previous meetings with Fudge where magical secrets were disclosed to him.
+
+Fudge reports that several high-profile murders, including those of Amelia Bones and Emmeline Vance, were carried out by Death Eaters. He explains that the Dementors have deserted Azkaban and are now breeding, causing the unseasonable mist. Fudge introduces his successor, Rufus Scrimgeour, who arrives through the fireplace looking like an old lion. Scrimgeour informs the Prime Minister that Kingsley Shacklebolt has been placed in his office as a bodyguard. He also mentions that a Junior Minister, Herbert Chorley, has been placed under the Imperius Curse and is currently imitating a duck.
+
+The new Minister of Magic insists on increased security measures for the Muggle government to prevent infiltration by Voldemort's followers. He explains that the Wizarding world is now at open war and that Muggles are no longer safe from magical fallout. Scrimgeour refuses to unlock the office door until his business is concluded and then draws his wand to close the curtains. Fudge remains in the room as an advisor to the new Minister despite being sacked from his previous position. The two wizards eventually exit the office through the fireplace, leaving the Prime Minister alone with his news.
+
+Sentence Count Check: 15
+
+---
+
+### 2: Spinner's End
+Two hooded women, Narcissa Malfoy and Bellatrix Lestrange, appear in the Muggle neighborhood of Spinner's End. A fox startles them, and Bellatrix kills it with a flash of green light before realizing it is an animal. Narcissa ignores her sister's warnings and approaches a small brick house with a dim light in the window. Severus Snape opens the door and invites both women into his dark, book-filled sitting room. Snape reveals that Peter Pettigrew, known as Wormtail, is also living in the house and orders him to fetch wine.
+
+Bellatrix aggressively questions Snape's loyalty to the Dark Lord and his reasons for staying at Hogwarts for sixteen years. Snape explains that he remained at the school to spy on Albus Dumbledore under Voldemort's direct orders. He justifies his previous actions, such as thwarting Quirrell and delaying his return to Voldemort, as necessary to maintain his cover. Narcissa breaks into tears and reveals that Voldemort has assigned a dangerous mission to her son, Draco. Snape admits he is already aware of the secret plan and that Voldemort is punishing Lucius Malfoy for his failures.
+
+Narcissa begs Snape to protect Draco and perform the mission if the boy fails. Snape agrees to help and consents to perform the Unbreakable Vow to prove his commitment. Bellatrix acts as the Bonder, placing the tip of her wand on the linked hands of Snape and Narcissa. As Snape answers each of the three questions, tongues of brilliant flame emerge from the wand and bind their hands together. He vows to watch over Draco, protect him from harm, and carry out the deed ordered by the Dark Lord. The fiery chains solidify the magical contract as the chapter ends.
+
+Sentence Count Check: 15
+
+---
+
+### 3: Will and Won't
+Harry Potter falls asleep in a chair in his bedroom at Privet Drive while waiting for Albus Dumbledore. The room is filled with messy piles of newspapers describing Harry as "The Chosen One" and reporting on Rufus Scrimgeour's appointment. At exactly eleven o'clock, the streetlamp outside goes out and Dumbledore arrives at the front door. Uncle Vernon and Aunt Petunia are shocked to find a wizard in their hallway, especially one with a blackened and shriveled hand. Dumbledore forces the Dursleys to sit together on a sofa and conjures glasses of mead for everyone.
+
+Dumbledore informs Harry that Sirius Black left him everything in his will, including number twelve, Grimmauld Place. To test if Harry truly owns the house, Dumbledore summons the house-elf Kreacher to the Dursleys' living room. Kreacher appears in filthy rags and screams his refusal to serve Harry, attempting to punish himself on the carpet. Harry orders Kreacher to shut up and then instructs him to work in the Hogwarts kitchens. Dumbledore also confirms that Buckbeak the hippogriff now belongs to Harry and will continue to live with Hagrid.
+
+The Headmaster reprimands the Dursleys for their years of neglect and cruelty toward Harry during his stay. He explains that the magical protection provided by Harry's mother will expire on his seventeenth birthday. Dumbledore requests that the Dursleys allow Harry to return to the house one last time before he comes of age. Harry finishes packing his trunk and watches as Dumbledore uses magic to send his belongings to the Burrow. They step out into the night together, leaving the Dursleys standing in their living room in silence.
+
+Sentence Count Check: 15
+
+---
+
+### 4: Horace Slughorn
+Harry and Dumbledore Apparate to the village of Budleigh Babberton, which Harry finds to be a very unpleasant sensation. They walk through the deserted streets toward a small stone house with the front door hanging off its hinges. Inside the house, they find a scene of total devastation with smashed furniture and dragon blood spattered on the walls. Dumbledore detects a concealment and pokes an overstuffed armchair with his wand, causing it to yell in pain. The chair transforms back into a fat, bald man named Horace Slughorn who had been hiding from Death Eaters.
+
+Dumbledore and Slughorn use their wands to instantly repair the room and restore all the damaged furniture. Slughorn shows Harry a collection of photographs featuring famous and successful former students he has "collected" over the years. Dumbledore leaves the room briefly, giving Slughorn the opportunity to talk to Harry about his parents and his time as Head of Slytherin. Harry realizes that Slughorn values connections with powerful people and is hesitant to return to teaching at Hogwarts. Dumbledore eventually announces that they are leaving because the recruitment attempt has failed.
+
+As Harry and Dumbledore walk away, Slughorn runs out of the house and agrees to take the teaching post. Dumbledore explains to Harry that Slughorn enjoys influencing the famous from the "backseat" rather than seeking power himself. They Apparate again and arrive at a country lane near the Burrow, the home of the Weasley family. Dumbledore takes Harry into a broom shed to discuss the loss of Sirius and the importance of the prophecy. He informs Harry that he will be receiving private lessons from the Headmaster during the upcoming school year.
+
+Sentence Count Check: 15
+
+---
+
+### 5: Excess of Phlegm
+Mrs. Weasley meets Harry and Dumbledore at the back door of the Burrow after a security check. Inside the kitchen, Tonks sits with mousy brown hair and a depressed expression before quickly departing. Dumbledore leaves Harry with Mrs. Weasley, who feeds him a bowl of onion soup and bread. Harry learns that Mr. Weasley has been promoted to head a new office for detecting counterfeit defensive objects. The family clock currently points to "mortal peril" for every member of the Weasley family. Mr. Weasley returns home late after investigating a backfiring jinx and undergoes a personal identity check.
+
+Harry wakes up the next morning in Fred and George's old room and is joined by Ron and Hermione. Ginny enters and complains about the presence of Fleur Delacour, whom she has nicknamed "Phlegm." Fleur enters the room with a breakfast tray and announces that she and Bill Weasley are going to be married. Mrs. Weasley, Ginny, and Hermione express their shared dislike for Fleur's arrogant behavior and the rushed engagement. Hermione attempts to use a telescope found in the room but it punches her in the eye, leaving a purple bruise. Harry informs his friends about his private lessons with Dumbledore and the true contents of the prophecy.
+
+The arrival of three owls signals the delivery of the students' Ordinary Wizarding Level exam results. Hermione receives ten "Outstandings" and one "Exceeds Expectations," while Ron passes seven subjects but fails Divination and History of Magic. Harry discovers he has passed seven exams, failing only Divination and History of Magic. He earns an "Outstanding" in Defense Against the Dark Arts but only an "Exceeds Expectations" in Potions. This grade prevents him from pursuing his goal of becoming an Auror under Professor Snape's current requirements. Mrs. Weasley prepares a celebratory lunch as the students digest their academic futures and the weight of the prophecy.
+
+Sentence Count Check: 15
+
+---

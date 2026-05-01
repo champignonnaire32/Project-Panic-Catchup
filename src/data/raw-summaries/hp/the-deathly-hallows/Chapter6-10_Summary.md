@@ -1,0 +1,52 @@
+### Chapter 6: The Ghoul in Pajamas
+Harry experiences a vision of Voldemort torturing the wandmaker Ollivander. At the Burrow, Mrs. Weasley attempts to extract information about the trio's mission by keeping them separated through wedding preparation chores. Harry confesses to Ginny that he is hunting Horcruxes, which are fragments of a soul hidden in objects. The Burrow replaces Grimmauld Place as the Order of the Phoenix headquarters due to the compromised Fidelius Charm. Bill reveals that the Ministry is covering up the mass breakout from Azkaban and the disappearance of professors.
+
+Hermione explains that she has modified her parents' memories and sent them to Australia for their protection. Ron reveals his plan to use the family ghoul, a slimy humanoid creature, as a body double. The ghoul is disguised in pajamas and magically altered to look like Ron suffering from spattergroit, a contagious fungal disease. This deception is intended to explain Ron's absence from Hogwarts and protect the Weasley family from Death Eater interrogation. Hermione has also summoned books on Horcruxes from Dumbledore's office using an Accio charm.
+
+The trio discusses the difficulty of destroying Horcruxes, noting that only extremely destructive substances like basilisk venom are effective. Hermione explains that a soul fragment in a Horcrux depends on its container for survival, unlike a human soul. They realize the locket stolen by the mysterious R.A.B. must be found to determine if it was destroyed. Mrs. Weasley interrupts their meeting to demand help with wedding presents and arrivals. The Delacour family arrives via Portkey on a nearby hill to begin the final wedding festivities. 
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 7: The Will of Albus Dumbledore
+Harry dreams of Voldemort searching for an individual named Gregorovitch, who Harry remembers is a foreign wandmaker. On his seventeenth birthday, Harry officially becomes an adult in the wizarding world and loses the Trace. He receives a golden watch that belonged to Fabian Prewett from Mrs. Weasley and a book on charming witches from Ron. Ginny invites Harry into her room and kisses him, but Ron interrupts and later warns Harry not to lead her on. The birthday celebration is interrupted by a silver weasel Patronus announcing the arrival of the Minister of Magic.
+
+Minister Rufus Scrimgeour arrives at the Burrow to deliver bequests from Albus Dumbledore’s will. Scrimgeour interviews Harry, Ron, and Hermione privately to probe their relationship with the deceased headmaster. Ron receives the Deluminator, a silver device capable of capturing and releasing light sources. Hermione is left a book of runes titled The Tales of Beedle the Bard, which contains wizarding fairy tales. Harry is bequeathed the first Snitch he ever caught, which possesses a "flesh memory" that identifies the first person to touch it.
+
+Harry's Snitch reveals a hidden inscription that reads "I open at the close" after he touches it with his mouth. Scrimgeour refuses to give Harry the Sword of Gryffindor, claiming it was not Dumbledore's to give away. A heated argument ensues when Scrimgeour accuses Harry of being used by Dumbledore as a weapon. The Minister leaves in a rage after Harry displays the scars on his hand from his previous detentions. Later, the trio realizes Dumbledore likely used his will to bypass Ministry censorship and provide them with essential tools.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 8: The Wedding
+Harry attends the wedding disguised as "Cousin Barny" by drinking Polyjuice Potion to hide from Death Eaters. The ceremony takes place in a large marquee where Bill and Fleur are bonded for life by a tufty-haired wizard. Auntie Muriel, a centenarian relative, criticizes the guests and mentions rumors about Dumbledore's past. Harry meets Xenophilius Lovegood, who wears a triangular symbol that Viktor Krum identifies as the mark of the Dark wizard Grindelwald. Luna Lovegood performs a solitary dance while wearing bright yellow robes to ward off imaginary creatures called Wrackspurts.
+
+Viktor Krum complains that Xenophilius is wearing a symbol carved by Grindelwald into the walls of Durmstrang. Harry realizes that Gregorovitch is the wandmaker who crafted Krum’s wand and is now Voldemort's target. During the reception, Elphias Doge defends Dumbledore’s reputation against the scandalous claims made by Rita Skeeter. Muriel interrupts to claim that Dumbledore had a Squib sister named Ariana who was hidden away from society. She further alleges that Dumbledore’s brother, Aberforth, broke Albus’s nose at Ariana’s funeral during a physical altercation.
+
+Muriel suggests that Kendra Dumbledore, the mother, might have been responsible for the sister's imprisonment and eventual death. Harry learns for the first time that Dumbledore and his family lived in Godric’s Hollow, his own birthplace. This revelation causes Harry to feel betrayed by Dumbledore’s lifelong silence regarding their shared history. The festivities end abruptly when a silver lynx Patronus arrives with a message from Kingsley Shacklebolt. The Patronus warns that the Ministry has fallen, Scrimgeour is dead, and the Death Eaters are coming.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 9: A Place to Hide
+Death Eaters attack the wedding as the protective charms around the Burrow fail under the Ministry's collapse. Hermione grabs Harry and Ron and Side-Along Apparates them to Tottenham Court Road in London. They change into Muggle clothes that Hermione had previously stored in a magically expanded beaded handbag. Two Death Eaters disguised as workmen, Dolohov and Rowle, track them to a small café and launch an attack. A skirmish ensues resulting in the destruction of the café and the paralyzation of the two attackers.
+
+Hermione uses a Memory Charm to wipe the Death Eaters' minds and protect their escape route. The trio decides to hide at 12 Grimmauld Place despite the risk that Snape might still have access. Upon entering, they encounter various protective jinxes set by the Order of the Phoenix, including a Tongue-Tying Curse. A dusty, fleshless figure of Dumbledore rises from the floor to frighten intruders before dissolving into a cloud of mist. Harry uses his wand to silence the screaming portrait of Sirius's mother behind the hallway curtains.
+
+Mr. Weasley’s Patronus arrives to inform Ron that the family is safe but being closely watched. Harry experiences a sudden burst of pain in his scar and a vision of Voldemort's current location. He sees Voldemort ordering Draco Malfoy to torture the Death Eater Rowle for failing to capture Harry. Harry realizes the mental connection to Voldemort is reopening whenever the Dark Lord feels intense emotion. The trio prepares to sleep in the drawing room using sleeping bags retrieved from Hermione's magically enlarged bag.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 10: Kreacher’s Tale
+Harry explores the house and finds a sign on a bedroom door for Regulus Arcturus Black. He discovers a letter from his mother, Lily Potter, addressed to Sirius Black among the room's debris. The letter describes Harry’s first birthday and mentions Dumbledore possessing James’s Invisibility Cloak. Harry finds a torn photograph of himself as a baby and tucks it into his mokeskin pouch for safekeeping. He realizes that Regulus Black is the mysterious R.A.B. who stole the real locket Horcrux from the cave.
+
+The trio recalls seeing a heavy gold locket in a cabinet while cleaning the house two years prior. Harry summons Kreacher, the house-elf, and learns that Mundungus Fletcher has stolen the locket along with other family heirlooms. Kreacher reveals that Voldemort once used him to test the defenses of the Horcrux in the seaside cave. The elf explains that he survived the Inferi, the animated corpses in the lake, by Disapparating on Regulus's orders. Regulus later returned to the cave with Kreacher to swap the real Horcrux for a fake one.
+
+Regulus died in the cave after drinking the debilitating potion and being dragged into the lake by Inferi. Kreacher was ordered to take the real locket home and destroy it, but he failed to damage it. The elf's loyalty to Regulus stems from the kindness the younger Black brother showed him throughout his life. Harry gives Kreacher the fake locket as a gift, which transforms the elf's attitude from hostility to tearful gratitude. Harry then orders a rejuvenated Kreacher to find and bring Mundungus Fletcher back to Grimmauld Place.
+
+**Sentence Count Check:** 15

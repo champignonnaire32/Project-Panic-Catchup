@@ -1,0 +1,30 @@
+### 16: The Chamber of Secrets
+Professor McGonagall announces that the end-of-year exams will proceed as scheduled starting on June 1st. She later informs the student body that the Mandrakes are ready for cutting to revive the Petrified victims. Ginny Weasley attempts to confess something to Harry and Ron at breakfast but is interrupted by her brother Percy. Harry and Ron trick Gilderoy Lockhart into letting them walk to the hospital wing unescorted. Inside the hospital wing, Harry discovers a scrunched-up library page about the Basilisk, a giant serpent that kills with its stare, inside Hermione’s clenched hand.
+
+The note describes the creature as a snake that flees from the crowing of a rooster and is the mortal enemy of spiders. Harry realizes the "Pipes" scribbled on the page mean the monster is traveling through the castle's plumbing system. Professor McGonagall uses a magical announcement to order all students to their dormitories because a student has been taken. The teachers confront Lockhart in the staff room and demand he enter the Chamber to rescue Ginny Weasley. Harry and Ron discover Lockhart packing his bags to flee and force him to the bathroom at wandpoint.
+
+Moaning Myrtle identifies the sink where she died, and Harry finds a tiny snake carved onto a copper tap. Harry speaks Parseltongue to open the entrance, revealing a large pipe that leads deep beneath the school. The trio slides down the pipe into a dark tunnel littered with small animal bones and a giant snakeskin. Lockhart steals Ron's broken wand and attempts to cast a Memory Charm, a spell used to erase recollections, but the tool explodes. Harry is separated from the others by a wall of rock and proceeds alone to the Chamber's final entrance.
+
+**Sentence Count Check: 15**
+
+---
+
+### 17: The Heir of Slytherin
+Harry enters a long chamber lined with serpent pillars and finds Ginny lying unconscious at the base of a statue. A 16-year-old Tom Riddle appears as a semi-transparent memory that has been preserved in his diary for fifty years. Riddle explains that Ginny opened the Chamber and carried out the attacks while under the diary’s magical influence. He reveals that he framed Hagrid for the original opening of the Chamber to ensure his own stay at Hogwarts. Tom Riddle uses Harry’s wand to rearrange the letters of his name to spell out "I AM LORD VOLDEMORT."
+
+Harry declares that Albus Dumbledore is the greatest wizard in the world, prompting the arrival of Fawkes the phoenix. Fawkes delivers the Sorting Hat to Harry and subsequently attacks the Basilisk as it emerges from the statue’s mouth. The phoenix punctures both of the serpent’s yellow eyes, blinding the creature so Harry can look at it safely. Harry pulls the silver sword of Godric Gryffindor, a ruby-encrusted weapon that appears inside the hat, to defend himself. He drives the sword into the roof of the Basilisk’s mouth, killing it, but a venomous fang pierces his arm.
+
+As Harry lies dying from the venom, Fawkes lands on his arm and heals the wound with phoenix tears. Harry seizes the fallen Basilisk fang and stabs the center of Riddle’s diary to destroy the preserved memory. Ink pours from the book as the image of Tom Riddle screams and finally vanishes from the Chamber. Ginny wakes up and weeps as Harry explains that the threat of Riddle and the monster has ended. Fawkes carries Harry, Ron, Ginny, and the amnesiac Lockhart back up the pipes to the main castle floors.
+
+**Sentence Count Check: 15**
+
+---
+
+### 18: Dobby's Reward
+The group arrives in Professor McGonagall’s office to find the Weasleys, Dumbledore, and McGonagall waiting for news. Harry recounts the entire adventure and presents the destroyed diary as evidence of Lord Voldemort's involvement. Dumbledore explains that Voldemort was once Tom Riddle and used the diary to possess and enchant Ginny. He clears Ginny of all charges and awards Harry and Ron two hundred House points each for their bravery. Lucius Malfoy storms into the office with his house-elf Dobby and learns that his plot has been foiled.
+
+Dobby uses silent signals to help Harry realize that Lucius slipped the diary into Ginny’s cauldron at the bookstore. Harry hides his own filthy, slimy sock inside the diary and hands the book back to Lucius Malfoy. Lucius rips the sock off the diary and tosses it aside, where it is caught by the surprised house-elf. Dobby becomes free because receiving clothes from a master is the specific method required to liberate a house-elf. Dobby uses his magic to blast Lucius Malfoy down a staircase when the wizard attempts to attack Harry.
+
+A massive celebratory feast is held in the Great Hall where everyone remains in their pajamas all night. Hagrid returns from Azkaban prison in the early morning hours to join the students in their celebrations. Professor McGonagall announces that all end-of-year exams have been canceled as a special reward for the school. On the train ride home, Ginny reveals that Percy has a secret girlfriend named Penelope Clearwater from Ravenclaw. Harry gives his phone number to Ron and Hermione before passing through the barrier to meet the Dursleys.
+
+**Sentence Count Check: 15**
