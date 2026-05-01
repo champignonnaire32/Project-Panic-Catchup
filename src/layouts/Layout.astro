@@ -27,6 +27,11 @@ const {
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
 
+    <!-- Google Fonts: Cinzel (display) + Lora (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" />
+
     <!-- Canonical URL -->
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
 
@@ -53,7 +58,7 @@ const {
       document.documentElement.style.fontSize = `${fontSize}px`;
     </script>
   </head>
-  <body class="bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100 min-h-screen font-sans transition-colors duration-300">
+  <body class="bg-cream-100 text-cream-900 dark:bg-ink-950 dark:text-cream-200 min-h-screen font-body transition-colors duration-300">
     <div class="flex">
       <!-- We will add the Sidebar here later -->
       <main class="flex-1 p-8">
@@ -66,7 +71,7 @@ const {
       <!-- Back to Top Button -->
       <button
         id="backToTopBtn"
-        class="flex items-center gap-2 px-4 py-3 bg-gray-800 dark:bg-gray-700 text-white rounded-full shadow-lg opacity-0 pointer-events-none transition-all duration-300 hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 focus:ring-offset-gray-50 dark:focus:ring-offset-gray-900"
+        class="flex items-center gap-2 px-4 py-3 bg-ink-800 dark:bg-ink-800 border border-ink-600 dark:border-ink-600 text-cream-300 rounded-full shadow-lg opacity-0 pointer-events-none transition-all duration-300 hover:border-gold-400 hover:text-gold-400 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gold-400/40 focus:ring-offset-2 focus:ring-offset-cream-100 dark:focus:ring-offset-ink-950"
         aria-label="Back to top"
       >
         <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -78,7 +83,7 @@ const {
       <!-- Go Back Button -->
       <button
         id="goBackBtn"
-        class="flex items-center gap-2 px-4 py-3 bg-gray-800 dark:bg-gray-700 text-white rounded-full shadow-lg transition-all duration-300 hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 focus:ring-offset-gray-50 dark:focus:ring-offset-gray-900"
+        class="flex items-center gap-2 px-4 py-3 bg-ink-800 dark:bg-ink-800 border border-ink-600 dark:border-ink-600 text-cream-300 rounded-full shadow-lg transition-all duration-300 hover:border-gold-400 hover:text-gold-400 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gold-400/40 focus:ring-offset-2 focus:ring-offset-cream-100 dark:focus:ring-offset-ink-950"
         aria-label="Go back"
       >
         <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
