@@ -120,84 +120,57 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
 
   </div>
 
-  <!-- Get the Book FAB -->
-  <div id="book-fab-wrap" class="fixed bottom-[28px] left-[28px] z-50 flex flex-col items-start gap-[14px]">
-
-    <!-- Floating card panel -->
-    <div
-      id="book-panel"
-      class="rounded border border-cream-200 dark:border-ink-600/80 bg-cream-50 dark:bg-ink-800 overflow-hidden min-w-[260px] transition-colors duration-300"
-      style="display:none; box-shadow: 0 8px 40px rgba(9,15,30,0.7), 0 0 0 1px rgba(201,168,76,0.08);"
-    >
-      <div class="h-1" style="background: linear-gradient(to right, transparent, rgba(201,168,76,0.6), transparent)"></div>
-      <div class="px-6 pt-4 pb-3 border-b border-cream-200/70 dark:border-ink-700 transition-colors duration-300">
-        <p class="text-xs font-bold font-display uppercase tracking-[0.2em] text-cream-500 dark:text-cream-500 text-center">Get the Book</p>
-      </div>
-      <div class="px-6 py-5">
-        <div class="flex gap-3 items-stretch mb-3">
-          <a
-            href={bookshopUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="flex-1 flex flex-col items-center justify-center gap-0.5 px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded transition-all duration-200 shadow-sm"
-          >
-            <span class="text-sm font-bold font-display text-ink-950">Bookshop.org</span>
-            <span class="text-[10px] uppercase tracking-[0.1em] text-ink-950/60">supports indie bookshops</span>
-          </a>
-          <a
-            href={bnUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="flex-1 flex items-center justify-center px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded transition-all duration-200 shadow-sm"
-          >
-            <span class="text-sm font-bold font-display text-ink-950">Barnes &amp; Noble</span>
-          </a>
-        </div>
-        <p class="text-[13px] italic text-cream-500 dark:text-cream-500 text-center">
-          Haven't grabbed a copy yet? Also available at your local library or on <a href="https://libbyapp.com" target="_blank" rel="noopener noreferrer" class="underline underline-offset-2 hover:text-gold-600 dark:hover:text-gold-400 transition-colors duration-200">Libby</a>.
-        </p>
-      </div>
+  <!-- Get the Book panel — opened by inline trigger -->
+  <div
+    id="book-panel"
+    class="fixed bottom-[28px] left-[28px] z-50 rounded border border-cream-200 dark:border-ink-600/80 bg-cream-50 dark:bg-ink-800 overflow-hidden min-w-[260px] transition-colors duration-300"
+    style="display:none; box-shadow: 0 8px 40px rgba(9,15,30,0.7), 0 0 0 1px rgba(201,168,76,0.08);"
+  >
+    <div class="h-1" style="background: linear-gradient(to right, transparent, rgba(201,168,76,0.6), transparent)"></div>
+    <div class="px-6 pt-4 pb-3 border-b border-cream-200/70 dark:border-ink-700 transition-colors duration-300">
+      <p class="text-xs font-bold font-display uppercase tracking-[0.2em] text-cream-500 dark:text-cream-500 text-center">Get the Book</p>
     </div>
-
-    <!-- Round FAB -->
-    <button
-      id="book-fab"
-      class="w-[58px] h-[58px] rounded-full flex items-center justify-center transition-all hover:scale-105 active:scale-95 focus:outline-none"
-      style="background: #c9a84c; color: #090f1e; box-shadow: 0 4px 20px rgba(201,168,76,0.35);"
-      aria-label="Get the Book"
-    >
-      <span class="text-[8px] font-bold font-display uppercase leading-tight tracking-wide text-center select-none">Get<br/>the Book</span>
-    </button>
-
+    <div class="px-6 py-5">
+      <div class="flex gap-3 items-stretch mb-3">
+        <a
+          href={bookshopUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex-1 flex flex-col items-center justify-center gap-0.5 px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded transition-all duration-200 shadow-sm"
+        >
+          <span class="text-sm font-bold font-display text-ink-950">Bookshop.org</span>
+          <span class="text-[10px] uppercase tracking-[0.1em] text-ink-950/60">supports indie bookshops</span>
+        </a>
+        <a
+          href={bnUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex-1 flex items-center justify-center px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded transition-all duration-200 shadow-sm"
+        >
+          <span class="text-sm font-bold font-display text-ink-950">Barnes &amp; Noble</span>
+        </a>
+      </div>
+      <p class="text-[13px] italic text-cream-500 dark:text-cream-500 text-center">
+        Haven't grabbed a copy yet? Also available at your local library or on <a href="https://libbyapp.com" target="_blank" rel="noopener noreferrer" class="underline underline-offset-2 hover:text-gold-600 dark:hover:text-gold-400 transition-colors duration-200">Libby</a>.
+      </p>
+    </div>
   </div>
 
 </Layout>
 
 <script>
-  const fab     = document.getElementById('book-fab');
-  const inline  = document.getElementById('book-inline-trigger');
-  const panel   = document.getElementById('book-panel');
+  const inline = document.getElementById('book-inline-trigger');
+  const panel  = document.getElementById('book-panel');
 
-  function openPanel() {
-    if (panel) panel.style.display = 'block';
-    if (fab)   fab.style.background = '#b09220';
-  }
-  function closePanel() {
-    if (panel) panel.style.display = 'none';
-    if (fab)   fab.style.background = '#c9a84c';
-  }
-  function togglePanel() {
-    panel && panel.style.display !== 'none' ? closePanel() : openPanel();
-  }
-
-  fab?.addEventListener('click',    e => { e.stopPropagation(); togglePanel(); });
-  inline?.addEventListener('click', e => { e.stopPropagation(); openPanel(); });
+  inline?.addEventListener('click', e => {
+    e.stopPropagation();
+    if (panel) panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+  });
 
   document.addEventListener('click', e => {
     if (panel && panel.style.display !== 'none') {
-      const target = e.target as Node;
-      if (!panel.contains(target) && target !== fab && target !== inline) {
-        closePanel();
+      if (!panel.contains(e.target as Node) && e.target !== inline) {
+        panel.style.display = 'none';
       }
     }
   });
