@@ -79,8 +79,8 @@ const bookSlug = Astro.params.book;
 
 const { Content } = await render(chunk);
 
-const pageTitle = `${bookName} recap chapters ${range} | The Distiller`;
-const pageDescription = `Panic recap of ${bookName} chapters ${range}. A concrete narrative refresher of plot points and actions from the ${seriesName} series before you read the sequel.`;
+const pageTitle = `${bookName} recap chapters ${range} | The Lorebrary`;
+const pageDescription = `Lorebrary recap of ${bookName} chapters ${range}. A concrete narrative refresher of plot points and actions from the ${seriesName} series before you read the sequel.`;
 ---
 
 <Layout title={pageTitle} description={pageDescription} ogType="article">
