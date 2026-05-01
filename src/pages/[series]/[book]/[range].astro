@@ -53,6 +53,8 @@ export async function getStaticPaths() {
 }
 
 const { seriesName, bookName, range, chunk, bookUrl, prevUrl, nextUrl, prevRange, nextRange } = Astro.props;
+const seriesSlug = Astro.params.series;
+const bookSlug = Astro.params.book;
 
 const { Content } = await render(chunk);
 
@@ -118,4 +120,19 @@ const pageDescription = `Panic recap of ${bookName} chapters ${range}. A concret
     </div>
 
   </div>
+
+<script define:vars={{ seriesSlug, bookSlug, range, nextUrl, bookName, seriesName }}>
+  try {
+    localStorage.setItem(`distiller_read_${seriesSlug}_${bookSlug}_${range}`, 'true');
+    localStorage.setItem(`distiller_progress_${seriesSlug}_${bookSlug}`, JSON.stringify({
+      range,
+      currentUrl: window.location.pathname,
+      nextUrl: nextUrl || null,
+      bookName,
+      seriesName,
+      timestamp: Date.now()
+    }));
+  } catch (e) {}
+</script>
+
 </Layout>

@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import SearchBar from '../components/SearchBar.tsx';
 import type { SearchItem } from '../components/SearchBar.tsx';
+import ContinueReading from '../components/ContinueReading.tsx';
 
 const allSummaries = await getCollection('summaries');
 
@@ -60,6 +61,8 @@ const searchData = Array.from(searchDataMap.values());
 
       <SearchBar client:load searchData={searchData} />
     </div>
+
+    <ContinueReading client:load />
 
     <div class="grid gap-5 md:grid-cols-2">
       {seriesList.map(series => (

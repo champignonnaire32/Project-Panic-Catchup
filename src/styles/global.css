@@ -67,6 +67,12 @@ html:not(.dark) .prose :is(h1, h2, h3, h4) {
   color: #8f6a10;
 }
 
+/* Read-state indicator on chunk cards */
+.chunk-is-read {
+  background-color: rgba(201, 168, 76, 0.04);
+  border-color: rgba(201, 168, 76, 0.38);
+}
+
 /* Decorative HR — golden gradient rule */
 .prose hr {
   border: none !important;

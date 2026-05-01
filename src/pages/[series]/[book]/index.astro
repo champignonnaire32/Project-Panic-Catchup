@@ -44,6 +44,8 @@ export async function getStaticPaths() {
 }
 
 const { seriesName, bookName, chunks } = Astro.props;
+const seriesSlug = Astro.params.series;
+const bookSlug = Astro.params.book;
 const pageDescription = `Panic recap index for ${bookName}. Select a chapter range to begin your concrete narrative refresher for the ${seriesName} series.`;
 ---
 
@@ -72,7 +74,8 @@ const pageDescription = `Panic recap index for ${bookName}. Select a chapter ran
       {chunks.map(chunk => (
         <a
           href={chunk.url}
-          class="block text-center py-6 px-4 bg-cream-50 dark:bg-ink-800 border border-cream-300 dark:border-ink-700 rounded-lg hover:border-gold-400 dark:hover:border-gold-400 hover:shadow-[0_4px_20px_rgba(201,168,76,0.10)] transition-all duration-200 group"
+          data-range={chunk.range}
+          class="block text-center py-6 px-4 bg-cream-50 dark:bg-ink-800 border border-cream-300 dark:border-ink-700 rounded-lg hover:border-gold-400 dark:hover:border-gold-400 hover:shadow-[0_4px_20px_rgba(201,168,76,0.10)] transition-all duration-200 group relative"
         >
           <div class="text-xs text-cream-500 dark:text-cream-500 uppercase tracking-[0.12em] mb-1.5 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200">Chapters</div>
           <div class="text-2xl font-display font-semibold text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200">{chunk.range}</div>
@@ -82,3 +85,24 @@ const pageDescription = `Panic recap index for ${bookName}. Select a chapter ran
 
   </div>
 </Layout>
+
+<script define:vars={{ seriesSlug, bookSlug }}>
+  try {
+    document.querySelectorAll('[data-range]').forEach(el => {
+      const r = el.dataset.range;
+      if (localStorage.getItem(`distiller_read_${seriesSlug}_${bookSlug}_${r}`)) {
+        el.classList.add('chunk-is-read');
+        const badge = document.createElement('div');
+        badge.style.cssText = [
+          'position:absolute', 'top:8px', 'right:8px',
+          'width:18px', 'height:18px',
+          'background:#c9a84c', 'border-radius:50%',
+          'display:flex', 'align-items:center', 'justify-content:center',
+          'flex-shrink:0'
+        ].join(';');
+        badge.innerHTML = '<svg width="10" height="10" viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#090f1e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+        el.appendChild(badge);
+      }
+    });
+  } catch (e) {}
+</script>
