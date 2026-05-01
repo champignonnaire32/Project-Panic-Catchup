@@ -111,6 +111,10 @@ for (const seriesFolder of seriesFolders) {
       let body = rawContent.replace(/\*\*Sentence Count Check:\*\*\s*\d+/g, '').trim();
       body = body.replace(/^---\s*$/gm, '').trim();
 
+      // Clean up duplicate chapter titles (e.g. "### Chapter 1: Chapter 1" or "### [Chapter 1]: Chapter 1")
+      body = body.replace(/###\s+(Chapter\s+\d+)[:\s-]+\1/gi, '### $1');
+      body = body.replace(/###\s+\[(Chapter\s+\d+)\][:\s-]+\1/gi, '### $1');
+
       // Ensure headings are cleanly spaced
       body = body.replace(/###\s+/g, '\n### ');
 
