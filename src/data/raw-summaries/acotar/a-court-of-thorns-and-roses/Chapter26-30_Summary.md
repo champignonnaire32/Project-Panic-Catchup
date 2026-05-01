@@ -1,0 +1,52 @@
+### 26: Chapter 26
+Lucien returns from border patrol to join Feyre and Tamlin for a midday meal. He reports that a magical blight has recently killed twenty-four children within the Winter Court. Tamlin suddenly detects an intruder and orders Lucien to hide Feyre behind a magical glamour. A High Lord named Rhysand enters the room and identifies himself as a servant of Amarantha. He mocks Tamlin for his perceived weakness and his refusal to enforce rank.
+
+Rhysand reveals that he sent the severed head of a faerie to the manor as a gift. He notices the extra place setting at the table and breaks through Lucien’s glamour to find Feyre. Lucien attempts to claim Feyre is his own betrothed to protect her from Rhysand’s interest. Rhysand threatens to harm Lucien’s mother in the Autumn Court if he interferes further. Tamlin commands Lucien to lower his sword to prevent a catastrophic battle between High Lords.
+
+Rhysand uses his mental powers to seize control of Feyre’s body and probe her private thoughts. He forces Tamlin to beg and grovel on the floor in exchange for not telling Amarantha about Feyre. Feyre lies about her identity and gives her name as Clare Beddor to protect her family. Rhysand mocks their desperation before vanishing into thin air through a magical rift. Tamlin remains on the floor in a state of shock and defeat after the encounter.
+
+Sentence Count Check: 15
+
+---
+
+### 27: Chapter 27
+Feyre retreats to her bedroom while Tamlin smashes furniture in a fit of rage downstairs. Tamlin later enters her room and announces that he is sending her back to the mortal realm. He explains that he has taken on her life-debt and will face any Treaty consequences himself. Feyre protests the decision and asks to stay at the manor despite the looming danger. Tamlin insists she must leave because Amarantha and the Attor will eventually hunt her down.
+
+He warns Feyre never to reveal the truth about her time in Prythian to her family. Feyre admits that she wants to stay with him regardless of the blight or the Treaty. Tamlin refuses to change his mind and expresses his fear of seeing her in enemy hands. They embrace on the bed and engage in a night of physical intimacy for the first time. Tamlin uses a claw to shred Feyre's silk undergarments before they move together as a couple.
+
+Feyre wakes up during the night and they make love a second time before dawn. Tamlin tells her that she must begin her long journey back to her village at sunrise. He strokes her hair as she falls asleep and whispers that he loves her. Feyre wakes up the next morning to find that Tamlin has already left her bedside. She believes the confession of love might have been a dream as she prepares to depart.
+
+Sentence Count Check: 15
+
+---
+
+### 28: Chapter 28
+Alis dresses Feyre in uncomfortable mortal clothing including a pink silk dress and a decorative hat. Feyre says a brief goodbye to Alis and encounters Lucien outside by a gilded carriage. Lucien expresses anger toward Tamlin for sending Feyre back to a human environment so abruptly. Tamlin ignores Lucien’s complaints and orders him to return to the house for the midday meal. Feyre struggles with her emotions as she prepares to step inside the opulent transport vehicle.
+
+Tamlin lifts her chin and promises that they will see each other again in the future. He assists Feyre into the carriage and shuts the door to seal her inside. As the carriage begins to move, Tamlin openly tells Feyre that he loves her. Feyre remains silent because she fears becoming a burden to him during his upcoming struggles. She falls into a magically induced sleep almost as soon as the carriage enters the woods.
+
+Feyre wakes up when the carriage arrives at a large white marble chateau in the mortal realm. She meets her sisters Nesta and Elain who are dressed in fine clothes and jewels. Elain explains that a stranger gave their father gold to invest and their lost ships returned. Feyre realizes that Tamlin used magic and wealth to provide a luxurious life for her family. Her father weeps at the sight of her and immediately plans a ball in her honor.
+
+Sentence Count Check: 15
+
+---
+
+### 29: Chapter 29
+Feyre tells her family a fabricated story about nursing a wealthy Aunt Ripleigh until her death. She discovers that the trunks sent with her contain a massive fortune of gold and raw jewels. Her father appears healthy and vibrant while managing his new business and weighing large uncut rubies. Elain spends her days tending to an elaborate flower garden she planted herself on the estate. Nesta remains quiet and watchful, often staring at Feyre’s friends with a cold and unsettling expression.
+
+Elain mentions that Nesta once left the house for a week to look for Feyre. Feyre notices a shimmering magical glow on her own skin that resulted from her time in Prythian. She spends several days helping Elain in the garden and listening to stories about local social gossip. Feyre eventually takes bags of money and walks three miles to visit her family's former dilapidated cottage. She sees that the cottage has been repaired but looks small and ordinary compared to her memories.
+
+The garden at the old house is overgrown with weeds and the ward-markings remain on the stone. Feyre reflects on how Elain found hope in the cottage while she felt only deep hatred. She acknowledges that the command of the Suriel to stay with the High Lord was a blessing. Despite her safety, a shadow of fear for Tamlin’s life begins to grow in her heart. She turns away from the forest and returns to the wealth of her father's new manor.
+
+Sentence Count Check: 15
+
+---
+
+### 30: Chapter 30
+Feyre walks through the village and distributes bags of silver and gold to the impoverished residents. She encounters her former lover Isaac Hale who is now married to a young and happy woman. Feyre feels only gratitude for him and smiles as they pass each other on the street. She returns to the manor where preparations for her celebratory ball are in full effect. Nesta approaches Feyre in the garden and correctly identifies that Aunt Ripleigh does not exist.
+
+Nesta reveals that she resisted Tamlin’s glamour and remembered the truth about Feyre being taken by a beast. She shows Feyre a piece of the kitchen table she saved which still bears Feyre’s paintings. Nesta explains that she hired a mercenary and trekked to the wall to try and rescue her. She broke off her engagement to Tomas Mandray because he would not have helped her save Feyre. Feyre realizes that her sister’s cold anger was a protective shield for a deeply loyal heart.
+
+Feyre tells Nesta the entire story of her time in Prythian and her relationship with Tamlin. Nesta asks Feyre to teach her how to paint as a way to spend time together. They spend their days in a secluded room covered in paint and smeared with charcoal supplies. Nesta admits that she still hates her father for letting their mother die years ago. Feyre finishes her preparations for the ball as the house is decorated with colored glass lanterns.
+
+Sentence Count Check: 15

@@ -28,6 +28,7 @@ const seriesMap = {
   'hp': 'Harry Potter',
   'empyrean': 'The Empyrean Series',
   'hisdarkmaterials': 'His Dark Materials',
+  'acotar': 'A Court of Thorns and Roses',
 };
 
 // Define explicit book orders
@@ -68,6 +69,11 @@ const bookOrderMap = {
   'The Golden Compass': 1,
   'The Subtle Knife': 2,
   'The Amber Spyglass': 3,
+  'A Court Of Thorns And Roses': 1,
+  'A Court Of Mist And Fury': 2,
+  'A Court Of Wings And Ruin': 3,
+  'A Court Of Frost And Starlight': 4,
+  'A Court Of Silver Flames': 5,
 };
 
 const rawBaseDir = path.join(process.cwd(), 'src', 'data', 'raw-summaries');

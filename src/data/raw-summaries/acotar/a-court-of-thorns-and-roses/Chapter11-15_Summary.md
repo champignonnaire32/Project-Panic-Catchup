@@ -1,0 +1,52 @@
+### 11: Chapter 11
+Feyre attempts to flee the manor at night after spotting her father beckoning from the outer gates. She climbs down a wisteria trellis and follows the limping figure toward the open forest. Tamlin intercepts her at the gate and reveals the figure is a puca, a deceptive faerie that uses desires to lure and eat prey. The puca (a creature with shifting forms and malicious intent) vanishes after Tamlin snarls at it. Tamlin explains that the puca followed Feyre's human scent because the blight has weakened the protective wards of the estate.
+
+Feyre argues that she must return home to fulfill her deathbed vow to her mother to protect her family. Tamlin asserts that he has already ensured her family is fed and living in luxury, meaning her vow is fulfilled. He reveals that he spent most of his life as a warrior in his father's war-band before inheriting his current title. For the next three days, Feyre joins Lucien on border patrols while Tamlin hunts a creature called the Bogge. Feyre encounters a red doe during a patrol but chooses not to fire her arrow.
+
+Tamlin remains absent from the manor during the day and night to continue his hunt. Lucien explains that Tamlin prefers to be alone when dealing with threats and often broods after killing them. Feyre has a nightmare where the wolf she killed in the woods transforms back into a High Fae male. In the dream, she stands over the skinless corpse of the male with blood-soaked hands. She wakes up covered in sweat and decides to leave her room to find a distraction.
+
+**Sentence Count Check:** 15
+
+---
+
+### 12: Chapter 12
+Feyre wanders the dark halls of the manor at night to create a makeshift map of exits and hiding places. She reaches the entrance hall and encounters Tamlin returning from his hunt in a massive beast form. Tamlin is covered in blood and limps across the marble floor before shifting back into his High Fae form. His clothes are shredded from the fight with the Bogge, though his skin appears unharmed except for a wounded hand. Feyre notices Tamlin is in a daze and leads him to a small infirmary to treat his injury.
+
+She cleans the bloody cuts on his hand and applies bandages while Tamlin watches her in silence. Tamlin realizes Feyre cannot read or write and observes that she became a hunter out of necessity. The next morning, Feyre eavesdrops on a tense argument between Lucien and Tamlin in the dining room. Lucien criticizes Tamlin for sulking while the blight causes barriers between the faerie courts to vanish. Tamlin warns Lucien not to push him and emits a low, animalistic growl that vibrates through the air.
+
+Feyre accidentally reveals her presence, and Lucien leaves her alone with Tamlin for a ride. Feyre tells Tamlin she hates hunting, so he leads her through the sun-drenched halls toward a different destination. Tamlin thanks Feyre for bandaging his hand, explaining that a Bogge bite is designed to slow High Fae healing. He asks Feyre if anyone has ever taken care of her, and she admits that she has always been the provider. Tamlin reveals he knew she stole a knife from his table and leads her into a massive library study.
+
+**Sentence Count Check:** 15
+
+---
+
+### 13: Chapter 13
+Tamlin uses magic to light a hundred candles in the opulent study, which is filled with thousands of books. Feyre decides to teach herself to read so she can write a letter to warn her family about the blight. She finds a children’s book and spends hours painstakingly copying letters onto parchment to learn their shapes. During a break, she discovers a massive mural depicting the history and geography of Prythian. The mural shows a black cauldron (an ancient vessel of creation) pouring life into the world.
+
+Feyre studies the map of the seven courts, including the Spring Court where she currently resides. She notes the locations of the Autumn, Summer, Winter, Dawn, Day, and Night Courts on the northern continent. The mural includes a central, bald mountain peak that seems to be the core of the faerie realm. Tamlin finds her in the library and offers to help her write the letter, but Feyre refuses out of pride. He mentions that the inability to read is a shortcoming that is not her fault, which offends her.
+
+Feyre later seeks out Lucien in his bedroom, which is decorated in the colors of an autumn forest. She asks him how to trap a Suriel, a rare faerie that must answer any question truthfully when captured. Lucien provides specific instructions involving a birch grove, a slaughtered chicken, and a double-loop snare. He warns her that the Suriel (a skeletal, truth-telling entity) hates crossing running water. Feyre steals a hunting knife from Lucien’s table and prepares her bow to head into the western woods.
+
+**Sentence Count Check:** 15
+
+---
+
+### 14: Chapter 14
+Feyre carries a dead chicken and a snare into the ancient western forest to find the Suriel. She observes four female heads (water faeries) watching her from a pond as she travels. After finding a grove of birch trees, she sets her trap and hides in a nearby oak tree. A tall, thin figure in tattered robes enters the clearing and is caught in the double-loop snare. The Suriel (a creature with skin like weatherworn bone and milky white eyes) shrieks as the trap closes.
+
+Feyre approaches the creature and confirms its identity while keeping an arrow nocked on her bow. The Suriel reveals that Tamlin is not a mere lord but one of the seven High Lords of Prythian. It explains that Feyre cannot go home because the Treaty requires her to remain in the faerie realm or die. The Suriel identifies the "blight" as a plan by the King of Hybern to reclaim human lands. Hybern (a separate faerie kingdom to the west) is ruled by a king who resents the ancient Treaty.
+
+The king sent spies and commanders to infiltrate the High Fae courts a century ago to gather intelligence. The Suriel mentions a commander called the Deceiver who disobeyed the king fifty years prior. Suddenly, the Suriel senses danger and tells Feyre to free it and run back to Tamlin. It warns that naga (serpentine faeries made of shadow and hate) are approaching the clearing. Four dark, scaly figures emerge from the trees as Feyre prepares to defend herself.
+
+**Sentence Count Check:** 15
+
+---
+
+### 15: Chapter 15
+Four naga surround Feyre and the trapped Suriel, displaying razor-sharp teeth and black talons. The naga (reptilian humanoids with serpentine features and powerful arms) identify the Suriel as a gift and Feyre as a meal. Feyre screams to alert Tamlin and fires an arrow at the tether holding the Suriel’s snare. The Suriel vanishes into the shadows as Feyre flees toward the nearest stream of running water. She fires an arrow into the throat of the lead naga before racing through the dense brush.
+
+Two naga flank Feyre and cut off her path, forcing her to dodge their slashing claws. She uses her bow as a club to strike one in the face, but she is eventually surrounded. A naga pins her to the ground and threatens to rip off her skin while she is still alive. Feyre stabs the creature in the neck with the knife from her boot, causing blood to spray over her face. Tamlin arrives in his beast form and let out a bone-shattering roar that echoes through the forest.
+
+Tamlin disembowels one naga and shreds the neck of another with his long, deadly claws. The final naga attempts to flee, but Tamlin tackles and kills it in the clearing. After the fight, Tamlin shifts back into his High Fae form and uses magic to heal Feyre’s bruises. He gives her his own tunic to cover her shredded clothing and leads her back toward the manor. Feyre reflects on the Suriel’s advice to stay close to the High Lord as they walk home in silence.
+
+**Sentence Count Check:** 15

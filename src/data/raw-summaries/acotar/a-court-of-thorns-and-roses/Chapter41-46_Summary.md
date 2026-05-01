@@ -1,0 +1,63 @@
+### 41: Chapter 41
+Feyre spends her final days Under the Mountain drinking faerie wine to induce a state of numbness. While walking to her dressing chamber, she is escorted by two female shadow-servants who emit a scent of jasmine. The group conceals themselves behind a magical tapestry to avoid the Attor and a guttural-voiced creature from Hybern. Feyre overhears that the King of Hybern is dissatisfied with Amarantha and is preparing a military campaign to reclaim the mortal realm. The servants confirm they will report this information to Rhysand immediately.
+
+Back in her cell, Feyre hears a faint melody drifting through a stone vent in the ceiling. The music produces mental hallucinations of sunrises, magenta clouds, and a sky palace made of moonstone. Feyre weeps as the sounds evoke physical memories of Tamlin’s touch and his gold-flecked eyes. She interprets the music as a tangible force that keeps her from descending into total darkness. The song eventually ends, leaving her alone on her hay pallet to contemplate the coming trial.
+
+Feyre reflects on her inability to warn her sister Nesta about the King of Hybern’s plans. She notes the unmoving eye tattooed in the center of her palm. The narrative confirms that only two days remain before the third and final task. Feyre focuses on the damp stones of her cell while waiting for her fate to be determined. She remains convinced that she will not survive the trial despite her previous victories.
+
+**Sentence Count Check:** 15
+
+---
+
+### 42: Chapter 42
+Feyre attends a party in the throne room wearing a sunset pink gown over her blue-black body tattoos. She stands against a wall until Tamlin approaches her and briefly brushes his fingers against her hand. Feyre follows him through a hidden door behind a tapestry into a dark hallway. They engage in a physical encounter where Feyre tears Tamlin’s shirt and he bites her neck. Rhysand interrupts them by stepping out of the shadows and mocking their behavior.
+
+Rhysand threatens to tell Amarantha about the encounter or punish Lucien by removing his remaining eye. Tamlin fixes his clothing and tells Feyre he loves her before exiting the passage. Rhysand pins Feyre to the wall, briefly manifesting membranous wings made of shadow from his back. He then kisses Feyre forcefully just as Amarantha and Tamlin enter the hallway. Amarantha laughs at the scene, believing Feyre is unfaithful, and Tamlin maintains a cold, expressionless mask.
+
+Rhysand visits Feyre in her cell later that night and admits he is tired of serving as Amarantha’s harlot. He explains that his father killed Tamlin’s father and brothers, leading to Amarantha’s specific desire to punish him. Rhysand claims he interrupted Feyre and Tamlin to prevent Amarantha from catching them and executing them both. He reveals that Amarantha cannot fully access the High Lords' powers but can control the lords through them. Rhysand vanishes after Feyre admits she would have bargained more than a week a month for his help.
+
+**Sentence Count Check:** 15
+
+---
+
+### 43: Chapter 43
+Feyre is escorted to the throne room for her final trial wearing her original stained tunic and pants. Many faeries in the crowd touch their fingers to their lips and extend their hands in a gesture of farewell to the dead. Amarantha mocks Feyre before demanding her final words, to which Feyre publicly declares her love for Tamlin. Three hooded faeries are dragged into the room and forced to kneel at the foot of the dais. Servants present three velvet pillows, each holding a single polished dagger made of ash wood.
+
+Amarantha orders Feyre to stab all three innocent faeries in the heart to win her freedom. The first victim is a handsome High Fae youth with blue eyes who begs for his life. Feyre lunges and plunges the ash dagger into his chest, killing him instantly as his blood covers her hand. The second victim is a female faerie with gold-brown hair who recites a prayer to the Mother. Feyre drives the second dagger into the female’s heart after the victim nods in silent acceptance.
+
+The final victim is revealed to be Tamlin, as the figure on the throne is exposed as the Attor in disguise. Feyre recalls eavesdropping on conversations where Tamlin was described as having a heart of stone. She realizes Amarantha has physically turned the High Lords' hearts into stone to control their magic and prevent their deaths. Feyre gambles that the ash blade will not kill him if his heart is literal stone. She tells Tamlin she loves him and stabs him directly in the chest.
+
+**Sentence Count Check:** 15
+
+---
+
+### 44: Chapter 44
+The ash dagger strikes Tamlin’s chest but is stopped by a hard, thumping sound against his stone heart. Feyre withdraws the blade and observes that the tip has been nicked and bent inward. Amarantha refuses to free the faeries immediately, claiming Feyre never specified a time for their release. The queen reveals that her promise of "instantaneous freedom" only applied to the riddle, not the trials. Amarantha then uses her magic to shatter Feyre's bones and slam her body against the marble floor.
+
+Rhysand attempts to attack Amarantha with the bloody ash dagger but is blasted back by a wall of white light. Amarantha continues to torture Feyre, breaking her ribs and spine while demanding she admit she does not love Tamlin. Rhysand lunges again with taloned hands but is crushed by Amarantha’s magic until his head cracks against the stone. Feyre experiences a mental montage of her worst memories, including the first rabbit she killed for food. Tamlin begs Amarantha to stop and offers to do anything in exchange for Feyre's life.
+
+Feyre refuses to renounce her love for Tamlin despite the escalating physical destruction of her body. She realizes the answer to the riddle is "love" and gasps the word out as her final breath. Amarantha snaps Feyre's spine, killing her instantly in front of the assembled court. Feyre’s vision goes black as she realizes that loving Tamlin was her ultimate strength and her downfall. The throne room falls silent as Feyre's broken corpse lies on the red marble floor.
+
+**Sentence Count Check:** 15
+
+---
+
+### 45: Chapter 45
+Feyre’s consciousness observes the room through Rhysand’s eyes as her own body lies dead at an odd angle. Lucien removes his fox mask to reveal a brutally scarred face and watches as Tamlin transforms into his beast form. Tamlin’s beast form is a massive creature of fur, claws, and lethal muscle that radiates golden light. He launches himself at Amarantha and pins her against the far wall by her neck. The Attor and guards are intercepted by other faeries who have removed their masks to join the rebellion.
+
+Tamlin catches a thrown steel sword in his paw and drives it through Amarantha’s head into the stone wall. He then uses his jaws to rip out the queen's throat, ending her life and her curse. Tamlin reverts to his faerie form and cradles Feyre’s broken body while weeping. The High Lord of the Autumn Court, a tall man with brown hair, approaches and drops a glittering spark of light onto Feyre's chest. The High Lords of the Summer, Winter, Dawn, and Day Courts each contribute a seed of light to the corpse.
+
+Rhysand steps forward and adds his own kernel of light, stating that this act makes him and Feyre even. Tamlin places his glowing hand over Feyre's heart and whispers that he loves her. The combined power of the seven High Lords coalesces into a shining bud in the center of Feyre's chest. This magical infusion is the process used to create new High Fae from a mortal vessel. Feyre’s soul begins to swim back through a golden darkness toward the surface of life.
+
+**Sentence Count Check:** 15
+
+---
+
+### 46: Chapter 46
+Feyre wakes up on the throne room floor with a fully healed body and the immortality of the High Fae. She observes her longer fingers and glowing skin before seeing Amarantha’s corpse pinned to the wall with a sword. Tamlin removes his golden mask for the first time, revealing his face with high cheekbones and green eyes. Feyre touches his face and confirms his heart is now beating with a steady, organic rhythm. They leave the mountain as the other High Lords destroy and seal Amarantha’s court forever.
+
+Upon returning to the Spring Court manor, Feyre struggles with the guilt of the two faeries she murdered. She observes Alis and her two nephews playing in the gardens, finally safe from their hiding spots. Tamlin treats Feyre’s remaining minor wounds in a quiet bedroom and asks how he can repay her. Feyre notices her tattooed arm and remembers her ongoing bargain to spend one week a month with Rhysand. She feels a hollow sense of shame and finds it difficult to adjust to her heightened faerie senses.
+
+Feyre meets Rhysand on a balcony where he reveals his black membranous wings and his love for flying. He explains that he fought Amarantha because he did not want Feyre to die alone. Rhysand becomes visibly shocked by something he sees in Feyre’s face before he winnows away into nothingness. Feyre and Tamlin stand on a hill overlooking their estate as the sun sets over the rose-covered house. They walk toward the manor together to begin their immortal lives and face the consequences of the trials.
+
+**Sentence Count Check:** 15

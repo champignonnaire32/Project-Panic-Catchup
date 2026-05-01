@@ -1,0 +1,52 @@
+### 16: Chapter 16
+Feyre relaxes in a low-backed chair while Alis brushes her damp hair and serves a cup of molten chocolate. Alis warns Feyre against asking questions about the High Lords or border conflicts to avoid inviting bad luck. The maid reveals that she works to support two slow-aging nephews whose parents were murdered fifty years prior. Alis informs Feyre that Lucien’s advice regarding trapping the Suriel was faulty and that a new robe would have been a better lure. Feyre enters the dining room and sits for dinner with Tamlin and Lucien while still recovering from her encounter with the naga.
+
+Lucien admits that faeries are capable of lying and have used this ability to deceive humans for centuries. He clarifies that faeries are not harmed by iron but are vulnerable to ash as previously established. Tamlin discovers Feyre’s list of vocabulary words and identifies her love for her family as her primary motivation for her actions. Feyre refuses Tamlin's offer to help her write a letter to her family and attempts to leave the room. Tamlin intercepts her and reveals that faeries fought alongside human armies during the ancient war for freedom.
+
+He explains that he has glamoured her family's memories to make them believe she is assisting a wealthy, dying aunt. Her family has been subtly warned to flee their village if the magical wall between realms shows signs of faltering. Feyre requests paint and brushes to resume her hobby, and Tamlin agrees to provide all necessary supplies. Tamlin offers to show Feyre the manor’s art gallery once the servants have finished cleaning the space. Feyre notes that Tamlin’s sincere smile affects her more deeply than any previous interaction with a mortal from her village named Isaac.
+
+**Sentence Count Check:** 15
+
+---
+
+### 17: Chapter 17
+Feyre wakes from a nightmare about the Suriel to hear screams coming from the manor’s front hall. She descends the stairs to find Tamlin carrying a blue-skinned faerie from the Summer Court over his shoulder. This faerie belongs to a blue-skinned race with gangly limbs, pointed ears, and iridescent gold-veined skin. Tamlin places the victim on a table while Lucien vomits and flees the room after seeing the faerie's injuries. The faerie repeatedly cries out that a nameless female ruler has forcibly removed his wings.
+
+Tamlin uses a wet rag to clean the jagged black stumps where the wings were previously attached to the faerie's back. He admits that his magic is no longer powerful enough to heal major physical damage or stop the bleeding. Feyre holds the faerie’s arms to steady him and brushes his long hair as he struggles against the pain. She falsely promises the faerie that his wings will be returned to him to provide comfort during his final moments. Tamlin recites a prayer for the dying as the faerie's hand goes limp and his life ends.
+
+Feyre stands in the cooling pool of blood until Tamlin urges her to release the faerie’s hand and move away. She insists on accompanying Tamlin to bury the body, but he refuses and carries the corpse to the garden alone. Tamlin later asks Feyre why she comforted a faerie despite her vocal hatred for his kind. Feyre explains she did not want the stranger to die alone and expresses remorse for killing the faerie Andras. She watches from a window as Tamlin carries the body into the moonlit fields without looking back at the house.
+
+**Sentence Count Check:** 15
+
+---
+
+### 18: Chapter 18
+Feyre finds the foyer cleaned of blood the next morning and seeks out Tamlin to apologize for her past actions. Tamlin and Lucien invite her on a ride through the Spring Court lands with no visible weapons on their persons. They arrive at a lush glen filled with swaying crocuses, snowdrops, and bluebells under a golden sky. Feyre makes a joke about the Suriel’s advice on training Tamlin with treats, causing the High Lord to roar with laughter. Tamlin leads Feyre away from the group to a secluded clearing containing a sparkling silver pool of starlight.
+
+Tamlin explains that starlight is a rare substance in Prythian that according to legend grants perpetual happiness to those who drink it. He unbuttons his tunic and invites Feyre to swim with him in the warm, silk-like liquid of the pool. Tamlin reveals that Lucien is the youngest of seven brothers from the Autumn Court, a political entity defined by cutthroat competition. Lucien’s father executed his lover in front of him, forcing the son to flee to the Spring Court for safety. Tamlin admits he killed one of Lucien’s brothers when they trespassed into his territory to hunt the fugitive down.
+
+Feyre removes her clothes and enters the starlight pool, observing Tamlin's battle-honed physique as he joins her in the water. She tells Tamlin how her father lost his fortune on three spice ships and subsequently abandoned his efforts to support the family. Feyre explains she began hunting at the age of fourteen to prevent her sisters and father from starving to death. During the ride back, Lucien gives Feyre a finely crafted, jeweled hunting knife as a peace offering for his earlier hostility. Lucien confesses he hesitated before coming to help her against the naga and broke his word to protect her.
+
+**Sentence Count Check:** 15
+
+---
+
+### 19: Chapter 19
+Tamlin leads Feyre to a newly cleaned wing of the manor containing a vast art gallery filled with various paintings. The gallery features pastorals and portraits painted by both human and faerie artists who used different visual perspectives. Feyre spends hours in the gallery before Alis shows her to a private studio stocked with canvases and professional paints. Feyre paints for weeks while occasionally exploring the Spring Court, a landscape of rolling green hills and magic-infused lakes. The High Lord and Lucien observe her progress while she becomes increasingly comfortable living within the faerie manor.
+
+Feyre realizes she has been erased from her family's memories and feels a deep sense of shame regarding her new life. She encounters Tamlin in the rose garden and expresses her frustration over being forgotten by her kin in the human realm. Tamlin takes Feyre’s hand, which she cut on a rose thorn, and kisses her palm to heal the wound. He explains that human joy is entrancing to him and kisses Feyre's cheek before departing the garden. The next day, Feyre catches Tamlin in a snare she laid in the woods and runs her fingers through his golden hair.
+
+Tamlin presents Feyre with five limericks he wrote using the vocabulary words she had previously listed on a paper. He reveals that his father and brothers were tyrants who kept slaves before they were killed by an enemy High Lord. Tamlin explains the mating bond is a deep connection between equals that makes traditional marriage seem insignificant in comparison. Faeries begin building bonfires across the hills for Calanmai, a spring ceremony intended to regenerate the land's magic. Tamlin and Lucien are confronted in the garden by the Attor, a skeletally thin gray messenger with bat-like wings and fangs.
+
+**Sentence Count Check:** 15
+
+---
+
+### 20: Chapter 20
+Feyre paints a chilling portrait of the Attor and attempts to distract herself by assisting the domestic staff in the kitchen. The kitchen faeries are lesser faeries with bird-like masks who handle the manor's labor and food preparation. As Calanmai begins, Feyre hears the summoning beat of distant drums coming from the forest and the game park. Tamlin appears shirtless and armed with a sword and bow to participate in a ritual known as the Great Rite. He orders Feyre to lock her doors and stay in her chamber until morning for her own protection.
+
+Feyre ignores his command and rides her white mare toward the bonfires at ten o'clock that night. She encounters hundreds of masked High Fae whose features are obscured by a magical glamour intended to hide them from view. Feyre observes a crowd gathering near a cave decorated with flowers and branches for the execution of the Great Rite. The Great Rite is a faerie ritual involving bonfires and magic designed to replenish the earth's energy for the coming year. Feyre dismounts and moves toward the forest edge where three unmasked faeries confront her in the shadows.
+
+These faeries possess sharp features and pitch-black, depthless eyes that consume the light of the nearby fires. One faerie grabs Feyre's arm and identifies her as a human while the others prevent her from reaching her knives. They begin herding Feyre toward the dark line of trees to engage in predatory behavior during the celebration. A tall, beautiful male faerie with a deep voice intervenes and places a casual arm around Feyre's shoulders. The three faeries scuttle away in fear as Feyre turns to thank the stranger for his timely intervention.
+
+**Sentence Count Check:** 15
