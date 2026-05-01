@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
 
 export async function getStaticPaths() {
   const allSummaries = await getCollection('summaries');
@@ -63,18 +64,19 @@ const pageDescription = `Panic recap of ${bookName} chapters ${range}. A concret
 ---
 
 <Layout title={pageTitle} description={pageDescription} ogType="article">
+  <!-- Reading Progress Bar -->
+  <div id="reading-progress" class="fixed top-0 left-0 h-[3px] bg-gold-400 z-[60] pointer-events-none" style="width:0%"></div>
+
   <div class="max-w-3xl mx-auto py-12 px-4 sm:px-6">
 
     <!-- Header -->
     <div class="mb-16 border-b border-cream-200 dark:border-ink-700 pb-10 transition-colors duration-300">
-      <div class="mb-6">
-        <a href={bookUrl} class="text-xs font-bold text-cream-500 dark:text-cream-500 hover:text-gold-600 dark:hover:text-gold-400 transition-colors uppercase tracking-[0.15em] flex items-center">
-          <svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-          </svg>
-          Back to {bookName}
-        </a>
-      </div>
+      <Breadcrumb items={[
+        { label: 'Archive', href: '/archive' },
+        { label: seriesName, href: `/${seriesSlug}` },
+        { label: bookName, href: bookUrl },
+        { label: `Ch. ${range}` }
+      ]} />
       <p class="text-sm font-bold text-cream-500 dark:text-gold-400/70 mb-1 uppercase tracking-[0.15em] transition-colors duration-300">{seriesName}</p>
       <h1 class="text-4xl sm:text-5xl font-display font-semibold text-cream-900 dark:text-cream-100 tracking-wide mb-6 transition-colors duration-300">{bookName}</h1>
       <div class="inline-flex items-center gap-2 bg-ink-800 dark:bg-ink-800 border border-gold-400/40 text-gold-400 px-4 py-1.5 rounded text-xs font-bold tracking-[0.18em] uppercase">
@@ -133,6 +135,28 @@ const pageDescription = `Panic recap of ${bookName} chapters ${range}. A concret
       timestamp: Date.now()
     }));
   } catch (e) {}
+</script>
+
+<script define:vars={{ prevUrl, nextUrl }}>
+  // Reading progress bar
+  const bar = document.getElementById('reading-progress');
+  if (bar) {
+    function updateBar() {
+      const scrolled = window.scrollY;
+      const total = document.documentElement.scrollHeight - window.innerHeight;
+      bar.style.width = (total > 0 ? (scrolled / total) * 100 : 0) + '%';
+    }
+    window.addEventListener('scroll', updateBar, { passive: true });
+    updateBar();
+  }
+
+  // Keyboard navigation (← prev, → next)
+  document.addEventListener('keydown', (e) => {
+    const tag = document.activeElement?.tagName;
+    if (tag === 'INPUT' || tag === 'TEXTAREA') return;
+    if (e.key === 'ArrowLeft' && prevUrl) window.location.href = prevUrl;
+    if (e.key === 'ArrowRight' && nextUrl) window.location.href = nextUrl;
+  });
 </script>
 
 </Layout>

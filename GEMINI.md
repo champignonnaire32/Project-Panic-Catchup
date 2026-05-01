@@ -25,6 +25,31 @@ We are using a modern Static Site Generation (SSG) approach.
     *   `/[series]/[book]/` -> `index.astro` (Lists all 5-chapter chunks for that Book).
     *   `/[series]/[book]/[range]` -> `[range].astro` (The actual reading page, displaying 5 chapters at a time).
 
+## 🎨 Design System (Claude — Session 2)
+A full visual identity overhaul was applied on top of the existing SSG architecture. **No routing, data pipeline, or content logic was altered.**
+
+**Tech decisions:**
+*   **Fonts:** Google Fonts — `Cinzel` (display/headers, classical codex feel) + `Lora` (body/reading, premium book readability). Loaded via preconnect in `Layout.astro`.
+*   **Color palette:** Custom `@theme` tokens in Tailwind v4 — `ink-*` (deep navy-black for dark mode), `cream-*` (warm parchment for light mode), `gold-*` (amber accent replacing all blue). Defined in `src/styles/global.css`.
+*   **Prose:** `@tailwindcss/typography` overrides for Cinzel headings in gold, Lora body text, 1.95 line-height, decorative gradient HR rule.
+*   **Interactive components:** `ReaderControls.tsx` FAB and `SearchBar.tsx` updated to match the ink/gold palette using hardcoded hex values (preserves existing `px`-based sizing that prevents layout scaling issues).
+
+**Reader QoL features added:**
+*   **Read-state tracking:** Visiting any `[range].astro` page auto-saves that chunk to `localStorage` (`distiller_read_*` key) and writes a progress record (`distiller_progress_*` key with timestamp, nextUrl, book/series metadata).
+*   **Chunk grid checkmarks:** `[series]/[book]/index.astro` reads localStorage on load and adds gold checkmark badges to completed chapter range cards.
+*   **Continue Reading strip:** `ContinueReading.tsx` React island on `/archive` reads all progress keys, sorts by recency, and surfaces up to 3 in-progress books above the series grid. Hidden for first-time visitors.
+*   **Reading progress bar:** 3px gold bar fixed at top of viewport on reading pages, driven by scroll position. Pure vanilla JS.
+*   **Keyboard navigation:** `←` / `→` arrow keys navigate prev/next chunk on reading pages. Ignored when focus is in an input element.
+*   **Breadcrumb trail:** Reusable `Breadcrumb.astro` component renders the full path (`Archive → Series → Book → Ch. X`) on all sub-pages. Replaces the single "Back to X" links.
+
+**Legal/disclaimer updates:**
+*   Replaced "educational reference materials" with "non-commercial reference and memory aid materials" (stronger Fair Use language).
+*   Rewrote AI note to accurately reflect workflow: summaries are based on the author's own reading/recollection; AI was used as a formatting tool only — not as a text summarizer of copyrighted content. This is a materially stronger legal position.
+*   Added affiliation disclaimer ("not affiliated with or endorsed by any author or publisher") and content removal contact section.
+*   Removed erroneous reference to "cover art concepts."
+
+---
+
 ## ✅ What We Have Accomplished
 *   [x] Initialized the Astro project with React and Tailwind integrations.
 *   [x] Established the global layout (`Layout.astro`) and base styling.
@@ -41,19 +66,22 @@ We are using a modern Static Site Generation (SSG) approach.
 *   [x] Implemented Advanced SEO: auto-generated `sitemap.xml`, `robots.txt`, and Canonical URLs to explicitly guide search crawlers.
 
 ## 🚧 Current Status & Next Steps
-The core platform is fully functional locally (`npm run dev`) and is prepared for its initial deployment to Vercel. You can browse from the new landing page to the archive, down to reading chunks of *The Suneater Series*, *Dune*, *The Stormlight Archive*, *Red Rising*, *The Lord of the Rings*, and *Harry Potter*.
+The platform is live on Vercel (auto-deployed from GitHub `main`). Full design system, reader QoL features, and legal disclaimers are in place. You can browse from the new landing page to the archive, down to reading chunks of *The Suneater Series*, *Dune*, *The Stormlight Archive*, *Red Rising*, *The Lord of the Rings*, and *Harry Potter*.
 
 **Decisions Made:**
 *   **CSS Strategy:** Decided to keep Tailwind CSS.
 *   **Audio TTS Strategy:** The native Web Speech API voices are too robotic/inaccurate for sci-fi jargon. Any future audio integration will require pre-generated MP3s using a premium AI API (like Google Cloud Journey or ElevenLabs).
 
-**Future Phases (Not Started):**
-1.  **Search Functionality:** Implementing a local static search (like Pagefind) so users can search for specific character names across the entire archive.
-2.  **UI/UX Polish:** Refining the interface based on having real, varied data.
-4.  **Deployment (Hosting Strategy):** Building the static site (`npm run build`) and deploying it to a 100% free hosting platform. Because this is a static Astro site without an active database, we can use top-tier static hosts:
-    *   **Vercel (Recommended):** The gold standard for modern frameworks. Connects directly to GitHub and auto-deploys in seconds.
-    *   **Netlify:** Extremely fast, free, and features automatic GitHub deployments.
-    *   **GitHub Pages:** Host directly from the repository using a GitHub Action.
+**Future Phases (Prioritized):**
+1.  **Series metadata on cards** — author name + book count on archive grid cards.
+2.  **Sepia mode** — third theme option (warm sepia) in `ReaderControls.tsx`.
+3.  **Estimated read time** — calculate word count at build time, display "~4 min read" on chunk cards.
+4.  **"Next Book" link** — at the final chunk of a book's last chapter, link forward to the next book in the series.
+5.  **Dramatis Personae (Character Directory)** — `/characters` section per series with brief allegiance descriptions.
+6.  **The "Mega-Catchup" (Continuous Scroll)** — stitch all chunks for a book into a single scrolling page.
+7.  **Spoiler Protection Profiles** — global setting to blur/hide content beyond the user's current reading progress.
+8.  **Text-to-Speech** — pre-generated MP3s via ElevenLabs or Google Cloud TTS, embedded HTML `<audio>` player.
+9.  **Contact email** — add a real email address to the "Affiliation & Content Removal" disclaimer section.
 
 ## 💡 Ideas for Future Enhancements
 These are high-utility features brainstormed to elevate the platform from a simple archive to an indispensable reading companion:
