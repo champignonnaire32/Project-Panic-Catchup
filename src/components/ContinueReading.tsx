@@ -35,7 +35,7 @@ export default function ContinueReading() {
         <span className="text-xs font-bold text-cream-500 dark:text-cream-500 uppercase tracking-[0.15em]">
           Continue Reading
         </span>
-        <div className="h-px flex-1 bg-cream-200 dark:bg-ink-700" />
+        <div className="h-0.5 flex-1 bg-cream-200 dark:bg-ink-700" />
       </div>
       <div className="flex flex-wrap gap-3">
         {items.map((item, i) => {
