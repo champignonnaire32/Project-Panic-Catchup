@@ -69,25 +69,24 @@ export default function SearchBar({ searchData }: SearchBarProps) {
                 <li key={idx}>
                   <a
                     href={item.url}
-                    className="block px-6 py-4 hover:bg-cream-100 dark:hover:bg-ink-700 transition-colors group"
+                    className="flex items-center justify-between px-6 py-4 hover:bg-cream-100 dark:hover:bg-ink-700 transition-colors group gap-4"
                   >
-                    <div className="flex items-center justify-between mb-1">
-                      <span className="text-base font-bold font-display text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors">
-                        {item.title}
-                      </span>
-                      <span className={`text-xs font-bold uppercase tracking-wider px-2 py-1 rounded ${
-                        item.type === 'Series'
-                          ? 'bg-gold-400/15 text-gold-600 dark:bg-gold-400/10 dark:text-gold-400'
-                          : 'bg-ink-600/20 text-cream-600 dark:bg-ink-500/30 dark:text-cream-300'
-                      }`}>
+                    <div className="min-w-0">
+                      <div className="text-[10px] font-bold uppercase tracking-[0.15em] text-cream-500 dark:text-cream-500 mb-0.5">
                         {item.type}
-                      </span>
-                    </div>
-                    {item.subtitle && (
-                      <div className="text-sm text-cream-500 dark:text-cream-500">
-                        {item.subtitle}
                       </div>
-                    )}
+                      <div className="text-base font-bold font-display text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors truncate">
+                        {item.title}
+                      </div>
+                      {item.subtitle && (
+                        <div className="text-xs text-cream-500 dark:text-cream-500 mt-0.5 truncate">
+                          {item.subtitle}
+                        </div>
+                      )}
+                    </div>
+                    <svg className="w-4 h-4 text-cream-400 dark:text-cream-600 group-hover:text-gold-400 flex-shrink-0 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
                   </a>
                 </li>
               ))}
