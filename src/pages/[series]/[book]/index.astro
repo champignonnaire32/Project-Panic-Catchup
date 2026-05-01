@@ -52,6 +52,9 @@ const pageDescription = `Lorebrary recap index for ${bookName}. Select a chapter
 const q = encodeURIComponent(bookName);
 const bookshopUrl = `https://bookshop.org/search?keywords=${q}`;
 const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
+
+const lastRange = chunks[chunks.length - 1]?.range ?? '';
+const totalChapters = parseInt(lastRange.split('-')[1]) || chunks.length;
 ---
 
 <Layout title={`${bookName} | The Lorebrary`} description={pageDescription} showBackBtn={false}>
@@ -123,7 +126,7 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
       </div>
       <div class="flex-1 flex flex-col items-center text-center">
         <div class="text-base font-display font-semibold text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200">Read Full Recap</div>
-        <div class="text-xs text-cream-500 dark:text-cream-500 mt-0.5">All {chunks.length} sections · continuous scroll</div>
+        <div class="text-xs text-cream-500 dark:text-cream-500 mt-0.5">All {totalChapters} chapters · continuous scroll</div>
       </div>
     </a>
 
