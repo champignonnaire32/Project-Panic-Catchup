@@ -1,0 +1,58 @@
+
+### Chapter 41
+
+Helion arrives at the Hewn City on a rare black pegasus named Meallan and meets with Rhysand, Feyre, Cassian, and Azriel. Rhysand reveals Feyre’s pregnancy to Helion to explain the need for the impenetrable wards he requested. Helion examines two Autumn Court soldiers and determines they are influenced by a magical mist rather than a specific spell. The group discusses Queen Briallyn’s use of the Crown to control the soldiers and her potential interest in the Dread Trove. Helion then meets Nesta to help her place blood-keyed wards on the room containing the Mask.
+
+Nesta refuses to learn the unlocking spell for the wards to prevent Briallyn from extracting the information if she is captured. Azriel attempts to leave for the human lands to investigate Briallyn, but Rhysand and Feyre command him to stay away for his safety. Cassian and Nesta are tasked with visiting Eris the following day to discuss the fate of his soldiers. After the meeting, Nesta informs Cassian that she is studying military history to learn how to lead a unit of female warriors. Cassian visits Nesta’s room later that night to provide her with more war-related texts for her studies.
+
+Nesta questions Cassian on whether he enjoyed their previous sexual encounter because he left her room quickly afterward. Cassian admits he stayed away to avoid distractions from training and then initiates a sexual encounter with her. Nesta undresses and pleasures herself under Cassian's observation until he joins her for intercourse. They engage in a physically intense encounter where Nesta briefly touches Cassian's wings, leading to a simultaneous climax. Afterward, Cassian orders Nesta onto her hands and knees to begin a second round of intercourse.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 42
+
+Cassian attends an early morning meeting at the river house with Rhysand, Amren, and Azriel. Rhysand presents three weapons—a sword, a dagger, and a great sword—that a blacksmith claimed were cursed. The blacksmith explains that the blades became imbued with power after Nesta hammered them in his shop. Amren identifies the weapons as a new Dread Trove created by Nesta using the Cauldron’s stolen power. She warns that the great sword contains significant power and advises against unsheathing any of the three blades.
+
+Amren demands that Nesta remain unaware of her ability to create magic weapons to prevent her from potentially crafting "a Trove of Nightmares." Cassian and Azriel object to keeping the information from Nesta, but Rhysand defers the final decision to Feyre. Rhysand reveals to his brothers that Feyre's pregnancy is life-threatening because the baby's Illyrian wings cannot pass through her birth canal. He has kept this danger a secret from Feyre to preserve her joy while secretly begging Helion to find a solution in his libraries. Cassian and Azriel offer their support as Rhysand struggles with his fear and the lack of a known medical remedy.
+
+Curiosity prompts Cassian to suggest looking at the blades, and Rhysand uses his magic to unsheathe them despite Amren's warnings. The great sword glows with moonlight and iridescent sparks, while the dagger radiates cold and the second sword emits heat. Amren returns and suggests that Rhysand could use these "kingmaker" blades to unite the seven courts as High King. Rhysand flatly refuses the idea of becoming a conqueror, insisting he only wants to protect his borders and his people. Amren warns that the Cauldron's favor is temporary and may be offered to another if Rhysand does not seize the opportunity.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 43
+
+Rhysand winnows Cassian and Nesta to the Spring Court to meet Eris for a scheduled discussion. Cassian suffers from pollen allergies while they wait for Eris to appear in a forest clearing. Eris arrives and learns that most of his soldiers were killed by Cassian and Azriel during the attack at the Bog of Oorid. He accuses the Illyrians of bloodlust, but Nesta counters by pointing out that the soldiers used illegal ash arrows. Nesta mocks Eris by suggesting he might be storing the arrows to assassinate his own father, High Lord Beron.
+
+Cassian promises to provide for the families of the fallen soldiers, leading Eris to offer a backhanded compliment to Nesta. Tamlin suddenly appears in his beast form, snarling at the group and threatening them for trespassing on his lands. Nesta stands her ground and berates Tamlin for his past treatment of Feyre and his role in the sisters being Turned. She reminds him of her power and threatens to rip his head off if he speaks of their meeting with Eris. Eris departs with a nod of approval, and Cassian flies Nesta back to the House of Wind.
+
+Unable to sleep, Nesta stares into the dark pit at the bottom of the library and notices a pulsing shadow. Cassian joins her at the railing, but the shadow vanishes before he can see it. They discuss the encounters with Eris and Tamlin, and Nesta expresses her disgust that Feyre ever loved the Spring Court lord. Cassian places a hand on her back, agreeing that Tamlin never deserved her sister's affection. Nesta feels a growing sense of belonging in the House of Wind, comparing it to the stagnation she felt in the Spring Court.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 44
+
+Gwyn, Emerie, and Nesta continue their physical training while Cassian observes their progress with the eight-pointed star technique. Cassian reveals that he fought alongside the legendary Valkyries during the War and witnessed their sacrifice at Meinir Pass. The females express interest in combining Illyrian fighting styles with historical Valkyrie techniques they have been researching. Cassian agrees to review the Valkyrie manuscripts provided by Gwyn and integrate them into their training sessions. Later, Cassian visits the river house for dinner to discuss the vote regarding Nesta's magical weapons.
+
+Feyre casts the deciding vote to tell Nesta the truth about the blades she Made, and Cassian volunteers to deliver the news. The conversation shifts to the Valkyries, and Elain notes that Nesta would have fit in well with the fearsome female warriors. Elain shares a story from their youth about Nesta using her dancing skills and wealth to spite a cruel heiress. She describes how a fourteen-year-old Nesta lured a duke into a marriage proposal just to humiliate a social rival. The sisters' mother had intentionally trained Nesta's dancing and social grace to be used as a political weapon.
+
+Cassian realizes that Nesta's mastery of footwork in training stems from years of rigorous dance instruction. He reflects on the fact that their mother turned Nesta's creative joys into a calculated arsenal for social climbing. Elain expresses her happiness that Nesta is finding a new interest in the Valkyrie training and philosophy. Amren notes that their mother laid the groundwork for Nesta's personality, though Nesta has made her own choices. Cassian spends the rest of the evening considering how to bring more joy and music back into Nesta's life. He concludes that while training sustains her rage, she needs something more to truly thrive.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 45
+
+Gwyn, Emerie, and Nesta struggle through intense Valkyrie lunge holds during a training session at the House of Wind. Cassian admits he performed the same exercises at dawn to ensure he could meet the standards he sets for them. The females tease Cassian about his appearance and engage in a playful discussion about what they would name a sword. Nesta suggests the name "Killer," which prompts Cassian to grow serious and ask why she chose that name. After training, Nesta corners Cassian and demands to know why he was pestering her about naming weapons.
+
+Cassian reveals that the three blades Nesta hammered are now magic objects imbued with the Cauldron's power. He explains that the Inner Circle held a vote on whether to tell her, with Rhysand and Amren voting against her. Nesta is deeply hurt to learn that Amren, whom she trusted, viewed her as too dangerous or untrustworthy to know the truth. She uses her Mind-Stilling techniques to build emotional walls and hide her fury and pain from Cassian and her friends. Nesta ignores Cassian's attempts to apologize and abruptly leaves the training ring to return to her room.
+
+Nesta waits for Cassian to leave her bedroom door before seeking a hidden exit from the House of Wind. She begins a frantic descent down the ten thousand steps of the stairwell leading to the city of Velaris. Her anger toward Amren and the Inner Circle fuels her movement as she ignores the physical strain on her legs. The House opens a door for her at the bottom of the stairs, allowing her to exit into the sunlight. Nesta steps onto the cobblestones of Velaris, finally breaking her confinement and entering the city in a state of rage.
+
+Sentence Count Check: 15

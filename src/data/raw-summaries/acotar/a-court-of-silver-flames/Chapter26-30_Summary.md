@@ -1,0 +1,57 @@
+### Chapter 26
+
+Cassian returns from a meeting with Eris and Rhysand in a cold and distant mood. Nesta finds him brooding in the dining room with a glass of wine that the House promptly removes. She senses his self-loathing after Eris insulted his heritage and called him a "brute." Nesta attempts to comfort him by kissing his neck and throat. She decides to distract him from his pain by kneeling between his legs.
+
+Nesta unfastens Cassian's pants and begins to perform oral sex on him. She uses her hands and mouth to bring him to the brink of release. Cassian struggles to maintain his restraint as Nesta watches him through her lashes. He eventually loses control and thrusts his hips into her mouth while gripping her hair. He asks to finish inside her body, but she refuses to stop.
+
+Cassian spills himself down Nesta's throat, and she swallows every drop before smiling triumphantly. Their encounter is interrupted when Azriel walks into the dining room to eat his dinner. Nesta quickly refastens her clothes and flees the room to go to bed. Azriel teases Cassian about the obvious scent in the room. Cassian laughs and realizes that Nesta has successfully chased away his earlier gloom.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 27
+
+Gwyn reports to Nesta that her research into the Dread Trove has yielded no new information. Nesta realizes the only other option is to use scrying bones, but she lies and says there is no other way. Cassian trains with Nesta and Gwyn in the pit while noticing the lingering tension from the previous night. Nesta asks Cassian to deliver a sack of gifts to Emerie in Windhaven. The bag contains expensive tea and various spices provided by the House of Wind.
+
+Cassian finds Emerie in her shop and presents the gift as a gesture from Nesta. Emerie is visibly moved by the sight of cumin, turmeric, cinnamon, and a large box of salt. Cassian invites her to attend training the next morning and offers for Rhysand to winnow her. Emerie initially declines the offer, stating that she has no means to attend and it is not the right time. Cassian leaves the shop and notes that Nesta gave the gift out of genuine kindness.
+
+Nesta climbs the steps to the training ring while dreading the prospect of scrying again. She finds Cassian and Gwyn already waiting for her in the center of the ring. Emerie is standing at the water station, having decided to accept the invitation to train. Cassian grins with excitement at the sight of all three females gathered together. Nesta feels a sense of relief and narrow-eyed curiosity as the lesson begins.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 28
+
+Emerie struggles with her balance during exercises because her wings are clipped and off-kilter. Cassian explains that the wings act as a counterweight and clipping them damages vital muscle groups. Emerie reveals that her father clipped her wings himself because she fought him. Cassian reacts with pure rage and offers to have the court's healer, Madja, examine her. Emerie declines the medical help but begins to bond with Gwyn over their shared interest in books.
+
+Nesta and Emerie discover they both enjoy reading erotic romance novels by Sellyn Drake. Emerie promises to bring Nesta a book and offers a milder version to Gwyn. Rhysand arrives precisely an hour later to winnow Emerie back to her shop in Windhaven. Gwyn is visibly awed by the High Lord's presence and bows low to him. Nesta rolls her eyes at the display and engages in a sharp verbal exchange with Rhysand.
+
+Rhysand uses a mental message to warn Nesta to treat Gwyn with kindness and respect. Nesta mentally slams the door on his intrusion and tells him to mind his own business. Cassian defends Nesta's behavior to Rhysand through their own private mental link. Rhysand notes that the House reeks of sex and laughs at Cassian's refusal to provide details. Emerie thanks Nesta for the gift and the reminder that a world exists beyond Windhaven.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 29
+
+Nesta experiences a nightmare about her father's death and fails to complete her walk down the 10,000 steps. The House provides scrying bones and stones, but Nesta refuses to use them out of trauma. At the river house, Amren suggests using Elain as leverage to force Nesta into scrying for the Trove. Cassian and Azriel protest against involving Elain, but Rhysand allows Amren's one-week deadline to stand. Back at the library, an elderly priestess named Merrill confronts Nesta for swapping a research book.
+
+Nesta stands up to Merrill's bullying and causes her eyes to glow with suppressed power. Gwyn reveals she is a quarter nymph, which explains her blue eyes and pliant physical structure. Three more priestesses—Roslin, Deirdre, and Ananke—join the morning training sessions in the pit. Deirdre displays a massive facial scar that indicates she survived an event of extreme violence. Inspired by the priestesses' bravery, Nesta attempts to scry with the bones but fails to summon her power.
+
+A massive surge of silver fire erupts from Nesta's body during a terrifying nightmare that night. The icy fire blasts out the windows and threatens to consume the entire room. Rhysand uses his darkness to smother the flames while Cassian calls out to Nesta to wake her. Rhysand enters Nesta's mind to pull her out of the dream and witness the trauma of her time in the Cauldron. After the fire recedes, Rhysand identifies Nesta's true power as being "pure death."
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 30
+
+Nesta wakes up in her room to find Cassian sleeping in a chair beside her bed. He is wearing only undershorts and a blanket while guarding her throughout the night. Nesta feels a surge of gratitude for his presence but suppresses her urge to cry. They share a quiet breakfast before heading to training with Gwyn and Emerie. The three females discuss their recurring nightmares and find strength in sharing their past traumas.
+
+Rhysand informs Cassian that Feyre's unborn baby has inherited Illyrian wings. Because Feyre was shape-shifted into an Illyrian during conception, the baby's anatomy is fully winged. Madja, the court healer, bans Feyre from shape-shifting during the pregnancy to protect the child. This development creates a lethal risk for Feyre because her body cannot safely birth a winged infant. Rhysand is paralyzed with fear and orders Cassian and Azriel to keep the danger a secret from Feyre.
+
+Azriel warns that Tamlin and Eris will eventually learn about the High Lady's pregnancy. He suggests summoning Lucien from the human lands to station him permanently at the Spring Court. Lucien would serve as an observer to manage any potential fallout from Tamlin's reaction to the news. Rhysand initially reacts with anger at the idea of coddling Tamlin but eventually agrees to the plan. Cassian leads Rhysand away to spar in order to bleed off his brother's intense stress and terror.
+
+**Sentence Count Check:** 15

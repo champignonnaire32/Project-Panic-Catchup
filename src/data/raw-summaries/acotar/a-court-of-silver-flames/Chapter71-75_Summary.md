@@ -1,0 +1,57 @@
+### Chapter 71
+
+Cassian and Azriel confront Koschei’s shadow form at the lake while Eris remains captive nearby. Koschei uses his power to freeze Cassian in place, preventing him from moving or using his Siphons. Azriel grabs Eris and the Made dagger, flying away as Koschei’s shadows murmur a warning. Briallyn appears wearing the golden Crown and orders Koschei to winnow her and the paralyzed Cassian away. Koschei flickers his fingers, and Cassian is transported into blackness and wind with the queen.
+
+At the Breaking, Nesta stands alone behind a line in the dirt to guard the archway. She has already killed multiple Illyrian males who attempted to pass through the jagged rocks. Emerie and Gwyn successfully scale the final portion of the summit and touch the sacred stone. The two women are winnowed away by the stone's magic just as Bellius enters the archway. Bellius reveals he allowed the other warriors to die so he could confront Nesta without interference.
+
+He explains the history of Enalius, the first Illyrian who died defending this same ground. Bellius expresses hatred for his cousin Emerie and the half-breed Gwyn for reaching the peak. Snow begins to fall heavily as a magical storm gathers around the mountain peak. Nesta smiles at the realization that her friends have already won the Blood Rite. Bellius launches a physical assault on Nesta as the sky rumbles with thunder.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 72
+
+Nesta engages Bellius in combat while attempting to survive until the dawn. Bellius strikes with his shield and forces Nesta to retreat toward the archway. A magical storm veils the moon and stars, providing only lightning for illumination. The heavy snowfall makes the stones slippery, causing Nesta to lose her footing. Bellius uses his shield to knock Nesta’s own shield and sword from her hands.
+
+He laughs at her disarmed state and continues his assault with precise strikes to her limbs. Nesta dodges several attacks but sustains multiple wounds to her face and legs. A final blow from Bellius knocks Nesta off her feet and into a boulder. Nesta struggles to breathe as blood trickles from her nose and mouth. Bellius tosses his own weapons aside and decides to kill her with his bare hands.
+
+Nesta refuses to stay down and pushes herself up off the rock despite her exhaustion. Bellius takes a fighting position and mocks her ability to win in hand-to-hand combat. Nesta braces her feet and prepares for the final exchange of the fight. Bellius throws a powerful punch that Nesta successfully blocks. She strikes Bellius in the nose, breaking his bone and declaring that her mate taught her well.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 73
+
+Nesta and Bellius exchange blows in a final surge of hand-to-hand combat. Bellius herds Nesta toward the line in the earth, eventually landing a punch that cracks her cheek. Nesta falls backward across the line, and the mountain shudders upon her landing. She crawls through the archway as Bellius draws a knife from his boot to slit her throat. Bellius takes a step toward her with the knife lifted when blood suddenly sprays the air.
+
+A set of wings appears as Bellius falls to the ground with his throat slit open. Cassian stands behind the dying male with a blade in his hand and his teeth bared. He offers a hand to help Nesta rise instead of sweeping her into his arms. Cassian pulls Nesta into his chest and holds her tightly while whispering a threat to kill her. His words are controlled by an outside force as Briallyn's power takes hold of his mind.
+
+Cassian screams silently at himself to stop as he clamps his arms around Nesta. Nesta struggles to pull away while her bones shift under the pressure of his grip. Briallyn emerges from the shadows wearing the Crown atop her thin white hair. She informs Nesta that Cassian is now her servant and cannot obey any other commands. Briallyn commands Cassian to loosen his grip so Nesta can turn and face her captor.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 74
+
+Briallyn lifts her hand and uses the Crown to halt the storm and clear the sky. Cassian stands still with glassy eyes while Briallyn explains her plot to capture the women. The queen reveals that Bellius fed her information to help lure Nesta to the mountain. She waited for Cassian to get close enough to ensnare him using Eris as bait. Briallyn admits she ordered Bellius to hunt Nesta but enjoyed watching the violence unfold.
+
+She demands that Nesta summon the Trove and hand the items over to her. Briallyn promises to make herself young again and leave the pair untouched if Nesta complies. Nesta refuses to surrender the items, prompting Briallyn to order Cassian to attack. Cassian tackles Nesta to the ground and pins her with an arm across her throat. He draws a knife and holds it against her while fighting the Crown's mental commands.
+
+Briallyn states that killing Nesta will provide the blood necessary to unlock the Trove’s wards. Nesta looks at Cassian and realizes he is attempting to resist the queen’s direct order. Briallyn issues the final command for Cassian to kill Nesta as the sun begins to rise. Cassian roars and twists the knife in his hand, plunging it toward his own heart instead. Nesta erupts with the power of the Cauldron, creating an explosion that disintegrates Briallyn into ash.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 75
+
+Cassian lies facedown on the earth as Nesta rushes toward him in a panic. She turns him over and finds the knife beneath him is completely unbloodied. Cassian reveals that he faked his death to remain low while Nesta unleashed her power. Nesta observes a black stain on the ground where Briallyn was destroyed by her magic. Cassian confirms that Nesta "Unmade" the queen during her outburst of fury.
+
+The golden Crown remains on the ground as the only remnant of the dead queen. Nesta and Cassian acknowledge their mating bond and share a kiss on the mountainside. The kiss triggers a spiritual connection that sets their souls glowing and twining together. Nesta begins to speak to Cassian when two figures land abruptly beside them. Mor and Azriel arrive with grave expressions, causing the mountain to shudder upon their landing.
+
+Cassian asks about Eris and learns the male is safe at the Hewn City. Azriel confirms that the Made dagger has been recovered and is back in their possession. Mor interrupts the reunion to announce that there is a crisis involving Feyre. The announcement silences the group and shifts the atmosphere from victory to alarm. The chapter concludes with the urgent news regarding Feyre's condition.
+
+**Sentence Count Check:** 15

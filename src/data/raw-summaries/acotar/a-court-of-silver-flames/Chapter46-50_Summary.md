@@ -1,0 +1,57 @@
+### Chapter 46
+
+Nesta runs to Amren's apartment and shatters the wooden door with her power. She finds Amren and Varian, the Prince of Adriata, together in bed. Nesta shouts at Amren for voting against her and hiding the truth about the weapons she made. Amren counters that Nesta is a spoiled girl who has done nothing to prove she can handle her power. Varian, a muscled High Fae from the Summer Court, puts on his pants and leaves the room to find help.
+
+Feyre arrives with paint on her clothes and tries to stop the argument between the two females. Nesta ignores Feyre’s plea and accuses Amren of being a false friend who sided with the High Lady. Amren claims she only stopped supporting Nesta when Nesta used loyalty as a shield against the rest of the family. Nesta lashes out by revealing that the Illyrian wings on the child in Feyre's womb will kill both mother and baby. She further explains that Rhysand ordered the entire Inner Circle to keep this life-threatening risk a secret from Feyre.
+
+Feyre begins to shake and cry as she realizes the truth and the depth of the deception. Nesta sees the fear on her sister's face and realizes she has committed an unforgivable act. She flees the loft and runs blindly through the streets of Velaris. Cassian tracks Nesta's scent to the river house and then to Rhysand's study. Rhysand enters a state of cold, murderous rage and orders Cassian to remove Nesta from the city before he kills her.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 47
+
+Cassian swoops down and grabs Nesta around the waist as she runs toward a tavern. He carries her into the sky while she remains limp and silent in his arms. Azriel waits at the House of Wind and hands over a heavy supply pack to Cassian. They fly for several hours until they reach the Sleeping Mountains located between Illyria and Velaris. Cassian lands near a large black boulder and sets up a cold camp for the night.
+
+Nesta lies down on the hard earth and turns her back to the fire without speaking. Feyre initiates a mental conversation with Cassian to express her anger toward the Inner Circle's secrecy. She defends Nesta’s actions by stating that her sister was the only one brave enough to tell her the truth. Cassian suggests that Nesta’s motivation was to avenge both sisters’ lack of autonomy. Feyre informs him that Rhysand has apologized for his murderous outburst but is still deeply upset.
+
+Cassian decides to keep Nesta in the wilderness for several days to perform a grueling hike. He tells Feyre that this physical exertion will serve as a necessary punishment for Nesta's cruelty. Feyre laughs and notes that Nesta has never been on a hike and will likely hate the experience. She asks Cassian to look after her sister as they navigate the remote mountain range. Cassian watches Nesta’s curled form in the shadows and promises to protect her.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 48
+
+Cassian wakes Nesta at dawn and orders her to eat a plate of mushrooms and toast. He forces her to carry the heavy canvas supply pack because his wings prevent him from wearing it. Nesta adjusts the straps across her chest and hips before following him up a steep hillside. They walk for six hours through vibrant green mountains toward the Gerthys River. The weight of the pack causes Nesta's legs to burn and her breathing to become sharp like glass.
+
+They reach a rocky outcropping where the descent toward the river becomes dangerously steep. Nesta grips the straps of her pack to prevent the weight from tipping her forward into the valley. Clouds drift past the peaks as the blazing sun causes sweat to soak Nesta’s hair and neck. Upon reaching the riverbank, Nesta collapses and buries her face in the freezing water to drink. Cassian grants her a thirty-minute rest and tosses her a canteen to refill for the next leg of the journey.
+
+Cassian notes that Nesta’s eyes reflect a desire to fall off the mountain and cease existing. He recalls that these specific mountains were once legendary sites for healing the body and spirit. They resume the trek with Nesta trailing behind him in a heavy, absolute silence. The terrain consists of brownish-black stones and tall, swaying grasses near the water's edge. Cassian wonders if the ancient energy of the land will be enough to save Nesta from her self-loathing.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 49
+
+They stop to camp at a flat outlook overlooking a river that snakes through the valley floor. Nesta collapses onto the dusty earth and nudges the heavy pack toward Cassian with a trembling foot. She ignores the plate of bread and cheese he leaves for her and falls into a deep sleep. For the next two days, she follows Cassian in total silence while watching the back of his head. The mountain peaks appear ancient and watchful as if behemoths were sleeping beneath the soil.
+
+On the third day of the hike, Nesta’s head begins to pound and her throat becomes painfully dry. She refuses to unbuckle her pack to reach her canteen because stopping would allow her dark thoughts to surface. Her ankle twists on a loose stone, and she eventually faints, falling facedown into a dried riverbed. Cassian slides to his knees beside her and forces water down her throat to revive her. He carries her and the pack twenty feet to a flatter expanse of ground so she can rest for the night.
+
+The next morning, Cassian uses the moss on the trees to navigate their path toward the north. Nesta reflects on her lifelong anger and compares her behavior to that of a rabid dog or the beast Tamlin. She admits to herself that she has been "born wrong" and has used her fangs to hurt everyone she loves. They reach a sparkling turquoise lake tucked between two green peaks and lined with gray stones. Nesta falls to her knees on the rocky shore and begins to weep uncontrollably as her emotional defenses shatter.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 50
+
+Nesta kneels on the shore of the mountain lake and sobs as she releases her suppressed guilt. She tells Cassian that she doesn't deserve kindness because she allowed her father to die with hate in her heart. She reveals that the snapping sound of a crackling fire mimics the noise of her father's neck breaking. Nesta confesses that her anger led her to let Feyre risk her life in the forest while their family starved. She admits that she cannot fix the horrible things she has done or the "rabid" person she has become.
+
+Cassian pulls Nesta into his lap and tells her that his father’s death was not her fault. He shares his own deep-seated feelings of worthlessness and the guilt he feels for failing his mother and Rhysand. He explains that he has killed countless people and still hears the insults of those who call him a brute. Cassian promises to stay by her side through the long and difficult road of self-forgiveness. He encourages her to keep her sharpness and boldness while healing the parts of her that cause pain.
+
+Nesta touches his cheek and feels an essential piece of her soul click back into place. Cassian draws his Illyrian blade and hands it to her to test her resolve and training. He commands her to demonstrate the eight-pointed star, a series of complex Valkyrie combat maneuvers. Nesta executes the arcing slashes and hilt-led blocks with perfect precision in the silver moonlight. Cassian watches her move with a soft smile and asks her to perform the sequence once more.
+
+Sentence Count Check: 15
