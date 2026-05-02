@@ -1,4 +1,4 @@
-### Chapter 35: Part III: Glory - Chapter 35: The Light
+### Chapter 35: The Light
 Darrow travels with Sefi to the Obsidian tribes to announce the fall of Asgard. Sefi and twenty Valkyrie begin training with gravBoots and pulse weapons under Darrow and Holiday’s instruction. Obsidian leaders visit the conquered mountain to view the preserved corpses of the Golds they once worshipped as gods. Most clans accept the truth and join Darrow’s cause, while some warchiefs commit suicide in shame. Darrow earns the title Morning Star as his legend spreads among the traditionally warring Obsidian tribes.
 
 Mustang leads counterintelligence efforts to hide the Obsidian uprising from the Board of Quality Control in Agea. Quicksilver provides hackers to mask the movement of hundreds of thousands of people across the Antarctic. Mustang conceives a plan to relocate the entire pole population to subterranean tunnels in twelve hours. Thousands of merchant shuttles and Sons of Ares ships are utilized for the massive troop and civilian movement. Darrow, Sefi, Mustang, Holiday, and Cassius depart on the eighth day to oversee the final migration preparations.
