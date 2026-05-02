@@ -66,41 +66,23 @@ const {
       </main>
     </div>
     
-    <!-- Floating Navigation Buttons -->
-    <div class="fixed bottom-6 left-6 z-50 flex flex-col gap-3">
-      <!-- Back to Top Button -->
-      <button
-        id="backToTopBtn"
-        class="flex items-center gap-2 px-4 py-3 bg-ink-800 dark:bg-ink-800 border border-ink-600 dark:border-ink-600 text-cream-300 rounded-full shadow-lg opacity-0 pointer-events-none transition-all duration-300 hover:border-gold-400 hover:text-gold-400 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gold-400/40 focus:ring-offset-2 focus:ring-offset-cream-100 dark:focus:ring-offset-ink-950"
-        aria-label="Back to top"
-      >
-        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
-        </svg>
-        <span class="text-sm font-bold tracking-wider uppercase">Top</span>
-      </button>
-
-      <!-- Go Back Button -->
-      {showBackBtn && (
-        <button
-          id="goBackBtn"
-          class="flex items-center gap-2 px-4 py-3 bg-ink-800 dark:bg-ink-800 border border-ink-600 dark:border-ink-600 text-cream-300 rounded-full shadow-lg transition-all duration-300 hover:border-gold-400 hover:text-gold-400 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gold-400/40 focus:ring-offset-2 focus:ring-offset-cream-100 dark:focus:ring-offset-ink-950"
-          aria-label="Go back"
-        >
-          <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-          </svg>
-          <span class="text-sm font-bold tracking-wider uppercase">Back</span>
-        </button>
-      )}
-    </div>
+    <!-- Floating Back to Top Button -->
+    <button
+      id="backToTopBtn"
+      class="fixed bottom-6 left-6 z-50 flex items-center gap-2 px-4 py-3 bg-ink-800 dark:bg-ink-800 border border-ink-600 dark:border-ink-600 text-cream-300 rounded-full shadow-lg opacity-0 pointer-events-none transition-all duration-300 hover:border-gold-400 hover:text-gold-400 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gold-400/40 focus:ring-offset-2 focus:ring-offset-cream-100 dark:focus:ring-offset-ink-950"
+      aria-label="Back to top"
+    >
+      <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+      </svg>
+      <span class="text-sm font-bold tracking-wider uppercase">Top</span>
+    </button>
 
     <ReaderControls client:load />
 
     <!-- Navigation Logic -->
     <script is:inline>
       const backToTopBtn = document.getElementById('backToTopBtn');
-      const goBackBtn = document.getElementById('goBackBtn');
 
       if (backToTopBtn) {
         window.addEventListener('scroll', () => {
@@ -114,21 +96,7 @@ const {
         });
 
         backToTopBtn.addEventListener('click', () => {
-          window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-          });
-        });
-      }
-
-      if (goBackBtn) {
-        goBackBtn.addEventListener('click', () => {
-          // If there is history within the site, go back. Otherwise go to home.
-          if (window.history.length > 1 && document.referrer.includes(window.location.host)) {
-            window.history.back();
-          } else {
-            window.location.href = '/archive';
-          }
+          window.scrollTo({ top: 0, behavior: 'smooth' });
         });
       }
     </script>
