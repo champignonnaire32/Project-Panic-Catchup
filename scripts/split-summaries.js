@@ -132,7 +132,9 @@ for (const seriesFolder of seriesFolders) {
       // Strip AI sentence-count annotations — handles both:
       //   **Sentence Count Check:** 15   (** closes before number)
       //   **Sentence Count Check: 15**   (** closes after number)
-      let body = rawContent.replace(/\*{0,2}Sentence Count Check:?\*{0,2}\s*\d+\s*\*{0,2}/gi, '').trim();
+      // Strip artifacts: Sentence count checks and "TASK COMPLETE" markers
+      let body = rawContent.replace(/\*{0,2}Sentence Count Check:?.*$/gim, '').trim();
+      body = body.replace(/TASK COMPLETE.*$/gim, '').trim();
 
       // Remove stray horizontal rules left by the AI
       body = body.replace(/^---\s*$/gm, '').trim();

@@ -22,6 +22,3 @@ Nineteen years after the battle, Harry and Ginny arrive at King’s Cross Statio
 James Potter, the eldest son, returns from the train to report that Teddy Lupin is kissing Victoire Weasley. Lily Potter, the youngest child, discusses the possibility of Teddy joining their family through marriage. Harry checks his old watch and reminds the children that the train is about to depart. Ginny and Harry hug their sons before they board the scarlet Hogwarts Express. James teases Albus one last time about the thestrals that pull the school carriages.
 
 Harry crouches down to tell Albus that he was named after two brave headmasters, one of whom was a Slytherin. He informs his son that the Sorting Hat will take his personal preference into account during the ceremony. The train begins to move, and the parents wave to their children as they depart for school. Harry touches the lightning-shaped scar on his forehead which has not pained him in nineteen years. The narrative concludes with the statement that all is well.
-
-
-TASK COMPLETE
