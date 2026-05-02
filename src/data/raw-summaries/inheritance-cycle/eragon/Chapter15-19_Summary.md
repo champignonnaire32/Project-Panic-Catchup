@@ -1,0 +1,57 @@
+### Chapter 15: Saddlemaking
+
+Eragon wakes to the memory of Garrow's death and cries before joining Brom by the fire. Brom explains two types of dragon saddles, one hard and molded and the other a light padded version for speed. Using Saphira's measurements, Brom cuts five bands and various shapes from stolen leather hides. The main saddle body consists of three padded sections sewn together with long leather cords. A loop fits around Saphira’s neck spike while belly bands and leg loops secure Eragon in place.
+
+While Brom adjusts the finished saddle on Saphira, Eragon organizes their supplies for departure. Brom apologizes for the tragedy of Eragon's family and emphasizes the need for horses. Eragon argues that Saphira is faster, but Brom insists on staying together for safety. Brom warns that the Ra’zac are the king's servants and that Galbatorix wants Eragon recruited or dead. Eragon agrees to let Brom buy horses since he refuses to steal again.
+
+Brom predicts that the longer Eragon evades the Ra’zac, the more desperate the king will become. He explains that Eragon will grow stronger every day, which threatens the king's power. Eragon reflects on these words while rolling a twig between his fingers. The two men finish their meal and bank the fire for the night. Saphira invites Eragon to test the saddle, but he declines until the next day.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 16: Therinsford
+
+Eragon ties his bow to his pack and attaches the sword Zar’roc to Saphira’s back. Saphira wears her new saddle as they leave the farm and head south toward new lands. Brom begins a lecture on dragon life cycles, explaining that eggs hatch only for their destined Riders. He details how dragons can go months without food except during mating seasons when they eat weekly. Brom also describes combat techniques and the specific anatomical weaknesses of dragons, such as their unarmored armpits.
+
+Upon reaching the village of Therinsford, Brom refuses to name the original owner of the sword Zar’roc. Eragon expresses frustration with Brom’s habit of speaking in riddles and vague phrases. During their nightly camp, Brom initiates a sparring match using sticks shaped like swords. He beats Eragon repeatedly, striking his ribs and head to demonstrate the brutality of real enemies. Saphira watches the training and laughs at Eragon's incompetence as he collapses from the blows.
+
+The next morning, Brom and Eragon encounter a grimy bridgekeeper who demands five crowns for passage. Brom pays the fee but secretly cuts the man's purse to reclaim the money and more. In Therinsford, they visit Haberth’s barn and purchase two horses, including a white stallion named Snowfire. Eragon discovers he can communicate telepathically with his new bay horse, which he names Cadoc. They depart the village and head toward a crumbling Rider outpost called Utgard on the mountain Ristvak’baen.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 17: Thunder Roar and Lightning Crackle
+
+Eragon focuses on his plan to kill the Ra'zac with his bow as they prepare to leave. He experiences severe muscle cramps and soreness from the previous night's sparring session with Brom. Saphira decides to fly openly above them because the flat plains offer no places to hide. They descend a treacherous, rock-strewn trail from the mountains down to the parched grasslands. At the bottom, they find Ra’zac tracks heading east toward the village of Yazuac.
+
+The travelers replenish their water supply at the Anora River before venturing into the arid plains. A constant, biting wind scours the land, causing Eragon's lips to crack and bleed. On the third day of their trek, a massive thunderstorm approaches, creating a dark cathedral of clouds. A sudden hammer blow of wind strikes the group, threatening to blow Saphira away. Eragon watches as the gale slams Saphira onto her back and pins her to the ground.
+
+Eragon gallops to Saphira and leaps from his horse to help her fold her wings against the storm. He uses his physical weight to pin one wing down while Saphira struggles to secure the other. Once the wings are tucked, Saphira creeps up the road through ice-cold rain and mile-high lightning bolts. The storm eventually passes, leaving the sky tinted with brilliant colors at sunset. The group finds a shallow depression for their camp and sleeps immediately without sparring.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 18: Revelation at Yazuac
+
+The group drinks their final supply of water and heads toward the dark bump of Yazuac on the horizon. Eragon questions Brom's navigation, but Brom asserts that the stars and sun will guide them correctly. Saphira hides at a bend in the Ninor River while Brom and Eragon approach the silent village. They find the houses dark with shattered windows and notice an absence of barking dogs. Entering the town center, they discover a massive mountain of slaughtered villagers impaled by black arrows.
+
+A barbed spear at the top of the corpse pile holds the body of a dead infant. Eragon shoots a crow that attempts to scavenge the child's body before he succumbs to nausea. Brom identifies the massacre as the work of a company of roughly one hundred Urgals. Urgals are large, gray-skinned monsters with ram's horns, thick muscles, and yellow piggish eyes. Brom spots fresh tracks and realizes that Urgals are still present within the village limits.
+
+A giant Urgal knocks Eragon from his horse, while another attacks Brom with an ax. Eragon leads the monsters away from the injured Brom and becomes trapped in a dead-end alley. Overwhelmed by a desire for justice and survival, a fiery power gathers within Eragon's body. He shouts the word "Brisingr" as he releases an arrow that glows with crackling blue light. The arrow explodes upon impact, killing the lead Urgal and creating a shock wave that slays the second.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 19: Admonishments
+
+Eragon finds Brom slumped in his saddle with a deep, bleeding cut on his right arm. He slides the unconscious old man to the ground but finds himself too weak to lift him. Saphira arrives in a rage, and Eragon uses her to carry Brom to a safe clearing. He cleans and bandages Brom's wound using rags that previously wrapped his sword. They follow the Ninor River southward, where Eragon spots the Ra’zac’s footprints once again.
+
+In a secluded clearing, Eragon explains his use of magic to a recovering Brom. Brom warns that magic is governed by strict rules and that breaking them results in immediate death. He explains that "Brisingr" is a word from an ancient language that describes the true nature of fire. Magic consumes the user's physical energy, meaning a spell can kill the caster if it exceeds their strength. Brom reveals that he is also proficient in magic but lacks the power of a Rider.
+
+Saphira realizes that Brom used magic to light their fire on the plains and warns Eragon to be cautious. Brom advises Eragon to use magic only for tasks that cannot be accomplished through mundane means. He emphasizes that once a spell is cast, the energy cannot be reclaimed or stopped. Eragon reflects on his new identity as a potential sorcerer while Saphira expresses confidence in their growing power. The group settles down for the night to rest their injured and exhausted bodies.
+
+Sentence Count Check: 15

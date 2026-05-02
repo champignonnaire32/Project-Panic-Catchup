@@ -1,0 +1,57 @@
+### Chapter 5: AFTERMATH
+
+Eragon rests in Belatona’s courtyard against Saphira's scales while soldiers clear the battlefield. Roran approaches to report he is securing the city and organizing prisoners of war. Angela the herbalist joins them and mentions her intent to find a werecat who is Solembum’s mother. Saphira launches into the air, flying through thick smoke over the fire-dotted streets of the captured city. They soar over a massive mountain of clouds and the surrounding landscape of farms and lakes.
+
+A strong western wind signals an approaching storm as Saphira glides toward the gray tents of the Varden. Saphira flares her wings to land in a clearing, nearly knocking Eragon forward with the impact. Katrina hurries toward them with a visible pregnancy bulge to ask for news of the battle. Eragon reassures her that Roran is safe, despite a few minor nicks and bruises. Katrina explains she felt a twinge through her enchanted ring and feared for Roran's life.
+
+The pair part ways as Eragon and Saphira head toward the mess tents near the cookfires. Rain begins to pummel the tent walls as the wind howls outside the Varden’s encampment. Eragon consumes a slab of roast pork belly while drinking mead to recover his strength. Saphira watches him eat and asks if the human food is scrumptious. Eragon finishes his meal in the storm-battered tent while preparing for the coming night.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 6: MEMORIES OF THE DEAD
+
+Eragon relives a memory of Brom, who warns that Galbatorix is mad but has gaps in reasoning. Brom expresses his love for Eragon and wishes he could protect him from the coming dangers. Eragon wakes in his tent to find a rain drop soaking through his leggings from a sagging fold. He questions Saphira about why Brom never warned him that Murtagh was his half-brother. Saphira suggests Brom prioritized sharing his love over discussing Murtagh during their limited time.
+
+Eragon uses a spell in the ancient language to unearth an ironbound chest hidden beneath the dirt. He opens the chest to reveal Glaedr’s Eldunari, a large jewel-like stone containing the dragon’s heart of hearts. Eragon and Saphira attempt to reach Glaedr’s consciousness but find only crushing misery and indifference. Arya enters the tent and touches the Eldunari, confirming that Glaedr is on the cusp of insanity. She informs Eragon that the Dauthdaert, an ancient dragon-slaying spear, is hidden in her own tent.
+
+Eragon instructs her to keep the weapon separate to prevent Galbatorix from discovering both treasures at once. Albriech, son of the blacksmith Horst, runs to the tent to announce that Elain has begun labor. Horst requests Eragon’s presence in case magic is needed to assist with a difficult birth. Arya asks to accompany Eragon, offering her experience to make the delivery easier for Elain. Eragon quickly secures his hidden chest and follows Albriech toward Horst's family tent.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 7: THE PRICE OF POWER
+
+Nasuada’s handmaid, Farica, removes the linen bandages from her arms to reveal nine thick, puckered scars. These marks are the result of the Trial of the Long Knives, where Nasuada proved her leadership. King Orrin visits her study and expresses his distaste for the visible ridges of flesh. Orrin demands that Nasuada break the Varden’s alliance with the Urgals, large horned humanoids with thick skin. He argues that human recruits are refusing to join the Varden because they fear the monsters.
+
+Nasuada defends the alliance, hoping to bind the Urgals to the cause to prevent future wars. Orrin reveals he recently lost a childhood friend to a groom who refused to surrender due to Urgal presence. Nasuada insists she must do what is best for the army despite her own father's death by Urgals. They discuss the laughing dead, soldiers magically enchanted by Galbatorix to feel no pain or injury. The leaders review reports on thousands of prisoners who have sworn magical loyalty oaths to the Empire.
+
+Nasuada explains that these oaths prevent the prisoners from ever being trusted or recruited. Orrin suggests bypassing the city of Dras-Leona by marching directly to the capital, Uru'baen. Nasuada rejects the plan, fearing a flank attack from the large garrison stationed in Dras-Leona. She decides to use guards and magical bindings to contain the growing number of captive soldiers. Nasuada emphasizes that they must remain resolute until they can join forces with Queen Islanzadi’s elven army.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 8: RUDELY INTO THE LIGHT...
+
+Eragon waits outside Horst’s tent while Elain’s screams of labor pierce the evening air. Albriech and Baldor squat in the grass, shredded by anxiety as they listen to their mother's pain. Roran sits nearby on a barrel while other villagers from Carvahall mutter distrustfully about Arya’s involvement. Saphira stands behind the group, tasting the air with her red tongue to monitor the situation. Arya exits the tent in a state of frustration and explains that the women reject her help.
+
+The villagers fear elven magic and only permit Arya to cast the simplest of spells. Eragon offers to use his authority to force them, but Arya warns against causing village strife. She promises not to let the mother or child die before returning to the tent. The sun sets, casting long shadows as bats replace swallows in the cooling sky. Elain gives a final shriek followed by the loud, healthy wail of a newborn infant.
+
+The celebration is cut short when the women inside begin a shrill, heart-rending keening of grief. Arya rushes out and commands the brothers to stand aside so Eragon can enter the tent. She reveals that the baby girl has been born with a cat lip, a severe facial deformity. Arya explains that if she heals the child, the villagers will believe she was replaced by a changeling. Eragon agrees to perform the healing himself to ensure the child is accepted by her family.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 9: A CRADLE SONG
+
+Eragon creates a floating werelight in his tent to provide Gertrude the healer with enough illumination. He places the newborn on his cot and prepares the complex spells required for facial reconstruction. Arya waits outside the tent to avoid any suspicion of elven interference with the human child. Eragon chooses a traditional Carvahall lullaby to frame his magic and keep the infant calm. Saphira assists from outside by humming a deep vibration that causes the werelight to pulse.
+
+Eragon carefully reshapes the girl's soft bones, cartilage, and flesh using the ancient language. He meticulously aligns the roots of her future teeth and forms a perfect pink bow for her lip. The process lasts throughout the entire night, leaving Eragon and Saphira physically and mentally exhausted. As dawn breaks, Eragon finishes the work and bestows a blessing of happiness upon the girl. The infant smiles for the first time as Eragon carries her out of the tent to the waiting crowd.
+
+Horst receives his daughter and is overcome with joy upon seeing her flawless face. The smith announces that the baby will be named Hope if his wife Elain agrees. The villagers and several Varden warriors cluster around to witness the miraculous transformation. Arya and the other elves express their newfound respect for Eragon’s skill in gramarye, or magic. Eragon says farewell to Arya and returns to the task of recovering from the night's labor.
+
+**Sentence Count Check:** 15

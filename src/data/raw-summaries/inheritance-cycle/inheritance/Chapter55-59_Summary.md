@@ -1,0 +1,57 @@
+### Chapter 55: LACUNA, PART THE SECOND
+
+Eragon and Saphira discover hundreds of dragon eggs and Eldunari in the Vault of Souls. They meet Umaroth, the Eldunari of Vrael's dragon, who speaks for the other hearts of hearts. A metal-bodied guardian named Cuaroc—a dragon-headed automaton containing a purple Eldunari—protects the vault. Glaedr reveals that he and Oromis helped hide these eggs and Eldunari before the Fall but had their memories erased for security. Umaroth explains that the vault is located deep underground and uses geothermal heat to keep the eggs alive.
+
+The Eldunari reveal that Thuviel sacrificed himself on Vroengard to hide the vault's existence from Galbatorix. For a century, the Eldunari intervened in Alagaesia by influencing Brom, helping Hefring steal Saphira's egg, and guiding the werecats. They admit to sending Saphira's egg to the Spine specifically for Eragon and causing his transformation during the Blood-oath Celebration. Umaroth states that 131 Eldunari will accompany Eragon to Urubaen to help counter Galbatorix's enslaved dragons. Five Eldunari and Cuaroc will remain behind to guard the 243 saved eggs, of which 26 are for Riders.
+
+Eragon casts a complex spell provided by Umaroth to hide the traveling Eldunari in a pocket of space. This pocket of space remains at a fixed distance behind Eragon and is accessible through a pinprick-sized entrance. Umaroth warns that Eragon and Saphira will forget the eggs and Cuaroc once they pass through the Gate of Vergathos. Cuaroc returns to his throne and enters a statue-like state to begin his long vigil over the eggs. Eragon and Saphira walk through the gate and immediately lose all memory of the vault's specific contents.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 56: RETURN
+
+Eragon steps out of the tunnel into the sunlight at the Rock of Kuthian. He experiences a sense of emptiness and feels as if he has forgotten something important. The stone doors of the tunnel swing shut with a boom and the glowing glyphs fade away. Umaroth's mind speaks to Eragon, urging him to begin the flight to Urubaen. Eragon climbs into Saphira's saddle and prepares for the long journey ahead.
+
+He tightens the leg straps of the saddle as a shadow bird cries out from the fir trees. Eragon searches for the bird but cannot locate the creature among the branches. He decides that Vroengard is an unfriendly place and feels relief at the prospect of leaving. Saphira jumps into the air and beats her wings over the grove of apple trees. She gains altitude quickly as she rises above the floor of the bowl-shaped valley.
+
+Saphira circles the ruins of Doru Araeba while she continues her ascent. She eventually reaches a height that allows her to soar over the surrounding mountains. The dragon turns toward the east to begin the crossing to the mainland. Her flight path is set directly for the capital city of Urubaen. They leave the remains of the Riders' former stronghold behind as they fly over the sea.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 57: THE Ciry OF SORROWS
+
+The Varden army arrives at the outer walls of Urubaen under a midday sun. Roran observes the three-hundred-foot walls which are equipped with catapults and ballistae. He notes that the city is partially built by humans and partially by elves. Six malachite-green towers constructed by elves stand in an arc through the older section of the city. A massive stone shelf five hundred feet thick overhangs a large portion of the settlement.
+
+Underneath the stone shelf sits an enormous citadel with a gate large enough for two dragons. Roran concludes that the black dragon Shruikan must be immense based on the size of the fortress entrance. He walks beside his horse Snowfire and considers the tactical difficulty of a frontal assault. The Ramr River is too far north to be diverted into the city within their limited timeframe. Roran learns that Galbatorix has placed a ruthless and intelligent earl named Lord Barst in command of the city's defense.
+
+Roran attempts to use magic on a pebble but fails to move it. He meets with King Orrin and Jormundur in the king's pavilion to discuss military strategy. When Orrin insists on sending a formal envoy to Galbatorix, Roran threatens to kill anyone sent. Orrin draws his sword on Roran, but Roran disarms the king with a blow from his hammer. Roran spends the evening on the northern embankment with Katrina while guarding against any messengers from Orrin.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 58: War CoUNCIL
+
+Saphira flies from Vroengard to Urubaen in two days using a tailwind and energy from the Eldunari. During the flight, the Eldunari flood Eragon and Saphira with thousands of years of memories and knowledge. Eragon meets the dragon Valdr—the oldest of the Eldunari—who shares a vision of starlings and light. Saphira and Eragon study the fortifications of Urubaen from the air before approaching the Varden camp. Eragon contacts the elf Bladhgarm telepathically to coordinate a secret landing behind a hill.
+
+Saphira lands in a hollow while invisible to avoid detection by Galbatorix's spies. Eragon reunites with Arya, Bladhgarm, and Queen Islanzadi, who are all clad in fine armor. King Orik arrives on a shaggy pony and embraces Eragon before asking about the discoveries on Vroengard. Roran arrives and informs Eragon that King Orrin tried to stab him during a disagreement. Eragon promises to place protective wards on Katrina and Roran to keep them safe from Orrin's potential retaliation.
+
+King Orrin and Jormundur join the group, and Eragon makes everyone swear oaths of secrecy. He reveals the existence of the 131 Eldunari and introduces the dragon Glaedr to the leaders. The dragons reveal themselves telepathically to the assembly, causing the elves to fall to their knees in awe. Eragon proposes a battle plan to attack Urubaen at first light the following morning. The leaders agree to the risky assault, and Saphira punctuates the decision by snapping her jaws shut.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 59: A MATTER OF DUTY
+
+The war council continues for another hour to finalize the timing and signals for the attack. Arya volunteers to accompany Eragon and Saphira during the final confrontation with Galbatorix. Queen Islanzadi objects, arguing that Arya is too inexperienced compared to older elven spellcasters. Arya defends her right to fight by citing her history with Saphira's egg and her status as a Shadeslayer. The Queen eventually grants her blessing and the two elven women embrace in reconciliation.
+
+Eragon and Saphira promise to watch over Arya during the battle using the ancient language. Orik says goodbye to Eragon with a hug and promises to toast their victory with mead afterward. Saphira remains hidden behind the hill while Eragon waits for darkness to enter the main camp. Arya lingers after the others leave to ask Eragon about the changes in his personality. Eragon reveals that he and Saphira have learned their true names in the ancient language.
+
+Eragon describes seeing that the world is round and recounts the strange creatures of Vroengard. He offers to tell Arya his true name as a sign of his absolute trust in her. Arya declines the offer, stating that a true name is too precious and dangerous a gift to share lightly. She recounts how she discovered her own true name in a hidden, sunlit room in Tronjheim. Arya expresses her pride in Eragon before walking back to the Varden camp alone.
+
+**Sentence Count Check:** 15

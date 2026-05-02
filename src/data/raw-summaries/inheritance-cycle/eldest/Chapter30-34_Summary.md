@@ -1,0 +1,49 @@
+### Chapter 30: Repercussions
+
+Roran observes twelve men from Carvahall departing for the Spine to speak with families who fled the village. Horst warns Roran that his call to leave the village has caused deep turmoil and resentment among some neighbors. While Horst admits he was moved by Roran's speech, he threatens that the villagers will destroy Roran if his promises fail. Elain asks Roran to help pack clothing and bedding for the journey while Horst prepares to destroy his smithy. Gertrude the healer inspects Roran’s shoulder and warns that the tissue might become diseased and require cauterization.
+
+Gertrude advises Roran to learn to fight with his left hand as his right arm remains immobilized in a splint. Roran realizes his identity is tied to his physical condition and feels panic at the permanent scarring on his shoulder. He spends the day asking villagers for extra storage space on their pack animals but finds them evasive about their plans. The villagers treat Roran with a new, unsettling deference that makes him feel isolated and branded by his deeds. Roran examines his reflection in a puddle and decides to use his haunted, frightening appearance to intimidate his enemies.
+
+Thane approaches Roran and expresses deep gratitude, claiming Roran's words gave him purpose and saved him from despair. Roran is moved by the farmer's debt but remains internally conflicted about the weight of his influence. The village remains in a state of unnatural calm as families secretly prepare for the exodus. Elain continues to sort through the kitchen while Roran helps manage the logistics of the limited transport available. Roran concludes that their survival depends entirely on reaching Surda and fulfilling the hopes he instilled in the people.
+
+**Sentence Count Check:** 15
+
+### Chapter 31: Exodus
+
+Roran visits Morn's tavern and finds the owner distraught over abandoning twelve years of work and his stored ale. Tara accuses Roran of ruining them because Morn cannot farm or trade like the other villagers. Roran encounters Birgit at a well, where she reiterates her intent to seek compensation for Quimby’s death after the Ra'zac are killed. Horst and his sons return home with a limited set of smithing tools they have chosen to bring on the journey. The family discusses the difficulty of feeding three hundred people and decides to bring their flocks of sheep and goats.
+
+On the morning of the departure, Horst leads his family and horses to the front of the village to begin the trek. Roran watches as the villagers gather with their livestock, children, and meager possessions at the north end of Carvahall. Birgit, Ridley, and several other families join the group, but others like Ivor choose to stay behind on their farms. Ethlbert publicly denounces Roran as a lunatic and leaves the group to seek refuge in Therinsford instead. Albriech arrives late with Morn and Tara, who are heavily burdened with beer casks they refuse to leave.
+
+Fisk presents Roran with a custom-made hawthorn staff featuring a polished root knot and a steel spike. Roran accepts the gift and leads the long column of villagers and animals across the trench and into the wilderness. He chooses not to look back at his father’s bones or his former life as they enter the mountains. The group begins the arduous climb toward the Igualda Falls while Roran focuses on his goal of rescuing Katrina. The exodus marks the final abandonment of Carvahall as the Empire's soldiers are expected to return soon.
+
+**Sentence Count Check:** 15
+
+### Chapter 32: On the Crags of Tel’naeír
+
+A massive gold dragon named Glaedr arrives at the Crags of Tel’naeír, carrying an ancient Rider named Oromis. Eragon falls to his knees with relief, realizing he is not the last Rider and now has a master to guide him. Queen Islanzadí reacts with rage because Oromis kept Eragon’s existence a secret from her for so long. Oromis explains that he remained hidden to ensure someone survived to teach any new Riders who might emerge. He reveals that both he and Glaedr are "crippled," as Oromis can no longer control magic and Glaedr has lost a leg.
+
+Oromis takes Eragon and Saphira to his secluded hut on the brink of the crags to begin their formal instruction. The master tests Eragon’s patience by remaining silent for an hour before examining the calluses on his hands. Oromis observes that Eragon is reckless and pursues danger, though Eragon attributes this to his dedication to those he loves. The master reveals he has been monitoring Eragon’s mind and noticed when a silver hammer amulet blocked his scrying. Oromis suffers a sudden, violent seizure but explains it is a non-contagious malady he has managed for decades.
+
+Eragon confesses his own physical pain from his back wound, but Oromis insists the training must proceed regardless of the agony. Eragon pledges to endure the suffering for the sake of the people of Alagaësia who suffer under Galbatorix. Oromis shares that he was the teacher of both Brom and Morzan and was one of the Elders who denied Galbatorix a second dragon. Eragon learns about the history of the Broddring Kingdom and how Galbatorix transformed it into his current Empire. The master warns Eragon that power without moral direction is the most dangerous force in the world.
+
+**Sentence Count Check:** 15
+
+### Chapter 33: The Secret Lives of Ants
+
+Saphira is overwhelmed with joy and adoration after meeting Glaedr and spends her time chattering about his impressive attributes. Eragon feels lonely as Saphira’s attention remains fixed on the elder dragon rather than their shared experiences. He bathes in a magical steaming tub and uses an elvish razor to shave his face for the first time. After accidentally cutting himself, Eragon uses a spell to turn his stubble into black powder, leaving his skin smooth. Oromis gifts Eragon a new, magically imbued saddle from Vroengard that is designed for comfort and safety during complex maneuvers.
+
+Oromis begins Eragon’s physical training with the Rimgar, a series of poses known as the Dance of Snake and Crane. Eragon is relieved to find the first level of the exercise does not trigger the debilitating pain in his back. Later, Oromis instructs Eragon to sit on a white stump and open his mind to every living being in the glade. Eragon discovers the vast complexity of the forest’s insect life and watches red ants shepherding aphids for food. He reports his findings with pride, but Oromis rebukes him for focusing on one species instead of sensing all life equally.
+
+The lessons transition to the Liduen Kvaedhí, the poetic script used for writing the ancient language with forty-two basic shapes. Oromis is horrified to discover that Eragon accidentally cursed a child in Farthen Dûr by using the wrong verb form. Eragon intended to bless the girl with protection but instead turned her into a "shield" who must absorb the suffering of others. The master explains that Eragon is now responsible for the girl’s fate and must help her if the opportunity arises. Saphira and Eragon are scolded for not sharing their daily lessons with each other through their mental bond.
+
+**Sentence Count Check:** 15
+
+### Chapter 34: Under the Menoa Tree
+
+Eragon tells Saphira about his linguistic error, and she shares her newfound knowledge of dangerous weather patterns with him. Arya visits Eragon at his tree house, appearing more relaxed and wearing a green tunic instead of her usual leather. She invites Eragon to explore Ellesméra, and Saphira insists on joining them by leaping from their bedroom to the ground. They walk through the city and observe elves engaged in solitary artistic pursuits like pottery and music. Arya explains that the elves’ magic allows them great leisure to master their personal interests without the need for hunting or farming.
+
+The group visits Rhunön, an ancient elvish smith who forged all the Riders' swords but swore never to make weapons again. Rhunön inspects Zar’roc and tests its edge by effortlessly slicing a pair of steel tongs in half. She expresses interest in Saphira’s blue scales, noting they would have made a beautiful blade to match the dragon’s hue. Arya leads them into the forest to the Menoa tree, a colossal pine that serves as the heart of Du Weldenvarden. Eragon senses the tree’s massive, slow-moving consciousness and realizes it is a sentient being of immense power.
+
+Arya recounts the legend of Linnëa, a woman who sang herself into the tree after murdering a young man who spurned her love. Eragon reflects on Solembum’s prophecy about finding a weapon under the roots of the Menoa tree but sees no sign of one. Blagden the white raven arrives and shrieks "Wyrda," the word for fate, as the group sits beneath the branches. Eragon confesses his shame over the botched blessing to Arya, who reacts with shock and offers her sympathy. They sit together in the moonlight, contemplating the upcoming Blood-oath Celebration and the child’s uncertain future.
+
+**Sentence Count Check:** 15

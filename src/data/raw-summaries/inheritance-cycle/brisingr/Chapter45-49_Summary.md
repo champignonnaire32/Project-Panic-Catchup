@@ -1,0 +1,49 @@
+### Chapter 45: Genealogy
+
+Eragon and Saphira arrive in the elven city of Ellesméra after a four-day flight from Farthen Dûr. They are greeted mentally by Gilderien the Wise, a guardian who has protected the city for over two millennia using the White Flame of Vándil. Saphira lands at the Crags of Tel’naeír, where the golden dragon Glaedr and the elf Oromis await them. Eragon is physically exhausted from the journey and collapses upon landing, requiring Oromis's assistance to stand. Glaedr breathes energy into the depleted Saphira to restore her strength before she eats a deer carcass.
+
+The group gathers at a table where Oromis reveals he is already aware of Eragon's recent activities, including the duel with Murtagh and the trip to Helgrind. Eragon expresses frustration over the secrets kept from him and demands to know his true lineage. He accuses Oromis and Brom of using him as a weapon against Galbatorix to atone for Morzan's crimes. Glaedr growls in response to Eragon's outburst, asserting that they have protected him from death. Saphira urges the mentors to reveal the truth to end Eragon's distress.
+
+Oromis corrects Eragon by stating that Murtagh is only his half-brother rather than a full sibling. He explains that he and Glaedr were bound by oaths in the ancient language to keep Eragon's parentage a secret. Eragon experiences intense vertigo as he realizes the implications of this new information. Glaedr tells Eragon to look into his own heart to find the answer he seeks. Eragon finally asks for the identity of his father, and Glaedr names Brom as the man who sired him.
+
+Sentence Count Check: 15
+
+### Chapter 46: Two Lovers Doomed
+
+Eragon is stunned by the revelation and initially feels betrayed that Saphira kept Brom's identity a secret from him. Saphira explains that she was bound by an oath in the ancient language sworn to Brom before his death. Oromis calms Eragon using meditation techniques and begins to recount the history of Brom and Morzan. Brom originally admired Morzan until the latter betrayed the Riders and caused the death of Brom's first dragon. This betrayal transformed Brom’s love into a lifelong hatred dedicated to destroying Morzan and Galbatorix.
+
+Oromis reveals that Eragon's mother, Selena, was a dangerous agent for Morzan known as the Black Hand. Brom infiltrated Morzan's castle by posing as a gardener to strike at the Black Hand but unexpectedly fell in love with her. Selena's character changed after meeting Brom and becoming a mother to Murtagh, which released her from her previous oaths to Morzan. She began spying for the Varden while Morzan used Murtagh as leverage to keep her under his control. Brom remained a gardener for three years to stay near her until he left to help Jeod steal dragon eggs.
+
+Selena died shortly after giving birth to Eragon in Carvahall, and Brom found the infant in the care of Garrow and Marian. Brom faked his death in Gil’ead after killing Morzan so he could live in Carvahall and protect Eragon without attracting Galbatorix's attention. Oromis confirms that Eragon is Brom’s son and that the transfer of Saphira's egg to Eragon was not an accident but fate. Eragon realizes that his mother died to protect him and that Brom sacrificed himself to save his life. Oromis concludes the story by mentioning that Sloan, the butcher from Carvahall, has arrived in Ellesméra.
+
+Sentence Count Check: 15
+
+### Chapter 47: Inheritance
+
+Eragon stands at the edge of the Crags of Tel’naeír and processes the fact that Brom is his father. Saphira approaches him and asks if he is angry, but he expresses acceptance of his lineage. He admits that while the news is overwhelming, he is proud to be Brom’s son. Saphira offers to share a specific memory that Brom left for Eragon before he died. Eragon agrees to see it immediately rather than waiting for a more convenient time.
+
+The memory transports Eragon to a lush glade in the forest where a younger Brom sits upon a fallen tree. Brom speaks directly to Saphira's memory, acknowledging that if Eragon is seeing this, then Brom has already died. He smokes cardus weed and explains that he has always longed to call Eragon his son. Brom admits his regret over returning to Carvahall and causing the events that led to Garrow's death. He expresses immense pride in Eragon's growth and his status as a new Dragon Rider.
+
+Brom provides two pieces of advice: to protect loved ones and to understand the mind of an enemy. He explains that Galbatorix can be defeated by finding the gaps in his reasoning rather than using brute force. The memory ends with Brom professing his love for Eragon and his mother before the vision fades. Eragon weeps upon returning to the present, feeling a deep sense of loss for the parents he never truly knew. Oromis returns from his hut with soup, and the group prepares to continue their discussion.
+
+Sentence Count Check: 15
+
+### Chapter 48: Souls of Stone
+
+Oromis shows Eragon a fairth, which is a magically created image on slate, depicting his mother, Selena. The image shows a beautiful woman kneeling in a garden of roses, wearing leather armor and carrying weapons. Eragon is fascinated by the likeness and asks Oromis to keep it safe for him during the coming war. Oromis refuses, explaining that Eragon must take responsibility for the artifact himself. The conversation shifts to the source of Galbatorix's immense power, which Glaedr reveals comes from the Eldunarí.
+
+Glaedr explains that an Eldunarí is the "heart of hearts," a gemlike organ where a dragon can permanently transfer its consciousness. Once a dragon's essence is in the Eldunarí, it can live on indefinitely even after its physical body dies. Galbatorix has captured hundreds of these hearts, breaking the minds of the dragons within to steal their magical energy. This hoard of souls allows him to cast spells of incredible strength and provides him with mental fortification. Oromis notes that Galbatorix spent forty years subduing the captured Eldunarí before reasserting control over Alagaësia.
+
+Saphira asks if their race is truly doomed, and Glaedr confirms that while many dragons live on as souls, they cannot reproduce. Eragon realizes that freeing the Eldunarí is the only way to strip Galbatorix of his godlike power. Oromis explains that Eldunarí gain energy through magic and their power grows for several years after the dragon's body dies. Eragon realizes that Murtagh's strength comes from the hearts Galbatorix lent him, which explains the multiple voices Eragon sensed in Murtagh's mind. The group discusses the concept of Indlvarn, where a Rider lives on with their dragon's heart of hearts.
+
+Sentence Count Check: 15
+
+### Chapter 49: Hands of a Warrior
+
+Eragon tells Oromis about the prophecies he received from Angela the herbalist and the werecat Solembum. Oromis recognizes the description of Angela as an extraordinary spellcaster who has visited Ellesméra under a different name. He admits he does not know the location of the Vault of Souls or the Rock of Kuthian mentioned by the werecat. Regarding the weapon under the Menoa tree, Oromis expresses skepticism but offers to let Eragon search for it. He promises to arrange a meeting for Eragon to acquire the Rider sword Támerlein from House Valtharos.
+
+Oromis suggests that Eragon visit the smith Rhunön, who forged all the swords for the Dragon Riders, for her expert advice. He tells Eragon and Saphira to rest for the remainder of the day to process the heavy revelations they have received. Eragon asks to learn how to summon spirits, but Oromis refuses, warning that sorcery is a dark and dangerous discipline. Oromis also declines to tell Eragon his true name, insisting that such enlightenment must be earned through self-discovery. He agrees instead to teach Eragon how to transport objects instantaneously, the spell Arya used with Saphira's egg.
+
+Oromis mentions that Sloan, the butcher who betrayed Carvahall, is currently living in isolation within Ellesméra. The elves have cared for Sloan's physical wounds, but Eragon’s magic keeps him from leaving the city. Oromis examines Eragon's hands and notes that they have become the hands of a warrior. He cautions Eragon not to become a man who revels in the destruction and carnage of war. The chapter ends with Eragon contemplating his responsibility for Sloan's punishment and his upcoming tasks in the elven capital.
+
+Sentence Count Check: 15

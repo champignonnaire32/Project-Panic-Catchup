@@ -1,0 +1,57 @@
+### Chapter 5: Rider and Ra’zac
+
+Eragon waits in the center of Helgrind and repeatedly calls out to the last remaining Ra’zac in the ancient language. The creature eventually emerges from the tunnels and reveals that its master, Galbatorix, is close to discovering the "true name." When the Ra’zac refuses to elaborate further, Eragon refuses to make a pact to remember the race as an object of fear. The Ra’zac attempts to kill Eragon with a bow, but the Rider deflects the arrow and kills the monster with his hawthorn staff. Eragon retrieves the unconscious Sloan from his cell and destroys four flasks of flesh-eating Seithr oil before leaving the caves.
+
+To escape Helgrind, Eragon uses magic to levitate himself and Sloan down the steep, mile-high cliffs of the dark tower. The exertion nearly kills him, but he manages to reach the ground just as Galbatorix’s horsemen arrive at the base of the mountain. He barely survives the landing by draining the life force from a series of nearby shrubs to replenish his own energy. Horrified by his own recklessness, he carries Sloan away into the concealment of a nearby draw to avoid detection. He maintains a steady pace throughout the day, feeling a bittersweet sense of relief that his quest for vengeance is finally over.
+
+Eragon reflects on how his hunt for the Ra’zac provided him with a singular purpose since leaving Palancar Valley. He vows to avoid becoming so attached to his struggle against the Empire that he cannot move on when the conflict ends. The death of the Ra’zac fulfills his duty to Garrow and Brom and removes a heavy burden of fear from his heart. He realizes he can now build a new life for himself defined by his role as a Dragon Rider rather than his past. Elated by his freedom, he runs toward the eastern horizon with renewed hope for the future.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 6: To Walk the Land Alone
+
+Eragon stops to rest after a long day of running and realizes he is ravenous from his magical and physical exertions. He identifies the local plants but finds none sufficient for a meal, forcing him to consider the moral dilemma of eating meat. Ultimately, he uses magic to kill two lizards and a rodent, which he cleans and cooks over a stone oven. Despite his initial revulsion, he consumes the food and decides that moderation is a better policy than the strict vegetarianism of the elves. He then wakes Sloan from his enchanted sleep and provides him with the remaining lizard meat to eat.
+
+Sloan questions Eragon about Katrina, and Eragon reveals that she is safe with Roran and that the Ra’zac are dead. Eragon identifies himself by his many titles and forces Sloan to accept memories that prove he is indeed the Dragon Rider from Carvahall. The butcher remains stoic and brave, refusing to beg for mercy or explain his betrayal of the village to the Empire. Eragon empathizes with Sloan’s motives but decides that the butcher must still be punished for the murder of the watchman Byrd. While contemplating the verdict, Eragon accidentally discovers Sloan’s true name, granting him absolute power over the man.
+
+Eragon uses a pool of water to scry Queen Islanzadí and asks her to grant Sloan refuge in the elven city of Ellesméra. The Queen is initially furious that Eragon risked his life for a traitor, but she eventually agrees to his request on the condition that Sloan survives the journey. Eragon returns to the camp and sentences Sloan to a life of exile where he can never again see or speak to Katrina. He uses Sloan's true name to compel him to swear binding oaths and travel northward to Du Weldenvarden under magical protection. Before they part, Eragon leaves his hawthorn staff with Sloan and suggests that a man can forge himself anew by changing his true name.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 7: The Trial of the Long Knives
+
+Nasuada meets with the warlord Fadawar, who demands positions of power for his kinsmen based on their shared blood. She refuses to show favoritism, arguing that her parents are dead and she views all the Varden as her people regardless of heritage. Fadawar switches to his native language to undermine her authority and eventually challenges her to the Trial of the Long Knives to decide the leadership of the Varden. Nasuada accepts the challenge and wagers Fadawar's own crown and scepter on the outcome of the contest. She prepares for the ordeal by removing her dress while her handmaid and a message boy summon witnesses.
+
+King Orrin, Jörmundur, and other leaders arrive to witness the trial as tribesmen begin a frantic drumbeat to set the tempo. Fadawar and Nasuada each take a long, curved knife and prepare to make a series of identical cuts on their own forearms. Nasuada discovers that Fadawar has five existing ritual scars, indicating his high level of mental fortitude and experience with the trial. They begin the contest, with each leader drawing the blade across their flesh to see who can withstand the most pain before fainting. Nasuada focuses on her duty to the Varden to endure the agony as blood pools at her feet.
+
+Fadawar eventually reaches his limit and submits after the ninth cut, leaving Nasuada as the undisputed victor of the contest. Nasuada refuses magical healing for her wounds, insisting on the traditional natural recovery process to ensure the legitimacy of her win. She ignores King Orrin’s criticism of her recklessness, believing the trial was necessary to unify the different factions under her command. Later, she retreats to her chair to recover and reflects on the necessity of taking extreme risks to defeat Galbatorix. She is left exhausted and pain-drunk, but her status as the leader of the tribes is now firmly established.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 8: Winged Tidings
+
+Nasuada wakes from a temporary memory gap to find Jörmundur shaking her and insisting that she remain conscious. She dismisses her guards and handmaid to meet privately with the witch-child Elva, who has continued her unnaturally rapid growth. Elva reveals that she manipulated the Trial of the Long Knives by lying to Nasuada about the predicted outcome to ensure her victory. The herbalist Angela then arrives to stitch Nasuada's wounds and provide her with tonics and poultices to prevent infection. During the treatment, a guard announces that Saphira is approaching the camp from the northeast.
+
+Nasuada has her sleeves cut off at the elbows to proudly display her bandages before heading to the landing clearing to meet the dragon. Saphira lands and reveals that Roran and Katrina are safe, but Eragon has stayed behind in the Empire. Saphira shares her memories of the battle at Helgrind, showing the others the destruction of the Ra’zac and the rescue of the prisoners. King Orrin and the dwarf ambassador Narheim express their concern about the Rider being alone in enemy territory. Arya immediately decides to go and find Eragon, running northward into the darkness at superhuman speed.
+
+The leadership of the Varden remains in the clearing, stunned by the sudden departure of both the Rider and the elf princess. Nar Garzhvog offers to help Arya, but Nasuada orders him to stay because his appearance would attract too much attention from the Empire's soldiers. Nasuada realizes that the center of her alliance is crumbling as her most powerful allies vanish into the wilderness. She is left to manage the Varden and King Orrin while worrying about Eragon’s safety and his reasons for staying behind. The chapter ends with Nasuada feeling a mounting sense of doom regarding the stability of her cause.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 9: Escape and Evasion
+
+Eragon runs across the dry landscape of the Empire, lulled into a trance by the monotonous rhythm of his own stride. He keeps to established roads to save his energy but hides frequently to avoid the hundreds of soldiers and magicians patrolling the area. While hiding in a thicket, he narrowly escapes detection by a group of six horsemen by using a spell to bend light around his body. He hears the soldiers discussing how Galbatorix is driving them hard and that Murtagh has said something mysterious about their target. After the patrol passes, Eragon continues his journey while pondering the significance of the soldiers' conversation.
+
+Nightmares of his past battles haunt Eragon during his rest, causing him to wake up screaming and convinced he is being attacked. He struggles with feelings of weakness and guilt over the blood he has shed, wondering why other warriors like Roran do not seem as troubled. To escape these mental terrors, he resumes running at a dead pace through the unknown darkness to anchor himself in the physical world. He eventually reaches a set of ancient ruins on a central hill where he discovers a garden tended by an old man named Tenga. They labor together in the peas before Tenga invites Eragon into a broken tower filled with rare books and scrolls.
+
+Tenga reveals he is searching for a "key to an unopened door" and mutters about ending the age of savages with his discovery. Eragon realizes Tenga is a powerful but potentially mad spellcaster and quietly slips away to continue his journey toward the Varden. He eventually reaches the village of Eastcroft, where he hides his elf-like features and observes a beautiful woman being harassed by four farmers. He intervenes and discovers the woman is actually Arya in a human disguise, and she reveals she has been searching for him. They spend the night in her rented room, where Eragon explains his treatment of Sloan, before they sneak out of the village together at dawn.
+
+Sentence Count Check: 15

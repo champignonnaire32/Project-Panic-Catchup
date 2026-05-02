@@ -1,0 +1,57 @@
+### Chapter 70: A Fitting Epitaph
+
+Eragon and Saphira spend several months in Ilirea helping Nasuada establish order and rebuilding the city gate. Nasuada is crowned Queen of the Broddring Kingdom with a new gold and gemstone crown forged by dwarves and elves. Eragon flies to the cities of Dras-Leona, Belatona, Feinster, and Aroughs to release soldiers from their magical oaths to Galbatorix. During his travels, Eragon survives a poisoning attempt in Feinster and uses the Name of Names to dismantle residual enchantments. He takes over half of the Eldunari—dragon hearts of hearts containing the souls of deceased dragons—on this journey for protection.
+
+Eragon and Saphira detour to a cluster of sandstone hills to visit Brom’s diamond-encased tomb. Eragon weeps at the sight of his father and considers using the Eldunari’s power to magically resurrect him. The elder dragon Umaroth warns that a resurrected mind might be muddled or fundamentally altered, making the attempt dangerous. The ancient dragon Valdr speaks in the ancient language to command Eragon to leave the dead to the earth. Eragon accepts his father's death and uses magic to update the runes on the tomb to reflect Brom’s true identity as a Rider.
+
+The new epitaph identifies Brom as the son of Holcoynb and Nelda, beloved of Selena, and father of Eragon. Eragon casts powerful protective spells over the diamond spire to prevent future theft or vandalism. He notices that Saphira’s snout scale is finally regrowing after being damaged in the final battle. Saphira hums with satisfaction as they fly back toward the capital city to continue their duties. Eragon feels a sense of finality regarding his past as they leave the sandstone hills behind.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 71: Pieces on a Board
+
+Eragon discovers that Nasuada has renamed Uru'baen to Ilirea and that Arya has returned to Ellesméra with the green dragon egg. Arya leaves a letter explaining she is burying her mother and has appointed Vanir—a young elf who previously sparred with Eragon—as the new ambassador. Eragon offers to remove the sensory curse from Elva, but the girl chooses to keep her power to feel others' pain. He and Saphira visit the ruins of Carvahall and find the village overgrown with weeds and inhabited by wild dogs. After visiting the turret on Utgard mountain where Vrael fell, Eragon helps Roran negotiate peace terms with the independent city-state of Teirm.
+
+Eragon spends weeks at a castle northeast of Ilirea helping Blédhgarm and the elven casters heal the minds of the maddened Eldunari. He explores the Citadel and finds treasures like an astrolabe—a device for viewing stars in daylight—and hundreds of recovered Riders’ swords. Nasuada grants Roran the title of Earl of Palancar Valley and gifts him the entire region as his new domain. Roran and Katrina celebrate the birth of their healthy daughter, whom they name Ismira after Katrina's mother. Nasuada proposes forming a new magical oversight group and asks Eragon to lead it to ensure spellcasters do not abuse their power.
+
+Eragon feels uneasy about Nasuada’s plan to bind and monitor all human magicians through magical supervision. Nar Garzhvog warns that the Urgals—horned, gray-skinned warriors—will eventually seek battle once their young generation grows restless. Eragon receives a grass ship from Arya containing a hidden message asking him to meet her in secret. The message instructs him to meet at the easternmost point of the Ramr River four days before the half moon. Saphira and Eragon depart the city at dawn without telling anyone their destination or the contents of the letter.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 72: Firnen
+
+Eragon and Saphira wait at the Ramr River until a green dragon smaller than Saphira descends from the sky. The dragon is Firnen, a male dragon with forest-green scales who has recently hatched for Arya. Arya reveals she has accepted the title of Dréttning, or Queen, of the elves following her mother’s death. She carries Támerlein, a green-hilted Rider sword that has been reworked by the master smith Rhunon to fit her. Firnen and Saphira perform a wild aerial courting ritual involving fire-breathing and aggressive physical play.
+
+Eragon creates a fairth—a magical image captured on slate—of Arya that reflects her true character and depth. Arya offers to share her true name in the ancient language, leading to a deep exchange of personal identities. Eragon whispers his own true name to her, confirming a profound and vulnerable bond between the two Riders. Arya admits that while she currently feels a connection to him, her duties as Queen must take precedence. Eragon breaks the news that he and Saphira have decided to leave Alagaésia forever to raise the new dragons in safety.
+
+He explains that the Eldunari and the dragon eggs will never be secure from theft or manipulation within the existing kingdoms. Eragon asks Arya to give up her crown and join them, but she refuses her obligation to lead the elves. They agree to leave a few eggs behind so the elves and other races still have a chance to produce new Riders. Eragon realizes that their departure marks the fulfillment of the prophecy Angela the herbalist gave him in Teirm. The two sit together in silence, holding hands and watching their dragons return from the sky.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 73: A Man of Conscience
+
+Eragon returns to Ilirea and finds Nasuada in a lifted mood because of Elva's comforting words. He meets Nasuada on a balcony and officially declines her offer to lead the new guild of magicians. Eragon explains that he and Saphira are leaving the land because his immense power unbalances the political landscape. He argues that he cannot risk becoming a tyrant like Galbatorix by staying and meddling in the affairs of mortals. Nasuada attempts to order him to stay, but Eragon insists he must follow his own conscience and the needs of the dragons.
+
+Eragon refuses to teach Nasuada or her successor the Name of Names, citing the danger of such knowledge falling into the wrong hands. He promises to leave magical mirrors with Nasuada and Roran so they can contact him for help in the future. Eragon proposes a plan to Orik and the Urgal leaders to include their races in the blood-oath pact of the Riders. Nasuada expresses her deep sadness at his departure but ultimately gives him and Saphira her royal blessing. The Queen kisses Eragon on the brow and wishes him peace and good fortune on his long journey.
+
+Eragon feels the weight of his decision as he leaves the study, knowing he will likely never return to the city. He prepares for the logistics of moving hundreds of Eldunari and the remaining dragon eggs across the border. Saphira continues her interaction with Firnen, though both dragons know their time together is limited. Eragon reflects on his responsibilities to the future Riders who have yet to be born or chosen. He spends his final evening in the city contemplating the vast, empty lands to the east where they will settle.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 74: Blood Price
+
+Eragon encounters Angela the herbalist and the werecat Solembum, who are preparing to leave Ilirea for the Beor Mountains. Angela reveals she knows of Eragon’s departure and warns him to watch out for ferocious wild hamsters in his travels. Eragon visits Jeod, who reveals he is a member of the Arcaena, a secret society dedicated to preserving historical knowledge. Jeod promises that Eragon’s story will be recorded as new chapters in the Domia abr Wyrda, the definitive history of the land. Roran and Katrina agree to accompany Eragon and Arya as far as Ellesméra to see the elven cities before returning home.
+
+Eragon contacts King Orik through a silver mirror and secures his agreement to add the dwarves to the Rider pact. As the group prepares to leave Ilirea, a woman named Birgit approaches Roran with a drawn sword and shield. Birgit demands a blood price for the death of her husband, Quimby, who was eaten by the Ra'zac in Carvahall. Roran admits his responsibility for the tragedy and bares his chest, refusing to fight her in a matter of honor. Eragon removes Roran's protective wards but secretly casts spells to prevent a fatal blow or infection.
+
+Birgit uses her sword to cut Roran's palm, declaring the debt paid and the quarrel at an end. Roran chooses to keep the scar as a reminder of his past and refuses magical healing for the wound. The group boards the dragons, with Roran, Katrina, and baby Ismira riding on Firnen’s modified saddle. Nasuada, Jeod, and the other Varden leaders wave farewell as the dragons take flight toward the southeast. Eragon watches the city walls recede as Saphira begins the first leg of their permanent departure from Alagaésia.
+
+**Sentence Count Check:** 15

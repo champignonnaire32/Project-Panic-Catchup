@@ -29,6 +29,7 @@ const seriesMap = {
   'empyrean': 'The Empyrean Series',
   'hisdarkmaterials': 'His Dark Materials',
   'acotar': 'A Court of Thorns and Roses',
+  'inheritance-cycle': 'The Inheritance Cycle',
 };
 
 // Define explicit book orders
@@ -74,6 +75,10 @@ const bookOrderMap = {
   'A Court Of Wings And Ruin': 3,
   'A Court Of Frost And Starlight': 4,
   'A Court Of Silver Flames': 5,
+  'Eragon': 1,
+  'Eldest': 2,
+  'Brisingr': 3,
+  'Inheritance': 4,
 };
 
 const rawBaseDir = path.join(process.cwd(), 'src', 'data', 'raw-summaries');
@@ -112,11 +117,14 @@ for (const seriesFolder of seriesFolders) {
     const files = fs.readdirSync(bookRawPath).filter(f => f.endsWith('_Summary.md'));
 
     for (const file of files) {
-      // Extract the range from the filename (e.g. Chapter1-5_Summary.md -> 1-5)
-      const fileMatch = file.match(/Chapter(.*?)_Summary\.md/);
-      if (!fileMatch) continue;
-
-      const range = fileMatch[1];
+      // Extract the range from the filename (e.g. Chapter1-5_Summary.md -> 1-5, Prologue-Chapter4_Summary.md -> Prologue-4)
+      let range = file.replace('_Summary.md', '').replace(/^Chapter/, '');
+      
+      // Clean up common inconsistencies
+      range = range.replace('Chapter', ''); // Handle double "Chapter" in names like Prologue-Chapter4
+      if (range.startsWith('-')) range = range.slice(1);
+      
+      if (!range) continue;
 
       // Calculate a start chapter for sorting
       let startChapter = 0;

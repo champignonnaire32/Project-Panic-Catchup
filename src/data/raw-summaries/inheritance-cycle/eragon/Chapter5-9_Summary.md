@@ -1,0 +1,57 @@
+### Chapter 5: AWAKENING
+
+A small dragon hatches from the sapphire-colored egg in Eragon's bedroom. The creature has deep sapphire scales, two white fangs, and ivory claws. When Eragon touches the dragon's flank, a blast of icy energy surges through his arm. This contact leaves a shimmering white oval called the Gedwëy Ignasia on his right palm. A mental connection forms between the boy and the dragon, allowing them to sense each other's feelings.
+
+Eragon feeds the hungry dragon strips of dried meat which it swallows whole. He realizes that keeping the dragon is dangerous because the Empire kills anyone who hides one. Despite the risks, Eragon decides to protect the creature and builds a harness and a crude hut for it in a rowan tree. He hides the dragon in the forest to keep its existence secret from Garrow and Roran. The dragon grows at an explosive rate, doubling in size within the first week.
+
+Eragon establishes a routine of visiting the forest daily to feed and interact with the dragon. Their mental link strengthens, permitting the exchange of images and emotions over distances of several leagues. By the end of a month, the dragon is as high as Eragon's shoulder and possesses scales as tough as armor. Eragon prepares to visit Brom in Carvahall to learn more about dragon history and names. Before he leaves, the dragon speaks his name clearly into his mind.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 6: TEA FOR TWO
+
+Eragon visits the storyteller Brom at his house in Carvahall to ask about the Dragon Riders. Brom explains that dragons and dwarves were the original inhabitants of Alagaësia before any other races arrived. The elves, called the fair folk for their grace, arrived from Alalea and eventually went to war with the dragons. This conflict ended when an elf named Eragon found an egg and raised a dragon named Bid'Daum. Their partnership led to the formation of the Shur'tugal, an order of peacekeepers who ruled from the city of Dorú Areaba.
+
+Brom reveals that humans arrived in Alagaësia three centuries after the Riders began. He mentions that the dwarves disappeared underground after Galbatorix overthrew the Riders and killed their dragons. Galbatorix only spared the dragons of the Forsworn, thirteen Riders who chose to serve his madness. Brom describes dragons as highly intelligent beings that grow larger than houses and breathe fire after six months. Eragon learns that Riders lived for hundreds of years and developed pointed ears similar to those of elves.
+
+Eragon lies to Brom, claiming he heard about dragons from a mysterious trader at a local tavern. Brom becomes suspicious and asks for the trader's name, which Eragon cannot provide. The old man lists many historical dragon names like Jura, Hírador, and Fundor at Eragon's request. Among the names Brom mentions is Saphira, which he speaks very softly at the end of the list. Eragon leaves the house with a list of potential names and a deeper understanding of his new role.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 7: A NAME OF POWER
+
+Roran tells Eragon that a man named Dempton from Therinsford has offered him a job at a mill. Roran plans to take the job so he can earn enough money to marry Katrina, the butcher's daughter. Eragon argues against the departure because of the workload on the farm, but Roran remains firm. The two cousins walk home in silence as Eragon struggles to accept the sudden change in his family. Back at the farm, Eragon heads into the forest to vent his frustrations to the dragon.
+
+Eragon shouts and punches the ground while the dragon watches him with intelligent curiosity. He begins testing various heroic names from Brom's list to see which one the dragon prefers. The dragon rejects names like Vanilor, Eridor, and Ingothold by projecting amusement into Eragon's mind. Eragon eventually realizes that the dragon is female and starts suggesting feminine names. He discards Miremel, Opheila, and Lenora before finally suggesting the name Saphira.
+
+The dragon indicates her strong satisfaction and acceptance of the name Saphira. A mental click occurs, and Eragon hears Saphira's voice clearly within his own thoughts. Saphira begins humming as she and Eragon celebrate the solidification of their bond. Eragon realizes that Saphira is a complex, sentient being rather than a mere animal. He returns home feeling a profound and unbreakable connection to his new partner.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 8: A MILLER-TO-BE
+
+Roran announces his intention to work at the mill during dinner with Garrow and Eragon. Garrow gives his blessing and expresses his hope that the family will grow with the addition of Katrina. Eragon remains upset and spends the following days in a foul mood while his family prepares for Roran's exit. The house begins to feel empty as Roran packs his belongings and items are removed from the walls. Conversation between the two cousins becomes strained and uncomfortable during the final week.
+
+Eragon finds comfort in his mental conversations with Saphira, who now understands everything he says. Saphira undergoes another growth spurt, becoming taller than Eragon's shoulder at the base of her neck. Eragon discovers he can sit comfortably in the hollow between her shoulders while they talk. Saphira demonstrates her personality by releasing a captured eagle, stating that hunters of the sky should not be prey. Eragon decides to delay telling his family about the dragon, fearing their reaction and potential accusations.
+
+The night before Roran leaves, Eragon visits his cousin's room and sees him packing. He notices Roran setting aside a polished rock that Eragon had given him years earlier. The emotional weight of the departure prevents Eragon from speaking, and he leaves the room quietly. He resolves to wait for a sign before revealing Saphira's existence to Garrow. The bond between Eragon and Saphira remains his primary source of solace during the difficult transition.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 9: STRANGERS IN CARVAHALL
+
+Garrow gives Roran a pouch of coins and his blessing before the two cousins depart for Carvahall. He advises them to keep their thoughts unfettered and to treat all men fairly regardless of rank. At the smithy, Dempton the miller arrives to collect his sockets and take Roran to Therinsford. Horst takes Eragon aside to warn him that two strange men in black are searching for the blue stone. Eragon realizes that the egg's originators or the Empire have tracked the object to the valley.
+
+Eragon sneaks through Carvahall and overhears Sloan the butcher talking to the two strangers. Sloan confirms that Eragon had the stone three months ago, betraying him to the menacing figures. The strangers, known as the Ra'zac, have hissing voices and wear black cloaks that hide their humped backs. Eragon is paralyzed by a mental power as the Ra'zac notice him and begin to stalk toward him. Brom suddenly appears and calls Eragon's name, breaking the paralysis and causing the Ra'zac to flee.
+
+Brom escorts a shaken Eragon to the edge of town, insisting that he return home immediately. The old man mentions his interest in the "trader" Eragon previously invented, revealing his skepticism. As they part, Brom grabs Eragon's wrist and sees the silver Gedwëy Ignasia on his palm. Eragon flees toward the farm while Brom stands in the road whistling a merry tune. The boy realizes that Saphira and his family are in immediate danger from the dark strangers.
+
+Sentence Count Check: 15

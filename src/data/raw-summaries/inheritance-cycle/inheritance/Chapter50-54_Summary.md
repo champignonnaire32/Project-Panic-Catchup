@@ -1,0 +1,57 @@
+### Chapter 50: THE ROCK OF KUTHIAN
+
+Eragon and Saphira return to the apple grove and the clearing before the Rock of Kuthian. Eragon detects numerous powerful and dormant enchantments woven throughout the island and the rock. He spends an hour using incantations to ensure no traps will harm him, Saphira, or Glaedr. They approach the lichen-covered spire and prepare to open the vault. Eragon, Saphira, and Glaedr recite their names and lineages in the common tongue.
+
+The rock remains unchanged, so they repeat their names in the ancient language at Glaedr's suggestion. Eragon tries several variations, including saying all their names himself, but the entrance stays hidden. Saphira recalls Solembum's riddle about speaking "your name" to open the Vault of Souls. She flies away so Eragon can attempt the task alone at the base of the spire. Eragon pronounces his name again in both languages, but no doorway or symbols appear.
+
+Saphira returns to the clearing after Eragon's failure to open the rock. Glaedr realizes that the riddle requires them to speak their true names rather than their common ones. He warns that discovering their true names risks their freedom and requires total honesty about their identities. Eragon looks up at the rock and wonders who he truly is as the gravity of the task settles over him. They decide to stay on Vroengard to find the words that define their core beings.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 51: AND ALL THE WORLD A DREAM
+
+Nasuada experiences a series of hallucinations while imprisoned on the slab in the Hall of the Soothsayer. Galbatorix appears in her dreams as a faceless figure with a crown of fire, offering her everything she wants in exchange for fealty. She wakes to find her wounds from the burrow grub throbbing while vines crawl across the chamber floor. The vines wrap around her limbs and pull her into a pitch-black void of shifting sand. Nasuada refuses to show fear and curses the king's name as the illusions continue to shift.
+
+She finds herself in a sunlit courtyard wearing a yellow dress and drinking wine with Murtagh. Murtagh claims eight years have passed and they have four healthy children together on a grand estate. Nasuada detects a presence pressing against her mind and realizes the scenario is a deception. She pulls Murtagh’s dagger and stabs him in the side while reciting a litany to guard her thoughts. The entire scene vanishes, leaving her in a hazy barren field where Urgals and Ra'zac charge toward her.
+
+Nasuada sits cross-legged on the ground and hums a dwarven tune to ignore the attacking phantoms. She recalls previous attempts by Galbatorix to break her, including a woman named Rialla who tried to convince her the Varden were doomed. Murtagh visits her later in reality and explains that Galbatorix uses the energy and memories of the Eldunari to create these visions. He tells her that details are the hardest thing to replicate and that she should look for "seams" in the world. Nasuada continues to laugh at the horrors inflicted upon her, relying on her own will and Murtagh's secret support.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 52: A QUESTION OF CHARACTER
+
+Eragon falls in the mud while returning to a ruined nesting house that serves as their camp. He observes large bullfrogs with glowing forehead stalks, which are known as angler frogs. These creatures use their bioluminescent organs to lure insects into their wide mouths. Eragon and Saphira decide to trust Solembum and stay on Vroengard for three days to discover their true names. They spend their time sharing memories and examining each other's minds for hidden truths.
+
+Glaedr advises them to find their names independently and lists their various character flaws to help the process. Saphira struggles to acknowledge her vanity while Eragon confronts his own perceived arrogance and selfishness. Eragon scries Roran, Horst, and Albriech to confirm they are still safe from the Empire's forces. He vows not to eat again until he discovers his true name or is forced to leave the island. As night falls, Saphira suddenly strikes the floor and declares that she has found her true name.
+
+Saphira's scales gleam with starlight as her majestic and sad name rings through Eragon's mind. Eragon leaves his weapons and armor behind to walk through the ruined city alone at midnight. He clears a vast courtyard of rubble by hand and wards off a giant snalgli, a silver-fleshed snail with a six-foot shell. Eragon climbs a three-hundred-foot pillar and realizes he no longer wishes to return to his old life in Palancar Valley. He finally discovers his true name, a flawed but honest description of his being, and falls from the pillar using magic to land safely.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 53: THE VAULT OF SOULS
+
+Eragon and Saphira stand at the base of the Rock of Kuthian on a bright morning. Glaedr insists that Eragon eat a meal and wait for it to digest before they attempt to open the vault. The dragon offers to go first and shares his own long and complex true name with them. His name sounds like a fanfare of trumpets and contains the history of his centuries-long life. Saphira follows by proudly stating her true name, causing her scales to shimmer in the daylight.
+
+Eragon steps forward and speaks his true name with his mind to prevent anyone from overhearing it. A thin dark line appears on the spire and traces the outline of two massive doors. Gold glyphs pulse on the surface of the doors as they swing open to reveal a vaulted tunnel. The tunnel descends steeply into the earth and is large enough for Saphira to walk through. The heavy stone doors slam shut behind them once they cross the threshold, plunging the trio into darkness.
+
+Eragon creates a white werelight and leads the way down the smooth-walled passageway. They realize the tunnel must have been excavated by elves given the way the floor and walls flow together. As they descend deeper, the air grows hot and smells of brimstone. They reach a black archway covered in jumbled, thorn-like glyphs that radiate an orange glow. Saphira and Eragon walk through the arch together to face whatever lies within the heart of the mountain.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 54: LACUNA, PART THE FIRST
+
+Eragon and Saphira enter a circular chamber two hundred feet across with a glowing pit in the center. A man made of polished steel with the head of a dragon stands near the pit holding a Rider's sword. This metallic dragon-man, a construct of polished steel with crimson flame eyes and a Rider's sword, roars and unleashes a mental attack. The invader's mind contains a chorus of voices that shatters Eragon's consciousness into pieces. The creature examines every one of Eragon's memories from his time in the Spine until the present moment.
+
+The metallic mind eventually withdraws and apologizes for the intrusion, identifying the area as the Vault of Souls. A surge of energy passes between the vault's consciousness and Glaedr, filling the dragon with relief. Eragon notices that the walls are lined with alcoves containing dozens of glittering orbs. These orbs are Eldunari, the hearts of hearts belonging to dragons from the time of the Riders. Below the alcoves sit tiers of smooth, ovoid objects of various colors and sizes.
+
+Eragon realizes the objects are dragon eggs that have been hidden and protected for over a century. The mind in the vault explains that they are the secret hope of the dragon race. There are numerous free Eldunari in the chamber that have remained hidden from Galbatorix. Saphira and Eragon are overwhelmed by the discovery of so many surviving members of their kind. The vault holds the last remaining free dragons and the potential for the race to be reborn.
+
+Sentence Count Check: 15

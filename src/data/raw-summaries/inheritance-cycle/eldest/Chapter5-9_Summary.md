@@ -1,0 +1,57 @@
+### Chapter 5: THE HUNTED HUNTERS
+
+Roran and Baldor hunt for deer in the valley while discussing Sloan's refusal to let Roran marry Katrina. They smell smoke and discover a camp of thirty Empire soldiers led by two black-cloaked Ra’zac. The Ra’zac are the same creatures that destroyed Roran’s farm and tortured his father, Garrow. Baldor restrains Roran from attacking the soldiers to avoid becoming an outlaw and bringing ruin to Carvahall. Roran realizes the soldiers likely returned to find him because Eragon and Brom have already fled.
+
+The two men run back to the village to warn the inhabitants before the soldiers arrive. Roran meets with Horst at the forge to explain that the strangers are official agents of King Galbatorix. Horst advises Roran to hide in the foothills while the villagers lie to the soldiers about his location. Roran gathers a bundle of turnips, jerky, and bread from Elain before heading to Ivor’s farm. He borrows a mare from Ivor and rides into the Spine to establish a hidden camp.
+
+From his vantage point on the mountain, Roran watches the soldiers march into Carvahall and set up a gray tent city. He concludes that the King sent these men to retrieve the blue stone Eragon found in the Spine. That night, Albriech arrives at Roran’s camp with a pack full of food, blankets, and medicinal salves. He informs Roran that the soldiers intend to stay until Roran is taken into custody for the King's business. Albriech reveals that the two monstrous leaders of the group are officially known as the Ra’zac.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 6: SAPHIRA’S PROMISE
+
+Orik visits Eragon while he is cleaning Saphira’s saddle and informs him that King Hrothgar requests an audience. They walk through Tronjheim’s corridors, intentionally avoiding the wreckage of the Isidar Mithrim sapphire to reach the throne room. Hrothgar officially welcomes Eragon and Saphira, stating that Morzan’s blade, Zar’roc, is now welcome in the dwarf city. The King promises that dwarf smiths are repairing Eragon’s armor and restoring Saphira’s dragon armor for future use. Hrothgar expresses concern about the Council of Elders choosing Nasuada as Ajihad's successor and asks for Eragon’s opinion.
+
+Eragon confirms that he and Saphira support Nasuada’s leadership and urges the King to maintain Varden unity. Hrothgar admits that the destruction of the Star Rose sapphire has deeply wounded the spirit of the dwarf race. Saphira feels immense guilt for breaking the gem and offers to magically repair the shattered shards. She tells Eragon that she can restore the sapphire if the dwarves first reassemble the pieces into a frame. Hrothgar is stunned by the offer and promises to have his people spend years if necessary to gather every chip. The King beams with joy and instructs Eragon to spread the news of the sapphire's future restoration.
+
+Orik leads Eragon and Saphira to a feast hall where he announces the news of the Isidar Mithrim to the dwarves. The dwarves celebrate by drinking massive quantities of beer and mead while musicians play harps and lutes. Saphira drinks two entire barrels of mead and accidentally belches a giant tongue of flame toward the ceiling. As she becomes intoxicated, her sensory perceptions and thoughts begin to overlap and blur with Eragon's own mind. Eragon joins the singing and finds himself making the snarling rasp of a dragon's voice instead of human words. Saphira eventually attempts to bow like a human, loses her balance, and collapses backward onto a banquet table.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 7: REQUIEM
+
+Orik wakes Eragon from a deep sleep on a banquet table to prepare for Ajihad’s funeral procession. Eragon's head aches from the previous night's drinking, and Saphira's left wing is sore from her fall. Eragon changes into formal dwarf attire consisting of a red vest, white shirt, black boots, and a gold-studded cape. They join the column at Tronjheim's south gate, where Ajihad’s body lies on a white marble bier. The fallen leader wears a jeweled helm and silver mail while clutching his bare sword and shield. Nasuada stands behind her father’s body in a black cloak while Hrothgar, Arya, and the Council of Elders follow.
+
+The procession marches toward the central chamber as a drum begins to beat a sonorous, vibrating bass note. They pass through the crystal graveyard containing the massive shards of the broken Star Rose sapphire. The column descends into deep tunnels under Farthen Dûr until they reach a catacomb filled with thousands of dwarf tombs. Ajihad is brought to a specific hallowed alcove reserved for humans and placed on a raised platform. The crypt is carved with runes identifying Ajihad as a noble and wise man respected by all races. Mourners line up to pay their final respects to the man who led the Varden for fifteen years.
+
+Eragon and Saphira view the body and feel grief for both Ajihad and the missing Murtagh. Eragon whispers a promise to the corpse that Nasuada will continue his work until the Empire is overthrown. Nasuada sings a wailing lament in a foreign language that fills the entire underground cavern with sound. Twelve dwarves slide a heavy marble slab over the crypt to permanently seal Ajihad inside. The funeral ends, and the attendees move toward an underground amphitheater for the appointment of the new leader. Eragon grips the pommel of Zar’roc as he prepares for the political confrontation that follows the burial.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 8: FEALTY
+
+The Varden and dwarves gather in the underground amphitheater to witness the transfer of leadership. Jörmundur addresses the crowd and explains that the Council of Elders has chosen a candidate to succeed Ajihad. He officially nominates Nasuada, citing her understanding of the Varden's needs and her refusal to flee during the recent battle. Arya speaks on behalf of the elves and Queen Islanzadí to offer her support for Nasuada’s ascension. King Hrothgar stands and confirms that the dwarf clans also support her right to lead. Eragon and Saphira walk to the podium to publicly declare their alliance with Nasuada as well.
+
+Nasuada kneels before Jörmundur, who places a silver circlet upon her brow to signify her new authority. The crowd erupts in cheers for ten minutes while the Council of Elders watches with smug expressions. Eragon approaches Nasuada and draws Zar’roc, holding the sword flat on his palms to present it to her. He ignores the Council members and loudly pledges his blade and his fealty to Nasuada. This public oath effectively makes Eragon her vassal and removes him from the Council of Elders' direct control. The Council members react with visible rage and outrage at being bypassed by Eragon’s strategic maneuver.
+
+Nasuada touches Eragon’s forehead with the tip of his sword and formally accepts his service as a Rider. She delivers a speech promising to fight until Galbatorix is dead and Alagaësia is finally free from tyranny. She calls for the Varden to prepare for a strike against the Empire while Galbatorix's forces are still depleted. After the ceremony, Orik warns Eragon that his bold move has created dangerous enemies among the Council of Elders. Saphira advises Eragon that they must leave Farthen Dûr soon to escape the Council's potential revenge. Eragon realizes that he has fundamentally altered the balance of power within the Varden's leadership hierarchy.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 9: A SORCERESS, A SNAKE, AND A SCROLL
+
+Eragon meets a sorceress named Trianna who wears a gold snake bracelet and leads the magic group Du Vrangr Gata. She asks Eragon to take charge of the group, but he declines because he is leaving for Ellesméra. Trianna uses a spell to bring her snake bracelet to life and attempts to entrance Eragon with its ruby eyes. Saphira interrupts the interaction by growling at Trianna until the sorceress flees the hallway in fear. Eragon and Saphira argue about her interference, leading Eragon to sleep in the dwarf barracks for the night. The next day, Nasuada summons Eragon to her study and reveals her plan to move the Varden to Surda.
+
+Nasuada explains that the dwarves can no longer support the Varden and that King Orrin has offered shelter in Surda. She asks for Eragon's permission to use his and Saphira's names to rally support throughout the Empire. Eragon agrees, despite Saphira’s concerns about Galbatorix potentially targeting them more aggressively if they go public. Nasuada gives Eragon a sealed scroll for Queen Islanzadí to reinitiate diplomatic ties between the elves and the Varden. She informs Eragon that Orik will accompany them to Ellesméra as a representative of the dwarf race. Orik's presence means Saphira cannot fly the group, forcing them to travel on foot across Alagaësia.
+
+Nasuada tells Eragon that Galbatorix is currently weak and that the Varden must attack before he recovers his strength. Eragon and Saphira fly one last time above Tronjheim to appreciate the air before their long journey begins. They encounter Angela the herbalist gathering mushrooms, including the deadly and curative Fricai Andlát, from a dung heap. Angela informs them that she is traveling to Surda with the Varden because she likes to be where things happen. She warns Eragon to be careful with the elves, as they are capable of concealing great rage for years. Eragon prepares for his dawn departure to the north gate to begin his training in the elven capital.
+
+Sentence Count Check: 15

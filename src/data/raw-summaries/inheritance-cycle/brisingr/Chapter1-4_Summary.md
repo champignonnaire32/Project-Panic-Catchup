@@ -1,0 +1,45 @@
+### Chapter 1: The Gates of Death
+
+Eragon and Roran observe the gruesome priests of Helgrind performing a cannibalistic ritual at an altar. The High Priest, a limbless torso on a litter, leads the congregation in drinking blood and swearing oaths to their Dread Lord. A young acolyte demonstrates his faith by hacking off his own hand with a dragon-wing blade. Two slaves are chained to the altar as a sacrificial offering before the procession returns to Dras-Leona. Eragon and Roran wait for the cultists to depart so they can safely scout the mountain.
+
+Eragon extends his consciousness to probe the minds within the dark peaks of Helgrind. He identifies a mind he believes belongs to Katrina but cannot find the Ra’zac or their parents. Roran reacts with a mixture of hope and fury at the confirmation of his betrothed's presence. Eragon also detects a second, troubling consciousness that he chooses to keep secret from his cousin. They decide to wait for dawn before launching their rescue mission to avoid fighting at night.
+
+The cousins retreat to a hidden gully to wait out the remaining hours of darkness. Eragon worries about the slaves left at the altar but knows a dragon attack would alert Galbatorix. Roran remains focused on his singular goal of rescuing Katrina and killing the Ra’zac for murdering Garrow. They prepare their gear in silence while the stars sharpen in the cold evening sky. Eragon maintains his mental shields to ensure their presence remains hidden from any potential magicians.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 2: Around the Campfire
+
+Eragon and Roran sit by a small fire while Saphira rests her heavy weight against Eragon. Roran gives Eragon a reinforced hawthorn staff to replace the lost Dragon Rider sword, Zar’roc. Eragon reflects on his recent duel with Murtagh and the revelation that they are brothers. He struggles with the fact that Murtagh is now a slave to Galbatorix through unbreakable oaths. Saphira reminds Eragon to focus on the present rather than brooding over past failures.
+
+The two men discuss the psychological toll of the many soldiers they have killed in battle. Roran describes the vivid memories of the guards he slew in Narda and the fires of Teirm. Eragon admits that while their cause is just, the act of slaughtering battalions is never easy. Saphira intervenes to explain that as agents of change, they must accept the necessity of violence. Eragon heals Roran’s old shoulder wound using magic drawn from the surrounding birds and a snake.
+
+Eragon attempts to teach Roran how to defend his mind against telepathic intrusion by using memories of Katrina. He discovers that Roran’s love creates a nearly impenetrable barrier, though it fractures when Roran is distracted. They discuss the implications of Eragon’s immortality and his complicated feelings for the elf Arya. Eragon transfers energy into his belt of Beloth the Wise to prepare for the coming fight. As they prepare for sleep, Eragon asks Saphira for guidance on a secret decision he must make.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 3: Assault on Helgrind
+
+Eragon and Roran arm themselves for battle just before daybreak while Saphira prepares for flight. Eragon casts a spell to filter the air and protect them from the Ra’zac’s paralyzing breath. They fly toward Helgrind and discover that the slaves at the altar have already been removed. Saphira discovers that the mountain's solid rock face is actually a massive illusion hiding a cave. They fly through the fake stone wall and enter the vaulted lair of the monsters.
+
+Inside the cavern, the two giant Lethrblaka attack Saphira with their beaks and batlike wings. The impact of the collision throws Eragon and Roran from Saphira’s back onto the stone floor. Two Ra’zac emerge from the tunnels to attack the disoriented men with ancient, leaf-bladed swords. Eragon realizes the Ra’zac are invisible to mental detection, explaining their success in hunting Dragon Riders. He uses a spell to blind one of the Lethrblaka by reflecting light away from its pupils.
+
+Roran kills one Ra’zac with his hammer while Eragon holds off the second with his hawthorn staff. Saphira slays the blinded Lethrblaka and then chases the second one out toward Leona Lake. Eragon seals Katrina’s cell door with a spell to prevent the surviving Ra’zac from taking hostages. He heals a sword wound on Roran’s ribs using energy stored in the diamonds of his belt. The men then enter the dark tunnels to hunt down the last remaining Ra’zac.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 4: Divergence
+
+Eragon and Roran navigate the pitch-black tunnels of Helgrind using a red werelight for vision. The last Ra’zac fires a poisoned arrow that grazes Eragon’s cheek before fleeing deeper into the mountain. Roran uses his hammer to smash through the hinges of Katrina’s cell and finally reunites with her. While they embrace, Eragon explores the other cells and discovers the village butcher, Sloan, alive but blinded. The Ra’zac have pecked out Sloan’s eyes as punishment for his betrayals in Carvahall.
+
+Eragon faces a moral dilemma because Sloan murdered a watchman and betrayed the village to the Empire. He decides to keep Sloan’s presence a secret from Roran and Katrina to avoid further conflict. Eragon uses magic to put Sloan into a deep sleep and hides him in a different cell. Saphira returns after killing the second Lethrblaka and warns that Galbatorix may soon scry the area. Katrina is weak and traumatized but overjoyed to be rescued by Roran and Eragon.
+
+The group prepares to leave the foul mountain before Imperial reinforcements or magicians can arrive. Eragon realizes that he must find a way to deal with Sloan without involving the Varden. Roran carries Katrina toward the cave entrance where Saphira is waiting to fly them to safety. Eragon feels the weight of his secret decision regarding the butcher’s fate as they depart Helgrind. The mission succeeds in rescuing Katrina, but the threat of Galbatorix’s reach remains constant.
+
+Sentence Count Check: 15

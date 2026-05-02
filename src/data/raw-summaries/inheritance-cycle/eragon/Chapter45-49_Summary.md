@@ -1,0 +1,57 @@
+### Chapter 45: THE HADARAC DESERT
+
+Eragon and Murtagh rest in the shadow of a dune while Saphira expresses her comfort and affinity for the desert heat. They have traveled thirty-five leagues in four days since leaving Gil’ead and fear the Ra’zac might be flying after them. At sunset, they reach a line of stone bluffs where Eragon uses magic to draw water from deep underground for the horses and Saphira. The next morning, Eragon observes that the elf remains in a death-like trance despite his attempts to help her. Murtagh grows irritable from the heat and sand as they continue their journey across the parched landscape.
+
+As they travel, Eragon notices large dark smudges on the horizon that eventually reveal themselves to be the massive Beor Mountains. These mountains are so immense that they appear to be a wall linking the earth to the heavens, covered in snow and ice. Murtagh is initially incredulous at their scale but eventually acknowledges their authenticity as they approach the foothills. Eragon hopes to find a healer for the elf in Surda or among the Varden once they reach the peaks. Saphira feels small compared to the behemoths but suggests they might be a perfect hiding place for their allies.
+
+The sand transforms into hard-packed dirt and lush fields of waving grass as they reach the edge of the desert. Herds of gazelles bound through the landscape, and a cool breeze provides relief from the punishing heat of the Hadarac. They establish a camp by a stream near the foothills, celebrating their successful crossing of sixty leagues in five days. Eragon reflects on his new freedom outside the Empire and his duty as a Rider to resist Galbatorix. He remains troubled by the elf’s condition and decides to attempt a mental connection with her.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 46: A PATH REVEALED
+
+Eragon places his palm on the elf's brow and attempts to enter her mind, but he is met with a violent mental attack. He defends himself and uses the ancient language to identify himself as a Rider and a friend, causing the elf to cease her assault. The elf reveals her name is Arya and explains she was poisoned with Skilna Bragh during her captivity. She has placed herself in a self-induced trance to slow the poison's effects, but she will die without an antidote in a few days. Arya provides Eragon with mental images of the path to the Varden and the secret phrase needed to gain entry.
+
+Arya instructs Eragon to take her to the Varden for an antidote called Túnivor’s Nectar before withdrawing from his mind. Eragon wakes and explains the situation to Murtagh and Saphira, noting that the Varden are farther away than Gil’ead. Murtagh becomes enraged, accusing Eragon of being helpless and forcing everyone to take care of him. The tension escalates into a physical brawl between the two men until Saphira pins them both to the ground with her paws. Saphira roars to stop the fighting and demands that they discuss their grievances like adults.
+
+Murtagh admits he does not want to go to the Varden because he believes they will never trust him and might imprison him. Their conversation is interrupted when Saphira spots a column of hundreds of Urgals marching parallel to the mountains. Murtagh identifies the group as being led by a ruthless chieftain and warns that they are likely being hunted. Eragon convinces Murtagh to stay with them until they reach the Varden's location as a compromise. They quickly break camp and flee eastward along the Beor Mountains while Saphira keeps watch from the sky.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 47: A CLASH OF WILLS
+
+Eragon and Murtagh flee through the night, alternating sleep in their saddles to maintain a lead over the marching Urgals. Saphira hunts gazelles in the mountains and returns to carry Arya while Eragon runs alongside the exhausted horses. They encounter a group of twenty horsemen led by a man named Torkenbrand who sits on a sorrel horse. Torkenbrand identifies himself as a slaver and demands that Eragon and Murtagh surrender their weapons to be sold into slavery. One slaver discovers Arya is an elf, and Torkenbrand realizes she is worth a fortune to the Empire.
+
+Saphira dives from the sky to ambush the slavers while Eragon uses indigo magic fire to create a distraction. Eragon brandishes Zar’roc and identifies himself as a Rider, causing the terrified slavers to flee and leave their leader behind. Torkenbrand is stunned by a javelin and falls to his knees, bleeding from a head wound. Murtagh ignores Eragon's protests and decapitates the defenseless slaver with a single blow of his sword. Eragon is horrified by the execution, but Murtagh defends his actions as a necessary removal of a dangerous risk.
+
+Murtagh argues that his life has been threatened since birth and he cannot afford the luxury of empathy for his enemies. Eragon lashes Arya to Saphira and they resume their frantic ride southward between two massive arms of the mountains. They travel through a valley made for giants, covering leagues at an impossible rate to escape the pursuing Urgal column. The two men eat dinner in stony silence, refusing to speak to each other after the violent disagreement. Eragon sits in the dark with Saphira, feeling confused and unsettled by Murtagh's willingness to commit wanton violence.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 48: FLIGHT THROUGH THE VALLEY
+
+Eragon flies with Saphira and Arya to gain distance from Murtagh while reflecting on the morality of Torkenbrand's death. Saphira argues that slavers deserve misfortune but Eragon remains distressed by the execution of a helpless man. From the air, they spot the Urgal column gaining on them despite being on foot and moving at a breakneck pace. Eragon rejoins Murtagh and they decide to travel without stopping for sleep to reach the Varden in time. Murtagh promises to see Eragon to the Varden despite his fears of being recognized and captured by them.
+
+They enter a dense, hostile forest filled with black-needled trees and wolfsbane at the mouth of a narrow valley. Eragon and Saphira fly high into the clouds to scout the route, but they suffer from a lack of oxygen and nearly black out. Saphira dives back down to safety, realizing that they cannot fly over the mountain peaks due to the thin air. Eragon attempts to use magic to create a wall of mist to delay the Urgals, but the distance exhausts him and fails to stop them. Murtagh identifies the pursuers as Kull, elite eight-foot-tall Urgals who can run for days without rest.
+
+Arya's fever worsens as she tosses and turns, prompting Eragon to stay with Murtagh rather than flying ahead alone. Saphira and Eragon begin dropping boulders and fist-sized rocks from the sky to bombard the advancing Kull column. The bombardment hinders the Urgals' progress and allows Murtagh to keep the horses ahead of the enemy. As they reach the head of the valley at nightfall, Murtagh realizes they are trapped with no other escape route but the Varden. Murtagh finally reveals his secret, confessing to Eragon that he is the son of the traitor Morzan.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 49: THE HORNS OF A DILEMMA
+
+Murtagh reveals he is the son of Morzan, the first of the Forsworn who betrayed the Riders to Galbatorix. He shows Eragon a massive white scar on his back caused when a drunken Morzan threw a sword at him. Murtagh insists he has no allegiance to the Empire and only wants to avoid the Varden's judgment for his father's crimes. Eragon is skeptical but continues to flee toward the waterfall as Urgal horns sound behind them in the forest. They reach the pebble beach of Lake Kóstha-mérna, where the Kull begin to surround them from both shores.
+
+Saphira dives into the lake to ambush the Kull, tearing one apart and using the water to dodge black arrows. She holds the Urgals at bay by snapping at their legs from the depths, but she is wounded by spears and arrows. Eragon realizes they are on the wrong side of the lake and must swim through the thundering waterfall to find the entrance. Murtagh throws his sword to kill a lead Kull, and Eragon uses magic to break the legs of twenty more charging monsters. They swim through the violent deluge, and Murtagh rescues Eragon from drowning after the waterfall slams him to the lakebed.
+
+On the other side, they are met by a dwarf named Orik who is wringing water from his braided beard. Hidden archers in the cliff crevasses rain arrows down on the Urgals, killing scores of them in the lake. Two massive stone doors open in the cliff to reveal a tunnel filled with sapphire light and armed warriors. A bald man in purple robes holds a dagger to Murtagh's throat and warns Eragon not to use magic. Eragon and Saphira are forced to surrender and follow the man into the mountain as the stone doors seal shut.
+
+Sentence Count Check: 15

@@ -1,0 +1,59 @@
+# BRISINGR: Chapter 35 to Chapter 39 Summaries
+
+### Chapter 35: Clanmeet
+
+Orik identifies the assassins' daggers as the work of Kiefna and traces them to a woman of Dûrgrimst Nagra. The trail leads to a storehouse on Tronjheim's twelfth level where three dwarves of the Vargrimstn—warriors who have disgraced themselves and are now clanless—are captured. These prisoners reveal that Grimstborith Vermûnd of Az Sweldn rak Anhûin ordered the hit on Eragon. Orik decides to expose this treachery at the clanmeet to gain support for his kingship bid. That night, Eragon dreams of Horst's forge and a man in red armor who calls himself Eragon's father.
+
+At the clanmeet, Orik presents the captured Vargrimstn and uses magicians to verify Eragon's memories of the attack. Vermûnd denies the charges and threatens war if any action is taken against his clan. Orik proposes that the assembly banish Dûrgrimst Az Sweldn rak Anhûin instead of initiating physical combat. The clan chiefs vote unanimously to shun the clan and name Vermûnd a Vargrimstn until a new leader is chosen. The dwarves immediately begin ignoring Vermûnd as if he were invisible, forcing him to shout in futile anger before leaving.
+
+Following the banishment, the assembly agrees to hold the final vote for the new king in three days. Orik and Eragon return to their quarters to celebrate the success of their plan to isolate Vermûnd. Orik reminds Eragon that Saphira must be present for the upcoming coronation of the next monarch. Eragon uses a scrying mirror to contact Nasuada and request Saphira's immediate travel to Farthen Dûr. Eragon runs to find a mirror to send the message to Saphira and Nasuada.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 36: Insubordination
+
+Roran joins Captain Edric's company of two hundred and fifty men to defend Surda from Empire soldiers. The group discovers the enemy force consists of seven hundred soldiers instead of the estimated three hundred. Edric orders a direct charge into a village where the soldiers are holding three civilians prisoner. The soldiers use heavy crossbows to decimate Edric's cavalry before the Varden can reach the village center. Roran disobeys Edric's orders and directs his eighty-one men to take cover behind the village houses.
+
+Roran orders his men to climb onto the thatched roofs and fire arrows at the soldiers below. This archer barrage creates enough confusion for Roran to lead a small group of horsemen into the melee. He rescues Edric and the survivors from a central courtyard and retreats to a more defensible position. Roran picks ten men and the magician Carn, who casts a ward to deflect incoming crossbow bolts. The small group builds a barricade using an overturned wagon and a growing pile of dead soldiers.
+
+Roran stands atop a twenty-foot mound of corpses and kills one hundred and ninety-three soldiers with his hammer. The Varden win the battle with only nine casualties from Roran's group, while Edric loses over half his men. Edric relieves Roran of command and places him under arrest for the act of insubordination. Roran surrenders his weapons and helps bury the dead before being escorted back to the Varden as a prisoner. The company rides west away from the village while the pile of enemy bodies burns in a large pyre.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 37: Message in a Mirror
+
+Saphira rests near the Varden camp after scouting the Empire's movements and spotting the dragon Thorn. Nasuada visits Saphira to discuss a man named Othmund who murdered three Urgals in their sleep. To maintain her alliance with the Urgals, Nasuada decides she must hang Othmund for his crimes. Saphira comforts Nasuada, who struggles with the decision and her own historical hatred of the Urgal race. Nasuada informs Saphira that Eragon has requested her presence in Farthen Dûr for the coronation.
+
+Saphira roars with excitement at the news and prepares for the three-day flight to the Beor Mountains. The elf Blödhgarm—a spellcaster with wolf-like features—creates a water-shadow of Eragon to ride on Saphira's back. This illusion is intended to trick any observers into believing the Rider has not actually left the camp. Saphira carries a saddle and supplies for the journey even though Eragon is not physically with her. She leaps from a stone slab and ascends into the thin air to catch a favorable southwestern wind.
+
+Nasuada warns Saphira that her absence will leave the Varden vulnerable to a direct attack by Galbatorix. Saphira promises to be as swift as a storm-driven wind to ensure the Varden's safety isn't compromised. She flies over the sun-drenched landscape, savoring the freedom of a long flight without scouting duties. The dragon reflects on her past experiences and her growing power since she was first hatched. Saphira sends a mental message to Eragon that she is on her way as she accelerates toward the horizon.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 38: Four Strokes Upon the Drum
+
+Eragon watches the thirteen clan chiefs gather in a circular conference room to elect the new king. Hadfala of Dûrgrimst Ebardac casts the first vote for Orik, giving him an early lead in the election. Gáldhiem, Gannel, Ûndin, and Freowin all vote for Grimstborith Nado, putting Orik behind by one vote. Nado votes for himself, promising to remove all outlanders and foreign influences from the dwarven realm. Orik also votes for himself, swearing to lead the dwarves in the war against King Galbatorix.
+
+Thordris and Havard cast their votes for Orik, tying the count at five votes for each main candidate. Hreidamar breaks the tie by voting for Orik, leaving Íorûnn of the Vrenshrrgn as the final deciding vote. Íorûnn declares that the dwarves must not hide in caves while others decide the fate of Alagaësia. She casts her vote for Orik, securing him the seven votes needed to become the forty-third king. The eldest reader-of-law strikes his staff and proclaims Orik as the ruler of Tronjheim and Farthen Dûr.
+
+Heralds are dispatched to inform the mages and signal the wardens of the mountain to strike the drums. The Drums of Derva—enormous instruments measuring fifty feet across—strike four times to announce the new kingship. Orik's dazed expression turns into laughter as he celebrates his victory with his advisers and foster brother. Eragon asks for permission to leave the celebration to meet Saphira, who is approaching the city. Orik grants the request, and Eragon runs through the tunnels of Tronjheim toward the southern gate.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 39: Reunion
+
+Eragon runs a mile down the fourth-story-high thoroughfares of Tronjheim, leaping over dwarves who block his path. He passes between the giant gold griffins at the southern gate and enters the open crater of Farthen Dûr. The air in the mountain is cool and moist, smelling of rain and the moss growing on the flat ground. Eragon reaches the thirty-foot-high black doors at the southern base and enters the long tunnel through the rock. He projects his consciousness forward and feels Saphira's mind rushing toward him like a flood of warm water.
+
+Saphira roars in the distance, her voice echoing through the stone passage as she hurries toward the center. They merge their identities without reservation, sharing memories and emotions in an intimate mental embrace. Saphira slides to a halt on the stone floor, her scales sparkling as she greets Eragon with a snort. Eragon hugs her neck, dangling his feet in the air while he scratches behind the corners of her jaw. Saphira explains that she flew for three days without rest or food, stopping only once to drink water.
+
+She informs him that the earth still feels unsteady beneath her feet and she needs a long rest. Eragon tells her that Orik has won the election and the coronation will take place the following morning. Saphira warns Eragon that he always finds trouble when they are apart, citing the attack by Vermûnd's clan. Saphira develops a case of the hiccups, causing her head to bob forward with strange jumping growls. Eragon laughs at her condition before they both head back to Tronjheim to prepare for the royal ceremony.
+
+**Sentence Count Check:** 15

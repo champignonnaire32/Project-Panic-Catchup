@@ -1,0 +1,57 @@
+### Chapter 30: VISION OF PERFECTION
+
+Eragon wakes in a clearing with a splinted right arm and finds a campfire with stew. He discovers Brom and Saphira are gone and notices his bow and quiver are left behind. After eating, he uses a bowl-shaped depression in a rock to practice scrying with the ancient language phrase "Draumr kópa." He successfully scries Saphira and Roran, seeing his cousin looking aged and weary. Finally, he scries the dark-haired woman from his dreams and sees her collapse in a stone cell after she makes eye contact with him.
+
+Saphira lands in the clearing with Brom, who carries a bloody sword and stained beard. Brom reveals he spent two days hunting and killing nine of the twelve Urgals that Eragon had only knocked unconscious. The old man berates Eragon for using magic that nearly killed him and for exposing himself to the enemy. Eragon explains that the Urgal leader ordered his capture rather than his death. Brom expresses concern over the existence of a powerful leader commanding the Urgal forces.
+
+The group decides to continue toward Dras-Leona once Eragon’s arm has healed for two weeks. Brom begins a rigorous mental training program by drilling Eragon with complex combat scenarios. These drills include imaginary battles against Shades, dragons, and multiple Urgal squads. Eragon struggles with the questions and grows frustrated by his frequent mistakes. They stop for the night as Brom expresses his disappointment in Eragon's lack of tactical discretion.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 31: MASTER OF THE BLADE
+
+Eragon tells Brom about the woman in the scrying water reacting to his presence. Brom explains that it is traditionally impossible to detect when one is being scryed upon. Because of his arm splint, Eragon begins training to duel using only his left hand. The travelers follow the Toark River southeast until they reach the massive Leona Lake. Saphira and Eragon spend the morning flying over the water and diving beneath the surface to swim.
+
+Eragon challenges Brom to a spar and uses a thrown stick to create a distraction. They trade blows until Eragon gains the advantage and knocks Brom’s sword away with Zar’roc. Brom admits he has nothing more to teach Eragon regarding swordsmanship. He warns Eragon that elves, dragons, and Ra'zac possess physical strength far beyond human limits. The conversation shifts to wizards' duels, which are deadly contests involving mental and magical attacks.
+
+Brom explains that neither side uses magic until they have successfully breached the opponent's mind. Breaking into a mind allows a magician to anticipate and counter any incoming spells. A magician must identify the exact medium of an attack, such as heat or light, to nullify it. These duels are usually fatal for those without extremely quick thinking and specialized training. Brom concludes the lesson by advising Eragon to flee if he ever faces such a confrontation.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 32: THE MIRE OF DRAS-LEONA
+
+The travelers stop at the village of Fasaloft and find no rumors concerning a dragon. Saphira begins hiding during the day to avoid detection by the increasing number of travelers on the road. She warns Eragon that she will be unable to protect him inside the narrow streets of the city. Eragon sees Helgrind, a mountain of bare rock with jagged spires, looming near Dras-Leona. Brom explains that the local religion involves worshipping the mountain through human sacrifice and self-mutilation.
+
+They pass through the city gates of Dras-Leona, which are guarded by twenty soldiers. The city is a filthy sprawl of ramshackle wooden buildings that block out the sun. Sewage reeks in the streets where ragged children and deformed beggars plead for scraps. Eragon reacts with anger at the visible suffering and the poor living conditions of the inhabitants. Brom leads them deeper into the city to find an inn and form a strategy for finding the Ra'zac.
+
+They secure a room at the Golden Globe, which is cheap and somewhat cleaner than the slums. Eragon sleeps on the floor to avoid the bedbugs infesting the mattress. Brom warns Eragon to keep his tongue still to avoid revealing their identities to the Empire. They spend the evening drinking beer in the common room before retiring for the night. Saphira senses Eragon’s intoxication and expresses her stern disapproval before he falls asleep.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 33: TRAIL OF OIL
+
+Eragon wakes with a severe hangover and finds Brom using brandy to recover. They head into the city to search for information regarding the delivery of Seithr oil. Brom points out the granite palace of Marcus Tábor, the city's ruler who answers to the king. During their search, Brom learns that King Galbatorix plans to visit Dras-Leona within the week. Eragon locates the specific warehouse where the oil was originally delivered.
+
+Brom infiltrates the palace servants' quarters by posing as a traveling bard. He discovers that the Seithr oil and monthly provisions are sent to the base of Helgrind. Every month, two slaves are used as carriers for these supplies and are never seen again after the delivery. This information confirms that the Ra'zac are residing somewhere on or near the rock mountain. Eragon suggests that they replace the slaves to gain access to the Ra'zac’s lair.
+
+Brom agrees to investigate how they might intercept the delivery process without raising suspicion. Eragon realizes that the confrontation with the Ra'zac must happen before the king arrives. He contacts Saphira to share the discovery of the lair and their potential plan. Saphira warns Eragon to stop dreaming of his old life and commit fully to the Varden. Eragon admits that he will cast his fate with the Varden if forced to choose between sides.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 34: WORSHIPERS OF HELGRIND
+
+Eragon explores Dras-Leona alone after finding a note from Brom advising him to stay unnoticed. He witnesses a slave auction and nearly uses magic to free a captive before reconsidering the risk. His wandering brings him to the massive cathedral, which is decorated with gargoyles and ancient script. Inside the silent, vaulted building, he kneels at the altar to pay homage to the structure. He turns to leave but finds the two Ra'zac blocking the entrance with drawn, bloody swords.
+
+Eragon fires three arrows at the Ra'zac, but they dodge with inhuman speed and charge him. Soldiers flood into the cathedral, forcing Eragon to flee through a side vestibule. He uses the magic word "Jierda" to shatter a locked door and escape into a priory. Cornered in a walled garden, he scrambles over a brick wall just before the Ra'zac reach him. He contacts Saphira, warns her of the danger, and meets Brom back at the Golden Globe.
+
+The pair gallops toward the city gates as soldiers begin to close them. Brom uses magic to disable the guards while Eragon uses a spell to hold the gates open. Once outside, Eragon mounts Saphira and they fly south through a developing storm. Strong winds force Saphira to land, and the group continues on foot to a concealed campsite. An unknown assailant strikes Eragon from behind, knocking him unconscious as Saphira roars in alarm.
+
+Sentence Count Check: 15
