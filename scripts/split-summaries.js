@@ -155,8 +155,8 @@ for (const seriesFolder of seriesFolders) {
       body = body.replace(/###\s+(Chapter\s+\d+)[:\s-]+\1/gi, '### $1');
       body = body.replace(/###\s+\[(Chapter\s+\d+)\][:\s-]+\1/gi, '### $1');
 
-      // Ensure headings are cleanly spaced
-      body = body.replace(/###\s+/g, '\n### ');
+      // Ensure headings are cleanly spaced with exactly three empty lines before them
+      body = body.replace(/\s*###\s+/g, '\n\n\n\n### ').trim();
 
       const outContent = `---
 title: "Chapters ${range}"

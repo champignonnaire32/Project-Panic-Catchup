@@ -12,7 +12,7 @@ The immutable rules of the project. Any content generated or UI designed must ad
 *   **Performance:** Zero-JS by default. Fast, lightweight loading is critical for both SEO and user experience.
 
 ## 3. The High-Level Stack
-*   **Frontend:** Astro (Static Site Generation), Tailwind CSS v4, React (for isolated interactive components only).
+*   **Frontend:** Astro v6 (Static Site Generation), Tailwind CSS v4, React (for isolated interactive components only).
 *   **Data Structure:** Markdown files ingested via Astro Content Collections.
 *   **Backend/Data Prep:** Python (PyMuPDF) and the Gemini API (for generating the raw summaries offline).
 *   **Hosting:** Vercel (Auto-deploy from GitHub `main`).

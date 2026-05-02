@@ -7,7 +7,6 @@ range: "73-Epilogue"
 startChapter: 73
 ---
 
-
 ### Chapter 73: Trust
 Kaladin stands on Dalinar’s staging ground at night and discusses his uncertainty regarding the highprince with Syl. Dalinar arrives punctually and offers Kaladin a position as his personal bodyguard and the leader of a new battalion. The highprince explains his plan to change the war’s structure, which will likely incite betrayal from other lighteyes. Kaladin accepts the offer on the condition that Bridge Four serves as the elite honor guard while the other bridgemen form a spearman company. He further stipulates that his men will answer only to Dalinar’s family and the king to avoid outside interference.
 

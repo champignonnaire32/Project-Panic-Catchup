@@ -7,7 +7,6 @@ range: "Prologue-4"
 startChapter: 0
 ---
 
-
 ### Prologue: To Question
 Jasnah Kholin attends a feast in Kholinar where she notices her shadow pointing toward a light source instead of away. She leaves the hall to meet with the assassin Liss and hires her to spy on her sister-in-law Aesudan. In the palace hallway, a group of oily shadow figures confronts Jasnah and she accidentally transitions into the glass-bead sea of Shadesmar. She survives the alien realm by manipulating the beads to form a platform and a statue of the Herald Talenelat'Elin. After returning to the physical world, she observes the Parshendi delegation and a Shin man assisting their drummers.
 

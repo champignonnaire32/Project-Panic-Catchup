@@ -7,7 +7,6 @@ range: "Prologue-4"
 startChapter: 0
 ---
 
-
 ### Prologue
 Darrow rises in a ship away from the garden of his betrayal. The Golden man killed by Darrow lies dead on the cold metal deck. Adrius, known as the Jackal, puts an eyeless mask and muzzle on Darrow's face. Adrius tells Darrow he is alone and that this is how the story ends. Roque sits in the corner weeping for his own losses rather than for Darrow.
 

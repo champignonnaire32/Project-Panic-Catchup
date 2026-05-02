@@ -7,7 +7,6 @@ range: "X-X"
 startChapter: 0
 ---
 
-
 ### Cartographic Notes for Map: Cartographic Notes for Map
 The meridian through Observatory Mountain serves as the basis for latitude on Arrakis. Altitudes are determined relative to the Great Bled, which consists of open and flat desert. The Polar Sink sits five hundred meters below the level of the Bled. Carthag is located approximately two hundred kilometers northeast of the city of Arrakeen. The Cave of Birds is situated within the Habbanya Ridge.
 

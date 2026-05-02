@@ -5,7 +5,7 @@ This document details the frontend technology stack, structural design, and data
 ## 🏗️ Architecture & Tech Stack
 We are using a modern Static Site Generation (SSG) approach to ensure lightning-fast, zero-JS page loads.
 
-*   **Framework:** Astro (v5) - Chosen for its native Markdown ingestion (Content Collections) and zero-JS output by default.
+*   **Framework:** Astro (v6) - Chosen for its native Markdown ingestion (Content Collections) and zero-JS output by default.
 *   **Styling:** Tailwind CSS (v4) - Using the `@tailwindcss/typography` plugin to automatically format the AI-generated Markdown into beautiful, legible prose.
 *   **Interactivity:** React - Used exclusively for "Islands" of interactivity (`ReaderControls.tsx`, `SearchBar.tsx`, `ContinueReading.tsx`) that require client-side state.
 

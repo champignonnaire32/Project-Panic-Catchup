@@ -7,7 +7,6 @@ range: "Prologue-4"
 startChapter: 0
 ---
 
-
 ### Prologue: A Graveyard of Republic Warships
 Darrow traverses a graveyard of Republic warships in orbit around Mercury, decimated by the Ash Armada. He reflects on the destruction of the White Fleet and the rise of Atalantia au Grimmus as the new Dictator. Darrow reunites with Alexandar, now a hardened killer, and prepares to launch a covert mission using a stolen prototype shuttle called the Necromancer. He learns through intercepted communications that the Fear Knight, Atlas au Raa, is moving his captive friend Orion to the Annihilo for neural extraction.
 

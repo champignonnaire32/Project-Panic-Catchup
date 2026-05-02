@@ -7,7 +7,6 @@ range: "65-Epilogue"
 startChapter: 65
 ---
 
-
 ### Chapter 65: The Vale
 In the weeks after the bombing of Luna, Mustang becomes the Sovereign and many Gold ships defect to her side. The Ash Lord retreats to Mercury with his remaining loyal forces as the fleet fractures. Mustang disbands the Senate and dissolves the Board of Quality Control to dismantle the Color Hierarchy. Darrow recovers from his injuries and has his severed hand reattached by the carvers Mickey and Virany. Sefi departs for Mars to begin settling her Obsidian people on warmer lands set aside for them.
 

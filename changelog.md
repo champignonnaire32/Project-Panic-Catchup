@@ -7,12 +7,10 @@
 
 ---
 
-## [May 1, 2026 - Documentation & Workflow Overhaul] (by Gemini)
-*   **Documentation Restructuring:** Modularized the monolithic `GEMINI.md` into a token-efficient, lazy-loading structure (`thelorebrary-overview.md`, `workflow.md`, `roadmap-and-design.md`, `system-architecture.md`, `changelog.md`, `thelorebrary-disclaimer.md`, `the-distiller-engineering.md`).
-*   **Workflow Refinement:** Updated `workflow.md` to explicitly include sanity checks for chapter numbering and orphaned chapters, stringent "Next Book" button verification, and a comprehensive SEO strategy section.
-*   **AI Context Routing:** Established a strict "Context Routing Guide" in the overview file to dictate exactly which files future AI instances should read or update, preventing "junk drawer" clutter.
-*   **Distiller Pipeline Hardening:** Moved the Python prompt dependencies (`chapter-summary-expectations.md`, `chapter-summary-initial-instructions.md`) into the project directory and safely updated the Desktop `.command` scripts to prevent pipeline breakage.
-*   **Consolidated Ideas:** Integrated the floating `lorebrary-ideas.md` series list directly into `roadmap-and-design.md` and removed the redundant Desktop file.
+## [May 1, 2026 - Inheritance Cycle Splitter Standardization] (by Gemini)
+*   **Splitter Standardization:** Created `smart_pdf_splitter-inheritance.py` with coordinate-based detection (Y ≈ 98.175) to handle the specific layout of "The Inheritance Cycle" PDFs (Eragon, etc.).
+*   **Interactive Command Tool:** Added `PDF_Splitter-Inheritance.command` to the `Splitter Commands` folder on the Desktop. This tool is interactive, allowing for drag-and-drop PDF processing and custom output selection to match existing project workflows.
+*   **Convention Alignment:** Renamed and relocated all temporary files to align with the established naming patterns (`smart_pdf_splitter-[series].py` and `PDF_Splitter-[Series].command`).
 
 ## [May 1, 2026 - Purchase Buttons, UI Polish & Content Fixes]
 *   **Purchase Buttons:** Added "Get the Book" section to every book index page (`/[series]/[book]/`) with auto-generated Bookshop.org and Barnes & Noble search links built from `bookName`. Includes Libby library note. Amazon intentionally excluded. Both buttons use solid gold fill; Bookshop.org listed first with "supports indie bookshops" caption to subtly signal preference.

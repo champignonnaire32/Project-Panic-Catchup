@@ -7,7 +7,6 @@ range: "86-Epilogue"
 startChapter: 86
 ---
 
-
 ### Chapter 86: Patterns of Light
 Kaladin saves Dalinar from Szeth's sky-lashing and sends him back to the plateau. He encounters Bridge Four and absorbs Stormlight from their lanterns. Dalinar recognizes Kaladin as a Knight Radiant. Kaladin's Shardblade, Syl, manifests as a silver sword. He engages Szeth in a dual of Blades.
 

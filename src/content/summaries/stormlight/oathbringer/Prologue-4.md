@@ -7,7 +7,6 @@ range: "Prologue-4"
 startChapter: 0
 ---
 
-
 ### Prologue: To Weep
 Six years ago, the listener Eshonai visits the Alethi capital of Kholinar during a feast. She discovers that the Alethi keep "parshmen," who are listeners trapped in a rhythmless dullform, as slaves. Eshonai wanders into a private room where she encounters King Gavilar Kholin. Gavilar reveals a fabrial, a technological device that uses a trapped spren and Stormlight to produce heat. He explains that parshmen were once like listeners before humans robbed them of their forms by capturing an ancient spren.
 

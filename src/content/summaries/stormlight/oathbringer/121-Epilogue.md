@@ -7,7 +7,6 @@ range: "121-Epilogue"
 startChapter: 121
 ---
 
-
 ### Chapter 121: Ideals
 Moash uses a pickaxe to clear stone rubble from the eastern wing of the Kholinar palace where he killed King Elhokar. The Fused leader Hnanan presents Moash with a golden knife set with a sapphire pommel and asks if he would kill a god. On the battlefield of Thaylen City, Navani embraces Dalinar as he carries a large ruby containing the trapped Unmade, Nergaoul. Dalinar gives the gemstone to Navani for study and asks her to teach him how to read. Shallan speaks to Adolin on the city wall and decides to remain herself instead of using her Veil or Radiant personas.
 

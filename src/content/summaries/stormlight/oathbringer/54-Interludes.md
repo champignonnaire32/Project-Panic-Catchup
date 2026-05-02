@@ -7,15 +7,12 @@ range: "54-Interludes"
 startChapter: 54
 ---
 
-
 ### Chapter 54: An Ancient Singer’s Name
 Moash works in a Voidbringer lumberyard near Kholinar alongside parshman slaves like Sah and Khen. The Fused, ancient singer spirits reborn in new bodies, oversee the construction of ladders for a city assault. One Fused subspecies grows wicked carapace armor and uses Voidlight to transform their limbs into tools. Sah reveals that the Fused took his daughter away and assigned him to a suicide unit. Moash abandons his work and stalks through the town to find someone in authority.
 
 A flying Fused lifts Moash high into the air where the atmosphere is thin and cold. He meets Lady Leshwi, a Fused leader with marbled white, red, and black skin and ruby eyes. Leshwi explains that her current body was a sacrifice from a singer to allow her rebirth. She recognizes Moash as the human who killed her previous host during a recent skirmish. Leshwi questions Moash about his name and his reasons for protecting the parshman slaves.
 
 Moash admits he seeks vengeance against those he believes have failed the world. Leshwi offers him the chance to leave and join the human refugees fleeing to Kholinar. Moash walks through the conquered town and observes the orderly behavior of the occupation forces. He chooses to stay and returns to the lumberyard where his parshman crew is ostracized. Moash distributes wooden poles to the parshmen and begins training them to fight as spearmen.
-
-
 
 
 
@@ -28,8 +25,6 @@ Drehy defends his own choices and Lopen argues that pursuing scholarly interests
 
 
 
-
-
 ### Chapter 56: Always with You
 Dalinar manifests in a vision of Feverstone Keep while holding the hands of Navani and Jasnah. The fortress features a towering wall of bloodred stones closing a gap in a mountain range. Jasnah observes soldiers carrying bronze weapons and wearing iron armor Soulcast from clay. She determines the setting is the False Desolation, an era occurring roughly two thousand years after Aharietiam. Navani uses scientific instruments to record data in an attempt to locate the physical ruins of the keep.
 
@@ -39,16 +34,12 @@ The Almighty’s voice speaks through a soldier to deliver a recording about the
 
 
 
-
-
 ### Chapter 57: Passion
 Odium sits on a boulder beside Dalinar and discusses the nature of the fallen Knights Radiant. He claims the knights were unified by passion rather than divided by political infighting. Odium identifies himself as the god of emotion, representing lust, joy, hatred, and exultation. He explains that Honor is dead and Cultivation has hidden herself away from his reach. Dalinar refuses to release Odium from his ancient bonds and attempts to propose a challenge of champions.
 
 Odium rejects the challenge and insists that Dalinar will eventually choose to free him. The god transforms the vision into a void containing an eternal, all-embracing flame of violet-black fire. Dalinar experiences a sensory overload of extreme heat, ecstasy, victory, and intense hatred. This raw power threatens to consume his mind and makes the planet Roshar seem inconsequential. The vision returns to Feverstone Keep, where Dalinar lies on the ground, physically and mentally drained.
 
 Odium hands Dalinar a waterskin and observes the violet-black fire burning deep within his own eyes. The god suddenly frowns and vanishes from the vision after sensing an unexpected presence. Lift emerges from behind the rocks and describes Odium as a creepy old man who smells wrong. She informs Dalinar that she will speak to Gawx about opening the Oathgate to Urithiru. Lift requests that Dalinar provide good food rather than military rations during their visit.
-
-
 
 
 

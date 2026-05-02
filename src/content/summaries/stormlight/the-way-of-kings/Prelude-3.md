@@ -7,7 +7,6 @@ range: "Prelude-3"
 startChapter: 0
 ---
 
-
 ### Prelude to the Stormlight Archive
 Kalak walks across a battlefield littered with human and non-human corpses and smoldering rocks. He reaches a stone spire to meet the other Heralds but finds only Jezrien waiting for him. Seven masterly swords are driven into the ground, representing the seven Heralds who survived the battle. Talenel is missing because he died holding a passage and has been sent back to the place of torture. Kalak admits to Jezrien that he can no longer endure the cycle of torture and death.
 

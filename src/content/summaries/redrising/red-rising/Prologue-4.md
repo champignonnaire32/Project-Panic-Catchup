@@ -7,7 +7,6 @@ range: "Prologue-4"
 startChapter: 0
 ---
 
-
 ### Prologue
 Darrow watches twelve hundred Gold students listen to a speech between marble pillars. A tall, imperious Gold man declares that all men are not created equal and calls democracy a cancer. He tells the students they are Gold, the end of the evolutionary line, and must claim power through blood. The speaker warns that only those fit for power among the "scarless children" will survive the coming trials. Darrow reveals in his internal monologue that he is not a Gold but a Red miner from the bowels of the world.
 

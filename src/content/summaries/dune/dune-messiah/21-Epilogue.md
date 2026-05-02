@@ -7,7 +7,6 @@ range: "21-Epilogue"
 startChapter: 21
 ---
 
-
 ### Chapter 21
 Alia takes a massive overdose of melange to pierce the prescient fog. She watches a boy bounce a ball outside the temple while the spice fugue begins. Hayt approaches her on a balcony overlooking the city of Arrakeen. Alia observes that Hayt is a union of opposites and calls him Duncan. Hayt insists he is Hayt and notes Alia's physical distress from the spice.
 

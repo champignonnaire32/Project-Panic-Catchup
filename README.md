@@ -1,43 +1,35 @@
-# Astro Starter Kit: Minimal
+# The Lorebrary
 
-```sh
-npm create astro@latest -- --template minimal
-```
+A high-density, plot-only reference tool for massive fantasy and sci-fi book series. 
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+The Lorebrary is a static web application designed for returning readers who need to refresh their memories of complex plotlines before starting a new sequel or returning from a long hiatus. It provides "soulless" summaries—focusing strictly on concrete narrative events—to reactivate the reader's journey without replacing the experience of reading the novels.
 
-## 🚀 Project Structure
+## 🚀 Key Features
 
-Inside of your Astro project, you'll see the following folders and files:
+- **Strict Brevity:** Every chapter summary is exactly 15 sentences long.
+- **Archive Aesthetic:** Minimalist, typography-focused design with Dark, Light, and Sepia modes.
+- **Lightning Fast:** Built with Astro for zero-JS page loads by default.
+- **Reader QoL:** Progress tracking, read-state checkmarks, and "Mega-Catchup" continuous scroll pages.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## 🛠️ Technology Stack
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- **Framework:** [Astro v6](https://astro.build) (SSG)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com)
+- **Interactivity:** [React](https://react.dev) (Islands)
+- **Data:** Markdown (Content Collections)
+- **Backend:** Python (PDF Processing Pipeline) + Gemini API
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## 📖 Project Documentation
 
-Any static assets, like images, can be placed in the `public/` directory.
+For detailed information on the project's architecture, workflows, and vision, see the following files:
 
-## 🧞 Commands
+- **[Overview](./thelorebrary-overview.md):** The primary entry point for the project mission and philosophy.
+- **[System Architecture](./system-architecture.md):** Technical details of the frontend and data flow.
+- **[Workflow](./workflow.md):** The runbook for adding new content and deploying.
+- **[Roadmap & Design](./roadmap-and-design.md):** The vision document and priority list for future series.
+- **[The Distiller (Engineering)](./the-distiller-engineering.md):** Documentation for the Python PDF-parsing pipeline.
+- **[Changelog](./changelog.md):** Historical record of features and fixes.
 
-All commands are run from the root of the project, from a terminal:
+## 📜 Disclaimer & Mission
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+This project is strictly a memory aid and actively encourages users to support authors by purchasing their books and utilizing local libraries. See [The Lorebrary Disclaimer](./thelorebrary-disclaimer.md) for more information.

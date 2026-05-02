@@ -7,7 +7,6 @@ range: "Prologue-4"
 startChapter: 0
 ---
 
-
 ### Prologue: Prologue
 Darrow walks beside Nero au Augustus on a floating mountain as snow falls over the captured Institute. Great Golds of Mars descend in swarms of ships to claim the top students from the year's class. Augustus warns Darrow that all previous bonds and oaths are now dust as they approach his shuttle. Across the crowd, Darrow spots Cassius au Bellona accompanied by his family. Darrow recalls the death of Julian au Bellona and the sound of his heart stopping.
 

@@ -7,7 +7,6 @@ range: "X-X"
 startChapter: 0
 ---
 
-
 ### Copyright
 Frank Herbert asserts his legal right to be identified as the author of the work. The Gollancz eBook, a digital publication imprint of the Orion Publishing Group, is released in Great Britain. This specific edition enters the market in the year 2010. The publishing house operates from Orion House, a physical facility located at 5 Upper Saint Martin’s Lane in London. The British Library maintains a CIP catalogue record for the identification of this publication.
 

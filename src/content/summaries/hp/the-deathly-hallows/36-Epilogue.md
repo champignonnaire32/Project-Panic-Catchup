@@ -7,7 +7,6 @@ range: "36-Epilogue"
 startChapter: 36
 ---
 
-
 ### Chapter 36: The Flaw in the Plan
 Harry wakes up on the forest floor after being hit by the Killing Curse. Narcissa Malfoy examines him and falsely declares him dead to the Death Eaters after Harry whispers that Draco is still alive. Voldemort uses the Cruciatus Curse on Harry's limp body but Harry feels no pain. Hagrid is forced to carry Harry's body back toward Hogwarts as a trophy. Voldemort stops the procession at the edge of the forest and uses magic to amplify his voice, announcing Harry's death to the castle's defenders.
 
