@@ -137,8 +137,8 @@ for (const seriesFolder of seriesFolders) {
       // Remove stray horizontal rules left by the AI
       body = body.replace(/^---\s*$/gm, '').trim();
 
-      // Remove top-level H1 summary headers (e.g. "# Chapter 21-25 Summary")
-      body = body.replace(/^#\s+.*Summary.*$/gim, '').trim();
+      // Remove ALL top-level H1 headers (e.g. "# Chapter 21-25 Summary" or "# RED RISING: Part III")
+      body = body.replace(/^#\s+.*$/gm, '').trim();
 
       // Fix ALL CAPS heading titles → Proper Title Case
       // Matches: ### 16: THE SILVER GUILLOTINE  or  ### Chapter 3: TITLE HERE
@@ -156,6 +156,7 @@ for (const seriesFolder of seriesFolders) {
       body = body.replace(/###\s+\[(Chapter\s+\d+)\][:\s-]+\1/gi, '### $1');
 
       // Ensure headings are cleanly spaced with exactly three empty lines before them
+      // (Uses a lookahead to avoid adding space before the very first heading in the file)
       body = body.replace(/\s*###\s+/g, '\n\n\n\n### ').trim();
 
       const outContent = `---
