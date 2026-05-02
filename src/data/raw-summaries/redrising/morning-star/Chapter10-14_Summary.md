@@ -52,5 +52,3 @@ Rollo reveals that he works for Julii Industries, Victra's own family company, w
 Sentence Count Check: 15
 
 ---
-
-TASK COMPLETE
