@@ -1,0 +1,57 @@
+### Chapter 16
+
+Spook resides in Urteau as a tin savant, an Allomancer whose constant metal flaring has permanently enhanced his senses. He must wear a blindfold and earplugs to prevent agony from ordinary light and sound. To gather information, he meets with a beggar lord named Durn in a dry canal street called Marketpit. Durn acts as a master of the city's thieves and reports on the Citizen’s activities. Spook observes the city’s soldiers enforcing strict laws and collecting a cut of all begging offerings.
+
+The Citizen, Quellion, publicly condemns and executes anyone suspected of possessing noble blood. Spook watches as ten prisoners are locked inside a boarded mansion and burned alive. He notices Beldre, Quellion's sister, standing near the flames with a look of sorrow. Quellion wears a red uniform to mark his authority while preaching about skaa solidarity and Kelsier’s legacy. Spook feels deep guilt for failing to intervene during the gruesome execution.
+
+Spook follows the Citizen to the market and maneuvers himself next to Beldre. He whispers a threat to her, claiming he is the man who will kill her brother. Quellion spots the interaction and commands his soldiers to seize Spook. Spook fights with his dueling cane but is overwhelmed when Quellion Pushes on his sword using Allomancy. A soldier stabs Spook through the chest after pinning him with the inhuman strength of a Thug, a pewter-burning Allomancer.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 17
+
+Elend prepares his army to face the mists and undergo a mass inoculation process. He explains to his men that some will fall sick, but this is necessary to reveal new Allomancers and gain immunity. General Demoux and Elend discuss their conflicting views on the Church of the Survivor. Demoux argues that Kelsier became a divine figure after surviving the Pits of Hathsin. Elend admits he uses the religion primarily as a tool to maintain order and hope among the troops.
+
+The mists appear at sunset and begin to strike down soldiers across the ranks. Men scream and collapse into the ash as the "mist-sickness" takes hold of them. Elend flares pewter and uses Allomancy to Riot the emotions of those still standing. He turns to speak to Demoux but finds the general shaking on the ground. The army’s most faithful leader has been incapacitated by the very mists he worships.
+
+Elend kneels in the ash to assist his fallen friend as the chaos continues. Approximately one in fifty soldiers are expected to die during this exposure. The remaining survivors will emerge with permanent immunity to the lethal effects of the daytime mists. This brutal strategy ensures the army will not be vulnerable during the upcoming siege of Fadrex City. Elend broods over the necessity of the sacrifice while his troops convulse around him.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 18
+
+Sazed releases his last white horse because it can no longer find food beneath the deep ash. He travels with Breeze and Allrianne toward the Central Dominance to meet with the Terris people. Sazed struggles with a profound loss of faith and feels his past religious teachings were hypocritical. He carries a drawing of a flower and spends his walking hours obsessively studying dead religions. Every theological system he examines seems to contain only contradiction and failed promises of divinity.
+
+The group passes skaa workers who are desperately clearing ash to save their budding crops. Captain Goradel, a former palace guard, notes that the skaa work with a new sense of purpose. He explains that the farmers are motivated by freedom rather than the threat of a master’s whip. Sazed remains skeptical as he watches the massive piles of black ash dwarf the tiny brown plants. He fears that the environmental collapse will soon make all agricultural efforts impossible.
+
+Sazed arrives at the Pits of Hathsin, which has been converted into a refugee camp for the Terris. He finds forty thousand survivors living as simple herdsmen among the ruins of the atium mines. The Terris elders greet him with the titles of "Lord Sazed" and "Your Majesty." Sazed attempts to reject these honors, but the people insist on treating him as their king. He accepts a meal and prepares to meet with the leaders of his decimated race.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 19
+
+Spook regains consciousness inside a burning mansion with his senses severely diminished. He is no longer burning tin, making the world appear dark, muffled, and vague. A sword wound in his shoulder has left his left arm useless and his body dangerously weak. A mysterious voice in his head commands him to crawl through the smoke to escape. He drags himself toward a study as the oil-soaked floorboards begin to collapse into the fire.
+
+Guided by the voice, Spook reaches a desk and finds a drawer containing Allomantic vials. He drinks the solution, desperately hoping for tin to restore his fading senses. Instead of tin, he discovers a new metal reserve that he has never burned before. He ignites the metal and feels the explosive strength of pewter flooding his muscles. The "blessing of pewter" instantly stabilizes his injuries and grants him inhuman stamina.
+
+Spook sees a dark silhouette standing amidst the flames, which he recognizes as Kelsier. The figure confirms his identity and claims to have granted Spook the power of pewter. Kelsier instructs Spook to use his new strength to seek revenge against the Citizen. Spook leaps to his feet and smashes through the boarded windows to reach the roof. He escapes the inferno and prepares to hunt the soldiers who left him to die.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 20
+
+TenSoon remains imprisoned in an iron cage within the kandra Homeland. The cage features a wire mesh designed to prevent him from slipping through the bars in a liquid state. He has been condemned for the crime of killing another kandra, OreSeur, and breaking Contract. The Second Generation leaders put him on public display to shame him before the entire race. TenSoon waits for a sentence of "eternity," which involves being starved of all flesh and kept in a pit.
+
+MeLaan, a Seventh Generation kandra wearing a True Body of wooden bones, visits his cage. She informs him that Ruin has returned and the world above is being consumed by ash. MeLaan begs TenSoon to lead a revolution against the aging and impotent First and Second Generations. TenSoon refuses to rebel, maintaining that kandra must remain faithful to order and Preservation. He realizes that spies are listening to their conversation from a distance using the Blessing of Awareness.
+
+TenSoon decides to use the presence of the spies to further his own secret plan. He loudly complains about the "dog bones"—the skeletal remains of a hound—he was forced to wear while serving Vin. He hopes that by feigning disgust, the Seconds will return the bones to him as a form of mockery. MeLaan leaves the cage in frustration, believing TenSoon has been broken by his human masters. TenSoon remains alone in his cage, calculating a way to reclaim his mobility and escape.
+
+**Sentence Count Check:** 15

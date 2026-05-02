@@ -1,0 +1,49 @@
+### Chapter 21
+
+Kelsier travels by canal boat toward a hidden rebel base while reading the Lord Ruler’s stolen logbook. He uses Allomancy to leap from his narrowboat to the lead barge as they reach a crossroads lock mechanism. Captain Demoux, a young and disciplined officer, meets Kelsier and Yeden at the tree line to guide them into the forest. The group of two hundred new recruits follows a roundabout path to a granite rift in the ground that serves as a secret entrance. Kelsier overcomes his personal trauma regarding narrow caves and descends into the massive underground complex.
+
+General Hammond welcomes the group into the natural cavern system which features three guarded rifts as entry points. Kelsier inspects the soldiers and orders strict exit protocols to prevent any runaways from betraying the location to the Lord Ruler. He instructs Ham to have soldiers create false trails in the forest to confuse any potential imperial scouts. Ham expresses concern that the skaa army of seven thousand men is not ready for a real battlefield confrontation with trained imperial soldiers. Kelsier reveals that Yeden will take over command of the army while Ham returns to Luthadel for intelligence gathering.
+
+During a final feast, Kelsier uses his emotional Allomancy to provoke a rebellious soldier named Bilg into an open argument. Kelsier challenges Bilg to a duel against Captain Demoux with the condition that Bilg can leave if he wins. During the fight, Kelsier uses Steelpushing and Ironpulling to secretly manipulate the weapons and armor of both combatants. Demoux appears to perform supernatural feats and eventually disarms Bilg with a Kelsier-enhanced strike that shatters the man's arm. Kelsier uses the display to convince the army that they have divine protection and the power of the legendary Eleventh Metal.
+
+Sentence Count Check: 15
+
+### Chapter 22
+
+Vin continues reading the translated logbook which describes the Lord Ruler’s past pilgrimage through the green mountains of Terris. She discovers that the ancient Terris packmen, led by a man named Rashek, possessed the ability to store physical strength in metal jewelry. Spook visits Vin at Renoux’s mansion to drop off weapons and gives her a pink-and-white lace handkerchief before running away. Vin seeks out Sazed in the library and asks him about the physical attributes mentioned in the logbook entries. Sazed explains the mechanics of Feruchemy, a Terris power that allows for the storage of attributes like strength, memories, and sight in metal "metalminds."
+
+Sazed reveals that he is a Keeper, an organization dedicated to preserving lost religions and histories using copper metalminds for memory storage. He explains that the Lord Ruler attempted to exterminate the Keepers and implemented a breeding program to control the Terris population. Vin learns that a handkerchief is a traditional gift in noble society from a man who wishes to seriously court a lady. Sazed shares that many members of the crew, including Ham and Yeden, have secret families they must stay away from for safety. Vin realizes that Dockson is from a plantation background and goes to find him in the guest study.
+
+Dockson tells Vin about his life on Lord Devinshae’s plantation and the murder of his lover, Kareien, by the local lord. He explains that imperial law allows noblemen to sleep with any skaa woman as long as they kill her afterward to prevent half-breeds. Dockson argues that all noblemen are monsters and that their society is built upon the systematic rape and murder of skaa. Vin defends the nobility she has met at balls, claiming they are indifferent rather than intentionally cruel or monstrous. She begins to doubt Elend Venture’s character and wonders if he has also participated in the murder of skaa mistresses.
+
+Sentence Count Check: 15
+
+### Chapter 23
+
+Vin attends a ball at Keep Hasting where Lady Kliss shares gossip about House Tekiel's crumbling alliances and recent assassinations. An obligator from the Canton of Orthodoxy approaches the group to witness a mundane gambling contract between several noblemen. Shan Elariel corners Vin and insults her while using emotional Allomancy to make her feel homely and insignificant. Shan demands that Vin spy on Elend by memorizing the titles of the illegal books he keeps in his possession. Vin retreats to a balcony and confronts Elend about whether he has ever slept with and murdered a skaa woman.
+
+Elend admits that his father forced him to sleep with a skaa girl when he was thirteen, but he claims he did not know she would be killed. He insists that he has never repeated the act and that only about a third of noblemen participate in such murders. Elend expresses his desire to change the corrupt system and reveals that his father frequently takes skaa and noble mistresses. Vin chooses to believe him and shares her own knowledge of skaa intelligence and their underground networks for runaways. Elend gives Vin his own handkerchief as a sign of serious courtship and leaves to meet with his political associates.
+
+Vin follows Elend and his friends to an auxiliary tower by using Allomancy to leap across the keep’s walls in her black gown. She eavesdrops on a secret meeting where Elend and other house heirs discuss philosophical texts and plans to unify the houses against the Lord Ruler. Kelsier appears on the window ledge above her and reveals that he has spied on the group several times before. He dismisses the young noblemen as a non-threat and describes their activities as typical political posturing for the next generation. Kelsier tells Vin to meet Sazed and return to Luthadel while he departs into the mists once more.
+
+Sentence Count Check: 15
+
+### Chapter 24
+
+The crew gathers at Clubs’s shop to celebrate Kelsier and Ham’s return from the rebel caves. Kelsier reports that the army is on schedule and that Marsh has successfully infiltrated the Ministry as an obligator. Vin confirms that House Tekiel is vulnerable and will likely be forced to sell its keep and leave Luthadel by the end of the month. Kelsier plans to rent a warehouse for informant meetings and suggests sending Breeze to the caves to replace Yeden as commander. The crew shares a lighthearted moment by mimicking Spook's complex street dialect until everyone is laughing.
+
+Vin reflects on her transformation from a frightened street urchin to a confident member of the crew. She realizes that she no longer hides in the shadows and has found genuine friendship among the conspirators. Kelsier instructs Ham to reestablish his military contacts at the Luthadel Garrison to monitor their movements. Vin asks to accompany Ham so she can train with a Thug and learn the nuances of burning pewter for combat. Ham explains that he keeps his family in a separate city to protect them from Inquisitors who hunt Misting descendants.
+
+Ham and Vin arrive at the Garrison headquarters, a fortified complex mostly manned by skaa mercenaries. Ham meets with Captain Sertes, a former sparring partner who has recently been promoted within the military. Sertes informs Ham that the Garrison is marching out in two hours to suppress a massive skaa rebellion to the north. The soldiers report that the rebel army attacked the Holstep Garrison and is currently being engaged by five thousand imperial troops. Ham and Vin realize that Yeden has exposed the secret army and that a massacre is already underway.
+
+Sentence Count Check: 15
+
+### Chapter 25
+
+Kelsier and Vin pack supplies and prepare to depart Luthadel immediately to reach the rebel army. Kelsier orders Ham to stay with the Garrison as an informant while Sazed and Dockson remain to secure the city hideouts. Vin and Kelsier exit the city by jumping over the walls using Allomancy and begin a superhuman dash toward the north. They run for sixteen hours straight, using flared pewter to sustain a pace that would kill an ordinary human or horse. Upon reaching the valley near Holstep, they witness the imperial army systematically slaughtering the trapped and surrendering skaa rebels.
+
+Vin restrains Kelsier from attacking the entire imperial army alone, pointing out that he cannot save the men in the open valley. They travel to the hidden cave complex and find two thousand soldiers who stayed behind because they doubted Yeden’s rash plan. Kelsier discovers that Yeden and his generals were killed and their heads were placed on spears by the roadside. He takes command of the survivors, including Captain Demoux and an old man named Mennis from Tresting's plantation. Kelsier prepares to move the remaining men back to Luthadel in small groups to hide them among the city population.
+
+Mennis tells Kelsier that the skaa consider the destruction of the Holstep Garrison a great victory despite their own subsequent massacre. Kelsier is horrified by the realization that skaa hope is so low that they view a suicidal defeat as a triumph. He refuses to walk away from the rebellion and vows to show the people a true victory over the Lord Ruler. Kelsier smiles through his grief as a way to prove that his spirit remains unbroken by the failure of his army. The narrative shifts to Part Four as Kelsier prepares for his next secret plot against the Final Empire.
+
+Sentence Count Check: 15

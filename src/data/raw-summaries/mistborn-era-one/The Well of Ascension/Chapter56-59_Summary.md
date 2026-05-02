@@ -1,0 +1,57 @@
+### Chapter 56
+
+Elend and Spook travel through the mists toward Luthadel. They traded their horses for supplies days ago. Elend walks alone at night to avoid detection. Spook uses his flared tin to scout ahead. They encounter a mistwraith, a scavenger made of scavenged bones.
+
+A mist figure appears to Elend and points north away from Luthadel. Elend attempts to communicate with the entity but it dissolves when Spook returns. Spook leads Elend to a camp of Terris refugees nearby. These people are stewards and eunuchs fleeing the destruction of their homeland. They are led by an elderly steward with a chronic trembling condition.
+
+The old man reveals that Steel Inquisitors and koloss destroyed Tathingdwen and captured the Synod. He hopes to find Tindwyl in Luthadel for guidance. Elend informs him that Luthadel was recently attacked and might have fallen. He realizes the world is collapsing as the Deepness returns in the form of killing mists. Elend resolves to continue to Luthadel to find Vin and rebuild.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 57
+
+Sazed mediates a meeting between Kings Cett, Janarle, and Penrod in Luthadel. Cett demands an invasion of his former territory while the others argue for stability. Sazed reminds them of Vin's power to keep the coalition from dissolving. Vin remains in a coma from a prolonged pewter drag. Sazed struggles with apathy following the death of Tindwyl.
+
+Elend and Spook arrive at the outskirts of Luthadel and observe the broken gates. They slip into the city by mixing with returning refugees. Sazed returns to his room and reviews the original manuscript of Kwaan’s narrative. He notices a missing sentence on a scrap of paper that matches a previous theft. Vin wakes up and tells Sazed that the Well of Ascension is hidden in Luthadel.
+
+Vin explains that the Lord Ruler likely flattened the Terris mountains and built Luthadel over the Well. She senses the power pulsing from Kredik Shaw, the Lord Ruler’s former palace. Elend returns to the keep and reunites with Vin in the city streets. Vin leads Elend, Ham, and Spook to the ruins of the palace. Marsh appears in Sazed’s room and declares his intent to kill him.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 58
+
+Marsh attacks Sazed by Pushing on his metal bracers and breaking his arm. Sazed uses a hidden goldmind to heal his lethal injuries and restore his health. He taps various metalminds to increase his weight, speed, and strength during the fight. Marsh reveals he has spent years killing and attempts to execute Sazed with a lamp. Ham arrives and strikes Marsh from behind with a dueling cane.
+
+Vin and Elend navigate a secret passage in Kredik Shaw using Allomancy to slide open a stone wall. They discover a vast underground cavern filled with storage shelves and a metal plaque. A natural stone tunnel leads them to a smaller chamber filled with thick black smoke. Vin identifies the Well of Ascension as a glowing pool of liquid white metal. She hesitates to take the power for fear of becoming like the Lord Ruler.
+
+The mist spirit appears and stabs Elend in the stomach with a knife. Elend collapses with a fatal wound as Vin attempts to staunch the bleeding. Vin steps into the pool and absorbs the overwhelming power of the Well. A kindly voice urges her to give up the power to defeat the Deepness. Vin releases the power into the void to save the world, hearing a scream that it is finally free.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 59
+
+Vin weeps over Elend’s dying body as the power of the Well departs. She realizes she has made a terrible mistake by releasing the entity. The mist spirit points to a piece of pottery that Elend had been holding. Vin finds a small bead of unknown metal at the center of the broken disk. The spirit gestures for her to give the metal to the dying Elend.
+
+Elend swallows the metal nugget after Vin washes it down with a liquid vial. His skin regains color as the metal grants him the abilities of a Mistborn. He begins to burn pewter unconsciously, which stabilizes his lethal stomach wound. Vin senses his Allomantic pulses and realizes he will survive his injuries. The mist spirit remains silent as Elend begins his recovery from the attack.
+
+Vin feels a sense of dread despite Elend’s survival because of the voice she heard. The entity in the Well claimed it was finally free from its prison. Vin remains in the cavern to guard Elend while he heals. She reflects on the fact that she gave up godhood to save the world. The mists continue to churn outside the palace as a new threat emerges.
+
+Sentence Count Check: 15
+
+---
+
+### Epilogue
+
+Sazed arrives at the Conventical of Seran two weeks after leaving Luthadel. He returns to the rock room containing Kwaan’s ancient steel plate inscription. He compares his original charcoal rubbings to the words carved into the metal. The text on the plate does not match the information he memorized. Sazed realizes that his rubbings were altered by an external force.
+
+The original inscription reveals that Alendi was never the true Hero of Ages. Kwaan had written the words in steel because metal cannot be altered by the entity. The entity changed the prophecies within metalminds and on paper to manipulate the Terris people. It intended for a hero to reach the Well and release its power. Sazed understands that his entire religion was a fabricated trap for the world.
+
+Sazed loses his remaining faith as he contemplates the magnitude of the deception. Vin finds Elend wearing a white uniform on the city walls of Luthadel. Elend has fully recovered and is adjusting to his new Allomantic powers. Vin admits she set a destructive force free and fears for the future. They resolve to follow Kelsier’s example and fight to survive the coming darkness.
+
+Sentence Count Check: 15

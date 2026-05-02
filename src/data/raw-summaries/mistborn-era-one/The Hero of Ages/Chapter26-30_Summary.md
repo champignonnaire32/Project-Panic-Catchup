@@ -1,0 +1,57 @@
+### Chapter 26
+
+Spook recovers in a one-room illegal lair in Urteau after jumping from a burning building. He discovers that he can now burn pewter in addition to tin, a feat normally impossible for Allomancers. While looking in a mirror, he finds a sword tip embedded in his shoulder from his recent fight. The voice of Kelsier instructs him to leave the metal in his body as a sign of his survival. Spook leaves his lair to gather information on the city's ruler, Quellion, a short-haired man with rough skin known as the Citizen.
+
+He travels through the Harrows, a congested slum of leaning shacks built within the city's dry canals. Spook enters a tavern where he drinks wine and uses his enhanced tin senses to eavesdrop on various conversations. He hears that the Citizen is minting new coins and plans to seize all old currency for his treasury. Informants reveal that the Citizen's genealogists are tracing everyone's heritage back five generations. The government kills anyone with noble blood within two generations and only allows "pure" skaa to serve in the government.
+
+Spook listens to skaa miners complaining about dangerous conditions and realizes he would be among them if not for his uncle, Clubs. He feels a renewed sense of purpose and vows to help the people of Urteau by delivering the storage cache to Elend. His enhanced pewter strength allows him to move with blurring speed, accidentally cracking a wine bottle in his hand. Patrons recognize him as the man who attacked the soldiers in the market and was presumed dead. Spook realizes that an informant named Durn is leaking his identity and quickly flees into the night.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 27
+
+Vin leaps through the mists of Fadrex City wearing black clothing to minimize noise while scouting the defenses. She notes that the mist seems to be repelled by her body now, staying several inches away from her skin. After bypassing guard posts, she enters the city and discovers it is a functional metropolis with noble keeps and active skaa slums. Vin notices that the streets are swept of ash and the noble population has not fled despite Elend's approaching army. She follows instructions from Cett to meet an informant named Slowswift, an elderly storyteller with bushy eyebrows and frosty white hair, on a mansion balcony.
+
+Slowswift informs Vin that King Yomen is an efficient bureaucrat who brought stability to the city. He explains that both skaa and nobility welcomed Yomen's rule because he restored the familiar order of the Final Empire. Slowswift reveals that Yomen continues to throw lavish balls for the nobility to maintain a sense of normalcy. The informant tells Vin that Yomen possesses a suspiciously large amount of wealth, confirming the presence of the atium storage cache. Vin pays Slowswift with gold imperials and departs to find a second informant named Hoid.
+
+Upon arriving at the square where Hoid is supposed to be, Vin's instincts warn her of danger, and she flees without speaking to him. She scouts the Canton of Resource, which Yomen has converted into his palace and likely the site of the cache. While moving through the city, Vin realizes she is being followed by an Allomancer burning copper. She uses her enhanced bronze senses to pierce the coppercloud and sees the follower is a Mistborn or the mist spirit. The figure vanishes abruptly after Vin performs a large Allomantic jump, prompting her to return to Elend's camp in a state of unease.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 28
+
+Elend listens to Vin’s report about the mist spirit and the informants in his narrowboat cabin. Vin explains her theory that the mist spirit tried to kill Elend to prevent the release of Ruin. They discuss Sazed's discovery that Ruin can alter any text not written in metal or carved in stone. Vin admits she told Slowswift she is the Hero of Ages and intends to stop the falling ash and change the sun's color. She expresses fear that the mists no longer feel like a home to her and that the world is becoming unreadable.
+
+Elend promises to trust Vin completely and help her save the world, despite his lack of faith in the Survivor. Vin warns Elend that they must not speak or write their plans because Ruin can perceive any communication. Elend agrees to investigate the "numbers," referring to the specific percentage of people who fall ill in the mists. He expresses frustration over his failed diplomacy with Yomen and the threat posed by his twenty thousand koloss. Elend worries that he will be forced to use the koloss to break the city's fortifications if the siege continues too long.
+
+Vin suggests that they attend an upcoming ball in Fadrex City to confront King Yomen in person. She argues that because they are both Mistborn, they can easily infiltrate the city and use the social setting to their advantage. Elend finds the idea bold and believes it will intimidate the nobility and force Yomen into a conversation. He jokes about bringing good reading material to the party, echoing his behavior from balls in Luthadel. The plan hits a temporary obstacle when Vin realizes she does not have a formal gown to wear for the event.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 29
+
+Sazed, Breeze, and Allrianne arrive in Urteau with a small contingent of two hundred soldiers. They observe that the city's canals are completely dry, forcing the residents to use them as roads. Quellion, the Citizen who wears deep red skaa clothing, meets the group and immediately accuses Elend Venture of being a tyrant. He reveals that his government is systematically executing nobility to fulfill the Survivor's commands for a skaa-only society. Quellion identifies Breeze as a Soother and warns his followers about the "black tool" of Allomancy used by nobles.
+
+Sazed attempts to negotiate an alliance by mentioning the deadly mists and perpetual ashfall, but Quellion rejects the offer. As the group leaves the meeting, they encounter Spook disguised as one of their own soldiers wearing a blindfold. Spook explains that he wears the cloth because his tin senses have become so sensitive that normal light is blinding. He leads Sazed and the others to the abandoned Canton of Inquisition building to serve as their base of operations. Spook demonstrates unexpected physical strength by casually ripping heavy boards off the building's entrance.
+
+Inside the building, Spook reveals a hidden trapdoor leading to the Lord Ruler's secret storage cache. The group descends into a massive cavern filled with rows of shelves designed to hold emergency supplies. Sazed notes that the entrance is narrow and easily defensible, providing a safe retreat if the city turns against them. They discover an enormous underground lake, which Spook explains is the destination of the city's diverted river. Spook tells Sazed that they may need to organize a new rebellion to overthrow Quellion’s regime and secure the city.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 30
+
+One week passes as Elend and Vin prepare to infiltrate Fadrex City for a noble ball. Elend discusses the imperial succession with Ham and Cett, designating Sazed as the next emperor if he and Vin die. Vin appears in a stunning black and silver gown that she commissioned from a contact inside the city. The couple uses Allomancy to jump over the city's rock walls and land directly at the entrance of Keep Orielle. A servant announces them as the High Emperor and Empress, which causes the entire ballroom to fall into a shocked silence.
+
+They observe the ballroom, which is decorated with white marble pillars and freestanding stained-glass panels. Elend spots King Yomen, a bald obligator of the Canton of Resource with complicated eye tattoos, sitting at an elevated high table. Yomen waves back his guards to allow the imperial couple to stay, choosing to continue the party despite the intrusion. Elend and Vin decide to split up and mingle with the nobility to shatter their sense of security. Vin takes a glass of wine and scans the room to identify the most influential social leader among the women.
+
+Vin confronts Lady Patresen, a relative of House Elariel, and sits at her table without an invitation. She openly claims that Patresen is planning to abandon the other women when the city is eventually attacked. Vin uses a powerful Emotional Allomancy flare to intimidate the group, reminding them that she killed the Lord Ruler and Shan Elariel. She warns the nobility that the city will fall and there will be no mercy for those who oppose Elend’s rule. The intimidated sycophants immediately abandon Lady Patresen to follow Vin and offer to introduce her to the rest of the party.
+
+Sentence Count Check: 15

@@ -30,6 +30,7 @@ const seriesMap = {
   'hisdarkmaterials': 'His Dark Materials',
   'acotar': 'A Court of Thorns and Roses',
   'inheritance-cycle': 'The Inheritance Cycle',
+  'mistborn-era-one': 'Mistborn: Era One',
 };
 
 // Define explicit book orders
@@ -79,6 +80,9 @@ const bookOrderMap = {
   'Eldest': 2,
   'Brisingr': 3,
   'Inheritance': 4,
+  'The Final Empire': 1,
+  'The Well of Ascension': 2,
+  'The Hero of Ages': 3,
 };
 
 const rawBaseDir = path.join(process.cwd(), 'src', 'data', 'raw-summaries');

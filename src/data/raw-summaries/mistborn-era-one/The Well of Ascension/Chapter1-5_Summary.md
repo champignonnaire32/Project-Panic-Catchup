@@ -1,0 +1,57 @@
+### Chapter 1: The Watcher
+
+King Elend Venture stands on the Luthadel city walls observing a hostile army of fifty thousand soldiers led by his father, Straff Venture. The air is thick with black ash from active Ashmounts, and Elend discusses the city's dire economic state and lack of soldiers with his general, Ham. Elend plans a meeting with his crew to strategize against the imminent threat while worrying about the Assembly’s potential surrender. Meanwhile, Vin moves through the city mists, using Allomancy to enhance her senses and hide her presence from others. She meets OreSeur, a kandra servant currently inhabiting a nondescript human body, in a quiet city square.
+
+Vin burns tin to see through the darkness and pewter to strengthen her slight frame against potential threats. She senses she is being followed and uses steel to Push a signal coin into the square to draw out her stalker. OreSeur approaches her cautiously, maintaining his usual tone of respectful hostility toward his mistress. Vin admits to him that she might have been wrong about being followed, feeling a slight disappointment at missing a chance to spar. She decides they should return to the palace to check on Elend’s safety.
+
+As they prepare to leave, a sudden spray of coins shoots through the mists toward Vin. She reacts with supernatural speed, leaping away as the projectiles ricochet off the wet cobblestones behind her. OreSeur immediately flees into a nearby alleyway to stay out of the combat zone. Vin crouches low, flaring her Allomantic metals to prepare for an engagement with unknown attackers. The night falls silent briefly before another volley of coins arrives from the darkness.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 2: The Watcher
+
+Eight Misting assassins emerge from the mists to attack Vin, including Coinshots, Thugs, a Lurcher, and a Smoker. The assassins attempt to kill Vin with coin volleys and physical strikes, but she uses her Mistborn powers to deflect their attacks. Vin kills the first Coinshot with an obsidian dagger and realizes there is a hidden Mistborn among the group. A mysterious figure known as the Watcher observes from a rooftop and intercedes by firing a coin that kills the assassins' Smoker. This interference alerts Vin to the fact that she is being "Smoked" to hide another Allomancer's presence.
+
+Vin orders OreSeur to throw her a hidden vial of atium, which she swallows to gain a tactical advantage. Burning atium allows her to see "atium shadows" of the future, revealing the hidden Mistborn assassin's movements. She quickly dispatches the remaining Thugs and engages the Mistborn in a high-speed duel where both use atium. Her opponent's atium supply runs out first, allowing Vin to strike him down with his own glass dagger. The Watcher remains on the roof for a moment before jumping away into the night mists.
+
+OreSeur is wounded during the fight and requests a new human body to replace his current damaged one. Vin refuses to let him eat one of the fallen assassins, feeling sickened by the kandra's digestive mimicry process. She worries that the bead of atium she used was her last, leaving her vulnerable to future Mistborn attacks. Vin instructs OreSeur to return to the palace slowly while she stays to inspect the carnage. She reflects on her role as a killer and the increasing danger surrounding Elend's reign.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 3: The Watcher
+
+Elend works late into the night on a political proposal intended to prevent the Assembly from surrendering Luthadel to Straff Venture. He reflects on the difficulties of leading a parliamentary council and the stability of the former Lord Ruler's reign. Vin returns to the palace and checks Elend’s room for intruders before resting on his rug. She informs Elend that she has used the last of their atium stockpile during the fight with the assassins. They discuss the missing atium cache of the Lord Ruler and the economic strain of feeding the city.
+
+Ham arrives and informs Elend that the assassins were sent by Ashweather Cett, a rival warlord from the Western Dominance. This revelation suggests that multiple factions are moving against Luthadel simultaneously to claim the city's supposed riches. Elend realizes that his father is not the only threat and that the political situation is more complex than anticipated. Vin describes seeing a strange, misty figure on the roof that dissipated when she attacked it with coins. Elend encourages Vin to rest, noting that even Allomancers cannot survive indefinitely without sleep.
+
+Vin burns bronze and realizes she can pierce copperclouds, a power she previously used to defeat the Lord Ruler. She recalls how she drew power directly from the mists during her final battle with the god-emperor. Elend and Vin discuss the legacy of Kelsier, noting that many people still wish the Survivor were alive to lead them. Ham jokes about the absurdity of their situation compared to fighting an immortal god-emperor. Elend finishes his proposal and prepares for the upcoming Assembly meeting while Vin sleeps fitfully nearby.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 4: The Watcher
+
+In the Eastern Dominance, Sazed investigates a report of a man who died suddenly while working in a field. The witness, a villager named Teur, claims the man began shaking and twisting as if being gripped by an invisible force. Sazed examines the body and finds no overt wounds, though the muscles are locked in a mask of pain. He notes that the death occurred during the day when a strange mist appeared in the valley. Sazed uses his pewtermind to gain the strength necessary to dig a grave for the fallen farmer.
+
+Sazed performs a funeral ceremony from the extinct HaDah religion, which features an agricultural deity and involves placing a branch in the grave. The local peasants watch with indifference and skepticism, associating all religion with the oppressive Steel Ministry. Sazed realizes that the skaa are too focused on survival to care about the lost faiths he has preserved. He reflects on the chaos and starvation that have spread across the land since the Lord Ruler's death. The villagers eventually help him finish filling the grave, showing a small sign of communal effort.
+
+Sazed continues his journey through the chaotic Eastern Dominance, where press gangs have taken most of the young men. He struggles with the guilt of his role in overthrowing the Lord Ruler and the subsequent suffering of the people. The farmer's death and the daytime mists suggest a new, supernatural threat is emerging in the world. Sazed attempts to teach the villagers practical skills to help them survive the coming winter without their lords. He wonders if the Lord Ruler was truly the only thing keeping the world from falling into total ruin.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 5: The Watcher
+
+Vin walks through the bustling Luthadel markets, noting the influx of skaa and the transformation of Kenton Street into a bazaar. She is approached by a group of skaa priests who revere her as the "Lady Heir" and the Survivor's successor. They beg for her guidance and protection against the approaching army, believing she is invincible because she killed the Lord Ruler. Vin feels overwhelmed by their expectations and flees from the crowd after touching a woman's child. She visits a livestock pen and buys a massive, aggressive wolfhound to serve as a new body for OreSeur.
+
+Vin returns to the palace and commands OreSeur to consume the wolfhound and take its form to serve as a more inconspicuous spy. She receives a package from the metallurgist Terion containing a new alloy called duralumin, which is composed of aluminum and copper. Vin finds Elend in his study with Dockson, who has returned from his mission to the Terris region. They discuss the kingdom's finances and the upcoming defense meeting to prepare for Straff Venture's attack. Vin tries to convince Elend to practice swordplay, but he dismisses the idea, trusting her to protect him.
+
+Vin decides to test the duralumin immediately, despite Elend's concerns that a bad alloy might make her sick. She swallows the metal dust and burns it, but initially feels no physical change or immediate effect. Ham stays with her in case she collapses, while Elend watches with apprehension as she experiments with the new power. Vin believes she needs every possible advantage to defend the city against the overwhelming forces gathered outside its walls. She reflects on Kelsier's ruthlessness compared to Elend's goodness and vows to keep the king alive at any cost.
+
+Sentence Count Check: 15

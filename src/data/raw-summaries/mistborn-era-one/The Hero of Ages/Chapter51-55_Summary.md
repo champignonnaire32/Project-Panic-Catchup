@@ -1,0 +1,57 @@
+### Chapter 51
+
+Elend travels through the mists toward a koloss army by Pushing off copper clips. He prefers coins over Vin's horseshoe method because he possesses greater Allomantic strength. The emperor wears a black uniform and mistcloak instead of his typical white attire. He reaches a village under attack by hulking, blue-skinned koloss and immediately joins the battle. Elend uses a massive koloss sword to shear through the creatures with the aid of flared pewter.
+
+The emperor matches strength with a twelve-foot-tall monster and cuts it in half. He experiences frustration when his initial emotional Pushes fail to seize control of the beasts. Elend rescues a father and daughter by pelting their attacker with a spray of coins. He suspects that an Inquisitor must be nearby to account for the koloss's resistance to his Allomancy. The village continues to burn as the villagers rally around the Mistborn defender.
+
+Elend burns duralumin and zinc to release a massive emotional Pull on the entire army. The remaining thirty thousand koloss suddenly fall silent and stand motionless under his command. He searches for the missing Inquisitor but finds that the creature has apparently fled the scene. An elderly survivor asks Elend if he is the Lord Ruler reborn. Elend accepts the comparison and prepares to lead his new monstrous force back toward Fadrex.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 52
+
+TenSoon enters Luthadel in the body of a wolfhound and observes the city's extreme decay. Every alleyway and street corner is packed with sick skaa living in filth and ash. The kandra observes the shattered stained-glass windows of Keep Venture from the shadows. He eavesdrops on two guards named Wellen and Rittle who mention that King Penrod is currently ruling. TenSoon realizes that he must act quickly because the world is beginning to collapse.
+
+The kandra travels to an old warehouse used by the Church of the Survivor. He digs into the ground at a specific spot to retrieve the buried bones of Kelsier. TenSoon consumes the bones to take on the physical appearance of the late Survivor. He walks out of the mists to confront the guards while wearing a black cloak. The guards fall to their knees in shock upon seeing the scars on his arms and his familiar face.
+
+TenSoon-as-Kelsier commands the guards to tell the people to find shelter underground. He learns from Wellen that King Penrod has gone mad and is talking to the air. The guards inform him that Vin and Elend have likely moved north toward Urteau. TenSoon encounters a group of believers inside the warehouse and tells them to flee the city. He reverts to his dog form and begins running toward Urteau with Kelsier's bones in a sack.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 53
+
+Spook visits Beldre on the shore of the underground lake and brings her a cup of warm tea. He explains that the cavern serves as a hidden supply cache left by the Lord Ruler. Beldre reveals that she is half skaa and was nearly executed by obligators before the revolution. Spook admits that he was once just an errand boy and watcher for Kelsier's crew. He promises to try and save her brother, Quellion, and the city of Urteau from destruction.
+
+Spook sneaks out of the Ministry building to meet with a local criminal leader named Durn. He offers Durn a noble title and trade contracts in exchange for spreading his reputation. The "Survivor of the Flames" visits several bars while wearing his distinctive burned cloak. He uses flared pewter to stay sober while drinking with the patrons and listening to their stories. Spook spreads rumors that Quellion is himself an Allomancer to undermine the Citizen's authority.
+
+The patrons in the bars cheer for Spook and call him a hero. Durn notes that Spook has consumed ten mugs of wine without showing any signs of intoxication. Spook wears a bandage over his eyes to maintain the image that he does not need light to see. He hears the voice of Kelsier whispering that he deserves the adulation of the crowd. The young Allomancer feels his confidence growing as he embraces his role as a leader.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 54
+
+Vin wakes up in a utilitarian room in Fadrex City wearing heavy silver manacles. She discovers that she has no metals in her stomach and cannot use her Allomancy. The room is designed by Yomen to contain no trace metals in the water or furniture. Yomen stands by a window and explains that he could easily keep her drugged or gagged. The obligator king wears a single bead of atium on his forehead and tattoos around his eyes.
+
+Yomen returns Vin's bronze-and-silver earring to her on a small platter. Vin puts the earring back in her ear even though it provides no immediate tactical advantage. A soldier is brought into the room to verify that the empress is still alive. The soldier asks Vin what she ate for dinner before the party to confirm she is not a kandra. Vin correctly answers that she ate fresh eggs she had purchased during a spying trip.
+
+Yomen informs Vin that he did not capture her to use as leverage against Elend. He states that he intends to execute her for the murder of the Lord Ruler. The obligator claims that he is the law in Fadrex and does not require a formal trial. Vin hears the voice of Ruin, sounding like Reen, urging her to kill everyone in the room. Guards lead Vin away with orders to kill her if she attempts to ingest any unauthorized substances.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 55
+
+Elend walks through waist-deep ash with thirty thousand koloss following behind him. He leaves his remaining coins with the villagers of the town he just rescued. The emperor feels despair as the ashfalls intensify and bury trees and hills. He realizes that the red glow in the eastern sky comes from erupting ashmounts. Elend kneels in the ash and admits to himself that the world is likely doomed.
+
+A mist spirit outlined in swirling vapor appears and kneels beside the emperor. The spirit attempts to write in the ash, but the words are changed by Ruin to a death threat. Elend realizes that Ruin can manipulate text and asks the spirit to use arm gestures for communication. The emperor establishes a system of waving for "yes" and staying still for "no." He learns that the mist spirit is weaker than Ruin and is fading as the world ends.
+
+The spirit confirms that Ruin is causing the ashfalls and that the mists are not killing people. It gestures vigorously toward Elend's metal vials when he asks about the men falling in the mists. The creature gives a hesitant, uncertain wave when Elend asks if they can survive. Elend watches as the mist spirit evaporates and leaves no trace in the dark night. He feels a renewed sense of determination and begins the long trek back to his camp.
+
+Sentence Count Check: 15

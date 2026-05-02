@@ -1,0 +1,57 @@
+### Chapter 41
+
+Sazed and Tindwyl sit in Sazed’s rooms to analyze a rubbing of Kwaan's ancient text. Kwaan describes Alendi as a ruthless but good man who conquered the world before traveling to the Well of Ascension. The text reveals that Kwaan originally identified Alendi as the Hero of Ages but later changed his mind and tried to foil the quest. Kwaan sent his nephew Rashek to serve as Alendi's guide with instructions to lead him astray or kill him. Tindwyl questions why a rational man like Kwaan would send a hateful youth like Rashek to assassinate a respected leader.
+
+Elend Venture stands on his balcony and observes the freezing, smokeless houses of Luthadel. He admits that the Lord Ruler managed the city's resources and safety more effectively than he has. Captain Demoux informs Elend of a Survivor religious rally scheduled for that cold night. Elend walks through the dark, secluded hallways of Keep Venture to clear his mind. He observes that Vin seems distant and different since he lost his throne.
+
+Elend visits Sazed and Tindwyl to ask if he was foolish to lose his crown by refusing to lie. Tindwyl asserts that he lost the throne because he is a good man who refused to use assassins or military pressure. Sazed suggests that it was better for Elend to follow his conscience and trust in providence. Elend questions Sazed’s belief in three hundred incompatible religions. Inspired by the conversation, Elend returns to his room and puts on his kingly white uniform to resume working.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 42
+
+Elend organizes a workforce to move skaa transients from drafty noble mansions into warmer tenements. He orders his men to demolish abandoned wooden buildings to provide firewood for the freezing population. Goradel reports that many noble houses still have wooden interior walls and roofs suitable for fuel. Felt informs Elend that spies have been entering the city by prying loose the underwater river grates. A young worker named Larn reports seeing an Inquisitor with spikes through its eyes slinking through the city.
+
+Elend meets with Ham and realizes that Cett has intentionally trapped himself in Luthadel to force an alliance against Straff. Ham and Elend use a secret passwall tunnel managed by an elderly woman named Granny Hilde to exit the city. Elend rides alone into the koloss camp and commands a large, scarred creature to take him to Jastes Lekal. The koloss informs Elend that they are humans who intend to live in the city after killing its inhabitants. Elend witnesses the koloss killing each other for pouches of money and observing human-like behaviors like wearing torn clothes.
+
+Inside a tent, Elend finds Jastes Lekal looking haggard, stained, and surrounded by empty liquor bottles. Jastes explains that he abandoned his honor after his family was slaughtered in the Southern Dominance. When Jastes tries to take him captive, Elend stabs him in the shoulder with an obsidian knife. Elend fights and kills a small koloss on his way out of the camp to prove he can defend himself. He discovers that the pouches held by the koloss contain fake wooden boxings painted gold.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 43
+
+Vin stands on a balcony watching Elend sleep while OreSeur remains on guard as a dog. Zane appears in the mist and claims that Demoux is a traitor who offered to open the city gates for Straff. Zane argues that Elend cannot protect himself and encourages Vin to use her power to destroy their enemies. Vin takes a bead of atium from OreSeur and decides to become a deadly weapon to protect her loved ones. She tells OreSeur that she is coming for Cett because he threatened everything she loves.
+
+A soldier named Wellen watches the mists until a spray of coins kills his entire squad on the battlements. Vin and Zane invade Keep Hasting as black shadows, landing in the courtyard to face Cett’s soldiers. They use steel pushes to scatter armored guards and toss coins to kill men in the tents. Inside the keep, fifty hazekillers armed with wooden shields and obsidian weapons attempt to stop them. Vin uses her superior speed and pewter-enhanced strength to break bones and shatter skulls with a wooden staff.
+
+On the third floor, Vin uses duralumin and steel to explode stained-glass windows inward, impaling dozens of soldiers with glass shards. She reaches the fifth floor and finds Lord Cett sitting in a chair with his son, Gneorndin, standing before him. Vin realizes Cett has no Mistborn and is a weak man who gambled everything on a failed assassination attempt. Gneorndin weeps in terror while standing between Vin and his father, causing Vin to realize she is crying as well. Zane arrives to finish the kill, but Vin convinces him to leave Cett and the boy alive.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 44
+
+Breeze and Clubs watch from the city walls as Cett’s army begins to withdraw from Luthadel. Clubs predicts that Straff will wait for the koloss to destroy the city before moving in to claim the atium. In Keep Venture, Ham reports that Cett's army took thirty percent casualties during Vin's ten-minute attack. Spook shows Elend a fake gold-painted wooden coin that Jastes used to pay the koloss. Elend realizes that the koloss are evolving and attempting to emulate human society.
+
+OreSeur finds Vin hiding in a small cubby within a ransacked merchant’s shop. Vin watches the street through a peephole and tells Elend she has killed more people than her old crewleader Camon. She reveals that her mother killed her baby sister and gave Vin her bronze earring as a twisted gift. Vin expresses her fear that she is becoming a god of death like Kelsier instead of a protector. She tells Elend that she feels she must leave Luthadel and travel north to Terris to find answers.
+
+Elend refuses to abandon the city but promises to support Vin regardless of her choice to leave. Vin offers Elend a bead of atium she obtained from Zane, but Elend returns it to her for her safety. Elend admits he didn't realize Vin fought Cett's army without using atium. Vin explains that another Mistborn named Zane is in the city and may be a threat. Vin gives the atium bead to OreSeur to hide inside his body before they return to the palace.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 45
+
+Sazed and Tindwyl continue their frantic study of ancient records as their physical exhaustion grows. Tindwyl finds a reference to "the Rabzeen," a prophecy figure described as one who is not of his people. Sazed realizes that Kwaan's rubbing acts as a translation key for various synonyms for the Hero of Ages. They discover that the Hero of Ages has been called both the Rabzeen and the Anamnesor in different cultures. Tindwyl expresses her disdain for theology, viewing religions as lies that delude people.
+
+Sazed and Tindwyl are shocked to find that every copy of a specific transcription has been torn in the exact same spot. They check the original metal rubbing and find that the sentence forbidding Alendi from taking the power has also been removed. Vin visits Sazed and asks for advice on how to know if she is truly in love with Elend Venture. She expresses her fear that Elend is horrified by her violent nature and that she is not the courtly girl he needs. Sazed encourages Vin to respect Elend’s choice to love her and to trust his decisions.
+
+Elend also visits Sazed to discuss his confusion over Vin’s distant and shifting behavior. Sazed compares the two of them to a lock and a key, which appear different but are designed for a singular purpose. He tells Elend that both he and Vin are competent leaders who suffered under oppressive family members. Sazed notes that the Terris word for the Hero of Ages is gender neutral and could apply to Vin. Realizing that the city is doomed to fall, Sazed begins writing letters to convince Vin and Elend to leave Luthadel.
+
+**Sentence Count Check:** 15

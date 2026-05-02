@@ -1,0 +1,57 @@
+### Chapter 51
+
+Vin observes the mists lingering longer into the day as she travels away from Luthadel with Elend and Spook. She encounters the mist spirit—an outline in the mists formed by repeating patterns of chaotic movement—standing over a sleeping Elend. Vin strikes the entity with her dagger, feeling a metallic impact and a numbing chill before it vanishes as the sun rises. Spook returns from scouting to report that five men are following their camp. In Luthadel, Sazed and Tindwyl join the remaining crew members on the city walls as the massive koloss army begins its charge.
+
+Straff Venture receives word of the attack and orders his army to return slowly to Luthadel to let the monsters exhaust the defenders. Sazed watches the first wave of koloss reach the walls, noting that their thick skin makes arrows mostly ineffective. Vin discovers that the scouts following them are led by Jastes Lekal, who has abandoned his koloss army outside the city. Jastes explains that he lost control of the beasts after a fire destroyed his supply of fake wooden coins. Elend listens to Jastes's confession before drawing his sword and decapitating him for abandoning Luthadel to the slaughter.
+
+Spook admits to Elend and Vin that Clubs and Sazed knew the koloss would attack and intentionally sent them away for protection. Vin listens to the rhythmic Allomantic thumpings in her head and realizes the Well of Ascension is actually located in Luthadel. She concludes that the legends placing the Well in the north are incorrect and that they must return south immediately. Elend orders Vin to run ahead using her Allomantic pewter while he and Spook follow on horseback to find survivors. Vin flares her pewter and begins a long-distance run toward Luthadel, warning Elend to stay awake to avoid the mist spirit.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 52
+
+Breeze stays at Zinc Gate, using emotional Allomancy to Soothe the terror of the soldiers as koloss pound on the doors. He consumes handfuls of brass dust to maintain his power, though he feels the task is becoming too large for a single Soother. Clubs joins Breeze on the field, and they discuss their unlikely roles as leaders in a doomed cause. Vin continues her pewter drag toward the south, struggling against an exhaustion-induced trance that numbs her mind. She reflects on her anger toward her friends for forcing her to abandon them before the battle began.
+
+The gates at Zinc Gate finally burst open, allowing the koloss to flood into the city courtyard. Sazed defends Steel Gate, observing the largest koloss using their massive size to leap directly onto the city walls. A group of skaa gathers in the courtyard, refusing to flee because they believe Vin or Sazed will protect them. They call Sazed the Holy First Witness, honoring him for being the one who announced the Lord Ruler's death. When the gate bar snaps and the monsters rush inside, Sazed taps his Feruchemical pewter and steel to transform his body.
+
+Sazed grows massive and bulky, punching the lead koloss with enough force to crack its skull and rally the fleeing soldiers. Vin's pewter runs out several hours from Luthadel, forcing her to stop at a small skaa village for supplies. She uses her daggers to intimidate the local skaa and secures a barrel of horseshoes from a stable. Vin begins steel-pushing against the horseshoes, dropping them to the ground and Pushing against them to leap through the air. She accelerates into a continuous flow of motion, juggling the metal chunks to travel faster than she could by running.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 53
+
+Straff Venture watches Luthadel burn from a distance and decides to delay his attack until the koloss have finished their slaughter. Sazed continues to fight at the gate, tapping his Feruchemical iron to become heavy enough to slam the doors shut. He learns that Tin Gate has fallen, leaving Tindwyl's fate unknown as the koloss overran her position an hour ago. At Zinc Gate, a koloss sword shears through Clubs's arm and chest, killing the general instantly in front of Breeze. Breeze retreats in a state of shock and hides inside a building while the city streets fill with blood.
+
+Dockson remains at Keep Venture, observing the koloss as they shatter the stained-glass windows and enter the grand hall. He charges a massive beast with his sword but is quickly struck down and killed by the creature's counterattack. Straff ignores the pleas of his generals to attack, preferring to let the koloss clear the city and make his conquest easier. Cett and Allrianne watch the destruction from the west, where Cett decides to surrender to Straff rather than intervene. Sazed reaches the limit of his stored pewter and loses his weapon, falling to the ground as a twelve-foot-tall koloss looms over him.
+
+Vin arrives at the city wall and kills Sazed's attacker by Pushing a coin through its skull. She leaps into the square and uses her Allomantic Pushes to swing a detached city gate through the ranks of the koloss. The massive wooden slab crushes dozens of monsters, clearing the courtyard and allowing Sazed to begin organizing the refugees. Sazed instructs the skaa to flee toward the northern gate while Vin continues her assault on the remaining invaders. Ham and Sazed eventually find Breeze huddling in a building, discovering that the Soother has entered a state of catatonic shock.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 54
+
+Vin's war staff breaks during the fighting, forcing her to use stolen swords and daggers to kill the surrounding monsters. She fights with a new sense of purpose, accepting her role as a protector rather than just a weapon for retribution. Sazed leads a band of refugees to Keep Hasting, but King Penrod refuses to open the gates or abandon his city. Penrod informs Sazed that the koloss have already blocked the northern gate and are closing in on their current position. Vin retreats toward the spires of Kredik Shaw, where the Allomantic thumpings of the Well of Ascension become deafeningly loud.
+
+Her Allomantic pewter runs out, causing her to collapse from extreme fatigue as the mists swirl around the palace. She hears the screams of dying citizens and forces herself to stand, eventually encountering a koloss party attacking a group of skaa. Vin rescues a child and attempts a desperate, duralumin-enhanced Soothing on the attacking beasts to stop their advance. The mental strike shatters the creatures' resistance, and Vin realizes she can seize control of the koloss just as she did with the kandra. She returns to Keep Hasting leading a pack of obedient koloss and commands Penrod to open the gates for the refugees.
+
+Vin instructs Penrod to use his remaining two hundred soldiers to put out city fires while she uses her new army to stop the pillaging. She takes a vial of pewter from Ham to restore her energy and prepares to reclaim Keep Venture from the invaders. Sazed spends the night searching through piles of frozen corpses to find his missing companion, Tindwyl. He discovers her body in an alleyway, her blood frozen and her eyes iced open from the previous night's combat. Looking at her corpse, Sazed realizes that none of the three hundred religions he knows can provide him with actual faith or comfort.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 55
+
+Straff Venture consumes a leaf of Black Frayn—a stimulant drug that increases alertness and physical warmth—and prepares to march his fifty thousand soldiers into the ruins of Luthadel. He observes the koloss gathering outside the city gates, joined by several thousand human soldiers who survived the previous night's slaughter. Vin uses a duralumin-enhanced Steeljump to drop from the sky and strike Straff with a massive, wedgelike koloss sword. The blow cleaves both Straff and his horse in half, instantly killing the king and throwing his remaining generals into a state of panic. Vin Pushes against the nearby soldiers' metal equipment to hurl them backward before signaling her koloss army to charge the front lines.
+
+Lord Cett watches the battle from a western hill and initially refuses to intervene until his daughter, Allrianne, gallops toward the combat. To protect Allrianne, Cett orders his army to join the fight on the side of Luthadel, adding his strength to Vin's forces. Straff's army quickly breaks apart as Vin uses her Allomancy to seek out and kill the remaining generals and officers. Lord Janarle takes command of the survivors but immediately surrenders to Vin once he realizes his position is hopeless. The combined forces of the koloss and Cett's army force the remnants of Straff's soldiers to lay down their weapons.
+
+Vin confronts Lord Janarle, King Penrod, and Lord Cett on the battlefield while surrounded by her silent koloss guards. She demands that all three men swear their loyalty to Elend Venture as the rightful ruler of the city and the empire. Janarle and Penrod kneel in the bloodied snow to swear their oaths, while Cett eventually dismounts to follow suit. Vin appoints Sazed as her second-in-command, instructing him to secure the city and distribute supplies from Straff's abandoned storehouses. Sazed reflects on the Hero of Ages prophecy and considers that Vin's actions in uniting the kingdoms might fulfill the ancient legends.
+
+Sentence Count Check: 15

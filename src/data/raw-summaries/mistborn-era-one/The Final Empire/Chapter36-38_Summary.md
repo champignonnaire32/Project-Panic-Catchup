@@ -1,0 +1,45 @@
+### Chapter 36
+
+Vin approaches Kredik Shaw as the skaa rebellion begins to light up the city sky. She encounters four palace guards and uses Allomancy to convince them to join the rebels at the Square of the Survivor. After the guards abandon their posts, Vin enters the palace and bypasses several more rooms without causing casualties. She uses Steelpushes against lantern brackets to outrun pursuing guards and reach the central dome-roofed chamber. Inside the ebony marble room, two Steel Inquisitors block her path to the inner building.
+
+Vin burns atium and throws a handful of arrowheads at the Inquisitors to initiate the combat. She uses a trick involving metal rings to bypass the lead Inquisitor's Steelpush and strike him with the hafts. To blind her opponents, Vin throws pewter dust into the air to clutter their Allomantic vision with blue lines. She stabs the second Inquisitor in the thigh with a glass dagger while he is distracted by the dust. Vin leaps over the wounded creatures and bursts into the Lord Ruler's private study.
+
+Inside the room, she finds an elderly man with liver-spotted skin sitting in a pivoting chair. She realizes this old man is actually the Lord Ruler despite his previous youthful appearance. Vin burns the Eleventh Metal and sees a bearded man in woolen clothing and a young merchant standing near the Lord Ruler. The Inquisitors catch up and restrain her before she can act on these visions. An Inquisitor strikes Vin in the head, rendering her unconscious as she hears the Lord Ruler agree to a meeting.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 37
+
+Elend Venture finds his father preparing to flee Luthadel as the skaa rebellion spreads through the streets. Lord Venture explains that the skaa are attacking the main gates and slaughtering the remaining Garrison soldiers. He orders Elend to pack his things, revealing that they must abandon the keep and the city entirely. Elend refuses to leave, deciding instead to stay and attempt to form an alliance with the skaa. Lord Venture mockingly grants Elend command of the keep and most of the remaining soldiers before riding away.
+
+Vin awakens in a damp palace cell after being stripped to her undergarments to prevent her from hiding metals. An Inquisitor forces her to swallow and burn an unknown metal that instantly wipes out all her other Allomantic reserves. She theorizes that the Eleventh Metal might be an alloy of gold or atium that shows alternate pasts of others. Kar, a scarred Inquisitor, arrives and drags Vin through the palace to the Lord Ruler's throne room. She notices that the Lord Ruler has returned to his youthful form and sits atop an elevated throne.
+
+Kar petitions the Lord Ruler to transfer leadership of the Ministry from the obligators to the Inquisitors. He uses Vin's presence to prove that the High Prelan Tevidian has been corrupt and fathered a half-breed child. The Lord Ruler uses his overwhelming Allomantic pressure to force Vin to name Tevidian as her father. Six Inquisitors execute Tevidian with obsidian knives while the Lord Ruler grants Kar command of the Ministry. The Lord Ruler orders Vin's destruction but allows Kar to take her away for interrogation first.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 38
+
+Kar tosses Vin back into her cell and reveals that her brother Reen died under torture without betraying her. Guards bring a beaten and naked Sazed into the adjacent cell to use as a hostage during Vin's interrogation. Sazed reveals he is a Feruchemist, a person capable of storing physical attributes in metal, and uses his stored strength to grow massive. He rips the bars from Vin's cage using the metal jewelry he had previously swallowed to store power. Vin finds her mistcloak and a hidden vial of metals in a trunk within the guard chamber.
+
+Elend Venture arrives with a group of soldiers to rescue Vin just as Ministry guards surround Sazed. Vin swallows her metals and uses her restored Allomancy to slaughter the attacking Ministry soldiers. She reveals her identity as a Mistborn to Elend and instructs him to secure the Lord Ruler's atium treasury. Vin pushes herself through the mists back to the throne tower to confront the Lord Ruler a final time. She enters the room and finds Kar and the other Inquisitors have been killed by a traitorous Marsh.
+
+Vin burns the Eleventh Metal and realizes the Lord Ruler is actually Rashek, the packman from the logbook. She identifies that Rashek killed the true hero and stole the power at the Well of Ascension for himself. Drawing power directly from the surrounding mists, Vin performs an impossible Steelpull to rip the bracelets from Rashek's arms. Rashek instantly ages into a withered old man as he loses the Feruchemical youth stored in his jewelry. Vin stabs the elderly Rashek through the heart with a wooden spear, fulfilling Kelsier's plan to destroy the god-king.
+
+Sentence Count Check: 15
+
+---
+
+### Epilogue
+
+Sazed explains that the Lord Ruler achieved immortality by combining Feruchemy and Allomancy to burn his own youth storages. By burning the metalminds he created, Rashek was able to release a limitless supply of youth energy tenfold. Marsh reveals that the Inquisitors were trying to recruit him and that he is the only one left in Luthadel. He explains that an Inquisitor can only be killed by removing the specific metal spike that seals their spine. The group discusses the kandra, a race of shapeshifters that can impersonate people by devouring flesh and bones, who now serves Vin.
+
+Vin sits on a rooftop and reflects on the Lord Ruler's final warning that his death would doom mankind. She wonders about the "Deepness" and whether Rashek was actually protecting the world from a greater threat. Sazed confirms that Elend Venture has been accepted as the new king by the skaa and the nobility. Breeze and the other crew members are working to stabilize the new government and prevent further rioting. Despite the victory, Vin feels a sense of unease regarding the missing atium and the true nature of the mists.
+
+Vin watches Elend working at his desk through a skylight and initially considers disappearing back into the shadows. She realizes that Reen died out of love for her and that she no longer needs to be alone. Vin drops into Elend's study and reveals her true self to him, abandoning her Valette persona. Elend embraces her, and they acknowledge the difficult task of rebuilding the empire ahead of them. The story concludes with the two of them standing together as the mists swirl around the newly liberated city.
+
+Sentence Count Check: 15

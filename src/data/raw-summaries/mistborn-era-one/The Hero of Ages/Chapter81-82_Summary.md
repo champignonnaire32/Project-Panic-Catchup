@@ -1,0 +1,29 @@
+### Chapter 81
+
+Vin attacks Ruin by forcing her power against his, learning its mind and realizing their powers are evenly matched. Elend and his men wait in the Trustwarren as Demoux reports the koloss are minutes away. Elend realizes Demoux and his men are atium Mistings and commands them to eat the atium beads. Elend charges out of the cavern and fights the massive koloss army single-handedly using his new power. Demoux and the other atium Mistings join Elend to slaughter the koloss with incredible speed and precision.
+
+Elend fights for hours and burns through an incredible amount of atium, leaving a carpet of dead koloss in his wake. Marsh attacks Elend from behind, also burning atium to match Elend's foresight. Elend's normal metals run out, but he uses his remaining atium to dodge Marsh's attacks and hold him back. Elend burns duralumin with his atium, gaining a sudden flash of profound understanding about the world. He uses this burst of insight to strike Marsh in the neck, but Marsh simultaneously buries his axe into Elend's chest.
+
+Marsh rips his axe free and grabs the dying Elend by the throat to declare victory for Ruin. Elend smiles and reveals that his men have burned away all the atium, permanently denying Ruin his ultimate prize. Marsh decapitates Elend with his axe, dropping Elend's headless body onto the pile of corpses. Vin watches Elend die and immediately unleashes her full power against Ruin without holding anything back. She completely merges her consciousness with Ruin's, annihilating both of them and leaving the world without either god.
+
+**Sentence Count Check:** 15
+
+### Chapter 82
+
+Sazed watches from the mouth of the cavern as the confused koloss wander around the battlefield. Two bodies suddenly materialize in the air and plummet onto the pile of corpses next to Elend. Sazed runs out to the bodies, checks Vin's pulse, and finds her completely dead. He notices a white mist leaking from Vin's corpse and a black smoke leaking from the unfamiliar red-haired man's body. Sazed grabs his empty copperminds and plunges his arms into the two mists simultaneously to seize their power.
+
+The twin powers of Preservation and Ruin infuse Sazed's body, vaporizing his flesh and expanding his consciousness. He taps his copperminds and dumps their entire collection of ancient knowledge into his newly expanded mind. Using the detailed maps and star charts from ancient religions, Sazed physically restores the continents and pushes the planet into its proper orbit. He reshapes the physiology of mankind back to its original state before the Lord Ruler altered it. Sazed restores the original plants, animals, and blue sky based on the religious texts stored in his memory.
+
+Sazed cradles the underground caverns to protect the hiding remnants of mankind during the violent tectonic shifts. He finishes his work and realizes the combined power of the two gods is not evaporating from his body. Sazed understands that he has become the true Hero of Ages, destined to span the ages rather than just visit once. He realizes that the powers of Ruin and Preservation belong together to create rather than simply destroy or protect. Sazed takes on the mantle of God, holding both powers in perfect balance to watch over the newly remade world.
+
+**Sentence Count Check:** 15
+
+### Epilogue
+
+Spook wakes up from a nightmare in a dark cavern and makes his way through a crowded room to find Breeze and Beldre. He leads them up a ladder to a trapdoor, pushing it open to reveal a bright blue sky instead of the ash-covered world. Spook, Beldre, and Breeze climb out into a field of green grass and walk through the previously barren landscape. They spot other groups of survivors emerging from different trapdoors and reunite with Ham and his family. General Demoux approaches the group and reports that he saw the Survivor glowing in the sky as the world was remade.
+
+Spook notices a specific pattern to the trapdoors and leads his friends to the center of the grassy field. He finds a patch of colorful flowers growing in the grass and spots two bodies lying in the middle of them. Spook discovers Vin and Elend lying dead on the ground, holding hands peacefully amid the flowers. While Ham and Breeze examine the bodies, Spook picks up a large leather tome resting nearby in the grass. He opens the book and immediately recognizes the careful, delicate handwriting as Sazed's.
+
+A loose slip of paper falls out of the book, bearing a personal note from Sazed specifically addressed to Spook. Sazed explains that he could not return Vin and Elend's souls to their bodies, but assures Spook they are happy. The note instructs Spook to look to his right, where he finds a large pile of books containing all the knowledge from Sazed's metalminds. Sazed reveals that he healed Spook's body and made him a Mistborn as a parting gift from Kelsier. Spook folds the paper into his pocket, looks up at the sky, and states that everything is finally going to be all right.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,57 @@
+### Chapter 46
+
+Sazed and Breeze wait in the Urteau storage cavern for Spook to return after his rescue of a condemned child. Captain Goradel maintains a close watch on the crew while Breeze and Allrianne wear noble finery pilfered from abandoned mansions. Sazed expresses concern that Spook landed a two-story jump with the grace of a pewter-burning Thug. Breeze dismisses the idea that Spook could have hidden Mistborn powers for years without detection. Sazed considers searching his metalminds for precedents of spontaneous Allomantic manifestations but resists the temptation to remain true to his self-imposed fast.
+
+Spook visits the garden of the Citizen’s palace to confront Beldre about her brother Quellion’s crimes. He reveals that he knows Quellion is a Coinshot Allomancer who uses Pushes during public events. Spook explains his understanding of the guilt she feels for the executions her brother orders daily. He admits to killing for the first time that afternoon and argues that Quellion has been corrupted by power. A phantom voice of Kelsier urges Spook to kill the Citizen while the palace guards are distracted by city riots.
+
+Beldre rejects Spook’s offer to join the rebellion and begins screaming to alert the palace guards. Spook flees the garden to avoid killing more men who are simply following Quellion’s orders. In the cavern, Sazed polishes his metalminds and discusses the perceived uselessness of Keeper knowledge with Breeze. Breeze argues that the world needs knowledge more than ever during the current darkness of the ash. A sudden earthquake rattles the cavern and causes supplies to fall from the storage shelves. Spook returns with burned clothing and orders the crew to begin spreading rumors about Quellion’s use of Allomancer recruits.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 47
+
+Elend stands in the mists near Fadrex City and reflects on his decision to allow Vin to infiltrate the city. It has been three days since her capture, and no ransom demands have arrived from King Yomen. Elend feels inadequate compared to Vin’s ability to take decisive action in dangerous situations. He finds comfort in the swirling mists, which seem to soothe his anxiety despite Vin’s growing distrust of them. Cett arrives in his chair and tells Elend that Vin is likely dead without her metals.
+
+Elend maintains that Vin will find a way to escape her captivity regardless of the odds. Cett reports that his raiding parties found only starving villagers and returned without any pillaged supplies. The soldiers in Elend’s army have become restless and frequently engage in brawls within the camp. Elend hears a fight break out and discovers that a soldier named Brill has struck General Demoux in the face. He uses a Soothing to pacify the crowd and orders Ham to gather the troublemakers for punishment.
+
+The conflict stems from regular soldiers blaming the Mistfallen for the army’s recent run of bad luck. Elend decides he must execute Brill to maintain military discipline despite his personal reluctance. He orders Demoux to take three hundred Mistfallen soldiers back to Luthadel to assist Penrod with the city’s revolt. Elend admits to Ham that they cannot continue to sit outside Fadrex while the world dies. He visits Noorden’s tent to examine maps and track the movement of nearby koloss bands.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 48
+
+Vin remains in total darkness within the storage cavern after accidentally knocking over her only oil lantern. She senses the presence of Ruin watching her and hears Reen’s voice whispering in her mind. Vin recalls the Lord Ruler’s promise that Ruin cannot read her thoughts and uses this fact to maintain her resolve. She estimates that four days have passed based on her sleep patterns and the depletion of her food. Yomen has removed all water barrels from the cache, leaving Vin to rely on the moisture in canned stews.
+
+Vin uses the last of her pewter to open several cans of food with a rock. She spends her time scouting the massive cavern by touch to understand its layout and contents. Ruin manifests directly to her and mocks her situation while she navigates the pitch-black environment. Vin locates a steel plate on the wall and reads the engraved text by running her fingers over the grooves. The plate contains the Lord Ruler’s confession of failure and his inability to defeat the force that whispered in his head for centuries.
+
+The Lord Ruler’s text reveals that he created the storage caches to help mankind survive a calamity he could not stop. He admits that he feared his own arrogance had destroyed the world and that Ruin had corrupted his original intentions. The plate ends with the statement that the Hero of Ages has hidden Ruin’s body well to keep his power incomplete. Vin feels a sense of frustration at the lack of concrete advice or secrets left by the former emperor. The grinding sound of stone on stone echoes through the dark as the cavern door finally begins to open.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 49
+
+Sazed researches the engineering of the Urteau underground lake to find a way to refill the city’s dry canals. He draws specific technical knowledge from his copperminds and scribbles the information onto paper to prevent memory decay. The Lord Ruler’s engineers originally diverted the water flow into the aquifer and plugged the bottom outlets. Sazed calculates the weights and balances needed to construct wooden barriers to block the inlets. He feels a sense of contentment in his scholarly work that he lacks in his roles as an ambassador or leader.
+
+Breeze visits Sazed and encourages him to embrace his passion for research rather than feeling guilty about his lack of leadership. Sazed explains that he feels responsible for the city’s overthrow as Elend’s appointed head of the mission. Breeze argues that delegation is the key to leadership and that Spook is effectively handling the tactical situation. Spook approaches the table looking fatigued and expresses concern that Quellion has not yet attempted an assassination. He explains how Quellion used the mists to identify and kill the nobility while sparing those he deemed pure.
+
+Sazed notes the strange fact that nobility seemed immune to the mickness that affected the skaa populations. Captain Goradel arrives at the table to announce that a visitor is waiting for Spook in the Inquisition building above. Beldre has come to the embassy to plead for her brother Quellion’s life and claims he is a good man. Spook wears bandaged eyes with spectacles underneath, giving him an appearance similar to a Steel Inquisitor. He decides to take Beldre captive and spread rumors that she has deserted her brother to join the rebellion.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 50
+
+Vin downs her last vial of metals and leaps onto a storage shelf as the cavern door opens. She flares pewter to deal with the sudden pain of light entering the dark chamber. A nobleman named Telden Hasting enters the cavern bearing a lantern and wearing a fine suit. Vin ignores him and slips past the workers operating the door mechanism to reach the exit ladder. She Pushes herself upward but discovers that a massive stone has been placed on top of the trapdoor.
+
+Telden informs Vin that the door is secured and invites her to have a pleasant chat instead of fighting. Vin recognizes Telden as one of Elend’s former friends from the philosophical circles in Luthadel. She takes a seat warily while workers set up folding chairs and present two bottles of wine. Telden explains that one bottle is pure and the other contains a powerful sedative designed to neutralize an Allomancer. He admits that his mission is to get Vin to drink the drugged wine so she can be moved to a more secure location.
+
+Vin realizes that Yomen is betting she will not kill innocent servants to force a surrender. She decides to gamble on her pewter ability to burn away the drug and reaches for the bottle. She takes a swig of the wine and feels the sedative begin to cloud her mind almost immediately. Vin burns duralumin with pewter to clear her thoughts, but the immunity vanishes as soon as the metal supply is exhausted. She drops her weapon and falls unconscious as the drug takes full effect on her system.
+
+Sentence Count Check: 15

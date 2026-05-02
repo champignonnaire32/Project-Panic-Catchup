@@ -7,6 +7,17 @@
 
 ---
 
+## [May 2, 2026 - Mistborn Era One Ingestion] (by Gemini)
+*   **Series Ingestion:** Added "Mistborn: Era One" to the Lorebrary. Copied the generated summaries for *The Final Empire*, *The Well of Ascension*, and *The Hero of Ages* into the `raw-summaries` directory.
+*   **Pipeline Updates:** Updated `split-summaries.js` with the correct book ordering and title casing for the Mistborn novels to ensure clean parsing.
+*   **Metadata Configuration:** Added author, genre, and an SEO-optimized blurb for the series into `series-metadata.ts`.
+*   **Build Verification:** Successfully ran the ingestion script and verified the local build. Confirmed the "Next Book" and "Purchase" buttons automatically populate correctly for the new titles.
+
+## [May 2, 2026 - Mistborn Era 1 PDF Splitting] (by Gemini)
+*   **PDF Splitting:** Adapted the `smart_pdf_splitter.py` logic to handle the three-book Mistborn Era 1 PDF.
+*   **Folder Structure:** Created individual folders for *The Final Empire*, *The Well of Ascension*, and *The Hero of Ages* in `/Users/flynnp/Desktop/Mistborn Era One/`.
+*   **Content Chunking:** Successfully generated 5-chapter markdown files for all three novels in the series.
+
 ## [May 1, 2026 - Inheritance Cycle Splitter Standardization] (by Gemini)
 *   **Splitter Standardization:** Created `smart_pdf_splitter-inheritance.py` with coordinate-based detection (Y ≈ 98.175) to handle the specific layout of "The Inheritance Cycle" PDFs (Eragon, etc.).
 *   **Interactive Command Tool:** Added `PDF_Splitter-Inheritance.command` to the `Splitter Commands` folder on the Desktop. This tool is interactive, allowing for drag-and-drop PDF processing and custom output selection to match existing project workflows.

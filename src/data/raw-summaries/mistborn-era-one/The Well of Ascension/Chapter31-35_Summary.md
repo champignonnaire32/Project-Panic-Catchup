@@ -1,0 +1,57 @@
+### Chapter 31
+
+Philen Frandeu, a wealthy merchant Assemblyman, waits for the start of the first Assembly meeting since Elend's removal as king. Elend Venture arrives late, wearing a white uniform and accompanied by Vin, Tindwyl, and his crew of Allomancers. Elend immediately takes control of the room and nominates Lord Penrod to serve as the Assembly’s chancellor. The Assembly votes to approve Penrod, who then formally opens the meeting and allows Elend to give a report. Elend explains that he parlayed with Straff Venture and claims the city is safe because Straff fears the power of Vin.
+
+He urges the Assembly to embrace the legacy of the Survivor of Hathsin to find strength against the besieging armies. After the report, the Assembly begins the process of nominating candidates for the new king of Luthadel. A skaa representative stands and nominates Lord Penrod, a respected nobleman who has served on the Assembly. Penrod then stands and nominates Elend Venture, returning the favor and making Elend a legitimate contender once again. Philen Frandeu objects and asks Elend if the nominations must be restricted to members of the Assembly.
+
+Elend confirms that anyone can be nominated, as the position of king was originally intended to be hereditary. Philen then nominates Lord Ashweather Cett, the warlord currently besieging the city from the West, for the throne. Lord Cett reveals himself in the audience, removing a skaa cloak to show his face and a bristling beard. The room falls into a shocked silence as the Assemblymen realize a foreign invader is sitting in their midst. Breeze notes that Cett is a formidable threat and that the political situation has become extremely dangerous for Elend.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 32
+
+Lord Cett is carried onto the stage by his soldiers because he is a cripple who cannot walk on his own. He wears informal clothing and a worn black jacket instead of the traditional suits favored by Luthadel's nobility. Cett tells the Assembly that they should make him king because he has forty thousand soldiers outside the city walls. He laughs at the idea of being taken hostage, explaining that his army has orders to raze the city if he does not return. During the debate, Cett reveals that Elend has been using Breeze to Soothe the Assembly members during their meetings.
+
+Elend admits to the use of Allomancy, which causes Tindwyl to groan and damages his reputation for absolute honesty. Cett also informs the Assembly that a massive army of koloss is approaching the city and will soon arrive. He offers to protect the city and give titles to the Assemblymen if they choose him as their new monarch. The Assembly votes nineteen to four to allow Cett to move into Luthadel with one thousand of his personal troops. Elend is one of the four who vote against the measure, but he is overruled by the merchant and skaa blocks.
+
+After the meeting adjourns, Lord Penrod tells Elend that his idealism cannot protect a starving and terrified population. Penrod argues that the people would prefer a tyrant like Cett over the chaos and uncertainty of Elend's democracy. Vin suspects that Cett is actually a Mistborn who is using his crippled legs as a cover story to hide his power. Breeze corrects her, stating that Cett has been crippled since childhood, but Vin remains suspicious of the warlord’s motives. Gneorndin, Cett’s son, approaches Elend and invites him to a dinner at Keep Hasting to discuss the city's future.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 33
+
+Vin spends her time studying Terris prophecies and discusses the nature of the Hero of Ages with OreSeur. OreSeur explains that kandra have a religion of their own which views humans as beings destined for ruin and destruction. He states that kandra are beings of Preservation while humans and koloss are associated with the force of Ruin. Vin notices that the rhythmic thumping in her head is growing stronger, though she remains skeptical of her own divinity. Elend and Ham investigate a series of poisoned wells in the city that have already killed several local citizens.
+
+They realize that either Straff or Cett has begun a campaign of sabotage to increase the tension within the walls. Vin decides to test Dockson to determine if he has been replaced by the kandra spy working for Zane. She brings up a private conversation about his childhood, and Dockson responds with detailed memories and deep-seated guilt. Dockson admits that he still hates the nobility and feels like a monster for the things he did to overthrow them. Vin concludes that Dockson is not the impostor because his emotional pain and specific memories seem too genuine to fake.
+
+OreSeur warns her that kandra are expert interrogators who often torture their victims to obtain such intimate details. Despite this warning, Vin decides to trust her instincts and moves her investigation toward other members of the crew. While watching the palace courtyard at night, Vin spots Captain Demoux moving without a light in a suspicious manner. She follows him and notices that he appears nervous and stooped, avoiding the gaze of the palace guards. Vin suspects that Demoux is the true spy because he is close to the crew but not an Allomancer.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 34
+
+Elend works with Sazed and a former obligator named Noorden to find a legal way to block Cett’s nomination. Noorden, who has intricate tattoos around his eyes indicating his former Ministry rank, provides research on Cett's trade history. Sazed advises Elend to stop trying to please the people and instead lead according to his own conscience and ethics. Tindwyl insults Sazed’s contributions to the law, prompting Elend to demand she apologize or leave the room immediately. Tindwyl chooses to leave, and Elend continues his work, demonstrating a new level of firmness and authority in his leadership.
+
+Vin informs Elend about the poisoned wells, but he reveals that he and Ham have already investigated the matter. She feels a sense of distance from Elend as he becomes more self-reliant and less dependent on her for advice. Later that night, Zane visits Vin on the roof of Keep Venture and initiates a violent duel with daggers. Zane burns atium during the fight, easily predicting Vin's movements and proving that she has no atium of her own. He pins her to the roof and demands to know the location of the Lord Ruler’s secret atium stash.
+
+Vin admits that she has used her last bead of atium and that the city possesses no more of the precious metal. Zane reveals that he is actually Straff Venture’s son and Elend’s half-brother, kept in the shadows as an assassin. He claims that Straff breeds Allomancers like cattle and that Elend was the only one allowed to live a privileged life. Zane warns Vin that the koloss have already destroyed the city of Suisna and are now only a day's march away. He urges Vin to leave Elend and join him, claiming that Elend will never truly understand or appreciate her nature.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 35
+
+Vin prepares for the dinner with Lord Cett by wearing a beautiful maroon gown provided by Tindwyl. Tindwyl encourages Vin to embrace her identity as both a powerful Mistborn and a woman of the court. Elend gathers a force of two hundred soldiers and his closest companions to escort him to Keep Hasting for the meeting. Breeze decides not to attend the dinner, fearing that Cett might try to kill him for his earlier espionage. The group travels to the keep, which is the tallest in Luthadel and has been heavily fortified by Cett's troops.
+
+Upon arrival, they are led to a circular room with stained-glass windows where Cett is already eating dinner. Cett mocks Elend’s punctuality and formal manners, throwing drumsticks and acting with deliberate, blunt crudeness. He tells Elend that he knew Breeze was a spy from the beginning but kept him around for the information he provided. Cett claims that his daughter Allrianne seduced Breeze and that the Soother only left when he was discovered. During the meal, Cett admits that he would have Elend assassinated if he were to win the vote for the throne.
+
+He offers to let Elend live if he steps down from the throne and encourages the Assembly to vote for Cett. Cett argues that an Assembly is a liability during a siege and that the people require a strong, singular leader. Elend rejects the offer, insisting that the people of Luthadel will choose freedom over the slavery Cett offers. Cett shifts the conversation to the Lord Ruler's atium, offering to trade his massive food supplies for the metal. Elend laughs and explains that Breeze invented the rumors of atium to lure Cett to the city to fight Straff.
+
+Sentence Count Check: 15

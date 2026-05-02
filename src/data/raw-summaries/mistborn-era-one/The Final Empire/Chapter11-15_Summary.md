@@ -1,0 +1,57 @@
+### Chapter 11
+ 
+Kelsier leads Vin and Dockson into Camon’s old thieving lair to find it littered with the mangled corpses of the crew. The bodies of the men have been torn apart with physical force that Dockson attributes to a Steel Inquisitor. Vin discovers the body of Ulef among the dead and observes that his rib cage was forcibly pulled open by hand. Sazed enters the room and performs a death chant from the defunct Cazzi religion over the remains. Kelsier determines that the Ministry used the massacre as a public sign and orders the group to return to their shop.
+ 
+Kelsier walks through Luthadel alone and passes the Fourwell Crossroads where the Lord Ruler’s copper statue stands. He reaches a smaller intersection filled with starving beggars to search for Camon whom he had previously ordered to be made a beggar. He finds Camon’s body hanging from a high rope with a metal hook rammed through his throat and protruding from his chin. Vin appears in the alleyway after following Kelsier and admits she was using Allomancy to soothe his anger. Kelsier explains that the hook signifies a ritual execution for those who misuse Allomancy.
+ 
+Kelsier warns Vin that the Ministry likely knows of her existence as an Allomancer because of Camon’s confession under torture. He instructs her to avoid using Allomancy on friends and to maintain her role in the upcoming job despite the danger. The beggars in the street begin to scramble for the coins Kelsier dropped earlier as he and Vin prepare to leave the scene. Kelsier notes that only a few obligators saw Vin at the Canton building and believes she can still pass as a noblewoman. They exit the alleyway together as ash begins to fall from the sky over the city.
+ 
+Sentence Count Check: 15
+ 
+---
+ 
+### Chapter 12
+ 
+Vin dresses in a bulky blue gown with sapphire jewelry and prepares for her first appearance as Lady Valette Renoux. Sazed provides her with a sapphire necklace worth two hundred boxings and a ruby bracelet to match current noble fashions. Kelsier jumps onto the moving carriage during the trip to Keep Venture to offer Vin last-minute encouragement. He explains that a spy among the nobility is necessary because important military meetings happen where common informants cannot listen. Kelsier disappears into the mists near the keep while Vin remains in the carriage to make her entrance.
+ 
+A footman assists Vin out of the carriage at Keep Venture where eight massive limelights illuminate the exterior of the rectangular building. Vin presents her invitation and enters the grand hall which features enormous stained-glass windows depicting the Lord Ruler and the formless Deepness. Sazed leads her to a solitary table near the center of the hall to mark her as a single woman of status. She eats a meal with complex flavors while observing obligators who mingle with the noble guests to record contracts and witnesses. Vin politely refuses dance requests from four different young noblemen by claiming she is nervous about her first ball.
+ 
+Vin leaves her table to climb a stone stairwell and reaches a dark upper balcony to get a better view of the hall. She encounters a young man named Elend who is sitting near a lantern reading a book titled Trials of Monument. Elend introduces himself formally after Vin criticizes his lack of manners and his decision to read during a social event. He reveals that he is the heir to House Venture and notes that Vin is less timid than she appears. Sazed finds Vin on the balcony and hurriedly ushers her away while expressing shock that she spoke with the highest-ranking heir at the ball.
+ 
+Sentence Count Check: 15
+ 
+---
+ 
+### Chapter 13
+ 
+Vin returns to Mansion Renoux and changes back into her trousers while Sazed questions her about the encounter with Elend Venture. Lord Renoux and Kelsier arrive and explain that attracting the attention of such a high-ranking heir could cause a political scandal. Kelsier advises Vin to be less charming and suggests she use her "flat glares" to discourage Elend’s interest in the future. Sazed provides Kelsier with a list of the noblemen who spoke to Vin and shares information overheard during the stewards' meal. Kelsier leaves the mansion immediately after the briefing and refuses to tell Vin where he is going.
+ 
+Vin follows Kelsier into the night by tracking his Allomantic metal lines and discovers a series of bronze bars embedded in the ground. These bars form an Allomantic road that allows a Mistborn to jump between Luthadel and Fellise at high speeds. Vin catches up to Kelsier on a rooftop in Luthadel where he reveals he knew she was following him. He admits he is heading toward the Lord Ruler’s palace, Kredik Shaw, to search for secrets regarding the emperor’s power. Vin insists on joining him and argues that the crew needs both of its Mistborn to be active for the plan to succeed.
+ 
+Kelsier produces a bead of atium and explains that it is the most powerful Allomantic metal and is produced only in the Pits of Hathsin. Vin swallows the metal and experiences the ability to see translucent "shadows" of people’s future actions. Kelsier burns his own atium to show how the future shadows multiply when two atium-users face each other. He warns her that atium burns extremely fast and must be used sparingly against other Mistborn. Vin receives a vial containing a larger atium bead for the mission and follows Kelsier toward the spires of the palace.
+ 
+Sentence Count Check: 15
+ 
+---
+ 
+### Chapter 14
+ 
+Kelsier and Vin approach Kredik Shaw during a light rainstorm while burning copper to negate the Lord Ruler’s emotional dampening. Kelsier kills two guards at a side entrance and leads Vin into a stone corridor filled with lanterns. They enter a guard room where Kelsier uses a metal candelabrum as a staff to strike down multiple soldiers. Vin kills four men by throwing coins with steel and pulling them back with iron before the room falls dark. Kelsier identifies the guards as Hazekillers who are trained to fight Allomancers and do not carry any metal on their bodies.
+ 
+The pair reaches a domed chamber featuring silver murals and a small ornate building at the center of the room. Kelsier opens the inner door to find a Steel Inquisitor waiting inside who immediately grabs him by the throat. Two more Inquisitors enter the room and Kelsier stabs the first one in the neck with a dagger to break its grip. Kelsier throws his coin pouch at Vin to force her away and yells for her to run as the Inquisitors surround him. Vin shoots down a corridor but is yanked backward when an Inquisitor pulls on the metal coins in her pouch.
+ 
+Vin burns her atium to dodge the attacks of dozens of soldiers and a second Inquisitor who uses a wooden axe with obsidian blades. The Inquisitor strikes Vin in the side and leaves a large bleeding wound that she manages to bandage with a piece of her shirt. She escapes the palace by pulling herself along the exterior spires and using a leather book as a decoy to distract the Inquisitor. Vin loses her strength and falls from a spire onto a rooftop where she huddles in a puddle of rainwater and blood. She loses consciousness as a pair of arms picks her up and carries her away from the palace.
+ 
+Sentence Count Check: 15
+ 
+---
+ 
+### Chapter 15
+ 
+Dockson enters the shop’s kitchen and argues with Kelsier about the decision to take Vin to the Lord Ruler's palace. Kelsier reveals that three Inquisitors were waiting for them and that he was forced to leave Vin behind during the retreat. He expresses guilt over Vin’s fate and compares the situation to the previous failed job that resulted in the death of his wife Mare. Sazed arrives at the back door of the kitchen carrying Vin’s unconscious and bloodied body in his arms. The Terrisman immediately requests pewter and medical supplies to treat the girl’s life-threatening abdominal wound.
+ 
+Ham pours a vial of pewter down Vin’s throat to stabilize her breathing and allow her body to heal faster. Sazed uses his stored knowledge of medicine to stitch Vin’s internal organs back together while Ham applies pressure to the wound. The surgery lasts for a significant amount of time before Sazed declares that the girl might survive if she stays supplied with pewter. Kelsier observes that the wound is deeper than any he has personally survived and credits Sazed with saving her life. Sazed explains that he used a metalmind to travel from Fellise to Luthadel at high speed after discovering Vin was missing.
+ 
+Sazed presents a large leather-bound book that he found at the palace while searching for Vin in the rain. He identifies the text as being written in Khlenni, the ancient language used before the Lord Ruler’s Ascension. Kelsier believes the book may contain the secrets he was searching for in the palace’s hidden chamber. Dockson confronts Kelsier about the danger of the mission and the fact that the Lord Ruler is now alerted to their presence. Kelsier looks at the blood-stained book and states that the value of the mission depends on whether Vin lives or dies.
+ 
+Sentence Count Check: 15
