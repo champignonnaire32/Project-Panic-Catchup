@@ -144,10 +144,10 @@ const pageDescription = `Complete narrative refresher for ${bookName}. All ${tot
         <section id={`range-${range}`} data-range-section={range} class="scroll-mt-6">
 
           <!-- Chapter range divider header -->
-          <div class="flex items-center gap-4 mb-8 opacity-40 group-hover:opacity-100 transition-opacity duration-300">
-            <div class="h-px flex-1 bg-gradient-to-r from-transparent to-gold-400/50"></div>
-            <span class="text-[10px] font-bold tracking-[0.3em] uppercase text-gold-500/80">Range {range}</span>
-            <div class="h-px flex-1 bg-gradient-to-l from-transparent to-gold-400/50"></div>
+          <div style="display:flex; align-items:center; gap:16px; margin-bottom:32px;">
+            <div style="flex:1; height:2px; background:linear-gradient(to right, transparent, rgba(201,168,76,0.6))"></div>
+            <span style="font-size:16pt; font-family:'Cinzel',serif; font-weight:700; text-transform:uppercase; letter-spacing:0.3em; color:#c9a84c; flex-shrink:0;">Chapters {range}</span>
+            <div style="flex:1; height:2px; background:linear-gradient(to left, transparent, rgba(201,168,76,0.6))"></div>
           </div>
 
           <div class="prose prose-lg prose-cream dark:prose-invert max-w-none
@@ -224,7 +224,7 @@ const pageDescription = `Complete narrative refresher for ${bookName}. All ${tot
     if (banner && bannerText) {
       if (winScroll > 300 && currentRange) {
         banner.style.opacity = '1';
-        bannerText.textContent = `Range ${currentRange}`;
+        bannerText.textContent = `Chapters ${currentRange}`;
       } else {
         banner.style.opacity = '0';
       }
