@@ -88,11 +88,11 @@ const {
       if (backToTopBtn) {
         window.addEventListener('scroll', () => {
           if (window.scrollY > 200) {
-            backToTopBtn.classList.remove('opacity-0', 'pointer-events-none');
-            backToTopBtn.classList.add('opacity-100', 'pointer-events-auto');
+            backToTopBtn.style.opacity = '1';
+            backToTopBtn.style.pointerEvents = 'auto';
           } else {
-            backToTopBtn.classList.add('opacity-0', 'pointer-events-none');
-            backToTopBtn.classList.remove('opacity-100', 'pointer-events-auto');
+            backToTopBtn.style.opacity = '0';
+            backToTopBtn.style.pointerEvents = 'none';
           }
         });
 
