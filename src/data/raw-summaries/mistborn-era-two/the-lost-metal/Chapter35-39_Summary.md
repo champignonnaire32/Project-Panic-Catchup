@@ -1,0 +1,57 @@
+### Chapter 35: Chapter 35
+
+Wax and Wayne retreat to an alley with Telsin Ladrian, where she advises Wax to flee to the Roughs with his family. Telsin reveals that Elendel must be destroyed to satisfy Autonomy, who has an army of gold and red men prepared to strike. She claims that Harmony has crippled the Basin with ease and that Autonomy values the innovation born from conflict and strife. Wax realizes Telsin is an avatar of Autonomy and intends to prove herself by removing Elendel's leadership. Telsin warns that if she fails to rule the planet, Autonomy’s forces will invade and annihilate the population regardless.
+
+Telsin leads Wax to a rooftop where she claims Harmony’s agents were responsible for the death of their parents. Wax threatens her with explosive hazekiller rounds designed to forcibly remove spikes, but Telsin remains indifferent to the threat. She admits that Gave Entrone is a potential rival for her position but dismisses him as a coward. Wax recognizes that Telsin is stalling to buy time for her plans and that she lacks any genuine familial affection for him. He identifies her primary motivation as a reckless desire for power, novelty, and the thrill of the entire cosmere.
+
+Wax decides to abandon the conversation to stop the bomb, realizing he has changed while Telsin has only become an extreme version of her former self. Telsin mentions that there are multiple redundancies in place to ensure Autonomy’s will is carried out even if Wax interferes. She explains that Autonomy respects rugged individualism but demands strict obedience to her specific divine plans. Wax slips over the side of the roof while Telsin is still speaking to escape her distraction. He determines that interrogating the "cowardly" Entrone is a more viable path than trying to break Telsin.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 36: Chapter 36
+
+Marasi and Moonlight finish copying wall plates in the newspaper basement before encountering the frazzled editor, Maraga. Moonlight provides Maraga with a card for a safehouse in the Knightbridge district, promising asylum in exchange for her service. The safehouse is house number 187 at Thirty-Third and Finete, a location Moonlight claims even the Set cannot easily assault. Maraga leaves to fetch her sister and flee the city before the Set can retaliate for the intrusion. Marasi and Moonlight then flag down a motorcab to head toward the safehouse themselves.
+
+Inside the cab, Moonlight uses a privacy window to hide their conversation from the driver, whom she knows as Darkwater. Marasi questions Moonlight's reluctance to share information, given their mutual goal of protecting the planet Scadrial. Moonlight admits she is wary of being played by Autonomy’s misdirections and half-truths regarding the return of the ashfalls. She reveals that her organization exists to protect Scadrial from external cosmere forces and that she is "auditioning" Marasi. Moonlight intends to cross-reference the explosion coordinates with Set agent movements to find the underground testing facility.
+
+Moonlight describes Harmony as an unreliable referee or observer who fails to provide sufficient aid against rising threats. She notes that her mentor, the Survivor, might react poorly to Marasi since he views her as an agent of Harmony. Marasi reflects on her experience working under pressure and dealing with the literal explosions of her career as a constable. Moonlight acknowledges that Marasi is handling the expansion of her world and the involvement of gods remarkably well. They arrive at the Knightbridge safehouse with the goal of mapping the underground caverns beneath Bilming.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 37: Chapter 37
+
+Wayne reflects on time-travel stories where small changes like breaking a branch or eating a bagel caused drastic future consequences. He contemplates how every person's daily choices change the future by making people either angrier or kinder. While scouting alleys in Bilming, Wayne trades a beggar a stack of cash for a dirty handkerchief with a bunny on it. Wax surprises Wayne by grabbing him from behind to hide from a searching Telsin Ladrian. After Telsin leaves, Wax and Wayne sneak away to discuss their next move in the investigation.
+
+Wayne jokes about his relationship with MeLaan, a kandra divine being, and the use of "stretchy ropes" in their personal life. Wax expresses his intent to interrogate Lord Mayor Gave Entrone, believing the man knows the location of the bomb. They observe the Bilming skyline, noting that the central spire is the highest building and currently under construction. Wayne points out that Entrone likely keeps secrets and a safe full of answers at his silvery-white mansion. Wax wears his mistcoat despite Wayne's warning that it draws too much attention in the city.
+
+The duo decides that Wax will ransack the mayor's mansion while Wayne provides a distraction to keep the guards occupied. Wayne proposes a "courteous looting" or "upper-class plundering" to avoid drawing the same attention as a direct shakedown. Wax agrees to the plan, hoping to find a lead on the bomb's location before the Set spots them again. They identify Entrone as a coward who likely recorded the Set's plans to protect himself from his rivals. Wayne promises to keep the distraction "classy" by avoiding his more crude habits during the mission.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 38: Chapter 38
+
+Steris forces her way into Governor Varlance’s private council meeting along with Constable-General Reddi and a disguised TenSoon. The council consists of the governor, Vice Governor Adawathwyn, several senators, and the Malwish Ambassador Daal. Reddi introduces Steris as a subject matter expert on his payroll to justify her presence despite the governor's previous exclusion. The council discusses the inevitability of war with the Outer Cities, citing railroad blockades and recruitment flyers in the Roughs. War hawks like Lady Hammondess and Lord Cett argue for a preemptive strike against Bilming's growing military power.
+
+Adawathwyn reveals plans for a draft and the conversion of the constabulary into a military force under martial law. Steris interrupts the shouting match by threatening to vomit on the table using medication she keeps for such emergencies. She argues that the Outer Cities are intentionally goading Elendel into becoming a tyrant to justify their own extreme measures. Steris identifies Senator Lady Gardre as a member of the Set, noting her attempts to dismiss reports of doomsday weapons. She reveals that Wax is currently in Bilming investigating the rare materials used in a city-destroying bomb.
+
+The kandra TenSoon reveals his true form to the council, confirming that the Set plans to annihilate Elendel. He informs the group that Harmony is currently blinded by another god and cannot see the full scope of the threat. A radio technician interrupts with a message from Wax confirming the existence of a fabricated, city-destroying bomb. The message states that the enemy is seeking a delivery mechanism to transport the weapon to Elendel immediately. Wax concludes the transmission by advising the government that it is time to begin an evacuation of the city.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 39: Chapter 39
+
+Marasi and Moonlight enter the Bilming safehouse, where Moonlight uses an identity lock to gain access to the foyer. They meet "Codenames Are Stupid," a woman with a blonde bob who is studying reports of blocked perpendicularities on other worlds. Codenames mentions that travel to Roshar and Bjendal is currently dangerous, making traditional mass transportation through the Cognitive Realm non-viable. Moonlight introduces Marasi to TwinSoul, an elderly man with rose-colored crystal seams embedded in his skin and hands. TwinSoul uses his "aether" abilities to grow crystal spectacles and a fountain pen directly from his body.
+
+TwinSoul explains that aethers are ancient entities predating the creation of Scadrial that can be grown and manipulated at will. He uses his abilities to create a detailed crystal replica of Bilming on a circular table to aid in the investigation. The group identifies three potential entry points to the Set's underground caverns: Independence Tower, the Dulouis Building, and an old tire factory. Independence Tower is the central hub for Autonomy’s agents but is heavily guarded with a security system that can detect ghosts. The Dulouis Building is a hotbed of Set activity located at the perimeter of recorded seismic tremors.
+
+Marasi identifies the tire factory as the most likely incursion point because it is owned by Basin Tires and receives massive, unexplained shipments. Moonlight notes that the factory acts as a stockpile for food and arms, serving the hidden population in the caverns below. TwinSoul warns that breaching the central tower has previously proven impossible even for the arts of his leader, the Survivor. Moonlight tells Marasi that she can learn more about aethers if she joins their organization to protect Scadrial. Codenames leaves to fetch her "special friend" so the group can contact Kelsier to report the imminent bomb threat.
+
+Sentence Count Check: 15

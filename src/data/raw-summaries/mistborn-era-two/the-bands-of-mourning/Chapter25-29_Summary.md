@@ -1,0 +1,49 @@
+### Chapter 25
+
+Wax passes onto the temple's landing to find his uncle, Edwarn Ladrian, waiting with over a hundred men setting up camp. Edwarn willingly enters the temple, revealing he knows about the heat medallions but needs Wax to get past the traps to secure a weapon. Wax holds Edwarn at gunpoint, declaring him under arrest, but Edwarn reminds him that his men outside trap them inside the temple. Edwarn claims he has the key to the inner door and proposes a deal to help Wax open it if he can accompany him inside. Wax reluctantly agrees, forcing his uncle to walk ahead at gunpoint while the rest of his crew and Telsin follow.
+
+The group reaches the locked door covered in symbols, which Edwarn claims acts as a clockwork timer that freezes for ten years if guessed wrong. Following Edwarn's instructions, Wax uses his Allomancy to push on three specific symbols, causing the heavy stone door to slide open. MeLaan enters first to check the softly glowing blue room for traps, confirming it is safe for the group to follow. Edwarn goads Wax about the difference between good and evil men while standing with Wax's gun pointed directly at his temple. Marasi suddenly calls out to Wax from the doorway, prompting him to leave his uncle and investigate the inner room.
+
+Wax enters the solitary central room of the fortresslike temple to find a slender, gilded dais. A small square pedestal topped with red velvet and a golden rack sits empty under a soft white light. Shards of shattered glass cover the floor of the dais, indicating a protective box was broken long ago. The undisturbed dust and frost in the room suggest the theft happened well before their arrival. Wax realizes with horror that someone has beaten them to the temple and taken the Bands of Mourning.
+
+**Sentence Count Check:** 15
+
+### Chapter 26
+
+Wax examines the broken glass on the dais and concludes the theft occurred long before the kandra ReLuur ever visited the temple. As Edwarn feigns disappointment over the missing artifact, Telsin pulls out a hidden aluminum gun and apologizes to her brother. Telsin and Wax both fire at each other, but her aluminum bullet strikes Wax just below the neck. Marasi and Wayne attempt to fight back, but Edwarn reveals himself to be an Allomancer and effortlessly flings Wayne across the room. Telsin tosses an Allomantic grenade to drain Marasi's metal reserves while she and Edwarn shoot a severely wounded Wax in the abdomen.
+
+A bleeding Waxillium scrambles away from the pedestal and plummets through a trapdoor into a hidden pit. Wayne uses his gold metalmind to heal from multiple gunshots and escapes down the hallway to avoid capture. Edwarn threatens to kill Marasi if Wayne does not return, but eventually relents when Wayne continues his retreat. Telsin plunges a knife into MeLaan to immobilize her before extracting two Hemalurgic spikes from the kandra's body. Without her spikes, MeLaan melts into a formless mass of flesh, leaving only her bones and crystal skull behind.
+
+Telsin orders Edwarn to chase down Waxillium in the pit, swapping guns with him so he possesses the aluminum pistol. Edwarn reluctantly climbs down into the darkness using a rope, leaving Telsin to guard the remaining captives. Soldiers wearing Set uniforms flood into the room and report that Wayne remains entirely missing. Telsin commands her men to scour the hallway and outside plain for the dangerous, unaccounted-for Wayne. Marasi silently promises a terrified Allik and a stunned Steris that she will find a way out of this desperate situation.
+
+**Sentence Count Check:** 15
+
+### Chapter 27
+
+Wax lands at the bottom of the pit with a broken leg and a fatal neck wound, forcing him to crawl toward a soft blue light. He discovers four concentric rings of frozen corpses sitting in the dark around a white pedestal holding simple metal bracers. Edwarn follows Wax's blood trail into the chamber and taunts him about Telsin recruiting him into the Set. Edwarn purposefully steps on a pressure plate, triggering a trap that collapses the ceiling directly onto Waxillium. The heavy rocks pin Wax to the floor and crush the corpses, while Edwarn uses his Allomancy to leap safely out of the way.
+
+Above ground, Telsin violently rips the heat medallions from Marasi, Steris, and Allik, leaving them exposed to the freezing cold. Telsin ignores the possibility of the Bands of Mourning, revealing the Set actually came for the fully intact Hunter airship carrying the unused bomb. Edwarn attempts to wear the bracers from the hidden chamber, but they grant no power and appear completely drained of attributes. Edwarn prepares to execute Wax with the aluminum gun, but Wayne suddenly drops from a second pit and attacks him. Edwarn flees from the healing Wayne, who stays behind to comfort a paralyzed, dying Waxillium.
+
+Marasi searches through her dumped purse for MeLaan's spike but only finds the dull aluminum spearhead from the Lord Ruler's statue. Edwarn drops from the sky using his newfound Allomancy and presents the powerless silvery bracers to Telsin. Telsin swallows a vial of metals and attempts to use the bracers, confirming they are just another empty decoy. Wax realizes the simple bracers in the pit were another distraction meant to delay intruders from finding the true artifact. Wax's strength finally gives out entirely, and he succumbs to his wounds in the dark cavern.
+
+**Sentence Count Check:** 15
+
+### Chapter 28
+
+Wayne sits beside Wax's lifeless body in despair before finally grabbing the dead man's shotgun to seek revenge. Marasi deduces that the Lord Ruler hid the real weapon in plain sight where only he would recognize it. She realizes the large, interwoven metal spearhead dropped from her purse is actually an incredibly powerful metalmind. Wax awakens in a misty cavern to find himself walking alongside Harmony, who explains that Wax has died. Harmony shows Wax a vision of the world surrounded by a red haze of destruction, explaining that He cannot intervene in every tragedy.
+
+Marasi grips the spearhead with both hands and taps the stored attributes, flooding her body with the Lord Ruler's power. She drinks the metals from the guards' vials, gaining immense Allomantic strength that allows her to see the world as pure energy. Using her overwhelming power, Marasi violently Pushes the guards away and launches Edwarn and Telsin through the air by their own Hemalurgic spikes. Realizing she does not desire this godlike power for herself, Marasi flies into the temple to bring the spearhead to Waxillium. Steris uses the chaotic distraction outside to give Allik a hidden heat medallion from her hollowed-out notebook.
+
+Harmony offers Wax a choice between a life of unbound freedom or a return to his burdensome duty. Wax hears Marasi's distant voice begging him to tap the metalmind, and he chooses the path of duty by reaching for Harmony's hand. Wax's spirit slams back into his physical body as his fingers wrap around the spearhead Marasi placed in his hand. His body immediately heals its fatal wounds, giving him the strength to throw off the massive boulder pinning him down. Brimming with ancient Allomantic power, Wax accepts a metal vial from Marasi and prepares to finish the fight.
+
+**Sentence Count Check:** 15
+
+### Chapter 29
+
+Edwarn realizes Waxillium's followers possess the true Bands of Mourning and immediately boards the intact Hunter airship to escape. A technician informs Edwarn that the ship is fully operational and primed for takeoff thanks to the Set's Feruchemists. Edwarn decides to leave Telsin behind and orders the crew to lift off with the bomb still aboard. Inside a freezing tent on the plain, a dying Captain Jordis watches her Hunter crew succumb to the cold. Allik suddenly bursts into the tent and distributes heat medallions and rifles to his people so they can fight back against the Set.
+
+Wax bursts from the temple roof in a shower of rocks and spots the massive airship lumbering into the sky. He drops to the battlefield to violently clear a path for the Hunter crew before launching himself onto the airship's bridge. Wax confronts his uncle and prepares to arrest him, but Edwarn reveals he has armed the bomb to destroy the temple below. Edwarn promises to disarm the bomb only if Wax drops the Bands out the window to face him in a fair gunfight. Wax agrees to the terms and tosses the spearhead away, proving his dedication to the law over absolute power.
+
+Wayne ambushes Telsin in the snow as she attempts to flee in the skimmer and shoots her in the face with his shotgun. Wax uses his Feruchemical weight to shatter the airship's floor, plunging himself and Edwarn through the bottom of the vessel. Edwarn saves them from the fatal fall by Pushing a coin from his mouth toward the ground at the last second. Wax punches his uncle unconscious in the snow, officially arresting him while Marasi helps MeLaan regain her kandra form. The surviving Hunter crew members defeat the Set soldiers as Wayne returns to the group to celebrate their hard-won victory.
+
+**Sentence Count Check:** 15

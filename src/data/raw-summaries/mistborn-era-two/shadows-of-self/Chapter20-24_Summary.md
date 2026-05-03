@@ -1,0 +1,49 @@
+### Chapter 20
+
+Wax shoots his gun in the darkness at an inhuman creature, but stops when the beast tells him to light his lantern. Wax follows the creature and realizes it is a kandra in the form of a massive, mottled grey wolfhound named TenSoon. TenSoon explains that the other kandra are counteracting Bleeder's attempts to start a revolution by impersonating priests and preaching peace to the citizens. The two enter the kandra Homeland, a sprawling underground cavern network holding historical remnants of Kredik Shaw. Wax discovers a pit filled with ripped pages from the Words of Founding covered in blood and cryptic messages left by Bleeder.
+
+TenSoon reveals that Bleeder was once the Lord Ruler's enslaved kandra before serving Harmony and eventually vanishing. Wax pieces together that Bleeder's ultimate goal is to bring down Harmony, whom she views as a tyrant controlling humanity. TenSoon confirms that Harmony once pushed Bleeder hard to do something she did not want to do, which sparked her rebellion. Wax realizes that Bleeder left the bloody pages as a deliberate distraction to keep him and the other kandra occupied. Meanwhile, Wayne infiltrates a large crowd of angry protesters gathered around bonfires in the city square.
+
+A shirtless man standing atop a fountain statue incites the rioting mob against the ruling class. A bald priest in ornate robes climbs up and successfully calms the crowd by pleading for peace in the Survivor's name. The shirtless man sneaks up behind the priest and plunges a Hemalurgic needle into his back. The priest's flesh immediately melts away to reveal his crystal kandra bones, exposing him as an imposter to the horrified crowd. The shirtless man then points at Wayne and identifies him as a constable, causing the entire mob to turn against him.
+
+**Sentence Count Check:** 15
+
+### Chapter 21
+
+Wax and TenSoon realize Bleeder's plan is to distract the kandra while she deafens Harmony by inciting the city's population to riot. As they attempt to leave the Homeland, they are ambushed by Hemalurgic creatures that are an unnatural mix of human and canine features. TenSoon sheds his wolfhound bones and absorbs a different set of bones to form a muscular, superhuman body. Wax uses his shotgun and Allomantic steel-pushing to blast the creatures, discovering their skulls have been artificially thickened to resist bullets. Wax slaughters several beasts while TenSoon rips one in half, effectively ending the immediate threat.
+
+TenSoon inspects the corpses and finds a single Hemalurgic spike in each, expressing shock at Bleeder's advanced mastery of Hemalurgy. More howls echo in the distance, prompting Wax and TenSoon to flee the bone-filled chamber. TenSoon leads Wax to a cracked stone wall, and Wax uses his weight-altering abilities to push his way through into a narrow rift. TenSoon reverts to a sludgelike collection of bare muscles to slide up the tight vertical crack alongside Wax. Wax drops his lantern during the climb but realizes the cavern walls are illuminated by a glowing blue fungus.
+
+Wax recognizes he is climbing through the ancient, crystal-lined Pits of Hathsin to escape the underground prison. The pair emerges into a city sewer, successfully evading the pursuing Hemalurgic monsters left below. Above ground, Wayne successfully escapes the angry mob by directing his pursuers down a false path. Wayne sneaks around the governor's mansion and realizes he has completely run out of bendalloy. As Wayne approaches the mansion, he hears a voice with a slightly wrong accent and immediately realizes who Bleeder is impersonating.
+
+**Sentence Count Check:** 15
+
+### Chapter 22
+
+Wax arrives at the governor's mansion and finds constables forming a tense barrier between the building and the rioting crowd. Wax speaks with Marasi, who informs him that Wayne is missing and that she has definitive proof of the governor's corruption. Wax breaks into the locked study and finds Governor Innate pacing while practicing an inflammatory speech intended for the mob. Wax notices a wad of chewed gum on the windowsill and realizes Bleeder has been impersonating Governor Innate this entire time. Bleeder drops her act, draws an aluminum gun on Wax, and reveals she had just killed the real Innate's bodyguard.
+
+Wax calls for help, but when the guards burst in, Bleeder shoots them down to frame Wax for the murders. Wax attacks Bleeder, but she effortlessly overpowers him, kicks off MeLaan, and steals a Hemalurgic needle. Bleeder plunges the needle into MeLaan's shoulder, severely wounding the kandra and causing her face to melt. Bleeder's Feruchemical speed runs out, forcing her to abandon her attack and flee out the window into the mists. Wax uses his steelsight to check the room's closet and discovers a bound and gagged Wayne hidden inside.
+
+Wayne explains that Bleeder knocked him out, stripped off his healing metalminds, and dragged him upstairs. Wayne instructs Wax to check his pocket, where Wax finds a single special bullet cartridge provided by Ranette. Constables led by Marasi burst into the study to investigate the gunfire and the corpses on the floor. Wax leaves the constables to question Wayne and leaps out the window to resume his pursuit of Bleeder. MeLaan begins to recover from the needle strike and starts healing her melted face as the room secures.
+
+**Sentence Count Check:** 15
+
+### Chapter 23
+
+Wax flies through the night using Allomancy and searches the mansion grounds for signs of Bleeder's escape. He spots a group of people moving away from a workers' shed and deduces Bleeder fired her gun to clear that specific area. Wax loads Ranette's single bullet into his gun and sneaks into the unlit wooden shed. Inside the shed, Wax finds the real Governor Innate's discarded clothing draped over a pile of bones. Bleeder speaks to Wax from the shadows, claiming she has deafened Harmony and accusing the god of manipulating Wax his entire life.
+
+Before Wax can fire his weapon, Bleeder bursts through the side of the wooden shed and escapes. Bleeder launches into the air, relying exclusively on Allomantic Steelpushing to flee since her Feruchemical speed is depleted. Wax launches himself after her, utilizing his superior mastery of steel to track her movements through the mist. Back in the shed, Marasi and Wayne inspect the skeletal remains of the real Governor Innate. MeLaan arrives and reports that the mob outside is growing increasingly hostile while waiting for the governor's speech.
+
+Marasi decides they must placate the rioters and asks MeLaan to impersonate the dead governor. MeLaan agrees to mimic the governor's face using his skull, though she complains about the terrible taste of human flesh. Wayne expresses mock disappointment upon learning that humans do not taste wonderful to kandra. Marasi ignores Wayne's commentary and orders MeLaan to begin absorbing the skeleton. Marasi then begins rewriting the governor's speech to ensure it successfully calms the angry crowd.
+
+**Sentence Count Check:** 15
+
+### Chapter 24
+
+Bleeder uses Steelpushes against lampposts and motorcars to flee through the city toward the eastern outskirts. Wax closely trails her, using his Feruchemical ability to decrease his weight to gain bursts of speed. Bleeder realizes Wax is catching up and frantically shoves herself out over the river, landing on the Eastbridge. Wax lands on the bridge before her and draws his gun, offering to take her prisoner and heal her madness. Bleeder refuses to become a slave again and verbally attacks Harmony's morality before launching herself upward to the top of a suspension tower.
+
+Wax follows her to the pinnacle of the bridge and levels his gun at her once more. Bleeder drops her red and white mask, revealing that she is wearing the face of Wax's dead wife, Lessie. Meanwhile, Marasi keeps the truth about the governor's death hidden from Captain Aradel and the other constables. MeLaan steps onto the stage outside the mansion and begins delivering Marasi's rewritten speech to the angry mob. The crowd grows strangely silent, and Marasi realizes her own emotions are unnaturally calm.
+
+Marasi deduces that an Allomantic Soother from the Set is manipulating the crowd's emotions to ensure a violent riot. Marasi grabs Reddi and points out that he is only feeling mild dislike towards her instead of his usual anger. Reddi realizes he is being Soothed and agrees to help Marasi find the hidden Allomancers. Marasi scans the square and spots a discrete carriage parked in an alleyway across from the governor's mansion. Marasi identifies the carriage as the most logical hiding place for the Allomancers and leads Reddi towards it.
+
+**Sentence Count Check:** 15

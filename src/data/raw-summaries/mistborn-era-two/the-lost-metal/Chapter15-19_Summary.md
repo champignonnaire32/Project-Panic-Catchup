@@ -1,0 +1,57 @@
+### Chapter 15
+
+Wax and Steris discover that a trellium spike repels both harmonium and active Allomancy like a magnet with a similar charge. Marasi confirms that this repulsion was also present in other spikes she harvested from the Set. Steris notes that the Set is experimenting further with Hemalurgy, a magic system where metal spikes are used to steal and transfer attributes between souls. Wax reflects on his sister Telsin's role in the Set and her decision to spike herself with pieces of murdered souls. He decides he must finally confront Harmony regarding the Set's machinations and his family's involvement.
+
+Allik arrives with chocolate biscuits and warns the group about the dangers of concentrating too much ettmetal, also known as harmonium, in one place. The kandra VenDell arrives in a new blond-haired body and delivers a note recovered from the Set's cavern to Marasi. He reveals that several kandra are currently impersonating constables to monitor her, including one named LeeMar. VenDell offers to buy Allik's mask after his death to use for future kandra bodies. He then observes Wax's laboratory setup designed to heat and stretch a small nugget of harmonium using electric current.
+
+Wax demonstrates how heated harmonium begins to rearrange into separate aspects resembling lerasium and atium, though it remains unstable. He explains that harmonium's instability mirrors Harmony's own equilibrium between the opposing forces of Ruin and Preservation. The group decides to test if the repelling force of trellium can force the two aspects of harmonium to fully divide. They set a five-minute timer on a machine and retreat to the upper floors of the mansion for safety. A massive blast eventually shakes the building, shattering a window and rattling the entire structure.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 16
+
+Wayne visits his financial managers at Call and Son and Daughters, which he characterizes as a mortuary for the living. His accountants inform him that his net worth has exceeded twenty million due to successful investments in affordable housing and Tarcsel Electric. He begrudgingly accepts a bowler hat, which he considers a symbol of his transformation into a wealthy man. Wayne instructs his managers to fund a large-scale noseball league with teams representing each of the city's octants. He explains that this will provide a controlled outlet for the growing public rage and tension in Elendel.
+
+The accountants are confused by his request until Wayne explains the monetization potential of citywide rivalries and public betting. He tells them to put their "worst" people on the project to better understand the needs of the lower class. Wayne wears a hat with aluminum foil inside to protect himself from emotional Allomancy while discussing business. He buys a new Victori car without a top and suggests using the noseball players to market the vehicles. He contemplates the risk of Wax or Marasi discovering the extent of his hidden wealth and success.
+
+Wayne reflects on his past and the harm he caused, specifically the man he killed years ago. He asks his accountant to set up a discrete monthly delivery of money to the victim's daughter, Jaxy, and her family. He decides to stop visiting her in person to avoid causing her further distress, admitting he is "too busy" for the meetings. This decision marks a shift in his long-standing ritual of personal atonement for the murder. He concludes that even a "corpse" like himself should have standards for how to treat others.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 17
+
+Steris reflects on her chronic anxiety and how she has learned to manage it through meticulous planning and lists. She oversees the safety protocols after the laboratory explosion, ensuring everyone wears masks to filter potential chlorine gas. VenDell goes down the stairs first because of his kandra durability, followed by Wax who can use Allomancy to survive a fall. They find the laboratory heavily damaged, with the safe box door embedded in a concrete wall and scientific equipment destroyed. Steris begins gathering fine metal shavings and smoldering harmonium from the wreckage into specimen pouches.
+
+VenDell analyzes the destruction and concludes that the explosion was caused by matter and Investiture being transformed directly into energy. He explains that the three essences of the cosmere—matter, energy, and Investiture—are fundamentally the same and can change states. Wax realizes that they managed to release only a tiny fraction of the potential energy stored in the harmonium. Steris agrees to sell her bones to VenDell after her death to secure immediate funds for the family. They speculate that the Set may be planning to use this matter-energy transference to create massive bombs.
+
+Steris and Wax hypothesize that the Set might use such weapons to restart the ancient Ashmount volcanoes and destroy the Elendel Basin. Steris plans to research unexplained explosions in the Outer Cities by ordering broadsheets and accessing constabulary records. Marasi expresses her concern about the rapidly changing world and the powerful, unaccountable figures operating behind the scenes. While Wax attempts to recover the remaining harmonium from the back of the safe box, a secondary explosion occurs. He is thrown back and dazed but remains relatively unharmed despite his charred clothing and singed mask.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 18
+
+Marasi, Allik, Steris, and Wax gather in the sitting room to recover from the explosions and wait for VenDell. Allik explains that the new Malwish ambassador, Daal the Primary, is a war hero sent to signal that the South will no longer be bullied. He notes that the Malwish are still resentful about the decision to leave the Bands of Mourning in the North. Wayne arrives and joins the group, drinking tea directly from a teapot he potentially spiked with alcohol. Marasi outlines her plan for a sting operation involving a delivery to the city of Bilming.
+
+VenDell returns from communing with Harmony and reports that the god is deeply frightened by the "Invested matter-energy transference" Wax discovered. He confirms that trellium repels other forms of Investiture and that heating harmonium makes the interaction extremely dangerous. Harmony sent Wax a note suggesting he make an earring out of trellium, which Wax interprets as an attempt to regain his attention. Marasi mentions the next shipment to Bilming is scheduled in three days and she intends to use the Cycle gang as a cover. Wax decides to stay behind to research whether the Set has already discovered the new explosive technology.
+
+Wayne offers to help VenDell with his accents while they interrogate prisoners, despite the kandra's centuries of experience with impersonations. Marasi realizes she is no longer bothered by Wax's refusal to join her mission, having found her own identity as a lawman. She observes Wax looking at his old Roughs coats and the envelope from Harmony with an air of distant contemplation. The group disperses to execute their individual tasks, with Wayne and VenDell heading to the prisons for further intelligence gathering. Marasi remains committed to breaking the Set's case open through her upcoming sting operation in the city.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 19
+
+Marasi's sting operation begins with VenDell and Wayne disguised as gang members to facilitate a delivery to Bilming. Wax stays in his penthouse with Steris to research broadsheets for evidence of hidden Set experiments or weapon tests. They find several amusing headlines but eventually focus on reports of unexplained tremors and earthquakes in various cities. Wax notices his vision distorting and sees phantom Allomantic lines, which he attributes to lingering effects of the recent laboratory explosion. He worries that the Set might be using underground caverns to hide large-scale detonations from the public.
+
+Steris and Wax identify a series of suspicious earthquakes in Bilming that officials have attributed to a stalled subway construction project. Wax notes that Bilming has no actual need for a subway and has failed to produce any operational lines after four years of blasting. They conclude that the Set has been testing matter-energy explosives beneath the city and is likely smuggling components into Elendel. Wax puts on the earring sent by Harmony and is immediately pulled into a spiritual communion with the god. Harmony reveals he has been blinded by a red shroud belonging to the god Autonomy, also known as Trell.
+
+Harmony explains that Telsin is an avatar of Autonomy and is planning to destroy Elendel to prove her worth as the planet's ruler. He asks Wax to be his "sword" once more to stop Telsin and buy him time to clear the divine shroud. Wax accepts the mission and receives sixteen vials of a new metal solution from an anonymous source at his door. He prepares his high-caliber aluminum pistols and his mistcoat, while Steris agrees to represent their house in the Senate. Wax launches himself from the balcony toward Bilming, determined to stop his sister's plan and save the Elendel Basin.
+
+Sentence Count Check: 15

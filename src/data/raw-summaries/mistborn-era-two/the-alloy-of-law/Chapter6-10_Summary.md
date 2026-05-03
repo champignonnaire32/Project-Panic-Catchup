@@ -1,0 +1,49 @@
+### Chapter 6
+
+Waxillium drops his protective steel bubble and shoots two bandits to draw their attention. He increases his weight and Pushes outward to clear tables and chairs from the center of the room. Wayne activates a speed bubble and rides an overturned table toward the back of the hall. The bandits fire aluminum bullets that pierce Waxillium's protective Allomantic shield. Waxillium uses his metalmind to decrease his weight and leaps into the air to shoot four more men.
+
+Tarson, a koloss-blooded bandit, grabs Marasi by the neck and holds an aluminum gun to her head. Waxillium freezes and fails to shoot, paralyzed by the memory of accidentally killing Lessie. Marasi slams her head upward into Tarson's chin to break his hold. Waxillium shoots Tarson in the arm and then shoots the masked bandit leader in the head. Waxillium grabs Marasi and Pushes them both up to the balcony to escape the gunfire.
+
+Two Vanishers burst onto the balcony, but Waxillium crushes them by Pushing a large harp into the doorway. Waxillium shatters the room's chandeliers and leaps to the ground to shoot a bandit standing over Wayne. Wayne survives a gut wound by tapping his gold metalmind to heal rapidly. Marasi shoots a final hidden bandit using a captured rifle. Waxillium rushes outside to find the constables arriving, but the bandits have already escaped with Steris.
+
+**Sentence Count Check:** 15
+
+### Chapter 7
+
+Marasi arrives at Ladrian Mansion and knocks on the front door. The butler, Tillaume, escorts her up the stairs to Waxillium's cluttered study. Waxillium wears black goggles and uses a gas burner to test the chemical composition of the bandits' aluminum weapons. Marasi informs Waxillium that Lord Harms has agreed to bankroll the investigation to find Steris. Waxillium accepts the funding to replace the money he spent setting up his metallurgy lab.
+
+Waxillium reveals a massive sheet of paper tracing the genealogies of all the kidnapped women. He notes that the family lines of the victims all converge on the Lord Mistborn. Waxillium explains his theory that the bandit leader is trying to recruit an army of hidden Allomancers. Marasi points out that the gang is exclusively kidnapping women with strong Allomantic bloodlines. They conclude the bandits intend to breed a new generation of powerful Allomancers instead of recruiting them.
+
+Waxillium realizes that Steris is valuable for her genetics and is not in immediate danger of being killed. He tells Marasi that he acquired her genealogy in the middle of the night. Waxillium notes that Marasi is a sixth cousin to the main bloodline and an unusual target compared to the others. He speculates that the bandits targeted Marasi at the dinner to break up their pattern and confuse the authorities. Waxillium checks his pocket watch and mentions that he sent Wayne out to cause mischief.
+
+**Sentence Count Check:** 15
+
+### Chapter 8
+
+Wayne enters the Fourth Octant constabulary precinct wearing a stolen brown uniform and a fake mustache. He yells at the officers and impersonates Captain Guffon Trenchant of the Seventh Octant. Captain Brettin emerges from his office and confronts Wayne about the disturbance. Wayne claims he has prior jurisdiction over the captured Vanishers and demands to interrogate them. Brettin eventually agrees to allow Wayne to speak with two of the prisoners for ten minutes.
+
+The constables bring Wayne into an interrogation room and chain the first bandit to the floor. Wayne speaks in a street-tough accent and pretends to be an ally sent to break the bandit out. The first bandit refuses to give any useful information about the gang's operations. Wayne returns to the cellblock and selects a young, large-eared recruit named Sindren for his second interview. Brettin forces Wayne to leave the interrogation room door open so the constables can monitor the conversation.
+
+Wayne activates a bendalloy speed bubble to freeze time and speak with Sindren privately. He tricks the young recruit into confirming that the gang operates out of an old foundry in Longard. Sindren also reveals that a man named Clamps handles the recruitment for the Vanishers. Wayne advises Sindren to confess everything to the constables and flee to the Roughs to start a new life. Wayne drops the speed bubble, yells at Sindren to fake a failed interrogation, and leaves the precinct with a bag of scones.
+
+**Sentence Count Check:** 15
+
+### Chapter 9
+
+Waxillium and Marasi sit on the floor of the study discussing philosophy and the nature of crime. Marasi shows Waxillium a statistical report proving that cleaning up a neighborhood decreases the crime rate. Wayne returns to the study wearing a constable's hat and carrying a bag of scones. Wayne provides Waxillium with the address of the Vanishers' foundry hideout and the name of their recruiter. The butler Tillaume enters the study carrying a tray of tea and a basket.
+
+Wayne drinks a cup of tea, declares it is poisoned, and topples to the floor. Tillaume levels an aluminum pistol at Waxillium and fires a shot. Waxillium burns steel and Pushes a metal button from his vest into Tillaume's chest. Tillaume collapses by the door and reaches into his basket to detonate a hidden bomb. Wayne activates a speed bubble to temporarily freeze the expanding fireball in the room.
+
+Waxillium grabs Marasi and taps his iron metalmind to drastically increase his body weight. The immense weight shatters the floorboards, dropping Waxillium and Marasi out of the speed bubble. Wayne falls through the hole after them and absorbs the brunt of the explosion on his back. Waxillium peels the burned skin off Wayne's back so his Feruchemical healing can generate new tissue. Waxillium locates two unconscious servants in the pantry, carries them outside, and flees the burning mansion with Wayne and Marasi.
+
+**Sentence Count Check:** 15
+
+### Chapter 10
+
+Waxillium, Wayne, and Marasi travel in a carriage toward the Fifth Octant. Waxillium explains that his uncle died in a carriage accident, but he now suspects it was a targeted assassination. Waxillium hands Marasi a small pistol and instructs her to use both hands to keep her aim steady. The group arrives at an old, flat-topped foundry located near a canal dock. Waxillium Pushes Wayne onto the roof of the building, and the two men break in through a window.
+
+Waxillium disarms two explosive tripwires inside the empty foundry and opens the door for Marasi. Waxillium inspects the large sliding door and finds fresh grease in the floor channel. He discovers pieces of metal on the floor and confirms they are drops of aluminum. Marasi observes that the high windows are covered in soot to hide the gang's activities from the outside. Waxillium leaves the building to question local beggars about the canal boats.
+
+Wayne leads Marasi into the low-ceilinged loft and searches the built-in cupboards. He finds a stash of dynamite propped up by an expensive Citizen Magistrates cigar box. Wayne confesses to Marasi that he accidentally shot and killed an innocent father while attempting a robbery. Waxillium returns and reports that the Vanishers used canal boats to move large machinery out of the foundry. Waxillium inspects the numbers written inside the cigar box and deduces that lawman Miles Dagouter is involved.
+
+**Sentence Count Check:** 15

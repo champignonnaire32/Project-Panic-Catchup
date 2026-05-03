@@ -1,0 +1,57 @@
+### Chapter 55
+
+Wax investigates the back of a truck and finds three corpses, though one woman is still breathing and possessed by the entity Autonomy. The creature explains that Wax’s sister is becoming an avatar of her nature and that she values the struggle for survival. Autonomy warns that a final consequence is coming if the bomb fails, then the host body dies. Wax recovers a notebook from the truck that reveals the Set has been testing self-propelled rockets from ships in the ocean. He concludes that the rockets were intended to strike Elendel and gathers the remaining documents into a duffel bag.
+
+Wax returns to the laboratory and finds that Wayne has successfully neutralized the enemies and tied them up. Wayne is suffering from the physical toll of storing health in his goldmetalmind, which makes him feel perpetually sick. To show his appreciation, Wax presents Wayne with two rare bottles of Logshine beer from the Roughs. The two men agree to take a thirty-minute breather to recover from their exhaustion and lack of sleep. Wax begins digging through the stolen notes to identify the exact location of the bomb while Wayne rests.
+
+Wayne expresses surprise and gratitude that Wax went to the effort of finding his favorite specific beer. Wax acknowledges that they are both reaching their physical limits and need to be smart about the next phase. The stolen notes suggest that the Set is running out of time and scrambling to complete their project. Wax focuses on the technical details of the delivery devices and the portable nature of the new explosive. They finish their drinks and prepare to resume the investigation as the threat to the city intensifies.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 56
+
+Marasi enters the underground town of Wayfarer, which features artificial green grass and floodlights on the cavern ceiling. She notices a complete lack of metal in the town, with buildings made of wood and clay to avoid detection. Marasi draws attention from the residents because she is carrying a rucksack full of modern tools and ammunition. She follows two suspicious women into a townhome and is greeted by a woman named Armal Harms. The residents believe the surface world was destroyed by ashfalls seven years ago and that they were saved by a lottery.
+
+Marasi realizes the Set has perpetrated a massive hoax to keep these people captive in a subterranean bunker. The residents are shown fake images of a ruined world through an observation room to reinforce the lie. Armal explains that the lottery favored women of childbearing age and those from Allomantic bloodlines to preserve the race. Marasi learns that several residents are Allomancers, including a Rioter, a Lurcher, and a Soother. The townspeople believe the world above is populated by metal mutants that can sense and track any metal source.
+
+Marasi deduces that Hemalurgic abominations were released into the tunnels to scare the residents back into the town. She identifies Armal Harms as her distant cousin who was kidnapped by the Vanishers during Wax’s first case. The residents explain that outsiders who find the town are quickly shipped off to other caverns and never seen again. Marasi understands that this community is a long-term Allomantic eugenics experiment designed by Wax’s uncle, Edwarn. She stares at her cousin in shock while her mind races to find a way to reveal the truth.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 57
+
+Marasi reflects on the fact that the kidnapped Allomancers have been used as a breeding ground for the Set. She informs Armal and the others that the apocalypse was a hoax and that the Basin remains intact. The residents initially dismiss Marasi's claims as ash sickness, a delusional state they believe is common in outsiders. Marasi presents her Elendel Constabulary credentials to prove her identity and senior rank as a law enforcement officer. A public address system broadcasts Gave Entrone’s voice, warning the town about a dangerous and armed intruder.
+
+Entrone instructs the citizens to report Marasi immediately and avoid engaging with her because she has already killed. Armal decides to hide Marasi despite the warning, while another woman suggests searching for weapons to overthrow the mayor. Armal insists on a peaceful plan to sneak to the surface and find survivors to prove the world is safe. Marasi explains that the lack of metal in the town is a control mechanism to prevent Allomancers from rebelling. She learns that Entrone’s mansion contains a broadcast station and a secret tunnel leading to the surface world.
+
+Marasi suspects that Entrone is coming to Wayfarer specifically to open a portal for the arrival of Autonomy’s army. She urges the residents to find metals and fight back, warning them that Entrone plans to steal their children. Armal remains skeptical and refuses to fight but agrees to lead Marasi to the lord mayor’s mansion. Marasi realizes her rucksack full of metal tools and ammunition clinked, potentially alerting the tranquility officers outside. She prepares to face Entrone alone, knowing that millions of lives depend on stopping the portal from opening.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 58
+
+Wax and Wayne share a beer on a ledge in front of a massive propaganda billboard overlooking Elendel. Wayne admits he feels worthless and guilty for a man he killed years ago despite his many good deeds. Wax argues that Wayne is no longer the man who committed the crime and has earned his place. They discuss a story from Wayne's mother about a lawman facing a villain named Blatant Barm who became a mesa. Wax interprets the story as a metaphor for the social conditions and environment that create criminals and monsters.
+
+The stolen Set documents reveal schematics for a portable bomb and a large delivery rocket with a massive payload. Wax realizes the bomb is being prepared atop Independence Tower, the tallest building in Elendel, which serves as the mesa. Steris has packed a special crate containing the Big Gun, a stocky weapon built by Ranette for Wax’s use. The weapon features a wide bore and an oversized revolver wheel holding slugs the size of shot glasses. Wax prepares his Allomantic vials, including special ones sent by Harmony with red corks for the final battle.
+
+Wayne stops storing health to clear his head and prepare for the final assault on the skyscraper. They observe the mists curling through the city streets as the sun sets over the horizon in the distance. Wax acknowledges that the coming battle will be bloody and asks Wayne about his remaining healing capacity. The two men resolve to climb the tower and stop the launch, marking the end of their long pursuit. Wax puts his hand on Wayne's arm and confirms that he is a good man and a hero.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 59
+
+Marasi uses the cover of fake trees to slip past the officers searching for her in the town. She reaches Gave Entrone’s mansion and uses explosives to breach a locked door leading to a radio room. Marasi forces the technicians to activate the broadcast microphones, intending to reveal the lord mayor's secrets to the residents. Entrone arrives with bodyguards and mocks Marasi, revealing that he expected her to come to him eventually. A firefight ensues, and Marasi is nearly caught in a slowness bubble created by an enemy Pulser's Allomancy.
+
+Entrone admits that he is opening a portal for Autonomy's army because he fears they will destroy the world. Marasi discovers a recessed pool filled with a glowing, mother-of-pearl liquid that powers the gateway to another world. Entrone, enhanced by some form of Investiture or a spike, displays superhuman strength and extremely rapid healing abilities. He crashes through a wall to bypass the slowness bubble and physically overpowers Marasi with his enhanced strength. Entrone throws Marasi through a window into the cavern, causing her severe physical trauma and several broken bones.
+
+He stalks toward her, claiming to be a god and dismissing her Allomancy as pathetic and useless. Armal Harms and a group of townspeople emerge from the shadows, having overheard Entrone's confession through the radio. Armal drops a jar of pure Investiture provided by Moonlight to supercharge the Allomancers' dormant powers. Marasi realizes that her true strength comes from the people she serves, not her individual abilities or weapons. A massive wave of Rioting force, amplified by the Investiture, hits Entrone as the townspeople finally begin their rebellion.
+
+Sentence Count Check: 15

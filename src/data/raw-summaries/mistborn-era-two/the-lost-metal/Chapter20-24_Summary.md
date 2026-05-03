@@ -1,0 +1,57 @@
+### Chapter 20
+
+Marasi wakes up in a truck convoy entering Bilming, an industrial port city that rivals Elendel in power. The city features skyscraper construction and a cohesive metallic aesthetic known as brutalism, a design style from the planet Taldain. Marasi discovers her driver is an operative named Moonlight, who bears a red tattoo on her arm and comes from another world. Moonlight explains that the city's architecture is a deliberate "art installation" influenced by the god Autonomy, also known as Trell. The operative reveals that Autonomy is a Shard, a god-like entity that fills the cosmere with versions of itself to outcompete other deities.
+
+Moonlight states that Scadrial is a primary target because it possesses advanced technology like gunpowder and electricity. She identifies Telsin Ladrian, Wax’s sister, as Autonomy’s likely chosen avatar to lead the planet. The conversation reveals that Autonomy rewards successful individuals who show grit and vision, even if they act against orders. Moonlight describes the Bilming buildings as "fake individualism" meant to impress the god while stripping actual choice from the residents. Marasi learns that Moonlight's organization defends Scadrial but must hide from both the local god Harmony and external threats.
+
+The convoy reaches the industrial district and crosses the six-lane Grand Motorway to reach a specific warehouse. A man in a red jacket directs the trucks to the third building on the right for the cargo drop-off. Moonlight promises not to interfere with the constable operation but stays to watch as an "external admirer." Hoid, acting as a coachman for Wax, is spotted driving another truck in the convoy and acknowledges Moonlight. The ten trucks pull into the cavernous warehouse to begin the sting operation against the criminal Set.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 21
+
+Wayne rides in a truck with Hoid and discusses pickling vegetables and the nature of stories. Wayne trades a live rat named Sir Squeekins to Hoid in exchange for his stolen harmonica. Hoid accepts the trade after the rat crawls up his arm in the truck's glove box. Wayne reflects on his mother's stories about a hero lawman and admits he feels like a villain. The truck crosses the motorway and enters the warehouse where the smuggling operation is centered.
+
+Wayne uses a wig, makeup, and a wool cap to disguise himself as a thug named Franis. He meets VenDell, a kandra who has taken the form of a broad-shouldered man named Granks. Approximately forty armed men from a local gang surround the ten armored constable trucks. Wayne identifies a thug named Embrier and engages him in a conversation about "Franis's" sister to maintain his cover. VenDell tells the thugs that the radios are compromised and demands to speak with the Sequence, a high-ranking Set leader.
+
+Two figures in expensive clothing, identifying as Set leaders, emerge from a back room to meet the smugglers. As the meeting begins, the warehouse doors are smashed open by a large force of armed figures in brown uniforms. A hundred constables from the city of Bilming flood the room and order everyone to drop their weapons. Wayne realizes that these are local Bilming constables, not the Elendel team he expected. Marasi’s planned sting is intercepted and surrounded by the local law enforcement of Bilming.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 22
+
+Marasi reveals her identity to the Bilming constables and recognizes their leader, Captain Blantach. Blantach expresses anger that Elendel constables are running a sting operation within her city without notification. Marasi argues that the Set has likely compromised the local government, making secrecy necessary for the mission. She explains that the Set is stoking war between Elendel and the Outer Cities to further their agenda. Blantach reluctantly agrees to cooperate after Marasi points out the likely corruption in the Bilming leadership.
+
+The Bilming constables round up the gangsters and surround the Sequence, who maintains a confident posture. The Sequence is described as having a refined look with thick eyebrows and stylish clothing. Marasi notices the Sequence smiling and flexing his neck upon seeing her Elendel credentials. She realizes the Set leader wants to create a violent incident to blame Elendel for local casualties. Marasi warns Blantach to sedate the man immediately, but the Captain claims there are no Metalborn in the group.
+
+The Sequence executes a massive Allomantic Steelpush that tosses dozens of people across the warehouse. The blast overturns trucks, shatters windows, and strips metal equipment from the surrounding constables. Some of the Set’s thugs remain armed with aluminum guns, which are immune to Allomantic Pushing. The Sequence retrieves an aluminum pistol and stands at the center of the room with immense power. Marasi recognizes the strength of the Push as equivalent to the legendary power of a duralumin-enhanced Allomancer.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 23
+
+Marasi takes cover behind an overturned truck while the Sequence fires an aluminum pistol at her. Wayne uses a speed bubble to create a temporal field that grants him, Marasi, and VenDell a moment to plan. Marasi identifies the Sequence’s power as duralumin, a metal that allows an Allomancer to burn their entire reserve for a massive burst of energy. VenDell reveals that he follows the First Contract, a kandra law that forbids him from harming living beings. A woman named Getruda, a Slider who can create her own speed bubbles, enters the field and attacks the group with a dueling cane.
+
+Wayne tackles Getruda, and the two Sliders engage in a high-speed duel that alternates between time-warped blurs and normal movement. VenDell distracts the Sequence by pretending to be a traitor, resulting in him being shot in the head and neck. Marasi retrieves her Allomantic grenades from the debris of the warehouse but finds that only one remains functional. The Sequence hovers in the air using Steelpushes and drinks from an aluminum flask to replenish his metal reserves. Captain Blantach organizes the remaining Bilming and Elendel constables behind the cover of the armored trucks.
+
+The Set’s forces deploy a military-grade, liquid-cooled machine gun capable of firing large-caliber rounds. Marasi attempts to use a firebomb to bypass the Sequence’s Pushing ability, but the leader remains airborne and dominant. The Sequence uses a massive Steelpush to throw the four protective trucks away, leaving the constables completely exposed. The machine gun opens fire on the trapped officers, but the bullets suddenly stop in midair. Waxillium Ladrian arrives and uses his Allomancy to hurl the bullets back at the gangsters before killing the machine gunner with a single shot.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 24
+
+Wayne fights Getruda and discovers she can heal her wounds using Feruchemical gold metalminds, which store health. Getruda reveals that she was "built" to kill Wayne and intends to steal his hat and scent. Wayne observes that she is a Hemalurgic creation who stole her powers from others rather than being born with them. He uses his wrestling experience to pin Getruda and begins choking her with a dueling cane. The Sequence intervenes by pointing a gun at Wayne's head, forcing him to release the woman and roll into cover.
+
+Waxillium Ladrian stands at the front of the battle, wearing a mistcoat—a garment with tassels that hide his movements. Wax uses his Steelpushes to deflect incoming fire and guide a bullet into a hidden gangster. Marasi identifies that the Set gangsters have a limited supply of aluminum bullets to bypass Wax’s defenses. She concludes that the Set initially planned to be captured to avoid suspicion but changed tactics when Elendel constables appeared. Marasi orders the constables to hold their position and provide covering fire while Wax handles the Sequence.
+
+Wax fires at the Sequence, who dodges the shot and Steelpushes himself through the warehouse ceiling. The legendary lawman follows the villain through a broken skylight to continue the fight in the skies above Bilming. Getruda and the remaining gangsters flee the warehouse as the Elendel and Bilming constables regain control. Marasi uses an Allomantic grenade to freeze a group of retreating enemies while the other officers tend to the wounded. Wayne creates a speed bubble to help the injured constables reach safety as the primary battle moves into the city.
+
+Sentence Count Check: 15

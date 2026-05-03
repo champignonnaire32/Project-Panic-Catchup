@@ -1,0 +1,57 @@
+### Chapter 5
+
+Wax walks through the Senate floor while other politicians avoid his gaze after a failed vote. He returns to his chambers and finds Steris, their children, and their governess waiting for him. Steris is visibly trembling with frustration over the defeat of the bill they worked on for a year. Wax finds a mysterious envelope on his desk containing a single earring and a cryptic note. He puts the jewelry in his pocket and decides to ignore the message from Harmony for the day.
+
+The group gathers their belongings and children to leave the Senate building for the afternoon. Wax notes that few other senators bring their families to work, which he finds disrespectful to the institution. Outside, a fleet of motor carriages, or petrol-powered cars, arrives to transport the various politicians. Wax speaks with his son Max about Wayne’s influence on the boy's use of rough accents. Hoid, the driver, pulls up in a motorcar to collect Steris and the baby.
+
+Wax puts on a leather harness, a set of straps used to secure a child to his back. Max shouts insults at the nearby senators as Wax prepares to depart the area. Wax drops a bullet casing to use as a metal anchor for his Allomancy. He launches himself and Max into the sky to make the boy happy. Max lets out a shout of glee as they fly away from the Senate building.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 6
+
+Marasi enters a dark tunnel featuring ancient brick walls and modern electric lights. She carries a grenade, a metallic device that holds an Allomantic charge, to use against potential enemies. Upon reaching a large cavern with a collapsed bridge, she encounters a gang leader known as the Cycle. The Cycle fires a pistol at her, but Marasi uses the grenade’s Steelpush to deflect the bullets. Her pistol is accidentally thrown into a deep chasm during the exchange of force.
+
+The Cycle reveals he is a Feruchemist, a person who stores physical attributes in metal, by tapping strength to grow his muscles. He destroys the wooden bridge to trap Marasi on one side of the chasm. Marasi attempts to fight him with a glass dagger, but he heals the wound instantly using Feruchemical gold. She realizes he is using Hemalurgy, the art of stealing powers through metal spikes, because he has multiple abilities. The Cycle’s eyes glow red as he claims to be a host for a god named Trell.
+
+Marasi wedges the grenade into a rock and uses a rifle barrel to Push herself across the pit. She shoots the Cycle three times in the head, but his skull begins to reseal itself. Marasi digs four metal spikes out of the Cycle’s ribs to stop his unnatural healing. One of the spikes is made of trellium, a mysterious metal characterized by dark red spots like rust. The Cycle speaks a final prophecy about ash and "men of gold and red" before he dies.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 7
+
+Wax and Max travel across Elendel using high-speed Steelpushes to bounce between skyscrapers. They watch a Malwish trade ship enter the city using ettmetal, a reactive metal used to power southern technology. Wax reflects on how the city of Elendel serves as a monument to human ingenuity and progress. He notes that the people of the Basin have become content and no longer seek to explore. The pair eventually lands on the roof of Ahlstrom Tower, where the Ladrian family lives in a penthouse.
+
+Max plays on the roof by dropping twirly-seeds, winged seeds that spin as they fall, toward the street. Wax looks toward the northern Roughs and realizes he no longer longs for his old life of adventure. He embraces Max and feels a deep sense of belonging within the city he now serves. They play a game of fetch using a wicker ball weighted with a small piece of metal. Wax launches the ball onto neighboring rooftops so he and Max can jump over to retrieve it.
+
+A massive Malwish warship, a wooden fortress propelled by giant fans, appears in the sky over the city. Wax observes that the vessel is significantly larger than any airship the Basin people have attempted to build. He recognizes the arrival as a deliberate show of force by the southern people. Max is strapped back into his harness as Wax prepares to investigate the floating vessel. Wax launches himself into the air toward the massive ship to see what the Malwish intend.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 8
+
+Marasi uses a service ladder to climb out of the chasm and retrieve a ledger from the Cycle’s body. She wraps the trellium spike in cloth because it physically repels the other three Hemalurgic spikes. In the main cavern, she finds Wayne playing cards with fifteen gangsters he has successfully captured. Wayne used his speed bubble, a zone of compressed time, to snatch the thieves while they were stunned. He also removed the prisoners' shoelaces to tie their hands together behind their backs.
+
+Marasi shows the trellium spike to Wayne and explains that the Cycle was a red-eyed Hemalurgist. She burns cadmium, a metal that creates a bubble of slowed time, to guard the captives. While inside the bubble, she reads the prisoners their legal rights from a blood-stained notebook. Wayne leaves the cavern to fetch constable backup and check on the Cycle’s corpse. Marasi worries about the Cycle’s dying warning regarding the return of lethal ashfalls to the world.
+
+A mysterious woman wearing a black cloth mask and dark clothing briefly appears at the edge of the bubble. She observes Marasi for a moment before vanishing into a blur of speed. Wayne returns with a group of constables and uses his own powers to cancel out Marasi’s slowness bubble. The officers secure the prisoners and begin collecting evidence from the site of the explosion. Marasi and Wayne agree to meet with Wax to discuss the spikes and the cryptic prophecy.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 9
+
+Wax and Max board the Malwish warship via a small skimmer, an open-topped flying transport. They receive medallions, metal objects that grant temporary Feruchemical abilities, to reduce their weight for the flight. Wax meets Admiral Daal, the new ambassador for the Malwish Consortium, which is a unified southern government. Daal expresses resentment toward Wax for taking the Bands of Mourning and delivering them to the kandra. He replaces the previous ambassador, Jonnes, who was recalled for being too friendly with the Basin people.
+
+The atmosphere becomes tense as Daal boasts about the South’s ability to bomb Elendel from high altitudes. Max interrupts the diplomatic confrontation because he needs to use the small restroom on the ship. Wax and Daal wait in the corridor while the child hums loudly inside the latrine. Daal claims that the Basin’s gun emplacements are insufficient to defend against a modern southern air fleet. Wax refuses to be intimidated and tells the ambassador to take his complaints to the legislature.
+
+Wax Steelpushes back to his penthouse and locks the door to ensure his family’s safety. He tells Steris about the unification of the southern states and the hostile attitude of the new ambassador. Steris worries that the threat of southern imperialism will help pass the Supremacy Bill in the Senate. They receive a written message from Marasi requesting a meeting at the Ladrian mansion at 3:00. Wax decides to wash up and prepare for the meeting while Max begins his history lessons.
+
+Sentence Count Check: 15

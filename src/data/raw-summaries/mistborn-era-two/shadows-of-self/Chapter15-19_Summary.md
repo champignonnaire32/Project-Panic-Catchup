@@ -1,0 +1,49 @@
+### Chapter 15
+
+Wax visits a Soothing parlor run by Mistress Halex, a woman in a matronly gown and an aluminum-lined hat. He flashes his constable credentials and enters a dimly lit room with lounging patrons. He searches for a short, balding man named Chapaou. Wax finds Chapaou paying for a private session in a small room on the second floor. Chapaou is shivering and tells Wax he wants to forget what he saw.
+
+Marasi meets with Constable-General Aradel on the roof of the constabulary offices. MeLaan exposes a transparent torso with an emerald skeleton to Aradel, confirming her kandra nature. Aradel asks Marasi to report back to him weekly regarding Wax's investigations. MeLaan and Marasi walk to the governor's mansion after the meeting. Wax listens to Chapaou explain how he picked up a mistwraith that transformed into a twisted version of Chapaou himself.
+
+Chapaou says the creature left bones in his carriage and dropped them at Lestib Square. Wax discovers a glowing blue powder on the hem of the robe left behind by the creature. Wax collects a sample of the powder into a vial. Wax tells Chapaou to go home and assures him the creature likely does not want him dead. Wax prepares his weapons and leaves to check in at the governor's mansion.
+
+**Sentence Count Check:** 15
+
+### Chapter 16
+
+Wax perches on an electricity pylon overlooking the brightly lit governor's mansion. Bleeder speaks directly into Wax's mind. Wax spots Bleeder standing inside an open window of a nearby office building. Wax fires a bullet at the wall beside Bleeder, missing her on purpose. Bleeder moves with Feruchemical speed toward the governor's mansion.
+
+Wax uses a steel push to fly across the grounds and spots Bleeder wearing a scarlet coat and a broken Marksman mask. Bleeder kills the guards at the front doors and enters the sitting room. Wax fires a hazekiller slug, a heavy bullet built to deliver massive force, that shatters Bleeder's ankle. A group of the governor's guards enter from a hidden stairwell and Bleeder shoots them before heading down the steps. Wax follows her and enters a speed bubble created by Wayne.
+
+Wax empties two handguns and a shotgun into Bleeder, destroying her face and mask. Wax throws a syringe at Bleeder, but it stops at the edge of the speed bubble. Bleeder heals her wounds and runs into the saferoom using Feruchemical speed. Wax steps out of the speed bubble and discovers Governor Innate holding a bleeding Drim. Wax finds a discarded scarlet cloak in the escape tunnel and a crude drawing scrawled in blood.
+
+**Sentence Count Check:** 15
+
+### Chapter 17
+
+Wayne uses the governor's washroom and changes back into his own clothing. Wax writes a note, seals a small metallic object inside an envelope, and hands it to a messenger for Ranette. Wayne intercepts a kitchen maid to take snacks before Wax asks MeLaan to transform into one of the dead guards. MeLaan consumes the dead guard in the washroom and alters her bones to mimic the woman. Wax hands MeLaan the vial of blue powder he found on the Pathian robe.
+
+MeLaan identifies the powder as perchwither, a bioluminescent fungus that only grows in the kandra Homeland. Wax receives a card from a footman announcing the arrival of his coach. Wax leaves Wayne and MeLaan to guard Governor Innate while he attends a meeting. Wax enters the carriage and finds his uncle, Edwarn Ladrian, waiting inside. Edwarn admits the Set is taking advantage of the unrest caused by Bleeder.
+
+Edwarn refuses to help Wax stop Bleeder and reminds Wax that his sister is still held captive. Edwarn states that if Wax kills him, his sister will die. Edwarn stops the carriage and tells Wax to leave. Wax threatens to hold a gun to his uncle's head one day. Wax steps out of the carriage into the mists and slams the door.
+
+**Sentence Count Check:** 15
+
+### Chapter 18
+
+Governor Innate holds a meeting with his executive staff in his private study while Marasi waits by the window. Innate writes a writ of martial law, seals it with his stamp, and hands it to Marasi. The governor orders Aradel to use the constables to beat down looters across the city. Marasi descends into the hidden saferoom and discovers three books with scuffed spines on the shelves. She finds a key hidden inside the pages of one of the books.
+
+Marasi pushes back the rug under the desk and uses the key to open a hidden safe. Inside the safe, she finds a pistol, cigars, a bundle of banknotes, and a stack of letters. Marasi reads the letters and discovers evidence of Innate exchanging political favors for bribes. Marasi tucks the letters into her purse, locks the safe, and returns to the ground floor. Wax lands on a rooftop and looks down at the pubs filled with shouting men.
+
+Wax leaps away and lands atop one of the towers of Eastbridge, a massive riveted structure spanning the Irongate River. Wax mentally asks Harmony if He knew what would happen to Lessie. Wax walks along the top of the bridge and looks out at the darkness outside the city. Wax turns away from the darkness and walks back to the edge. Wax leaps off the bridge and pushes himself into the night sky to continue his hunt.
+
+**Sentence Count Check:** 15
+
+### Chapter 19
+
+Governor Innate shuts the door to his study, leaving Wayne, MeLaan, and other guards in the hallway. Wayne sends the other two guards away to watch the window from outside. Wayne helps MeLaan practice a Second Octant accent for her disguise. Ranette arrives at the mansion and Wayne intercepts her before she shoots the butler. Ranette hands Wayne a pouch containing a piercing bullet that Wax asked her to make.
+
+Wayne tells Ranette to go back to her house and lock her doors. Marasi delivers the writ of martial law to Captain Aradel outside the constabulary headquarters. Aradel mounts a horse to ride to the mansion, and Marasi mounts another horse to follow him. Marasi hands Aradel the stack of letters she stole from Innate's safe. Aradel tucks the letters away and continues riding toward the mansion without expressing surprise.
+
+Wax lands at the Field of Rebirth and ignores the constables guarding the mausoleum doors. Wax enters the Originator Tomb and passes a bleary-eyed caretaker who attempts to stop him. Wax drops into a gaping pit and activates the lights inside a large cavern. He follows blue lines of steelsight to a decorative piece of wood paneling and pushes a hidden lever. A doorway opens into a dark cavern where a voice greets Wax as he strikes a match.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,57 @@
+### Chapter 45
+
+Marasi, Moonlight, and TwinSoul enter a theater room containing a projection device that displays moving color images of a ruined city. TwinSoul uses his aether powers to touch the light stream while Marasi recognizes the technology as an advanced form of evanotype projection. They discover a second room containing a physical model of Elendel crafted from wood and plaster to look destroyed. Marasi realizes the Set is using these models to create a hoax suggesting the world has already ended. Moonlight confirms the deception but questions the ultimate purpose of the elaborate fake.
+
+The team locates a set of doors overlooking a loading dock where armed Set members patrol the area. TwinSoul uses a line of crystals to identify an industrial elevator shaft hidden behind a nearby wall. Moonlight applies a soulstamp to the wall to create a functional doorway leading into the dark void. TwinSoul enters first and anchors himself by growing a ladder of roseite, a pink crystalline aether substance. They prepare to descend the shaft as Marasi worries about the elevator being called back to the surface.
+
+TwinSoul continually generates new rungs of roseite stone to facilitate their deep descent into the facility. Moonlight provides illumination by opening her rucksack to let a pale white glow escape. They move slowly down the shaft to avoid detection while maintaining a steady pace toward the lower caverns. Marasi notes that TwinSoul's unique abilities make him an invaluable asset for navigating the hidden infrastructure. They reach the bottom of the shaft and prepare to investigate the secrets hidden beneath the city.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 46
+
+Wax climbs down a secret ladder from the mayor’s mansion into an emergency bunker stocked with rations and water. He discovers a reinforced metal door that leads into a storm drain used for rainwater runoff. After finding a motorized cart and tire tracks, he proceeds on foot through the tunnel toward a service ladder. He meets Wayne at a prearranged bar where the younger man admits to burning down the Silver House as a distraction. Wayne explains he used a cat as a prop for a fake rescue to divert the attention of the local citizens.
+
+The two men enter the storm drain together and Wax examines documents he recovered from the mayor’s office. He identifies an incriminating letter from a senator as a forgery after recognizing discrepancies in the handwriting style. Wax concludes that his sister Telsin intends to frame the Elendel government for its own destruction to consolidate power. They realize the lack of future appointments on the mayor's calendar indicates the attack is scheduled for that very day. Wax determines the secret laboratory must be nearby and continues deeper into the drainage system.
+
+Wayne discusses a story his mother told him about a hero fighting a monster named Barm in a canyon. They pass under grates that cast sunlight patterns on the tunnel walls while checking for any signs of pursuit. Wax notes that the Set will likely discover his intrusion into the mansion and follow them into the sewers. A gunshot echoes through the concrete pipe and a bullet strikes the wall near Wax's head. They duck for cover and identify two enemies waiting for them around a bend in the tunnel.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 47
+
+Marasi's team reaches the top of a service elevator at the bottom of the shaft and prepares to enter the facility. She uses an Allomantic grenade to create a speed bubble that freezes two flirting guards in time. The team slips past the guards and enters a tunnel lit by industrial miner’s lights attached to the walls. TwinSoul uses his aether to grow a dark roseite shell that conceals them from a passing patrol of five soldiers. Moonlight explains that the Ghostbloods follow three tenets including the protection of Scadrial and the sharing of secrets within the group.
+
+The team observes Mayor Entrone inside a makeshift building where he watches scientists perform a Hemalurgic experiment. They witness a scientist use a thin silver spike to excise a piece of a living woman's soul without killing her. This new technique creates a spike that is partially invested with the power of an ordinary human's spirit. Entrone expresses frustration that the process has not yet produced stable Allomancers to impress the god Autonomy. He orders the execution of all prisoners in the bunker and plans to evacuate his loyalists before an invasion begins.
+
+Marasi watches as Entrone leaves the room to visit a location he refers to as the Community. A scientist orders assistants to fetch poisonous gas pellets to kill the captives held in a stone cell. Moonlight and TwinSoul argue that they should prioritize the mission and leave the prisoners to their fate. Marasi refuses to abandon the innocent people and insists on performing a rescue mission as an officer of the law. The Ghostbloods eventually agree to assist her in a quick strike against the remaining guards in the room.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 48
+
+Steris watches the behavior of the senators and identifies Lady Gardre as a likely double agent for the Set. When Gardre receives a whispered message and abruptly leaves the room, Steris concludes the city is in immediate danger. TenSoon arrives at the senate chamber carrying the Bands of Mourning, which are shaped like a large metallic spearhead. Ambassador Daal negotiates a deal where the Malwish will receive the artifact after the Basin uses it to save Elendel. TenSoon agrees to the terms on behalf of Harmony as the governor prepares to authorize the weapon's use.
+
+Adawathwyn attempts to activate the Bands of Mourning but finds them completely inert and devoid of any Investiture. Steris touches the spearhead and confirms that the legendary artifact has been drained of all its metallic powers. TenSoon expresses horror at the discovery while Daal immediately claims the useless object for the Malwish people. The governor and the other senators fall into despair as their primary hope for defending the city vanishes. Most of the government officials decide to flee the city with Daal rather than stay to face the explosion.
+
+Steris stays behind and presents a comprehensive citywide evacuation plan she developed during her leisure time. She challenges Governor Varlance to fulfill his duty to the citizens of Elendel instead of abandoning them to die. Varlance hesitates as he watches his colleagues depart but eventually decides to stay and assist with the emergency efforts. Steris coordinates with Constable Reddi to begin the organized movement of the population away from the projected blast zone. They work together to implement the most efficient evacuation routes to save as many lives as possible.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 49
+
+Wayne steps in front of Wax to absorb several bullets as they retreat from Dumad and Getruda’s initial ambush. The four combatants engage in a close-quarters battle within the circular concrete walls of the storm drain. Getruda mimics Wayne’s appearance and accent while attacking him with wooden dueling canes and healing from gold metalminds. Dumad uses a massive Steelpush to pin Wax against the wall and utilizes chromium to Leech Allomantic powers. Wayne creates a large speed bubble to force the fight into a localized area where their physical skills can be utilized.
+
+The combatants trade blows and use their respective metalminds to heal from broken bones and internal injuries. Wax is eventually Pushed out of the speed bubble and becomes frozen in time, leaving Wayne to fight both enemies alone. Wayne uses his healing reserves to survive a faceful of coins Pushed into his flesh by Dumad's enhanced powers. He adopts a disturbing and wide-eyed persona to distract the attackers with a psychological display of his inner pain. This ruse allows Wayne to drop the speed bubble without the enemies noticing the shift in time.
+
+Wax immediately fires hazekiller rounds from his position outside the former bubble to strike both targets. Getruda takes an explosive round to the face that destroys half of her skull, yet she remains partially conscious. Dumad receives a shot to the chest but continues to function using the strength of his pewter spikes. The two villains seize the opportunity to escape by Pushing through a ceiling grate into the sunlight above. Wax and Wayne slump against the tunnel walls to recover from their exhaustion and depletion of metal reserves.
+
+Sentence Count Check: 15

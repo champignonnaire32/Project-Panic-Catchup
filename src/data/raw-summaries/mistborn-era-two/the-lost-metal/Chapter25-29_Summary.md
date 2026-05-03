@@ -1,0 +1,57 @@
+### Chapter 25
+
+Waxillium Ladrian chases an enemy Coinshot through the city of Bilming after a sudden moment of spatial disorientation. The opponent uses duralumin—an alloy that allows an Allomancer to burn their entire metal reserve in a single powerful burst—to launch himself high into the sky. Wax lands on a rooftop to retrieve his aluminum-lined gear and Vindication, which is loaded with aluminum rounds. The enemy launches a metal-girded wall at Wax and consumes metals from an aluminum flask to maintain his duralumin-enhanced Pushes. Wax identifies that the man has at least two Hemalurgic spikes, which grant him bronze-sensing and duralumin abilities.
+
+Wax attempts to hide his metal signature by extinguishing his steel and moving through an apartment building hallway. He exits a window and uses Feruchemy to decrease his weight, but the enemy detects the movement with bronze and continues firing. Wax executes a short steelpush on a drainage grate to trick the enemy before surprising him on a nearby rooftop. During the close-quarters struggle, the enemy reveals himself as a Leecher—a Misting who can drain another's metal reserves by touch—and empties Wax's stomach of steel. Wax falls from the roof without metals, managing to catch a falling vial mid-air to regain enough steel for a safe landing.
+
+Wax lands in a public square during a building dedication ceremony and is photographed by a journalist's evanotype—a device that captures images on metal plates. He realizes the incident will make him front-page news in the local afternoon broadsheets. Hoid, acting as a coachman in a sleek black car, arrives to offer Wax a ride away from the gathering crowd. Wax declines the carriage ride because Marasi and Wayne still need his assistance in the ongoing street battle. He launches back into the air to find his companions, causing the journalist to take a second photograph.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 26
+
+Marasi Colms allows the Bilming constabulary to take over the crime scene while she retrieves two of her Allomantic grenades. She meets with Wax, Wayne, and VenDell at the local headquarters to review a casualty report that lists two dead constables. Wax explains that Harmony—the god of Scadrial—is currently blind to events in Bilming and expresses fear regarding the enemy’s progress toward a weapon. The group surrenders their weapons to the local officers and waits in an interrogation room with yellow walls. VenDell sits on the floor to stitch his lumpy, misaligned kandra bones together using sinew.
+
+Marasi feels responsible for the deaths of her officers and worries that the captured Set members will be released by local authorities. Wax attempts to comfort her by stating that they are fighting the most powerful people in the world. He describes himself as Harmony's sword, recently reactivated to prevent the deaths of millions. Marasi notes that the Set has been kidnapping Metalborn for years to harvest their powers through Hemalurgy. VenDell reveals that Harmony has a dark shadow behind him and has been concealing his inability to see the world's details.
+
+The kandra explains that Harmony’s power to help is limited and that the group must act as his agents. Wax remains distant, reflecting on his previous direct interactions with the deity. Marasi questions the utility of a god who provides no direct assistance during a crisis. VenDell promises to contact Harmony for further aid but reinforces that they are the primary means of intervention. Captain Blantach enters the room in a clean uniform and announces the arrival of the local mayor.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 27
+
+Lord Gave Entrone enters the room and mocks the group's legal standing by claiming a recent repeal of the United Justice Act. Wayne immediately insults the mayor by comparing him to a sack of biological waste. Entrone ignores the insult and tells Wax that he is now a criminal under Bilming's local codes. He demands that Wax either break out by force or beg the governor for a legal pardon. The mayor refuses to acknowledge VenDell’s status as a representative of Harmony, calling kandra "animals" and "talking pieces of slime."
+
+Wayne unnerves Entrone by stepping close to him with wide eyes, causing the mayor to retreat in a hurry. Entrone grants the group one hour to decide their course of action before he formally presses charges. Captain Blantach apologizes for calling the mayor but insists the matter is now out of her hands. A guard delivers a radio box—a wireless communication device—to the room, which Wax refuses to use out of distrust. VenDell explains to Wayne that kandra can be friends despite being the targets of frequent jokes.
+
+Wayne reveals he is trying to moderate his language because Ranette believes children might be listening. Wax uses a trellium earring—a spike made of a god-metal from an invading deity—to eavesdrop on his sister, Telsin Ladrian. He hears her discussing a "primary delivery device" and a "backup" for a weapon that must be ready soon. Telsin detects Wax's presence and mocks him for running away to the Roughs, causing him to remove the spike. VenDell alerts the group that Harmony's promised help has arrived at the constabulary in the form of Death.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 28
+
+Ironeyes—the ancient Steel Inquisitor known as Marsh—enters the constabulary wearing voluminous black robes. His eye sockets contain heavy metal spikes that jut through the back of his skull, and his skin appears ghostly and ill. He uses emotional Allomancy to project a crushing sense of dread throughout the room, though the effect does not influence Wax. Marsh approaches the group and uses a combination of Steelpushing and Ironpulling to hover a gun between his hands before crushing its barrel. He intimidates Mayor Entrone into returning the group's weapons and ceasing all interference with their investigation.
+
+Marsh closes the door and reveals that he is running low on atium, causing him to age rapidly between breaths. He explains that he came to Bilming to find anyone attempting to split harmonium—a god-metal that can yield atium or lerasium. He provides the name Tobal Copper, a man who vanished after making legal claims about splitting the metal. Marsh notes that Harmony is growing indecisive, allowing the outside god Autonomy to move against Scadrial. He identifies Telsin’s ability to wear multiple spikes without being controlled as a result of using Trell’s god-metal.
+
+Marsh sketches a symbol of three interlocking diamonds, which Marasi recognizes as a Marewill flower. The Inquisitor identifies the symbol as belonging to his brother, the Survivor, who exists as a Cognitive Shadow—the sentient spirit of a deceased person. VenDell decides to stay behind to care for Marsh and the wounded constables while the others continue the investigation. Wax, Wayne, and Marasi rearm themselves and prepare to leave the building under Marsh's protection. Wayne expresses deep concern over the definitive proof of ghosts and the potential death of a god as they march out into the sunlight.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 29
+
+Captain Blantach follows the group outside and warns them that Mayor Entrone will eventually send constables to arrest them. She offers to keep the mayor distracted if the group agrees to take a local researcher named Kim with them for surveillance. Marasi recognizes "Kim" as Moonlight, a slender researcher with black hair and red lipstick who is an agent of the Ghostbloods—the secret organization led by the Survivor. Moonlight claims to know the city well and offers to help the group navigate Bilming's records office. Wax reluctantly agrees to let her join the team to find information on Tobal Copper.
+
+The group travels to the Bilming City Records and Research Building, a modern structure made of glass and silver. Moonlight slips away from the group to confront Marasi in a hallway and demands that her true identity remain a secret. She claims to have orders to help Marasi but expresses distrust of Wax and Wayne’s connections to Harmony. Moonlight offers Marasi secrets of the cosmere—the interconnected universe—in exchange for her continued silence and cooperation. Marasi reflects on her philosophy of law enforcement while the research team gathers documents regarding Tobal Copper.
+
+The records show that Copper was a chemist who was fired for claiming that splitting harmonium would destroy the world. He claimed that secret shelters were being built to survive a cataclysm and that the city government was complicit. The researchers also report that shipments of canned beans and nonperishable food have been vanishing across the city for two years. Wax suspects that the Set either killed Copper or kidnapped him to exploit his chemical expertise. Moonlight identifies the address of Copper's expensive apartment and offers to lead the group there while Wayne observes her act with suspicion.
+
+Sentence Count Check: 15

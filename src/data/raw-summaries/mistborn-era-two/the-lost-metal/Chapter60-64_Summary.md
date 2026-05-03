@@ -1,0 +1,57 @@
+### Chapter 60: Chapter 60
+
+Marasi experiences a wave of shame triggered by Armal's uncontrolled Rioting. This emotional attack forces Marasi to confront her insecurities about her relationship with Wax. Lord Mayor Entrone cowers on the floor because he lacks his aluminum-lined hat to shield him from the emotional manipulation. Marasi overcomes the Rioting by acknowledging her self-worth and logic despite the overwhelming feelings. She bypasses the incapacitated Entrone and re-enters the mansion to find the source of the portal.
+
+Inside the mansion, Marasi discovers a twenty-foot-wide pool of radiant, churning liquid Investiture. Looking into the pool, she sees thousands of golden-skinned soldiers with glowing red eyes waiting in a misty realm. These soldiers carry advanced rifles and represent the invasion force mentioned in the prophecies of the final metal. Marasi realizes the pool contains the equivalent of thousands of jars of the power used by TwinSoul and Moonlight. She decides to dispose of the power by using it all up before the invasion force can step through.
+
+Marasi exits the building and finds that Armal has successfully restrained the regenerating Entrone. A Leecher named Macil—an Allomancer capable of draining others' power—assists by stripping Entrone of his strength. Marasi orders every available Allomancer in the cavern to gather at the pool immediately. She explains that the well of power is opening a portal to a dangerous army. Her plan is for the group to burn through the liquid Investiture using their own Allomantic abilities to close the gateway.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 61: Chapter 61
+
+Wax carries Wayne on his back as they jump from a skyscraper onto a high balcony of the Shaw. Wayne expresses disappointment that they did not smash through the glass windows like the Ascendant Warrior. Floodlights suddenly illuminate the balcony and Set soldiers begin firing modern rifles at the pair. Wayne stays behind to distract the troops by wearing Wax's mistcoat and imitating his voice. Wax uses the distraction to slip through a side door and enter a dark hallway behind the enemy lines.
+
+While hiding near the ceiling, Wax drops down and kills three soldiers with coins to the brain. He enters the main room and observes soldiers in red uniforms using aluminum bullets and floodlights on wheels. Wax taps his metalmind for weight and Pushes the heavy floodlights into the soldiers to crush them. He uses more Steelpushes to sweep the remaining enemies and equipment out of the broken windows. Wayne joins him in the room and returns the mistcoat, which now has sixteen bullet holes from the skirmish.
+
+Wax holsters his various guns, including the grenade-launching Big Gun and the custom-built Vindication. He briefly inserts a trellium earring to communicate with his sister, Telsin, who is thirty floors above. Telsin mocks him for his limited mindset and claims her Hidden Guard soldiers will stop his ascent. Wax discards the earring and consumes a vial of steel sent to him by Harmony. He orders Wayne to stay behind him while he begins a direct, violent assault up the tower's interior.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 62: Chapter 62
+
+Wax begins his ascent by firing bullets through the stairwell door to hit hidden soldiers. He uses the Big Gun to launch an explosive grenade that sprays shrapnel throughout the smoke-filled hallway. His steel bubble protects him from the metal fragments while he guns down the remaining survivors. Wax launches himself up the center of the skyscraper stairwell, tearing the metal banisters from the walls. He uses Steelpushes to pin enemies against the concrete using their own equipment and architectural debris.
+
+Wax embraces his role as Harmony's sword, acknowledging the necessity of destruction to protect the Basin. He notices mists trickling into the stairwell from external vents as he climbs higher. Set soldiers attempt to stop him with their own grenades and nets strung across the central column. Wax counters by using his Allomancy to rupture the concrete steps and throw the soldiers off balance. He consumes large quantities of steel to maintain his momentum while delivering lethal shots with Vindication.
+
+Upon reaching the top floor, Wax views the carnage he left behind in the shattered stairwell. He asks Harmony if this massacre was the intended purpose of his return to Elendel. Harmony responds with a mental image of a broken man on an ashen street before a destroyed city gate. Wayne catches up to Wax just as they enter a marble hallway leading to a grand ballroom. They encounter a final group of building security guards who appear hesitant and poorly armed compared to the soldiers.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 63: Chapter 63
+
+Wayne shouts to the guards that he knows they are just watchmen looking to earn an honest living. He reminds the men that they likely want to go home to their families rather than die in a hallway. Wayne highlights that the hundreds of professional soldiers stationed below were unable to stop their advance. He describes the fear the guards feel and the weight that killing a lawman would have on their consciences. Finally, he offers them an escape route through a side door and promises not to target those who leave.
+
+The guards scramble to exit the marble room as soon as Wayne stops speaking. Wax lowers his gun in surprise as the entire security force abandons their posts. Only a few leaders hesitate before joining the mass exodus through the side hallway. With the guards gone, Wax and Wayne proceed to the large wooden doors at the end of the hall. They push the doors open to reveal a grand staircase and a ballroom topped with a skylight.
+
+At the top of the stairs, they find the man in the suit and the woman in the bowler hat. The woman has fully healed from her previous injuries and taunts Wayne by flipping a dueling cane. Wax realizes these two Twinborn were specifically trained to counter his and Wayne's fighting styles. He decides to split the pair, choosing to fight the woman while Wayne handles the man. Wayne agrees to the plan, noting that the man is a Leecher—an Allomancer who can drain reserves on contact.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 64: Chapter 64
+
+The Community Allomancers gather around the glowing pool and begin drawing the liquid Investiture into themselves. Marasi stands in the center of the pool and uses the massive energy to charge her two Allomantic grenades. She feels the vibration of the power through her bones as she drains the well. Across the planar threshold, the golden soldiers become agitated as they realize their gateway is being drained. Marasi commands the Allomancers to burn their reserves as fast as possible to deplete the source.
+
+As the pool shrinks, the army on the other side begins the process of forcing their way through the portal. Marasi uses a mental command to open the portal herself while dropping her fully charged grenades—technology designed to store and release Allomancy. The sudden loss of energy and the interference from the grenades cause the movement on the other side to freeze. The group continues siphoning the remaining power until the glow completely vanishes from the room. The ballroom floor is left with a normal rock pit where the well of power once sat.
+
+Marasi receives a final impression of shock from the soldiers before the connection to their realm is severed. She predicts that the massive energy discharge into her grenades will prevent the army from trying again soon. The Allomancers collapse in exhaustion after the intense effort of burning through the god-like power. Marasi limps to the edge of the pit and allows the townspeople to help her out of the basin. She lies back on the floor and hopes that Wax and Wayne have successfully completed their own missions.
+
+Sentence Count Check: 15

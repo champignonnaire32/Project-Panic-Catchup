@@ -1,0 +1,49 @@
+### Chapter 15
+
+Templeton Fig admired his taxidermy collection until a bloodied corpse was thrown into his study. A figure cloaked in black with metal spikes protruding from his cowl and arm appeared at the window. This figure demanded the return of a stolen spike, prompting a terrified Templeton to confess he had sent it via courier to Dulsing. The constables arrived shortly after the figure vanished, finding Templeton uninjured. The mysterious figure was Wayne, who removed his disguise, healed his self-inflicted wounds, and relayed the information about Dulsing to Marasi.
+
+Wax explored Kelesina’s empty rooms and eventually overheard his uncle Edwarn speaking with Kelesina in a darkened study. He listened at the door, learning that the recent train robbery was a diversion and that an underling named Irich had lost an important device. Edwarn instructed Kelesina to keep Wax distracted in the city while he traveled to the second site. Edwarn also reprimanded Kelesina for failing to destroy the kandra shapeshifter whose spike Templeton had sent away. Wax considered ambushing them, but a steward approached the door from the hallway.
+
+To avoid detection by the approaching steward, Wax dropped a coin and Pushed himself to the ceiling. The steward entered the room and informed Kelesina that a guard had sensed Allomancy being used nearby. Kelesina asked about Waxillium's whereabouts, having previously believed he was occupied with his sick fiancée. Wax dropped to the floor and leveled his handgun at the occupants of the room. He quickly realized that his uncle Edwarn was not present, but had been speaking through a boxy device on the table.
+
+**Sentence Count Check:** 15
+
+### Chapter 16
+
+Edwarn spoke through the voice telegraph box, admitting he was trying to distract Wax while his real plans progressed. The Terris steward suddenly grew to incredible strength, slapped Wax's gun away, and retrieved it from the floor. Instead of shooting Wax, the steward shot Kelesina in the head, causing a passing maid to scream that Wax had murdered her. The steward shot Kelesina again and retrieved a gold bracelet from the dead woman's pocket. Wax grabbed the telegraph box, fled through hidden servant passages, and engaged a kill squad armed with aluminum weapons.
+
+Wax reached the balcony but was blindsided by the unnaturally strong Terris steward. MeLaan arrived and punched the steward, who broke her own hand by punching MeLaan's metal skull. MeLaan removed her forearm to expose a hidden metal blade and stabbed the Terriswoman through the chest. Wax killed three members of the kill squad with a stolen aluminum gun and looted the gold bracelet from the dead steward. Wax gave the telegraph box to MeLaan, collected Steris from the bushes, and escaped the estate by Pushing them both high into the mists.
+
+While suspended above the city in the Ascendant's Field, Wax kissed Steris before they descended back to the hotel. Wax informed Wayne and Marasi about Kelesina's murder and Suit's plans, prompting the group to flee New Seran in a carriage. Later that night, Wax smoked a cigar in the woods and confessed his deep anger toward Harmony to MeLaan. Wax chose not to return to Elendel to clear his name of Kelesina's murder. Instead, Wax directed his team to travel to Dulsing in a stagecoach to investigate the building project.
+
+**Sentence Count Check:** 15
+
+### Chapter 17
+
+As the group traveled by stagecoach, Waxillium told Marasi about his early struggles in the Roughs and his belief that Suit was using technology to create Allomancers. Marasi examined the metal cube she found earlier and discovered a tiny switch hidden in one of its grooves. After flipping the switch, she burned cadmium, which unexpectedly created a speed bubble that violently lurched the moving stagecoach. The group stopped the coach in a clearing and tested the cube by having Wayne burn bendalloy while throwing it to Marasi. The cube replicated Wayne's speed bubble around Marasi, proving it functioned as an Allomantic grenade that required an Allomancer to charge it.
+
+Wax handed the gold bracelet to Wayne, who recognized it as a Feruchemical metalmind completely devoid of Identity. Wayne cut himself and successfully drew healing power from the bracelet, confirming that the Set possessed incredibly advanced Feruchemical technology. Wax and MeLaan scouted ahead and found the village of Dulsing cordoned off by a heavily guarded perimeter disguised as a fallen tree. The group left Steris with the horses and proceeded on foot to a ridge overlooking an enormous, windowless wooden warehouse. The warehouse was lit by electric floodlights powered by a nearby waterfall and was surrounded by numerous soldiers in red uniforms.
+
+Realizing they could not sneak past the bright perimeter lights, Wayne suggested a highly dangerous infiltration maneuver. Wax utilized his Allomancy to violently Push Wayne into the air, launching him directly over the perimeter guards. Wayne plummeted fifty feet into the darkness between the watchposts and the warehouse walls. He struck the ground feet-first and tumbled into a pile of rocks, breaking his legs, spine, and shoulder upon impact. Wayne immediately tapped the unsealed gold metalmind to heal his catastrophic injuries before the guards could investigate the noise.
+
+**Sentence Count Check:** 15
+
+### Chapter 18
+
+After healing his broken body, Wayne crept through the shadows and unplugged the perimeter floodlights to create a distraction. During the resulting blackout, Wax, Marasi, and MeLaan successfully infiltrated the massive warehouse. Inside the building, the group discovered an impossibly large warship with a damaged pontoon undergoing repairs. The team divided their efforts, with Marasi and MeLaan searching for the kandra spike while Wax and Wayne hunted for Edwarn. Wax and Wayne climbed the warehouse's internal scaffolding, where Wayne subdued an engineer and stole his clothing for a disguise.
+
+Elsewhere in the warehouse, a diseased underling named Irich led a group of kidnapped scientists through the interior of the warship. Irich explained that the vessel contained an inexplicable propulsion system, rooms with indecipherable markings, and surviving crew members who spoke an unknown language. While exploring the ship's corridors, Irich discovered another Allomantic grenade cube inside a storage compartment. Marasi and MeLaan, hiding inside the ship, watched Irich exit the vessel and enter a room built into the warehouse wall. From his vantage point on the catwalk, Wax observed Irich's movements through a spyglass and spotted his sister Telsin inside a separate guarded room.
+
+Wax prepared to attack the guards outside Telsin's door, but Wayne insisted on a nonviolent approach. Wayne approached the guards wearing the stolen engineer's outfit and sporting a false nose and mustache. He shouted confusing, nonsensical technical jargon at the guards, claiming the ship was in imminent danger of collapsing. The bewildered guards abandoned their post at Telsin's door to hold up the ship's pontoon under Wayne's supervision. With the door unguarded, Wax slipped into the room to rescue his sister while Wayne maintained the distraction.
+
+**Sentence Count Check:** 15
+
+### Chapter 19
+
+Marasi and MeLaan brazenly walked across the warehouse floor and entered the hallway leading to Irich's private study. MeLaan picked the lock on the study door and dissolved the flesh on her hand to manipulate the internal mechanisms of the room's large safe. While searching the adjacent room, Marasi discovered three large cages hidden in the darkness. One cage contained a prisoner wearing a wooden mask painted red and black, matching the terrifying drawings left by the kandra ReLuur. The masked prisoner reached through the bars with a human hand and pleaded for help in a recognizable human voice.
+
+MeLaan successfully opened the safe, allowing Marasi to recover the stolen kandra spike and her Allomantic grenade. Marasi utilized a set of keys from the safe to unlock the cage and free the masked prisoner. The prisoner led them into a gruesome operating room covered in blood, where a dozen wooden masks hung on the wall. The youth briefly lifted his mask to reveal a human face before following Marasi back into the study. Inside the study, the masked man ignored the banknotes in the open safe and instead retrieved a small metal disc which he strapped to his arm.
+
+Meanwhile, Wax entered his sister's room and was tightly embraced by the weeping Telsin. Telsin confirmed that Edwarn was not present, but had been communicating with her through a telegraph device on the table. Wax handed Telsin one of his revolvers and prepared to escort her out of the warehouse. The large, thick-armed Coinshot guard from the train robbery suddenly burst into the room and stared at them. Without hesitation, Telsin aimed the revolver and shot the stunned guard as gunshots echoed through the warehouse.
+
+**Sentence Count Check:** 15

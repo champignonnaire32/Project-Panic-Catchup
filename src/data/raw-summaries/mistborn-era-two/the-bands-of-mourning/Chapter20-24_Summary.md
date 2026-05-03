@@ -1,0 +1,49 @@
+### Chapter 20
+
+Telsin shoots a corpse as Wax pulls her from the room and consumes a vial of metal. Wax and Wayne flee through the warehouse, utilizing Wayne's speed bubbles to avoid heavy gunfire from enemy soldiers. Wax destroys a section of the ship's hull to create an escape route and pushes Telsin and Wayne inside. Three enemy Allomancers in black suits attack Wax using allomancy and specialized firearms. Wax kills the attackers using his shotgun and his handgun while deploying an allomantic grenade.
+
+Marasi and MeLaan provide cover fire from a side room, accompanied by a small masked man. Wax drops the active allomantic grenade near Marasi, which she uses to freeze incoming enemies. During the intense crossfire, a bullet strikes Marasi in her left side. The masked man drags the wounded Marasi into the ship with MeLaan's assistance. Wax launches into the air, defeats the remaining gunmen on the catwalks, and retreats to the ship with Wayne.
+
+Inside the ship, MeLaan examines Marasi's gunshot wound as enemy forces advance outside. The masked man pulls a hidden switch, dropping a rope ladder from a concealed trapdoor in the ceiling. Wax pushes Marasi up through the trapdoor into a small hidden compartment resembling a railway car. The masked man distributes metal medallions to the group, granting them the ability to understand his language and manipulate their physical weight. Wax grasps two floor straps and pushes downward against the metal plates, launching the small vessel out of the main ship.
+
+**Sentence Count Check:** 15
+
+### Chapter 21
+
+Wax holds the vessel aloft using his Allomancy and the weight-reducing medallions. The masked man, Allik Neverfar, installs an allomantic primer cube into the dashboard and activates the ship's mechanical downward fans. The vessel stabilizes in the air, revealing itself to be a small flying ship powered by allomancy and mechanical rotors. Wax leaps from the ship and drops into the forest below to retrieve Steris and the group's supplies. Wax launches himself and Steris back into the hovering airship with the supplies.
+
+Telsin informs Wax that their uncle Edwarn is traveling to the southern mountains to find a powerful weapon. Telsin identifies the weapon as the Bands of Mourning, the legendary bracers of the Lord Ruler. MeLaan treats Marasi's intestinal wound by sewing it with catgut and grafting a piece of her own kandra flesh onto Marasi's skin. Marasi survives the procedure and puts on Wax's mistcoat to stay warm. Wax instructs Marasi to speak with Allik and gather information about his origins and the enemy's destination.
+
+Allik explains that his people from the southern hemisphere were saved from freezing by the Sovereign, whom they believe is the Lord Ruler. The Sovereign granted the southerners specialized medallions that bestow various Feruchemical and Allomantic abilities. Allik confirms that a southern faction sent an expedition to find the mountain temple containing the Bands of Mourning. The southern airship crashed in the mountains during a blizzard, leading to the crew's capture by Suit's forces. Wax orders Allik to pilot the airship toward the mountain temple to reach the Bands before his uncle's expedition.
+
+**Sentence Count Check:** 15
+
+### Chapter 22
+
+The group travels southward in the airship for two hours toward the mountain range. Wayne gives Marasi a painkiller to help her manage the discomfort from her patched gunshot wound. Allik tells Marasi about his southern homeland, where citizens wear different styles of masks based on their professions and social standing. Allik reveals that the airship is powered by a glowing substance called ettmetal, which explodes upon contact with water. The enemy forces captured the larger crashed airship and stole most of the southerners' ettmetal supply.
+
+Allik warns Marasi that the southern Hunters attempted to destroy the Bands of Mourning with ettmetal bombs. Marasi removes her Connection medallion, causing the ship to dip as her full weight returns. Wax draws his weapon in response to the sudden lurch, but the rest of the group remains asleep. Marasi attempts to use the Connection medallion to speak Allik's language, but it fails to translate her words. Allik explains that Connection medallions only alter the language of the wearer to match the local region.
+
+Allik confirms that his soul registers him as being in the Basin, allowing him to speak Marasi's language with a Malwish accent. Wax realizes the implications of the Connection medallions and moves to the front of the ship. Wax points out a cluster of taller peaks in the distance within the uninhabited Seran Range. Allik steers the airship higher toward the designated peaks and prepares for colder temperatures. Wax spots a distant light hovering in the darkness and deduces that Suit's expedition has arrived at the location.
+
+**Sentence Count Check:** 15
+
+### Chapter 23
+
+Telsin spots Suit leading a line of men through the snow below and begs Wax to let her shoot him. Wax refuses to shoot his uncle, stating that Telsin's testimony in court will inflict more damage on the Set. Wayne accidentally kicks a supply pack out of the airship, striking one of Suit's men in the head. Wax orders Allik to move the airship away from the enemy forces and continue toward the temple. Allik navigates the ship through a snowstorm and crash-lands it on its side near a bleak stone fortress.
+
+The group disembarks into the deep snow and views the ancient stone temple illuminated by starlight. Wax uses his Allomancy to push the crashed airship backward and bury it completely under a snowdrift. Wax leads the group past the frozen corpses of the southern Hunters who died attempting to bomb the temple. The group climbs the front steps of the temple and encounters a large statue of the Lord Ruler holding a spear. Wayne twists the aluminum spearhead off the wooden shaft and hides it in his pocket.
+
+The group enters the temple's dark hallway, and Allik activates a series of blue lights by inserting a metal nugget into a wall slot. The blue lights reveal a corridor littered with the frozen corpses of southern explorers killed by mechanical traps. Wax deduces that the southern explorers betrayed each other to steal the Bands of Mourning before dying to the temple defenses. MeLaan steps onto a pressure plate and intentionally triggers a hidden spear trap to demonstrate her kandra immortality. Wax, MeLaan, Allik, and Telsin proceed down the trapped corridor while Wayne, Marasi, and Steris stay behind to guard the entrance.
+
+**Sentence Count Check:** 15
+
+### Chapter 24
+
+Marasi examines ReLuur's pewter spike by lanternlight while waiting in the temple vestibule with Wayne and Steris. Steris shows Marasi a notebook graph calculating the overall usefulness of each group member on the mission. Steris confesses that she loves Waxillium and enjoys the freedom of breaking away from societal expectations. Marasi hugs her sister and acknowledges that love is a foolish but necessary emotion. Wayne interrupts their conversation and readies his dueling cane as he spots shadows approaching through the snow.
+
+Inside the corridor, MeLaan climbs out of a pit trap with shredded clothing and a broken crystalline arm. MeLaan repairs her broken arm by stretching her ligaments, and the group continues triggering the defenses. Wax directs MeLaan to safely activate pressure plates that launch darts, drop spiked logs, and release acidic ice. Wax and his companions reach a solid stone door at the end of the hallway engraved with silver symbols. Allik fails to recognize the symbols, prompting Wax to suggest retrieving Marasi to translate them.
+
+Telsin walks beside Wax and expresses her frustration over feeling helpless and lacking control in her adult life. Wax guides the group back through the triggered traps, lifting a fallen stone block to allow them passage. Wax questions Allik about the temple's design, finding it suspicious that the traps are so obvious and easily bypassed. Wayne meets Wax in the corridor and announces that Suit's expedition has arrived at the temple doors. Wayne reveals that Marasi is currently holding Suit at gunpoint after he approached them carrying a parley flag.
+
+**Sentence Count Check:** 15
