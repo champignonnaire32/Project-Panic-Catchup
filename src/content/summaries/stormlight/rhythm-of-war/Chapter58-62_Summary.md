@@ -15,8 +15,6 @@ Kaladin squeezes through a tight ventilation shaft to reach the ceiling above th
 
 The Sibling leads Kaladin toward the second level near the central atrium to intercept the enemy force. Kaladin recognizes the danger but suppresses his exhaustion and mental fatigue to resume his role as a soldier. He tells Syl they must find a better weapon quickly before engaging the Fused. The urgency of the plea overrides his previous plan to remain hidden and avoid direct confrontation. He prepares to face the Lady of Pains to prevent the total corruption of the tower's systems.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 59: The Lattice of a Growing Crystal
@@ -26,8 +24,6 @@ Kaladin bursts into a guard post with Stormlight to surprise and disable four si
 Kaladin reaches a secret tunnel on the eastern wall where the Pursuer and Raboniel are inspecting a large sapphire node. The Pursuer abandons his physical body and attacks Kaladin as a ribbon of red light. Kaladin attempts to trap the Fused using Full Lashings on the floor, but the creature repeatedly jumps to new bodies. He realizes the Pursuer is immortal and will hunt him forever until one of them is permanently destroyed. The Fused known as Raboniel watches the fight with detached interest while she prepares to corrupt the gemstone node.
 
 The Sibling guides Kaladin to a hidden room with a fast-closing door to trap the Pursuer inside. Kaladin lures the creature into the room and manages to shut the stone door, locking the Fused away. He returns to the node and smashes the sapphire with rubble, sending the cracked gemstone falling down the mountainside. Raboniel stabs Kaladin in the chest with a knife, but she does not pursue a killing blow as he heals slowly. She explains that Windrunner traditions arise naturally like a growing crystal and warns him that reinforcements are arriving.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Rlain demands that Venli use her influence as Raboniel's Voice to free him from 
 
 Venli successfully petitions Raboniel for custody of Rlain by claiming him as her precious kin. Raboniel grants the request but warns Venli that she will be held responsible for any trouble he causes. Timbre pulses with the need for a new oath related to seeking freedom for those in bondage. Venli attempts to speak the new words in private, but a distant voice rejects the oath. She realizes her motives are still too selfish and she must truly care for others to progress as a Radiant.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 61: Oil and Water
@@ -51,8 +45,6 @@ Raboniel forces Navani to work in isolation to prevent her from coordinating del
 
 The Sibling speaks to Navani and expresses a deep fear of both humans and singers as its death approaches. Navani argues that humans are the lesser evil because they do not intentionally corrupt spren like the Fused do. She tries to convince the Sibling to reveal the locations of the remaining two nodes to protect them. The Sibling refuses to share the locations until Navani proves she has a viable plan to mislead the Fused. Navani begins documenting everything she knows about Light to find a way to reverse the tower's corruption.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 62: Keeper of Forms
@@ -62,5 +54,3 @@ Eight years ago, Eshonai inspects an orange gemstone containing a trapped painsp
 Eshonai finds her mother Jaxlim wandering near the city wall and realizes her mother's memory is failing. Jaxlim recognizes the onset of her mental decline and asks for help returning to their home. She tells Eshonai that she must ensure Venli learns the songs before her mind completely gives out. Eshonai feels a deep sadness that her mother is regressing just as the listeners are making social progress. She avoids sharing her travel stories to prevent upsetting Jaxlim during her moments of lucidity and confusion.
 
 Venli returns home and announces that the elders are calling for volunteers to test new forms of power. She suggests that changing to a new form might save Jaxlim's mind by providing a different way of thinking. Eshonai is excited by the possibility and encourages her mother to volunteer for the experiment. Jaxlim agrees to try the form and praises Venli as a potential "keeper of forms" for her discovery. Eshonai notices that Venli's rhythms seem faster and more violent, but she tries to suppress her jealousy.
-
-Sentence Count Check: 15

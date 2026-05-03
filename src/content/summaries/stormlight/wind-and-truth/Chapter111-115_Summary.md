@@ -15,8 +15,6 @@ The Stoneward monastery forces emerge from the warcamp and march down to support
 
 Neturo is Szeth’s father and reveals he is the new leader of the people and a Bondsmith. He summons an Honorblade with a wavy blade and writing along the length of the metal. Neturo claims he has spoken to the Voice and that it is not a Voidbringer but a god. He embraces Szeth, who feels overwhelmed by the weight of his previous violent actions. Szeth surrenders to his father and asks to be told what he should do next.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 112: THE SONG OF RENUNCIATION
@@ -26,8 +24,6 @@ Taravangian tells Jasnah that she has been serving him her entire life through h
 Venli and the other listeners prepare to ride chasmfiends, which are massive crustaceans used as living siege engines. They brace themselves with ropes around the beasts’ carapaces while preparing to assault the human position at Narak. The listeners sing the Song of Destruction to the tune of the Song of Renunciation to prepare for war. A Fused named El leads the battle and intends to personally kill human spren to soften the enemy. The assault force includes hundreds of Fused and Regals backed by three chasmfiends.
 
 Heavenly Ones launch an attack against the human air forces as red lightning rumbles above the plateau. Venli remains in the second wave of the assault rather than leading the first charge as planned. The humans hold Narak with cracked walls and depleted Stormlight while facing a battle-hardened army. Timbre trembles within Venli as she observes the impending slaughter of the humans. The listeners focus their rhythms on the upcoming fight to bring down the city's fortifications.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ They find Rayse among the singers, who have begun to stray from Honor’s teachi
 
 Kor proposes equations that restrict divine power to individuals who must follow strict divine rules. Tanavast insists that the three Shards must stay in the Roshar system to prevent further deaths. Rayse accepts the terms, and the power of Honor binds all three Vessels to the agreement. Tanavast realizes that each violation of their word will weaken them and open them to attack. Roshar begins to adapt to the presence of Odium just as it did for Honor and Cultivation.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 114: THE GREATEST GOOD
@@ -51,8 +45,6 @@ Taravangian accuses Jasnah of being a hypocrite who previously murdered thieves 
 
 Wit explains that the illusion was meant to keep the tower calm while Navani was away. Navani is overwhelmed by the guilt of leaving Dalinar behind on the battlefield. She demands that Wit help her save him from the forces of Odium. Wit reveals that he has determined what went wrong seven days ago during the previous conflict. He leads Navani away to discuss a plan to rescue Dalinar from his current predicament.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 115: BINDING
@@ -62,5 +54,3 @@ Tanavast and Kor use their divine powers to sculpt stone structures and sweeping
 Tanavast reaches out to the other Shards of Adonalsium across the cosmere for assistance against Rayse. He contacts Preservation, Ruin, Endowment, Autonomy, and Invention in an attempt to form an alliance. Every Shard rejects his plea because they fear Odium will escape his cage on Roshar. They are willing to sacrifice the Roshar system to keep the dangerous Shard contained. Tanavast also fails to locate Valor, a dragon god who he believes would have fought by his side.
 
 Tanavast decides to resist Odium alone despite sensing that the choice could lead to his own death. He leaves Kor and meets with the human survivors from the world of Ashyn. He offers to bestow Surges upon them if they agree to obey his divine rules. Ishar proposes a plan to regain their powers involving a distant world that collects souls. Tanavast grants a large portion of his power to these humans, creating the first Heralds.
-
-Sentence Count Check: 15

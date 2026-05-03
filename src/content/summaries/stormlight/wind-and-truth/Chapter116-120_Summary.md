@@ -15,8 +15,6 @@ Taravangian argues that humans were responsible for the near extinction of the s
 
 Taravangian displays a Lightweaving of a past meeting where Jasnah suggested negotiating with the new Odium for personal benefit. He forces Jasnah to admit she would sacrifice Thaylenah to protect Alethkar or defeat him. Fen realizes Jasnah has been lying about her willingness to prioritize the greater good over her own nation. Taravangian promises that Thaylenah will become a genuine world power and remain independent of Alethi aggression. Queen Fen accepts the deal and joins the enemy coalition without any physical conflict occurring.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 117: TRUTHLESS
@@ -26,8 +24,6 @@ Nine years ago, Szeth sits by a fire while the leaders of the Shin determine his
 The leaders of the Shin declare that the Voidbringers are never returning and that the Knights Radiant have fallen. Neturo claims he saw the future and spoke to God after touching the Bondsmith Blade. Szeth summons his Honorblade and tosses it onto the grass as a symbol of his perceived sins. He demands to be named Truthless because he cannot trust his own judgment regarding the supposed return of the Voidbringers. The council binds Szeth’s wrists and prepares to send him into exile as a servant.
 
 Pozen provides Szeth with a small round rock that will serve as his Oathstone during his banishment. Szeth promises to obey the holder of the stone in all things except for a command to kill himself. The council allows Szeth to keep his Honorblade because the Voice insists that a stonewalker should never hold it. Szeth renounces his family name and accepts his new status as Szeth-son-son-Vallano. His father embraces him one last time before soldiers haul Szeth away to be sold to a travelling merchant.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Sigzil is the last ground commander to evacuate and drops the bridge behind his 
 
 Sigzil renounces his oaths to save Vienta, causing her to vanish just before Moash strikes the stone where she lay. The bond's destruction leaves Sigzil’s soul empty and filled with an acute, crippling sense of grief. Lopen and the members of Bridge Four arrive to rescue Sigzil and shatter the power-suppressing fabrial. Sigzil is taken through the Oathgate to Urithiru, where an Edgedancer heals his physical wounds but cannot fix his spiritual pain. El and his Fused forces occupy the Shattered Plains and post guards near the locked Oathgate to prevent a counterattack.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 119: SUNMAKER'S GAMBIT
@@ -51,8 +45,6 @@ Shallan enters a vision in the Spiritual Realm and encounters Mraize sitting on 
 
 Kaladin, Szeth, and the Herald Nale camp in a broken monastery as the final night of the contest begins. Nale gives his Honorblade to Szeth and admits he is no longer a man of justice. He reveals that Ishar, the Bondsmith Herald, has been using Odium’s power to manipulate the people of Shinovar. Ishar is waiting at the final monastery where he intends to initiate Szeth as a new Herald. Kaladin and his companions prepare to travel through the night to reach the monastery and confront Ishar at dawn.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 120: SHELTERED FROM THE EYES OF GOD
@@ -62,5 +54,3 @@ Four thousand five hundred years ago, the god Honor walks a battlefield of corps
 Honor loses his temper and physically clashes with Rayse, creating a massive thunderclap and a vacuum of space. Their souls meld briefly, giving birth to a discordant and dangerous substance known as anti-Light. The shock wave from their divine collision liquefies the ground and vaporizes an entire human capital city in seconds. Honor is horrified by the tens of thousands of deaths he has caused and withdraws from the fight. Rayse laughs and attempts to renegotiate their agreement so he can leave the Rosharan system.
 
 One of the Unmade, Ba-Ado-Mishram, approaches Honor in the shadow of the conflict and asks for peace. Honor declares he cannot make peace while Rayse still fights but admits he would consider it if given the chance. He recognizes that Rayse’s power loathes being trapped and that there is a weakness he can eventually exploit. Honor decides to push the Heralds harder by allowing them to access his powers and the planet's power more fully. He ignores the growing threat and resolves to be bold as he continues to lead his religion.
-
-Sentence Count Check: 15

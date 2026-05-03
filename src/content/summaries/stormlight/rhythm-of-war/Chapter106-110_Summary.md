@@ -15,8 +15,6 @@ In the tower atrium, the Pursuer seizes Lirin and attempts to provoke the catato
 
 A panicked Heavenly One grabs Lirin and flies toward the roof of the tower to escape Kaladin. Kaladin uses Navani’s gravitational fabrial to launch himself into the air and give chase through the lift shafts. He bursts onto the roof just as the Fused throws Lirin into the blackness of the storm. Kaladin looks down the edge of the pinnacle and recognizes the ledge where he once considered suicide. He chooses to jump after his father into the swirling tempest below.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 107: Uniting
@@ -26,8 +24,6 @@ Navani stumbles through the hallways while bleeding from the knife wound Moash i
 High above the battlefield, Dalinar Kholin feels a disturbance in the storm through his connection to the Stormfather. The Stormfather informs Dalinar that Kaladin has entered the storm for what appears to be the last time. Dalinar watches from a spiritual perspective as Kaladin tumbles through the air without using any Stormlight. Kaladin whispers that he is not strong enough and lets go of Syl’s hand during the fall. The Stormfather insists that they should only witness the end, but Dalinar demands they intervene.
 
 Dalinar uses his powers as a Bondsmith to manipulate the Connection between Kaladin and the Spiritual Realm. He manages to slow the passage of time for Kaladin within the "moment between" the storm’s beats. Venli stands in the atrium and watches as the Pursuer’s soldiers begin slaughtering human civilians. She decides to reveal her secret and begins drawing Stormlight from her spheres in front of Leshwi. Leshwi reacts with shock and immediately seizes Venli to demand an explanation for her glowing form.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Tien comforts Kaladin and tells him that the moments they shared are more import
 
 Kaladin returns to the reality of the falling storm and reaches out to seize Syl’s hand once more. He finally understands the truth and swears the Fourth Ideal of the Windrunners. He speaks the Words: "I accept it, Stormfather! I accept that there will be those I cannot protect!" The Stormfather’s voice booms in acceptance, and a massive explosion of light surrounds the falling pair. Kaladin is fully infused with Stormlight and prepares to save his father before they hit the rocks.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 109: Emulsifier
@@ -51,8 +45,6 @@ Navani remains at the crystal pillar and witnesses a vision of the humans and si
 
 Rlain and Dabbid arrive at the atrium and find the aftermath of the battle among the dead. They discover Teft’s body and perform a traditional singer song for a fallen hero in his honor. Rlain takes command of the situation, using the authority he learned from Bridge Four to lead the survivors. He organizes an evacuation of the wounded and the unconscious Radiants toward the tower's Oathgates. Venli confesses to Rlain that she does not actually possess a Shardblade to activate the transportation platform.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 110: Reborn
@@ -62,5 +54,3 @@ Kaladin bursts through the black clouds of the storm as a pillar of radiant ligh
 In the basement, Navani argues with the Sibling that their differences are exactly why they should bond. She explains that a Bondsmith must be able to unite disparate forces through compromise and understanding. As Moash raises his Blade to kill her, Navani hears the pure song of the Tower’s rhythm. She modulates her voice to harmonize the vibrations of Honor and Cultivation into a single powerful tone. The energy of the tower floods her body, healing her wounds and pushing back the darkness Moash represents.
 
 Navani speaks the Bondsmith Ideals and officially bonds the Sibling, becoming a Radiant queen of the tower. Moash is blinded by the sudden surge of light and is forced to flee into the shadows. Outside, Kaladin and Lirin reconcile as they hover safely above the ground in the aftermath of the storm. Lirin points out that the slave brands on Kaladin’s forehead have finally scabbed and fallen away. Kaladin realizes he has finally forgiven himself and prepares to return to the tower to finish the fight.
-
-Sentence Count Check: 15

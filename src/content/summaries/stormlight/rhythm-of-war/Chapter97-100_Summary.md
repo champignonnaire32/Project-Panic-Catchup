@@ -15,8 +15,6 @@ Navani uses a Thaylen vacuum tube to isolate Voidlight from the ambient rhythms 
 
 Raboniel survives the blast and realizes Navani intended for the two substances to annihilate each other under pressure. The Fused uses a raysium dagger to channel the anti-Voidlight into her own brain-damaged daughter. This process permanently kills the younger Fused, ending her cycle of eternal rebirth and allowing her mother to grieve. Raboniel explains that she captured the tower specifically to find a way to grant her daughter this final mercy. She seizes Navani’s research notebook, intending to develop anti-Stormlight to permanently destroy all Radiant spren.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter: Interludes
@@ -26,8 +24,6 @@ Hesina studies maps of Tomat and realizes the singer invaders are actually repai
 Noril explains that he chooses to get up every day because he sees Kaladin continuing to fight despite his own depression. This revelation forces Lirin to acknowledge that Kaladin’s actions provide a type of healing his surgery cannot offer. Nearby, a young boy named Adin helps his father in a pottery shop while dreaming of becoming a Windrunner. Adin observes singer warforms marching through the market and maintains a secret stance of rebellion. His father encourages him to take pride in making plates, arguing that sloppy craftsmen make for sloppy soldiers.
 
 Taravangian sits in his prison, struggling with his declining intelligence and his inability to manipulate Dalinar. He researches the soul-consuming sword Nightblood and notes its ability to feast on Investiture like a larkin. The Unmade Sja-anat appears in a mirror, revealing herself as a shadow with white holes for eyes. She warns Taravangian that Odium is vulnerable because his god-like power and human mind seek different goals. Sja-anat promises to lure Odium to Taravangian by providing gemstones containing her corrupted spren.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The Mink informs Dalinar that the war in Emul is essentially finished, leaving o
 
 The figure is identified as Ishar, an older Shin man with a white beard wearing simple blue robes. Ishar uses his powers to crystallize frost on the ground, forming a glyph that represents a question. Szeth becomes transfixed by the image, realizing for the first time that one of the Heralds appears as his own race. Dalinar confirms the man's identity using descriptions provided by Wit and prepares for a meeting. He orders further scouting missions while planning to consult Jasnah about the potential dangers of facing a Herald.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 99: Not Bound
@@ -51,8 +45,6 @@ Wit joins Jasnah in her room and shares a story about a gambler who lost a rigge
 
 Wit ensures the contract includes a clause naming himself as a representative of Honor to protect him from Odium’s wrath. He explains that Rayse’s arrogance and desire for a meaningful victory make him vulnerable to this specific gamble. Jasnah remains paranoid about the high stakes, questioning if the fate of the world should rest on a single fight. Wit reassures her that the contest is truly about the hearts of the mortals who choose to fight. Jasnah admits her deep-seated lack of trust in herself but feels electrified by the mystery of Wit’s true nature.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 100: Watchers at the Rim
@@ -62,5 +54,3 @@ Kaladin wakes in a dark chamber and realizes he tied his own hands to prevent hi
 Teft agrees that their hand has been forced and notes that they can no longer follow Lirin’s path of non-violence. Dabbid arrives and reports that Rlain is shaken by a recent interaction with Venli on the fourth floor. Kaladin instructs Dabbid to tell Rlain to contact Queen Navani while he and Teft focus on the rescue. The group prepares to use Bridge Four uniforms that Dabbid scavenged from the tower. Kaladin orders Dabbid and Rlain to hide once the message is delivered to ensure their safety.
 
 The rescue plan involves Teft and Lift infiltrating the infirmary to wake the comatose Radiants. Kaladin intends to create a loud distraction outside to draw the guards away and lure out the Pursuer. He instructs Teft to escape through the windows and return to Dalinar even if the mission fails. Teft demands that Kaladin promise to follow him rather than making a hopeless final stand against the trap. Kaladin swears the oath and prepares to face the Pursuer as the Sibling’s light continues to fade.
-
-Sentence Count Check: 15

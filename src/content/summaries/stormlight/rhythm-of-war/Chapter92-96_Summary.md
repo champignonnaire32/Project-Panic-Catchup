@@ -15,8 +15,6 @@ The Ancient One gives Venli a writ of authority as payment for her services. On 
 
 Venli clutches the paper and flees Raboniel’s presence without a formal farewell. She reflects on the losses of her sister, mate, and mother, all of which she caused. Raboniel suggests that confusion is a scholar's tool that can lead to truth. The Ancient One intends to finish unmaking the Sibling before moving on to new tasks. Venli recognizes that this map represents a potential future for the surviving listeners. She runs to find Rlain and share the discovery of their people's survival.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 93: Strong Enough
@@ -26,8 +24,6 @@ Formless awakens on the day of Adolin’s final judgment and prepares to execute
 Veil’s voice persists in Shallan’s mind, accusing Formless of being a lie to avoid pain. Formless ignores Pattern's warnings and Lightweaves herself to look like the honorspren Lusintia. She sneaks through the fortress of Lasting Integrity to reach Kelek's home near the battlements. Upon entering, she prepares to Soulcast the doorknob and kill the Herald with Mraize’s knife. Radiant suddenly intervenes, revealing that she was the one who killed Ialai to protect Shallan.
 
 Veil appears and confronts Shallan, forcing her to realize that Formless is just another mask. Shallan finally accepts the memory of killing her original spren, a different Cryptic, during her childhood. Veil integrates her memories and skills back into Shallan before fading away forever. Shallan enters Kelek's study and surrenders the Ghostblood knife to the weary Herald. honorspren guards burst in and arrest Shallan for colluding with the judge and attempting to influence the trial.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Sekeir calls Mayalaran to the stand as the final witness against the human race.
 
 Maya suddenly speaks two words, "We chose," which silences the entire forum in shock. She explains that the ancient Radiants did not murder their spren, but that both parties decided together. Maya screams that her sacrifice belongs only to her and cannot be used by the honorspren for their agenda. The trial ends without a formal conviction as the stunned audience and elders begin to disperse. Blended admits she orchestrated Maya's testimony to see if a true bond existed between her and Adolin.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 95: What She Truly Was
@@ -51,8 +45,6 @@ Venli watches from a distance as her sister Eshonai duels a human Shardbearer on
 
 The winds rip away a section of the building, leaving Venli exposed to the full fury of the tempest. In this moment of extreme danger, she is forced to confront the truth of her own character. She admits that she is not a genius or a queen, but a selfish coward. All her discoveries were merely hints provided by the Voidspren Ulim to manipulate her. She realizes she cares nothing for her people and has only ever acted out of self-interest.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 96: A Thousand Lies
@@ -62,5 +54,3 @@ Rlain finds Venli crying in the infirmary as she reviews the map of the Shattere
 Venli refuses to stay and help Rlain, insisting she must find her surviving people immediately. She plans to use Raboniel’s writ of authority to escape the tower through the Oathgates. Rlain mocks her, pointing out that she is acting like a traitor and might lead the Fused to the survivors. Venli gathers her loyal followers, Dul and Mazish, to prepare for their secret departure. They have siphoned rations and supplies to survive a long journey into the wilderness.
 
 Venli hopes to use the impending human rescue attempt as a distraction for their escape. She intends to travel to Alethkar and then disappear into the Unclaimed Hills to the east. Her ultimate goal is to find her mother, Jaxlim, who was among those who escaped. She fears that her people will condemn her, but she feels compelled to reach them anyway. The chapter concludes as Venli prepares to abandon the tower and her duties to both the Fused and the Radiants.
-
-Sentence Count Check: 15

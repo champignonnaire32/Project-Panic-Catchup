@@ -15,8 +15,6 @@ The Pursuer has discovered Kaladin's family and intends to interrogate and execu
 
 Venli suggests that holding Kaladin's family would be a valuable strategic resource for finding the fugitive before the Pursuer does. Leshwi descends to the sixth floor and uses her authority as an Ancient to take the family into her custody. She hides the surgeon, his wife, and child in a safe location and instructs them to remain hidden. Leshwi warns Venli that her compassion for humans is a dangerous passion that could be misconstrued by other Fused. Venli accepts her role as a false Radiant while Timbre encourages her to continue taking steps toward true honor.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 54: The Future Become Dust
@@ -26,8 +24,6 @@ Dalinar Kholin plays with his grandson Gavinor in a small room within the Alethi
 Dalinar walks through the camp and reflects on Jasnah’s desire to transition Alethkar into a neutered monarchy similar to Thaylenah. He finds the Windrunners gathered around a communal cookfire and joins them for a bowl of Horneater stew. Renarin smiles at his father’s approval of the tradition and later pulls Dalinar aside to discuss his recent visions. The two men walk into the dark wilderness outside the camp to speak privately about the future of the war. Renarin explains that his blood sickness has been replaced by a new, more dangerous type of fit involving his corrupted spren.
 
 Renarin summons a vision that transforms the ground into black glass and depicts Dalinar in white Shardplate pierced by a black arrow. He explains that Odium is like a dominating sun in the vision and will likely keep the humans fighting distractions forever. Renarin’s ability to see possibilities interferes with Odium's foresight, making those close to him difficult for the enemy to track. Dalinar encourages his son to embrace his unique status as a Radiant and promises to consider bonding more corrupted spren. Glys, the corrupted Truthwatcher spren, suggests that they need more allies like themselves to survive the coming darkness.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Kaladin plans to observe the Oathgate plateau by climbing down the exterior of t
 
 As he nears the third floor, Kaladin pauses when he hears singer scouts using spyglasses to watch for Windrunner reinforcements. A violet flash from the Oathgate indicates that the Fused are moving troops under the cover of night. Kaladin realizes that the scouts are using a spanreed to communicate with the operators on the ground level. Since the scouts are packing up their equipment, he decides to follow them and steal the device for Navani’s research. He hopes that capturing a functioning fabrial will provide the Queen with the clues she needs to reclaim the tower.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 56: Nodes
@@ -51,8 +45,6 @@ Venli travels to the central atrium and observes humans opening temporary shops 
 
 The Fused theorize that the nodes must be accessible to Radiants and are likely connected to the crystal pillar by veins of gemstones. One Deepest One asks Venli where she would hide such a device if she were a mortal with limited time. Venli remains silent to avoid helping them, but the Fused correctly guess that a node might be hidden outside to receive storm infusions. Timbre expresses disappointment when the Deepest Ones decide to search the exterior walls for signs of embedded gemstones. Mazish interrupts the meeting to inform Venli that her group has discovered another living listener within the tower's halls.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 57: Child of Odium
@@ -62,5 +54,3 @@ Eight years ago, Eshonai observes the Kholin family as they prepare to depart fr
 During a highstorm, young Venli huddles in a stormshelter while her mother sings traditional songs by the light of uncut gemhearts. Venli carries a bright red gemstone given to her by the human Ulim and feels a mounting anxiety about her choice. She slips out of the shelter into the freezing tempest, seeking a new form to rival her sister's growing fame. In the eye of the storm, she encounters the Stormfather, who questions if she is truly willing to make this choice for her people. Venli accuses the Stormfather of serving their enemies and insists that her people need new forms to survive.
 
 Venli smashes the red gemstone with a rock, releasing a Voidspren that takes the shape of a tiny glowing human male. The spren, Ulim, enters Venli's gemheart and instructs her to maintain her current workform while he scouts the modern world. He mentions the need to reach the new storm in the south and begins guiding her toward incredible but dangerous goals. Eshonai finds Venli returning from the storm and is disturbed by her sister's lack of rhythm and sudden, arrogant confidence. Venli mocks the idea that she was seeking mateform and struts toward the fire with a new, terrifying swagger.
-
-Sentence Count Check: 15

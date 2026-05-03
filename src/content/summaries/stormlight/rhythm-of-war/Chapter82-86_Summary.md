@@ -15,8 +15,6 @@ Adolin and Blended approach Kelek, who is acting as the High Judge in Lasting In
 
 Kelek grants the request for a trial by witness despite objections from the honorspren leader Sekeir. The Herald schedules the trial to begin in two days at the public forum to provide entertainment for the city. Blended warns Adolin that a public trial is dangerous because he must now persuade an entire audience. Adolin realizes that Kelek has already decided on a guilty verdict before hearing any evidence. Blended leads Adolin away to begin intense preparations for the upcoming sham trial.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 83: The Games of Men and Singers
@@ -26,8 +24,6 @@ Venli practices her Surgebinding on the fifteenth floor of Urithiru by sinking h
 Venli meets with Leshwi in the atrium of the tower to report that the Pursuer has located Kaladin's parents. Two nightform Regals, Urialin and Nistar, have been posted as guards at the Radiant infirmary as a warning. Leshwi explains that Raboniel is manipulating the Pursuer to exert authority over the other Fused. The Heavenly One admits that she fears Raboniel's grand plots more than the standard games of war between men and singers. Venli departs to check on the human refugees after feeling the ominous weight of Leshwi's words.
 
 In the infirmary, Lirin and Rlain argue about Kaladin’s fate while the unconscious soldier suffers from a spreading infection. Rlain and a mute bridgeman named Dabbid refuse to let Lirin treat Kaladin unless he promises not to surrender the Radiant to the Fused. Venli intervenes and proposes a plan to rescue an Edgedancer who is being held in a nearby cell. She uses her stone-shaping powers to breach the prison wall and frees the girl, who is named Lift. Lift agrees to help heal Kaladin after Dabbid reveals he can speak and leads her to the hidden room.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Raboniel visits the lab and provides Navani with an ornate dagger containing a v
 
 During her testing, Navani accidentally discovers a phenomenon involving force multiplication between conjoined gemstones. When she moves the dagger's large gemstone, the smaller half of the split ruby moves three times the distance. Raboniel is startled by the discovery and orders Navani to record her observations immediately. The Fused promises to provide specialized sand that changes color in the presence of Investiture to help measure power levels. Navani realizes she has found a way to create a weapon capable of killing a god through these scientific breakthroughs.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 85: Dabbid
@@ -51,8 +45,6 @@ Dabbid leads Rlain and Lift through hidden stairwells and tunnels to avoid the F
 
 Lift presses her hands to Kaladin’s chest and side, flooding his body with Stormlight until his wounds fully close. The healing process causes Kaladin to glow and forces the rotspren—small spren that appear around infected wounds—to flee. Lift also heals Teft, who wakes up confused and demands to know the location of his clothing. Kaladin eventually stirs and opens his eyes, realizing he is no longer in a coma and is surrounded by friends. Dabbid feels a sense of accomplishment for returning Kaladin's previous heroism with a successful rescue mission.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 86: The Song of Mornings
@@ -62,5 +54,3 @@ Eighteen months in the past, Venli watches her sister Eshonai return from a raid
 Venli encounters Eshonai, who is struggling with the physical changes of warform and the burden of leadership in Shardplate. They visit their mother, who has begun to suffer from a mental ailment that leaves her wandering and confused. Eshonai expresses deep regret for the war and the decision to kill Gavilar, wishing for a return to childhood innocence. Venli rejects this sentiment, viewing innocence as a false god that leads only to enslavement. The sisters sit together in a rare moment of peace as the sun sets over the plateau.
 
 Venli and Eshonai sing the Song of Mornings together, a simple teaching song from their childhood. Eshonai asks Venli to find a new form that would allow her to speak more diplomatically with humans like Dalinar Kholin. Venli promises to help but secretly continues her plan to summon the Everstorm and capture stormspren. She feels a brief moment of guilt about her deceptions but ultimately chooses to pursue her own ambitions. The chapter ends with Venli heading into a highstorm to begin her experiments with the new forms of power.
-
-Sentence Count Check: 15

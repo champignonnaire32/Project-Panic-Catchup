@@ -15,8 +15,6 @@ Moash agrees to serve the new Odium in order to right every wrong and find justi
 
 Moash looks at Odium and sees him as a blazing source of light resembling a nearby sun. He also sees another figure glowing with a different rhythm of light standing beside his new god. Moash declares that he will do what must be done to forge a better world. Odium confirms that Moash is ready to serve again in this new capacity. Moash's pain becomes a badge of his service as he rejects his guilt in favor of his mission.
 
-Sentence Count Check: 15
-
 ---
 
 ### Interlude 8: THE ONLY WAY
@@ -26,8 +24,6 @@ Taravangian allows his emotions to rule his mind and experiences a flood of worr
 Taravangian visits his grandchildren and daughter but remains invisible and silent to them. He feels a sudden terror for their safety and determines that criminals must be annihilated rather than just expelled. He concludes that his family will never be safe unless he controls every kingdom and everything everywhere. Intellect and feeling agree that Cultivation's plan for him was incorrect. Taravangian decides that war leading to his total control is the only viable path forward.
 
 He resolves to punish his enemies to ensure his city and family remain untouched by harm. Taravangian weeps as he acknowledges that the current state of peace in Kharbranth is insufficient. He embraces his role as the new Odium by prioritizing absolute authority over Cultivation's intent. The god of passion concludes that conflict is necessary to achieve his version of ultimate safety. He begins planning the total conquest of Roshar and all other worlds to eliminate every threat.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Dalinar and Navani enter a vision using a red ribbon from Shalash as an anchor t
 
 Navani explains to Gavinor that the vision is a story made of light to keep him from being frightened. Jezrien notes that humans cannot be confined to the wastelands and must expand into singer hunting grounds. The Heralds discuss the killing of thirty humans by singers in retribution for theft and murder. Dalinar realizes that Ishar and Jezrien are already discussing how to contain their powers as Surgebinders. The group prepares to meet with the singers as the first Desolation approaches the newly arrived humans.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 56: BY BONDS AND SPREN
@@ -51,8 +45,6 @@ Leyten informs Sigzil that they have run out of Stormlight because Dalinar has n
 
 In the listener settlement, Leshwi's Voidlight runs out, leaving her unable to fly or use her powers. Venli, Jaxlim, and Thude encourage Leshwi to abandon Odium and join the listeners as a walker. Jaxlim explains that the listeners survived by rejecting the conflict of the gods and belonging only to Roshar. Leshwi acknowledges that she has felt more like a spren than a singer after thousands of years of service. Thude agrees to share the Song of the Beasts, an oral history, with Venli to explain how the listeners made peace with chasmfiends.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 57: WHICH ONE TO FOLLOW
@@ -62,5 +54,3 @@ Fourteen-year-old Szeth defeats a larger youth named Jormo-son-Falk in the pract
 Szeth leaves the sergeant groaning on the ground with a leg injury before deciding to run the laps anyway. His mother brings him water and expresses her desire for him to have a normal life or solid work. Szeth's father, Neturo, works as the General's aide-de-camp and creates efficient routines for the camp. Neturo tells Szeth that he plans to make him the master of the training grounds in five years. Father and son walk to the monastery to meet with General Kinal and a visiting Honorbearer named Pozen-son-Nash.
 
 Pozen holds a wide Honorblade with a hooked end and expresses interest in Neturo's administrative successes. Szeth asks the Honorbearer how to know what is right when truth seems different for different people. Pozen tells Szeth to follow the chain of command that ends with the Heralds and God. Sivi, a young woman and second Honorbearer, observes Szeth while he admits his hesitation to hurt others. The older Honorbearer orders Szeth to work in a slaughterhouse and join a rear guard to accustom himself to death.
-
-Sentence Count Check: 15

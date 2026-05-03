@@ -15,8 +15,6 @@ Odium attempts to break Dalinar’s resolve by forcing him to witness his past f
 
 Using his personal agony as a tether, Dalinar pulls himself through the spiritual chaos to find the Stormfather. He discovers the spren huddled in a small stone cell, appearing as a broken mortal man overwhelmed by Honor’s past failures. Dalinar rejects his initial anger toward the Stormfather and offers to help carry the burden of the spren’s memories. The Stormfather admits he is an echo of Honor and agrees to show Dalinar the true history of the fallen god. As they touch, a new vision begins that encompasses the entire life of the deity Tanavast.
 
-Sentence Count Check: 15
-
 ---
 
 ### Interlude 15: RYSN
@@ -26,8 +24,6 @@ Rysn travels to the middle floors of Urithiru alongside Thaylen patent officials
 An intruder disguised as Dalinar Kholin enters the room and orders everyone but Rysn to leave immediately. Once the doors close, the illusion fades to reveal a white-haired Shin man who is later identified as the Mythwalker. Rysn’s internal power, the Dawnshard, begins vibrating violently in response to the man’s presence, causing her to fall from her chair. The Sleepless protector Nikli explains that the man formerly held a Dawnshard and currently bears echoes of its primal force. The proximity of the two forces creates a resonant frequency that threatens to physically annihilate Rysn and the surrounding hordelings.
 
 The Shin man makes a specific gesture with his hands and commands the vibration to stop, instantly restoring stability to the room. He warns that they must never meet again and departs while maintaining his disguise as the Blackthorn. Rysn realizes that her discovery by another holder of such power makes her current life in Urithiru impossible to maintain. She consults with her Sleepless guardians, Nikli and Alalhawithador, about the necessity of going into permanent hiding. Rysn proposes a secret expedition that will allow her to keep her ship and crew while vanishing from the known world.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The deity realizes that a power equivalent to a Shard must be responsible for hi
 
 Odium analyzes the behavior of Honor's lingering power and concludes that it is becoming increasingly dangerous to his own plans. He recognizes that the power is no longer merely following its core intent but is starting to act with a mind of its own. The deity contemplates whether he should take direct action to destroy the remnants of Honor before they can fully coalesce. He acknowledges that the absence of a host has allowed the power to evolve into something unpredictable and potentially hostile. Taravangian remains in the Spiritual Realm, weighing the risks of allowing the sentient power to continue its development.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 100: GOD
@@ -50,5 +44,3 @@ Ten thousand years ago, the deity Tanavast arrives at the world of Roshar and id
 Tanavast experiences a moment of doubt regarding his actions, but his resolve is bolstered by the protective song of the Wind. He notes the existence of two other nearby worlds, one inhabited by humans and another featuring a core of soul-attracting metal. His solitude ends when Koravellium Avast, a dragon from Yolen known as Cultivation, arrives from the void between stars. They embrace, and Tanavast feels a sense of harmony as their divine rhythms align within the Rosharan system. Tanavast creates a physical avatar for himself so he can interact more intimately with the woman he has long loved.
 
 Koravellium initially suggests finding an uninhabited world to avoid the complications of being worshipped by mortal beings. Tanavast refuses to abandon the Rosharans, arguing that they have already been orphaned once and require divine stewardship. They both sense the death of other gods in the distance but choose to ignore the conflict in favor of their new home. Koravellium agrees to stay and hide while Tanavast watches over the people, finding beauty in the songs of the night. Their peaceful coexistence remains undisturbed until the arrival of Rayse, the original vessel of the Shard Odium.
-
-Sentence Count Check: 15

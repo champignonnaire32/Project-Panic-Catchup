@@ -15,8 +15,6 @@ Shallan emerges to draw the peakspren, which are rock-like spren from the Cognit
 
 Shallan sketches a mistspren, a spren appearing as humanoid steam wearing a mask, named Dreaming-though-Awake. The spren claims she knows nothing about Ba-Ado-Mishram’s history or the binding of the singers. She suggests that Shallan ask the Heralds, immortal protectors of Roshar, such as Nalan or Kelek who were present for the event. Shallan realizes the connection between the Heralds and the Sons of Honor. She resolves to find the spy and uncover the Ghostbloods' plans without losing her own sanity.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 25: Devotary of Mercy
@@ -26,8 +24,6 @@ Kaladin and Teft search Urithiru, the ancient mountain tower city, for a refugee
 Kaladin enters Noril’s dark cell and finds him huddled on the floor in despair. He relates to Noril's depression and shares his own struggles with the darkness of his mind. Kaladin convinces Noril to leave the cell by promising to annoy him if he stays. Teft assists in bringing Noril to an outer balcony to see the sky and mountains. The fresh air and conversation help Noril begin to open up about his trauma.
 
 An ardent watches in surprise as Noril begins to speak after days of silence. Kaladin criticizes the monastery's methods and argues for an empirical approach to treating mental illness. He explains that different traumas require different treatments rather than simple isolation. Kaladin decides to take Noril into his own care and plans to liberate other patients. He informs the ardent that he will bring a new medical strategy to Navani and the queen.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Shallan confronts Ishnah and uses silence to pressure her into a confession. Ish
 
 Radiant takes over and instructs Beryl to teach her Soulcasting technique to Ishnah as a test. She plants a second false rumor with Beryl concerning an odd gloryspren. Finally, Shallan talks to Vathah while he scrubs the barge deck to maintain his discipline. Vathah admits he feels broken by his past actions as a deserter and wishes to become someone new. Shallan plants a third rumor about a corrupted fearspren with him before they share a brief moment of camaraderie.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 27: Banners
@@ -51,8 +45,6 @@ Navani says farewell to Jasnah, who is departing in a palanquin, a carried litte
 
 Navani investigates an architectural mystery in the tower’s atrium involving a hidden room. A Stoneward, which is a Radiant who can shape stone, opens a sealed section of the wall to reveal a large model of Urithiru. The model is a cross-section showing the tower’s internal structure in intricate detail. Navani discovers that the model represents rooms that are currently sealed in the real tower. She is interrupted by the arrival of a message from the mysterious spanreed, a magical communication pen, she found earlier.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 28: Heresies
@@ -62,5 +54,3 @@ Navani assembles a team of scholars and engineers to trace the signal of the mys
 Navani moves to a second location on the plateau to triangulate the source of the communication. The correspondent realizes Navani has moved and expresses further distrust toward humans. They claim to "make the world function," implying they are a spren or an ancient power. Kalami, a scribe, suggests the writer might be a spren associated with the tower itself. The conversation ends abruptly when the spanreed shuts off and the connection is severed.
 
 Navani suspects the correspondent is the Sibling, the sleeping spren of Urithiru who has not been seen for centuries. She devises a plan to deceive the spren and its potential spies. Navani pretends to accidentally drop the spanreed over the edge of the plateau into the abyss. She instructs her team to speak loudly about the tragedy of the lost device to spread the news. Navani hopes this action will draw out the mysterious correspondent or their hidden agent.
-
-Sentence Count Check: 15

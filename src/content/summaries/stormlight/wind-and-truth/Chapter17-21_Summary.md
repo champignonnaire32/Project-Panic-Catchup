@@ -15,8 +15,6 @@ Radiant, disguised as a crem scraper cleaning the stone, monitors the atrium whi
 
 Shallan's informants report that Shob has spotted a Ghostblood spy watching Dalinar during a conversation. The Ghostblood is identified as a former actor who was recently recruited into the secretive organization. Shallan reflects on her complex feelings for Mraize and her eventual need to kill him like her previous enemies. Shob provides sketches from Hoid identifying several key Ghostbloods, including Iyatil and new masked assassins. The team learns of a new Ghostblood hideout located in the fortress city of Narak.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 18: AN EXCEPTION TO THE RULES
@@ -26,8 +24,6 @@ The monarchs gather where Dalinar welcomes the Reshi king, a Dustbringer Radiant
 Wit suddenly interrupts the meeting, declaring himself a spectacular example of idiocy for missing critical loopholes in the contract. He explains that he consulted a contract negotiator and his sister to analyze Alethi legal codes for hours. Wit reveals that the contract allows Odium to claim entire kingdoms if he captures their seats of power. This realization shifts the threat from simple land grabs to direct strikes against the capitals of Azir and Thaylenah. Dalinar is shocked that Odium would exploit loopholes after promising to hold to the spirit of the contest.
 
 Wit concludes that they are no longer facing Rayse, as the former Vessel of Odium must be dead. He informs the coalition that someone else has taken up the Shard and is a genius capable of conquering Roshar. Meanwhile, Shallan and her team of Lightweavers disguised as Herdazian workers coordinate their next moves in a tower alcove. They receive a message confirming the location of a new Ghostblood hideout in Narak on the Shattered Plains. Shallan decides to assemble a strike team but plans to sneak into the hideout first to gather intelligence.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The travelers reach the edge of Shinovar where soil and dirt replace the blasphe
 
 Szeth reflects on his previous battle with Kaladin and how his soul remains loosely connected to his body after his revival. The pair views the expansive green forests and prairies of the Shinovar lowlands from a high mountain pass. Kaladin is excited by the scenery, but Szeth remains focused on his duty while the whispers of his victims return. They land among vines and waving grass, marking the beginning of their journey into a land where plants do not hide. Szeth warns Kaladin that these stationary plants are more resilient than they appear to be at first glance.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 20: THREE VITAL POINTS OF DEFENSE
@@ -51,8 +45,6 @@ Navani and Dalinar use Stargyle's shimmering topographical map of Roshar to coor
 
 Jasnah takes command of the twenty thousand troops at Thaylen City, while Sigzil is appointed to lead the defense of the Shattered Plains. The Sibling confirms that Urithiru is safe from invasion because they can render Fused and singers unconscious or mad. Adolin informs Dalinar of Shallan's planned operation against offworld spies and receives authorization for a Radiant strike force. Dalinar uses his Bondsmith powers to grant Adolin the ability to understand and speak the Azish language for several weeks. Navani and Dalinar remain behind to discuss his recent encounter with the goddess Cultivation.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 21: INCOMPLETE TRUTHS
@@ -62,5 +54,3 @@ Shallan and her team of five Lightweavers transfer to Narak, the fortress city a
 The Ghostbloods use a jar of black sand to detect the use of Radiant powers and hidden spren at their doorstep. Shallan determines that Iyatil or another masked assassin is guarding the entrance and inspecting the faces of all newcomers. She realizes that the Ghostbloods' network is much larger than she anticipated, involving political figures from many major organizations. Shallan decides she must sneak into the meeting personally to learn their true plans regarding Ba-Ado-Mishram and the contest. Her team sets up a fake construction site nearby to monitor the hideout without drawing suspicious glances from the guards.
 
 In the tower, Dalinar, Navani, Jasnah, and Wit discuss the possibility of Dalinar Ascending to take up the Shard of Honor. Cultivation has appeared to Dalinar and instructed him to seek the Spiritual Realm to learn how to defeat Odium. The Mink interrupts the meeting after hiding in the vents with Lift to demand support for reclaiming his homeland of Herdaz. Dalinar honors his previous oath by assigning fifty Windrunners to assist the Mink in his assault on the Herdazian capital. The Stormfather overhears the discussion about deification and manifests his presence, indicating his extreme displeasure with the plan.
-
-Sentence Count Check: 15

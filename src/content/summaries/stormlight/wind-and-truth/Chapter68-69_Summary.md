@@ -15,8 +15,6 @@ The Farmer intervenes and offers Szeth a solitary post herding sheep at the high
 
 Pozen cancels Szeth's punishment and instead recruits him to train as a shaman acolyte at his monastery. The Honorbearers inform the General that Szeth's recent attack was a test of leadership rather than a crime. Neturo insists on moving his family to the monastery city to remain with Szeth during his training. Szeth's mother, Zeenid, refuses to join them and chooses to return to her previous life instead. The chapter ends with Szeth departing on a horse while his mother walks back to the camp alone.
 
-Sentence Count Check: 15
-
 ---
 
 ### Interlude 9: ZAHEL
@@ -26,8 +24,6 @@ Vasher, known in this land as Zahel, hangs naked from chains in a room lined wit
 Axindweth enters the circular room with a green bird called an Aviar perched on her shoulder. She reveals a painrial, a specialized fabrial designed to generate intense physical agony at the touch of a button. She offers to release Zahel if he surrenders half of the Breaths he possesses. Zahel recognizes this as a manipulation and realizes she will only demand more Investiture if he complies. He watches the parrot while Axindweth activates the device to begin a new round of interrogation.
 
 Axindweth uses the painrial to force Zahel into a state of extreme suffering. The aluminum room prevents any spren or external forces from detecting his presence or his current location. Zahel remains silent about his motives despite the increasing intensity of the fabrial's power. He maintains his refusal to negotiate for his freedom through the distribution of his divine power. The session concludes with Zahel screaming as the device is applied directly to his body.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The power of Odium reacts to Taravangian's internal acknowledgment of his desire
 
 Taravangian coalesces into a new avatar wearing radiant gold vestments and holding a small cane. His eyes begin to beam with the light of a sun as he fully accepts his role as the new Odium. Cultivation expresses profound disappointment through rhythmic tones and departs from the mountain peak. Odium begins planning his next moves to influence the growth of his respected rivals on Roshar. He prepares to exert his full influence over the planet now that his internal conflict has been resolved.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 69: RADICAL PHILOSOPHY
@@ -50,5 +44,3 @@ Kaladin and Szeth travel toward the Lightweaver monastery on foot under the supe
 Nale claims that the laws of Shinovar were forged by the Herald Jezrien and God himself. He dismisses Kaladin's concerns about the corruption of kings and the inherent flaws in man-made codes. Kaladin points out that the law allowed Sadeas to send his friends to their deaths on the Shattered Plains. Nale retorts by asking what better system Kaladin has to offer as a replacement for established order. He states that Szeth's oath to follow a moral compass is a valid and respected choice.
 
 The group approaches the Lightweaver monastery, which is hidden from view by the natural mesas and landscape. Nale reminds Kaladin that it was the law, not compassion, that saved Szeth from the storm. Szeth prepares his weapon to kill the Honorbearer at the monastery despite his personal reservations. Meanwhile, Jasnah Kholin participates in a strategy meeting to plan the defense of Thaylen City. She realizes that the city's impregnability hides a logic problem that only a scholar can solve.
-
-Sentence Count Check: 15

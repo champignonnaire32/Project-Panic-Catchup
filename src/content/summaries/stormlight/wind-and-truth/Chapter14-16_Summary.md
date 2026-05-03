@@ -15,8 +15,6 @@ Felt holds a specialized dagger with a gemstone crossguard that has the potentia
 
 Kalak whimpers as the cloth gag in his mouth prevents him from speaking while he is held tight like a constrictor's prey. The seon Ala expresses her intense disgust with having to listen to Shallan and Adolin's relationship drama while in hiding. Felt idly plays with the lethal dagger while sitting in Kalak's chair and waiting for the mission to proceed as planned. Ala declares she is ready to be finished with Roshar while Felt advises patience regarding Kalak's potential future role. Kalak squeezes his eyes shut and trembles as he realizes he has been a fool for not suspecting the spren.
 
-Sentence Count Check: 15
-
 ---
 
 ### Interlude 2: THE DIVIDED GOD
@@ -26,8 +24,6 @@ Taravangian, now the Vessel for the Shard Odium, holds a dying child named Tu Ba
 The new Odium blames Cultivation for failing to fix the world’s problems over the course of eight thousand years. He declares that he will not follow the path of his predecessor and intends to become the sole god of the cosmere. Taravangian admits that simply healing individuals is not enough because the underlying systems of suffering would remain in place. He observes the soul of the child briefly before it vanishes to a place beyond his reach. Cultivation suggests that gods should steer societies through teachings and incentives rather than dominating them with absolute power.
 
 Taravangian reacts with a tempest of rage and claims that he is the substance of passion who feels every person's suffering. He accuses Cultivation of consolidating power out of fear and orders her to leave him alone. Cultivation departs, leaving Taravangian with the knowledge that she will now work against him to prevent a cataclysm. Taravangian repeats to himself that he is not Odium but is Taravangian, the divided one who can save everyone. He resolves to use his new divinity to accomplish the mission he originally set for himself in Kharbranth.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Wit fears that Rayse has grown more cunning because he allowed Wit to believe he
 
 The Skybreakers sank half of the Thaylen fleet and are now launching an assault force toward Thaylen City. Emperor Yanagawn of Azir is woken by Vizier Noura to address the urgent news of the invading enemy armies. Jasnah feels that her childhood imprisonment is mirrored by the soft restraints of the mattress Wit insisted on using. Wit’s physical appearance changes as he reverts to his true form with white hair before returning to his familiar disguise. The coalition leaders prepare for an emergency meeting at first bell to address the simultaneous threats across Roshar.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 15: PASSIONSPREN
@@ -51,8 +45,6 @@ Dalinar encounters a heavyset Makabaki woman who reveals herself to be the godde
 
 Dalinar realizes that Cultivation hides from Odium, which prevents the Stormfather and others from sensing her presence. At the meeting, Jasnah reports that Odium altered Wit’s memories and might be exploiting loopholes in their agreement. Dalinar organizes the defense of Azimir, Thaylen City, and the Shattered Plains against the coordinated enemy strikes. Adolin feels that his pain regarding Evi has festered over the last year despite his efforts to let it go. Cultivation refuses to give Dalinar direct answers and insists he must find the meaning of his Bondsmith powers himself.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 16: VAGUE PROMISES AND HINTS
@@ -62,5 +54,3 @@ Shallan finishes her shower and vows to find a way to help her original deadeye 
 Shallan decides that her team must steal Mraize’s secrets to nullify his advantage and find Ba-Ado-Mishram’s prison. Dalinar continues his conversation with Cultivation, who explains that Tanavast’s power remains in the Spiritual Realm. Cultivation tells him that he touched Honor’s power during every highstorm vision he experienced over the years. She urges him to seek the final truths of the Heralds and the Radiants by traveling into the Spiritual Realm. The Stormfather is disturbed by Cultivation’s interference and worries about Dalinar losing himself in the past.
 
 Dalinar enters the meeting room and finds Wit frantically studying a scroll and a bone to find contract loopholes. Jasnah warns that Odium is likely a megalomaniac who would not allow Wit to think he had won an exchange. The Unseen Court members, including Gaz and Stargyle, confirm that they have spotted Ghostblood agents in the atrium. Shallan reintegrates Veil and Radiant’s strengths into herself and realizes that healing involves embracing all parts of her soul. The coalition prepares to respond to the three-way assault that strikes at their most powerful strongholds across the world.
-
-Sentence Count Check: 15

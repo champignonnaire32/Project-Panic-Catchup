@@ -15,8 +15,6 @@ Szeth reveals he already deduced the relationship between Neturo and Sivi—a lo
 
 Neturo refuses to stay, stating that he belongs wherever his family is and that his relationship with Elid is currently dysfunctional. He comforts Szeth by explaining that their mother’s decision to leave was a result of his own choices, not Szeth’s discovery of the stone. Neturo admits that he and his wife were struggling long before they were forced to live outside as outcasts. Szeth embraces his father in the rain, feeling a deep sense of relief that he will not have to travel alone. The two men begin the pilgrimage together as the rainfall continues to soak the landscape.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 76: CONCESSIONS
@@ -26,8 +24,6 @@ Shallan enters a historical vision inhabiting the body of a mortally wounded sin
 Shallan watches as Mishram sings the Rhythm of Peace—a soothing melodic pulse—to comfort a dying human soldier. The entity’s face suddenly twists into a current, malevolent version that recognizes Shallan as a Lightweaver—a type of Radiant who creates illusions. Pattern and Glys pull Shallan out of the body, but she leaves behind a Lightweaving—a realistic illusion—of herself to continue the interaction. Shallan asks if Mishram could replace Odium, causing the Unmade to drag her into the Spiritual Realm where Rlain and Renarin intervene to protect her. Before the vision ends, Shallan spots a historical version of Mraize—a member of the secretive Ghostbloods—observing her illusion from a distance.
 
 In the physical realm, Adolin trains the young Makabaki emperor Yanagawn in military strategy using the towers board game. Adolin explains how a larger force can suffer fewer casualties than a smaller one and discusses factors like terrain and leadership. Yanagawn reveals his collection of aluminum—a rare metal that blocks Shardblades—and orders it sent to armorers for the defense. The Thaylen guard Hmask reveals through translation that Adolin saved his son during the Battle of Thaylen Field. Noura delivers spanreed reports confirming that the subject nations of Emul and Tashikk have betrayed the coalition, leaving no reinforcements for the besieged dome.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Ishar and Jezrien decide to abandon their comrade Taln on Braize, leaving their 
 
 The Stormfather bids Dalinar farewell and attempts to leave him to die as the vision collapses into swirling Stormlight. Refusing to perish, Dalinar seizes the lines of Connection—shimmering bonds of light—linking him to both Navani and the Stormfather. He exerts his willpower as a Bondsmith—a Radiant who manipulates connections—to force the realities to overlap. They arrive in the hallway of Urithiru during the final days before Honor’s death and the subsequent Recreance. Dalinar identifies a blond Windrunner in glowing Shardplate as the leader who will eventually be the first to abandon his oaths.
 
-Sentence Count Check: 15
-
 ---
 
 ### Interlude 11: DYEL
@@ -50,5 +44,3 @@ Dyel, a golden-haired Iriali girl, serves tea to three strange worldhoppers—Ba
 Demoux—a bald man with a round face—unsuccessfully asks to study Uma before the group prepares to leave the shop. Dyel’s mother presents a letter left by a previous visitor who was known as a healer and described as the Trickster Aspect. Baon opens the envelope to find only the Trickster’s signature and a crude drawing of male genitalia. Galladon notes that their time on the planet is expiring and prepares to depart as a notification dings in his pocket. Outside, the massive water spren Cusicesh the Protector—a column of water with changing faces—rises in the bay.
 
 Cusicesh speaks with a soul-shaking voice, announcing the start of the Long Trail and the quest for the Fifth Land. Portals—radiant fountains of light—open across Iriali cities, serving as gateways to the land of shadows. Dyel and her mother retrieve their pre-packed travel bags and join the masses of people boarding boats to enter the gateway. They pass through the portal into a dark realm where caravans are already forming to cross the alien landscape. Dyel watches her home city vanish as she joins the migration to leave the planet of Roshar forever.
-
-Sentence Count Check: 15

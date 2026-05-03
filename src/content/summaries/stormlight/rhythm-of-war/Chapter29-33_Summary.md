@@ -15,8 +15,6 @@ Maya, the deadeye spren with scratched-out eyes, rises and mimics Adolin’s mov
 
 Adolin observes the ashspren, who look like people but have crumbling flesh that constantly regrows over bone. While walking through the market, Adolin discovers a deadeye Cryptic standing motionless outside a bookstore. The inkspren shopkeeper explains that this Cryptic was his partner and became a deadeye only one year ago. This revelation suggests that new Radiants are still breaking their oaths and killing their spren in the physical world. Godeke interrupts Adolin to report that a group of humans has been spotted in a nearby camp.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 30: The Betrayal
@@ -26,8 +24,6 @@ Shallan isolates herself on the barge and uses a metal cube to contact Mraize vi
 Adolin and Godeke investigate the camp of humans, who appear to be Marati or Tukari workers. These caravaneers are unwelcoming and carry hidden weapons while watching the perimeter with cudgels on their shoulders. The Tukari leader refuses to speak with Adolin and demands that the Alethi group leave their camp immediately. Adolin retreats to the docks and encounters Notum, a tall honorspren who previously captained their ship. Notum warns Adolin that the honorspren at Lasting Integrity will view the humans as common criminals.
 
 Notum explains that the honorspren no longer revere the Stormfather because he allowed himself to be bound. The honorspren are still traumatized by the Recreance, which Notum describes as a coordinated genocide of their race. Notum reveals he has been demoted and exiled for eternity as punishment for previously helping the Radiants. He is assigned to patrol the barren lands near the fortress but is forbidden from ever entering it again. Adolin decides to proceed with the mission despite Notum’s bleak predictions of a hostile reception.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Raboniel approaches Venli and discusses the nature of the Surges, claiming there
 
 Raboniel reveals she knows Venli is a spy for Leshwi but views her ambition as a worthy passion. She offers Venli the prospect of true knowledge if she serves the cause of Odium faithfully. Rothan, the leader of Leshwi’s soldiers, warns Venli that other Fused are not as lenient as their mistress. The strike force consists of five hundred stormforms and soldiers from both the Pursuer and Leshwi. Venli remains internally conflicted as she realizes the imminent attack on the tower will test her survival skills.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 32: Of Three Minds
@@ -51,8 +45,6 @@ Shallan struggles with her internal personas, Veil and Radiant, who argue over t
 
 Adolin speaks with Veil and Radiant about his fears that the honorspren will view their gifts as bribes. He considers a strategy of abjectly begging for help to appeal to the spren’s sense of duty. Veil explains to Adolin that Shallan is hiding because she fears the "monster" she believes lives inside her. Adolin promises to support Shallan regardless of her past actions and tells her she is not alone. The group continues their journey toward Lasting Integrity with the Tukari caravan still following in their wake.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 33: Understanding
@@ -62,5 +54,3 @@ Kaladin begins a new medical initiative at the Urithiru sanitarium to help soldi
 Kaladin finds that the soldiers benefit from sharing their stories with others who truly understand their pain. He compares the group dynamic to a bridge crew, where the squad is always stronger than the individual. Hesina takes notes on the session and observes that the men are helping each other rather than feeding their despair. Kaladin explains that the ardents' previous failures were caused by keeping patients in isolated and hopeless conditions. The simple act of speaking about their trauma helps the men realize they are not alone in their suffering.
 
 Kaladin’s parents are sympathetic to his cause, but he feels they can never fully understand his experiences as a slave. He chooses to keep the details of his darkest months hidden from his mother to spare her unnecessary pain. The treatment focuses on reminding the patients that the internal darkness eventually passes like a storm. Kaladin reflects on the difference between knowing a fact intellectually and feeling it within one's soul. This first session marks a successful shift in how mental health is treated within the tower's medical wards.
-
-Sentence Count Check: 15

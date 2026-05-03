@@ -15,8 +15,6 @@ Kaladin attempts to use a Shardspear thrown by Rock to gain an advantage but Les
 
 In the chasms of the Shattered Plains, Shallan uses her Veil and Radiant personas to infiltrate a group of Sons of Honor cultists. She tricks the cultists into believing she possesses stolen Kholin fabrial schematics by using a Lightweaving in her notebook. The cultists decide to take her to Ialai Sadeas to negotiate a deal for the military secrets. A man places a sack over Shallan's head just before Kholin troops under Adolin's command launch an ambush in the chasm. Shallan realizes Adolin has attacked early and fears the distraction might compromise the chance to capture Ialai.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 6: A Loose Thread
@@ -26,8 +24,6 @@ The cultists drag the hooded Shallan through a secret tunnel system that connect
 Kaladin continues his duel with Leshwi and notices that the Heavenly Ones are strictly adhering to a code of one-on-one combat. He watches as Leshwi impales Sigzil through the chest and begins to drain his Stormlight with her specialized spear. Overcome by memories of past failures, Kaladin nearly breaks the dueling protocol to intervene before Leshwi releases the wounded Windrunner. Sigzil survives the encounter and retreats to the Fourth Bridge to recover while Kaladin and Leshwi resume their fight. The two combatants maintain a mutual respect as they attempt to outmaneuver each other in the skies above Hearthstone.
 
 Navani manages the evacuation of the townspeople while Renarin uses his unusual light-based powers to comfort frightened children. Ardent Falilar expresses concerns about the technical limitations and weight capacity of the Fourth Bridge during the flight. Navani observes Dalinar opening the perpendicularity again and attempts to record the unique tones and visual phenomena associated with the event. She believes the tower of Urithiru and the airship share a common power source located beyond the physical realm of Shadesmar. Navani suddenly spots Moash standing on a nearby hill wearing a black Bridge Four uniform and warns the Radiants of his presence.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The highprincess invites Shallan to drink a final vintage while Adolin and his s
 
 At Hearthstone, Kaladin enters the burning manor to rescue Godeke and the former citylord Roshone from a strange new Fused. He encounters a singer using a Voidlight-powered fabrial that suppresses the powers of any Radiant within its immediate range. Kaladin's Stormlight and Syl's ability to form a Shardblade are both neutralized, forcing him to fight the singer guards with mundane weapons. He manages to kill the Fused and several guards using his physical combat training before Lift disables the suppression device. Kaladin finds Roshone's body in the stormcellar just as Moash slits the man's throat and surrenders to the Windrunner.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 8: Surrender
@@ -51,8 +45,6 @@ A sudden burst of brilliant white light fills the cellar as Renarin Kholin arriv
 
 In the Sadeas warcamp, Shallan searches Ialai’s rooms for the secret information the highprincess mentioned before her death. She discovers a hidden compartment in the wall by identifying ancient glyphs and maps representing the Ten Kingdoms. Inside the compartment, she finds a secret notebook that she hides from her own agents and Adolin to investigate later. Adolin and Shallan prepare for a quick extraction from the warcamp as they realize Ialai's death will complicate the political situation. Shallan remains deeply troubled by the possibility of a traitor in her inner circle and the true goals of the Ghostbloods.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 9: Contradictions
@@ -62,5 +54,3 @@ The Fourth Bridge departs from Hearthstone as Kaladin sits on the deck and watch
 Teft joins Kaladin on the deck and encourages him to perform his duties as Highmarshal by congratulating the new Radiant. They discuss the news that Moash is still alive and has been granted an Honorblade by the Fused. Teft notices that Kaladin froze during the battle and warns him that the enemy might try to exploit his emotional vulnerabilities again. Kaladin realizes that he is losing the ability to function without the constant infusion of Stormlight to mask his pain. He forces himself to stand and interact with his soldiers to maintain the appearance of a strong and capable leader.
 
 Laran, the newest Windrunner to bond a spren, summons her Shardblade for Kaladin to inspect and acknowledge during the flight. The ship carries hundreds of Windrunners and refugees back toward Urithiru while the leaders analyze the new singer technology. Navani prepares to investigate the suppression fabrial and the implications of the enemy's ability to neutralize Radiant powers. Kaladin's internal struggle continues as he faces the reality that he cannot protect everyone and that his own mind is failing. The chapter ends with Kaladin performing his official duties while the Fourth Bridge soars through the sky away from the ruined manor.
-
-Sentence Count Check: 15

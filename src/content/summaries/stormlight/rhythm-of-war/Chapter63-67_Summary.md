@@ -15,8 +15,6 @@ Navani instructs Kaladin on how to replace the device's rubies with the Voidspre
 
 During practice, Kaladin accidentally slams into a wall and mangles his hand, requiring slow Stormlight healing. Syl watches the practice and notes that Kaladin will look silly using the device for combat. Kaladin persists in training despite the pain, wanting to master the "personal lift" for more than just travel. He realizes he can use the device for sudden bursts of movement in three dimensions during a fight. The session ends with Kaladin determined to stay busy to keep his mental exhaustion and cracks at bay.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 64: Personal Reminder
@@ -26,8 +24,6 @@ Jasnah Kholin enters her first actual battle on the front lines of the Drunmu Ba
 Jasnah charges the enemy pike blocks, using her Blade to shear through weapons and armor to break their formations. She eventually faces a Magnified One, a Fused capable of growing carapace weapons and armor at extreme speeds. The Fused immobilizes Jasnah by growing carapace over her limbs, pinning her to the stony ground. Regular singer soldiers attempt to kill her by thrusting pikes through the gaps in her faceplate. Jasnah uses her Soulcasting powers to transform the air into oil and ignites it with sparks.
 
 The resulting explosion kills many singers and allows Jasnah to slay the Magnified One by piercing its gemheart. She continues to fight with butcher-like efficiency for several hours, losing track of time and her own exhaustion. Wit meets her on the edge of the battlefield with food and news of the coalition's victory. Later, Jasnah discusses the changing nature of warfare with Wit and the Mink, realizing the high cost of victory. Wit warns Jasnah that a "cremling" spy from the Sleepless has been monitoring their secret conversations.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Raboniel visits Navani’s laboratory, accompanied by her insane daughter, anoth
 
 The interaction between Raboniel and her mindless daughter highlights the mental degradation the Fused suffer over thousands of years. Raboniel admits that serving with her daughter was an experiment to see if familial bonds could preserve their sanity. Navani feels a moment of pity for the "Ancient One" despite their antagonistic relationship and the occupation. She begins to strategize on how to use her scientific discoveries to gain an advantage over the Fused. Navani continues to send ciphered messages to her scholars, hoping they can assist her from elsewhere in the tower.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 66: Bearer of Agonies
@@ -51,8 +45,6 @@ Taravangian admits he betrayed the coalition because he is certain humanity will
 
 Dalinar realizes that Taravangian’s pride prevents him from seeing any path to victory that he did not personally design. Taravangian goads Dalinar by bringing up the burning of Rathalas, the Rift, which Dalinar had committed in his youth. Dalinar maintains his composure, stating he is no longer that man and will continue to take the "next step." He tells Taravangian that he will prove him wrong by winning the war and then offering him forgiveness. Szeth, acting as Dalinar's bodyguard, warns that Taravangian is likely still plotting even while in captivity.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 67: Song of Stones
@@ -62,5 +54,3 @@ Venli wanders the upper floors of Urithiru, haunted by the memories of her mothe
 When Venli presses her hand to a wall, the stone begins to vibrate and sing with a sonorous, ancient rhythm. She sees visions of the Dawnsingers, the original singers of Roshar, shaping cities and tools directly from the earth. The stones recognize Venli as a "shaper" and welcome her back to their ancient song after millennia of silence. Venli realizes she truly belongs on this path and finds purpose in the connection to the world’s fundamental rhythms. She successfully molds a piece of rock into a ball and then melds it back into the wall seamlessly.
 
 Three more lightspren, similar to Timbre, appear in the hallway and express an interest in bonding Venli’s friends. These spren have gained awareness in the Physical Realm by using Venli as an "anchor" and observing her companions. Venli realizes she can use her shaping powers to carve a secret exit through the collapsed tunnels below the tower. She plans to lead her fellow listeners to freedom while making it appear as though they died in a cave-in. Venli resolves to move slowly and carefully to avoid repeating the disastrous mistakes of her past.
-
-Sentence Count Check: 15

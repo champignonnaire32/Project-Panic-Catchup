@@ -15,8 +15,6 @@ Notum decides to stay in Lasting Integrity to act as an ally for Godeke instead 
 
 Adolin insists on bringing his Ryshadium horse Gallant and all of his swords on the flight home. Shallan reflects on how Dalinar and Navani wanted her in their family for pragmatic and personal reasons. Creationalspren, which are small swirling lights, begin to adopt the shapes of Shallan’s artistic tools as she draws. Notum expresses his gratitude to Adolin for saving him from the Tukari during his exile. The Windrunners prepare to carry the humans on a long-distance flight across the sea of glass beads.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 6: NOBILITY
@@ -26,8 +24,6 @@ Dalinar watches the frosted peaks of the Ur mountain range from a window in Urit
 Kaladin protests the mission, arguing that Szeth is mentally unstable and requires months of specialized treatment. Dalinar leads Kaladin to the roof of the tower and asks for a private conversation about destiny. Kaladin Lashes Dalinar to a distant mountain peak where the warmth of the tower does not reach. Dalinar admits his fear that the upcoming contest with Odium might lead to a catastrophic war. Kaladin maintains a bubble of high-pressure air around them so Dalinar can breathe at the high altitude.
 
 Dalinar instructs Kaladin to help the Herald Ishar and Szeth because he has no other options left. Kaladin mentions that Wit warned him that Ishar would be unable to provide the help Dalinar expects. Dalinar asks Kaladin to become his heir to the throne of Urithiru and the Knights Radiant. Kaladin feels broken and unworthy of royalty but agrees to consider the legal document Dalinar presents. The mission is finalized for Kaladin to stop Ishar from destroying spren in the land of Shinovar.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Vathah practices his Lightweaving skills by sculpting chairs and other objects o
 
 Drehy explains that Navani and the Sibling have discovered "compass" fabrials that point the way in Shadesmar. The group heads toward the Azimir Oathgate, which has become functional since the awakening of the tower. Shallan wears a tight bun and glass masks to protect herself from the wind during the high-speed flight. Adolin grins and enjoys the sensation of riding a flying horse across the sea of beads. The peaceful journey ends abruptly when a patrol of eight Heavenly Ones attacks the flying group.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 8: A COMING STORM
@@ -51,8 +45,6 @@ Dabbid appears in the barracks trailing an honorspren who has chosen to follow h
 
 In Shadesmar, Heavenly Ones ambush the Windrunners and run a lance through one of Drehy’s squires. Adolin fights from Gallant’s saddle by throwing knives and a mace at the Fused attackers. Shallan creates a perfect illusory doppelganger of Adolin to distract a Fused wielder of a long lance. A Heavenly One barrels into Adolin, knocking him out of his saddle and into the bead ocean. Shallan sucks up her own Lashing and drops into the suffocating beads to save her husband.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 9: TOSSING SPEARS
@@ -62,5 +54,3 @@ Kaladin decides to attend Rlain's celebration for receiving a spren before he de
 Drehy rescues Adolin from the depths of the ocean and drops him onto Radiant's illusory bead platform. Drehy explains that he hid the Cryptic spren inside the beads to protect them from being taken hostage. Heavenly Ones continue their assault, using the ocean for cover to launch a surprise attack from below. A Fused grabs Radiant and tosses her back into the beads while another slams into Drehy. Radiant sinks into a "cave" within the beads where a Heavenly One named Abidi the Monarch pins her down.
 
 Abidi mocks the Lightweavers for their shadows and prepares to stab Radiant with a knife. Shallan admits her terror of the world and herself, causing the beads to tremble with her confession. Light begins to glow from Shallan’s eyes as she manifests a new form of power in Shadesmar. Shallan projects a solid version of Radiant that is taller and stronger than her physical self. The manifested Radiant stabs Abidi from behind with a Shardblade, proving that Shallan can decide what is real.
-
-Sentence Count Check: 15

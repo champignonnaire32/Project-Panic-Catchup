@@ -15,8 +15,6 @@ Syl attempts to use the pens to write, but the physical effort of moving the obj
 
 Kaladin tucks the paper Syl wrote on into his pocket and packs the remaining books and ink into his rucksack. He realizes that he had forgotten the proper term for a librarian and a library during the exchange. Syl calls him adorable as they exit the narrow corridors of the tower. They walk toward a hallway with a skylight to escape the oppressive feeling of the indoor rooms. Kaladin prepares himself for the flight and the journey that lies ahead.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 11: MUSICSPREN
@@ -26,8 +24,6 @@ Shallan fights the Fused Abidi in the Shadesmar bead ocean, but the enemy escape
 Shallan creates a spherical room to carry them to the surface where they find Drehy and his squires fighting Heavenly Ones. She solidifies the beads into a stable ring and watches as Adolin uses a specialized grip on his sword to wound Abidi. The Fused crashes into the beads and is sucked under when his Voidlight, the dark power of Odium, fails. Shallan manifests her illusionary persona Radiant to fire large Shardbow arrows at the remaining attackers. She then uses her soul-casting abilities to sink their room-vehicle to the bottom of the sea to evade detection.
 
 The group rescues their spren from the bead ocean and follows a navigational fabrial pointing toward the Grand Knell. They encounter a herd of ethereal musicspren, which are glowing horses that gallop through the air and interact with Adolin. Shallan observes that Gallant, Adolin’s Ryshadium warhorse, has a glowing outline suggesting he is bonded to a musicspren. They discover a massive fleet of ships carrying thousands of singer assault troops sailing toward the city of Azimir. Adolin and Drehy determine that they must reach the city immediately to warn the coalition of the secret strike force.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Kaladin addresses the group and officially promotes Sigzil to the rank of Comman
 
 Sigzil expresses doubt about his ability to lead, but Kaladin reassures him by praising his judgment and concern for the soldiers. Lopen offers his support by promising to provide various functions ranging from levity to tactical assistance. Kaladin shares a final embrace with his three remaining original command members before they return to the celebration. He and Syl travel to the Oathgate platform to meet Szeth, who carries the sentient black sword Nightblood. Kaladin activates the transfer and leaves Urithiru behind to travel to the city of Azimir.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 13: PROMISE
@@ -50,5 +44,3 @@ Shallan and Adolin reach the Azimir Oathgate platform in Shadesmar and find it g
 The group meets Kaladin and Syl inside the dome, where Adolin and Shallan report the incoming singer invasion force. Kaladin explains that he is refusing to stay for the battle because he must travel to Shinovar to find the Herald Ishar. Shallan gives Kaladin a hug and attempts to hug the incorporeal Syl, who has grown to human size. Kaladin admits to Syl that he is happy Shallan married Adolin because their individual mental struggles might have clashed. He reflects on his growth and realizes that he now views Adolin and Renarin as his brothers.
 
 Shallan makes Kaladin promise to meet her for drinks and jokes once the war is over and the world is safe. She and Adolin use the Oathgate to return to Urithiru and find the tower glowing with a new green Towerlight. The tower feels alive and warm, indicating that its ancient systems have been fully restored to functionality. Kaladin, Syl, and Szeth fly into the highstorm to use its power for their long journey westward. They join with the winds and soar toward the border of Shinovar as the first day of the contest concludes.
-
-Sentence Count Check: 15

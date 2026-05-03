@@ -15,8 +15,6 @@ A man named Nale, who is the Herald of Justice, enters the room and uses his leg
 
 Nale directs Venli to a slave market where a Shin man is for sale, claiming the man carries Jezrien’s Blade. He tells Venli that she can buy this slave with the gemstones her people wear as ornaments. After Nale departs, Ulim enters Venli's gemheart and encourages her to use this information to start a war with the humans. He argues that a war will make the listeners desperate enough to finally accept the forms of power Venli wants to offer. Venli agrees to the plan, attuning Destruction and deciding that the potential glory is worth the cost of thousands of deaths.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 78: The High Judge
@@ -26,8 +24,6 @@ Shallan returns to her room and is confronted by Pattern, who confesses to using
 Adolin continues his legal tutoring with Blended, an inkspren—a rare type of spren with obsidian skin and a distinctive manner of speaking. Blended informs Adolin that his trial has been scheduled for three days from now, as the High Judge is returning. She expresses concern that Adolin's grasp of honorspren law is too weak for a standard trial. Adolin learns that honorspren law is designed to be intentionally frustrating and complex to punish those they deem untrustworthy. Blended explains that many honorspren in Lasting Integrity have been influenced by a philosophy of extreme isolation from humans.
 
 To give Adolin a better chance, Blended proposes a "trial by witness," which will take place over three days and rely on testimonies. Adolin plans to prove his character and the honor of modern humans to show he shouldn't be blamed for ancient betrayals. Blended warns him that honor is a concept defined by perception and that the honorspren may see things very differently. They walk toward the base of the tower to witness the arrival of the High Judge near the city gates. Veil and Adolin both discover that the High Judge is actually the Herald Kalak, also known as Restares.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Inside the sectioned-off infirmary office, Rlain meets with Lirin and Hesina to 
 
 Lirin alerts the group when he spots Dabbid, a mute member of Bridge Four, working among the laundry laborers. Rlain approaches Dabbid, who has a Bridge Four tattoo on his forehead and is acting with his usual submissive demeanor. Dabbid resists Rlain's attempt to lead him away until they are safely distanced from the stormform Regals. To Rlain's shock, the mute man speaks, identifying Rlain by name and begging for help. Dabbid reveals that Kaladin is currently unconscious and trapped in a state from which he will not wake. He expresses his fear that Kaladin is dying and needs immediate assistance from the surgeon and his friends.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 80: The Dog and the Dragon
@@ -51,8 +45,6 @@ Wit explains that Kaladin is in a vision sent by Odium, but Wit has managed to i
 
 Despite being a hero and living a life of comfort by the fire, the dog still believes he failed because he never became a dragon. Kaladin recognizes that the story is a metaphor for his own impossible goals and his tendency to ignore his successes. Wit clarifies that the dog eventually realized that no dragon ever had a life as good as his own. He warns Kaladin that life will continue to get worse and then better in cycles, but promises he will be warm again. Wit sends Kaladin back into the storm just as the bubble of light vanishes and the nightmare resumes.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 81: Trapped
@@ -62,5 +54,3 @@ Seven years ago, Eshonai adopts warform and experiences the surge of aggression 
 The listeners observe the dark smoke from tens of thousands of Alethi soldiers who have arrived to set up camps on the Plains. Eshonai argues that their warform strength and the natural fortification of the chasms will protect them from the human invasion. Thude warns that they are effectively trapped in the center of the Plains, and the humans will eventually find a way to reach them. Eshonai remains determined to fight for their freedom and to prove to the humans that the cost of conquest is too high. She vows that her people will never again go meekly into slavery, even if they must learn to become generals themselves.
 
 In the listener city of Narak, Venli gathers a group of scholars and reveals five gemstones containing trapped voidspren provided by Ulim. She explains that these spren will allow her friends to maintain their current forms while granting them secret companions and new powers. Venli tells her followers that they must learn to harness the power of the storms to save their people from the war Eshonai started. She claims that by ruling the voidspren instead of being ruled by them, they will be remembered as the true saviors. Her friend Demid is the first to accept a gemstone, marking the beginning of the listeners' adoption of forms of power.
-
-Sentence Count Check: 15

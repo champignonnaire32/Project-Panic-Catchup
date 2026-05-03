@@ -15,8 +15,6 @@ Returning to the Physical Realm, Gavilar meets with his brother Dalinar, whom he
 
 Gavilar meets Taravangian, the king of Kharbranth, and discusses prophetic warnings about a coming catastrophe known as the Everstorm. The Stormfather suddenly cries out in agony, revealing that a Herald has died and the Oathpact is failing. Moments later, the Assassin in White, Szeth-son-Neturo, attacks the palace to kill the king on behalf of the Parshendi. Gavilar attempts to defend himself with Shardplate, a magical suit of armor, but is ultimately mortally wounded when his balcony collapses during the fight. As he dies, he realizes his legacy is a failure and watches as his assassin takes a mysterious black sphere of Voidlight.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 1: UNFAMILIAR GROUND
@@ -26,8 +24,6 @@ Kaladin Stormblessed stands in his room at Urithiru, an ancient tower city, two 
 As Kaladin gazes out the window, he hears a mysterious voice carried by the wind that warns of a coming storm. The voice apologizes for asking more of him but insists that he is needed for a final task. Syl senses something on the breeze as well, confirming that the wind itself may be alive and sentient. Kaladin realizes that while he is retired from leading soldiers, he cannot yet abandon his duty to protect Roshar. He struggles with the weight of his past failures but finds resolve in the sunlight and the presence of his armor spren.
 
 In the Cognitive Realm, Shallan Davar stands atop the fortress of Lasting Integrity and contemplates her fractured identity. She spends time with Testament, a deadeye Cryptic whose geometric head pattern is frozen and scarred like broken twigs. Shallan realizes that her bond with Testament, the original spren she bonded and inadvertently killed as a child, was never fully severed. Pattern, her current Cryptic, explains that deadeyes, who are broken spren with scratched-out eyes, are a recent phenomenon caused by an ancient magical shift. Shallan vows to find a way to help Testament and the other broken spren as she prepares to return to the Physical Realm.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Hesina sits with Kaladin and offers him a bowl of lavis grain and spiced crab me
 
 Lirin joins the family and discusses the medical challenges facing Dalinar’s army as the deadline for the contest approaches. He notes that the fighting is expected to intensify as both sides scramble to hold territory before the final agreement takes effect. Kaladin hears the voice of the wind again, which urges him to seek out the Bondsmith for further instructions. He informs his parents that he must leave for Shinovar to assist with the Herald Ishar, who has descended into madness. Lirin offers a rare embrace of approval, acknowledging that Kaladin has surpassed his own understanding of the world.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 3: THE COST OF HEROISM
@@ -51,8 +45,6 @@ Wit encourages Shallan to view her ability to do terrible things as a necessary 
 
 Kelek reveals a major secret regarding Ba-Ado-Mishram, one of the Unmade who are ancient, powerful spren of Odium. He explains that ancient Radiants trapped the spren in a perfect heliodor gemstone and hid it within the Spiritual Realm. This imprisonment caused a fundamental break in the Connection between spren and humans, leading to the creation of deadeyes during the Recreance. Shallan determines that finding this prison is the key to healing the deadeyes and defeating the Ghostbloods’ plans. Pattern warns that traveling to the Spiritual Realm is nearly impossible as it is a place where time and distance lose meaning.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 4: LISTENING
@@ -62,5 +54,3 @@ Kaladin flies to the upper levels of Urithiru to meet with Dalinar but finds Wit
 Wit explains that art is a fundamental necessity for all sentient beings and exists simply because people need it to process their lives. He speaks about the "Old Magic" and ancient spren that predated the arrival of the current gods on Roshar. Wit warns Kaladin that something is "horribly wrong" with the world and that he has been waiting for a catastrophic truth to be revealed. He encourages Kaladin to listen to the wind, suggesting that a piece of an ancient deity is watching over him. Syl joins them, appearing in a Bridge Four uniform with her hair in a ponytail as she listens to the music.
 
 The conversation turns to the nature of hope and virtue, with Wit arguing that true virtue persists even when it offers no reward. He dismisses the "Passions," a fraudulent belief system derived from Odium, that blames victims for their own suffering. Wit tells Kaladin that his mission to Shinovar is the final part of a long journey and that he must not return to the tower. He gives Kaladin the red flute and instructs him to practice until the sound of the wind joins his playing. After a final, serious handshake, Wit departs, leaving Kaladin to enter his meeting with Dalinar and face his destiny.
-
-Sentence Count Check: 15

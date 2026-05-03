@@ -15,8 +15,6 @@ Kaladin attempts to discuss mental scars and healing with Szeth, but Szeth rejec
 
 In Urithiru, the Stormfather rages against Dalinar's contemplation of taking up the power of Honor. The Stormfather pulls Dalinar into a vision of the open sky to intimidate him and call him arrogant. He admits that he lied about the details of Tanavast’s death and that Honor’s abandonment was more shameful than previously stated. Wit provides Dalinar with a specialized clock from Silverlight, a device capable of tracking local time across different planets and realms. Dalinar decides to proceed with the plan to enter the Spiritual Realm to seek the truth about the past.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 23: COMPROMISE
@@ -26,8 +24,6 @@ Radiant, Red, and Gaz position themselves near the Ghostblood hideout during a h
 Gaz renders the captured guard unconscious with a choke hold before the team strips her of her clothing and weapons. Shallan dons the woman's mask and utilitarian brown leathers to infiltrate the safehouse as an impostor. She enters the building alone, successfully passing through a security check involving a jar of black sand that detects the presence of intelligent spren. Inside, she follows Shade down a set of stairs into a basement lit by gemstones and scented with incense. She adopts the guard's lethal posture and stance to avoid drawing suspicion from the other Ghostbloods.
 
 Navani manages a multitude of administrative crises in the awakened tower, including trade disruptions and social tensions. Highprince Sebarial and Palona report that logistics for the upcoming war are becoming prohibitively expensive and resource-heavy. The ardent Rushu demonstrates a new fabrial experiment that uses "domesticated" flamespren, which are small fire-entities held in an oven and trained with treats and names. The Sibling initially condemns the practice as enslavement but agrees to a compromise after Navani explains the goal of willing cooperation. Navani informs the Sibling that she intends to accompany Dalinar on his dangerous journey into the Spiritual Realm.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Elid expresses skepticism regarding the outlandish stories about the "stonewalke
 
 Szeth notices that Molli the ewe is licking a specific patch of dirt near their sacred family stone. He discovers a small, second stone peeking through the earth that was likely revealed by the previous night’s rain. Finding a new stone emerging from the soil is a rare and terrifying event for the Shin people who revere the earth. Szeth recoils in shock because the sacred stones in other villages have remained unchanged for many years. He immediately runs to fetch his father to witness the emergence of the new rock.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 25: PURPOSEFUL DANGER
@@ -51,8 +45,6 @@ Mraize explains that he intends to follow Dalinar into the Spiritual Realm to lo
 
 Dalinar and Navani discuss the profound risks and potential consequences of Dalinar’s possible Ascension to Honor. Navani fears that taking up the power of a Shard will cause Dalinar to lose his humanity and love. Dalinar insists that he must find the truth about Honor's death to prevent Odium from winning the contest. Wit warns them that it is nearly impossible for a mortal to relinquish the power once they have Ascended. They decide to enter the Spiritual Realm together as a team to relive historical events and uncover hidden secrets.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 26: HUNTING THE HUNTER
@@ -62,5 +54,3 @@ Iyatil addresses Shallan in an unknown language, forcing Shallan to bluff by whi
 Mraize prepares a crossbow bolt equipped with a gemstone containing anti-Light to use as a lethal weapon. Iyatil expresses concern that Mraize is becoming too fixated on his own advancement rather than the greater Ghostblood cause. She reveals that Master Thaidakar wants to control the Shards to protect his own distant homeland. Iyatil believes that capturing the Unmade Mishram is the key to fulfilling her own specific purposes. Mraize remains outwardly obedient to Iyatil even as she questions his ultimate loyalty to their organization.
 
 Iyatil continues to speak to Shallan in Alethi while reflecting on Mraize's training and personal ambitions. She suddenly focuses on Shallan's physical presence and notices something irregular about her appearance. A burst of shockspren appears around Iyatil as she lunges forward to unmask the intruder. She successfully knocks aside Shallan’s hood and reveals the wig hidden beneath the guard's clothing. Iyatil screams a warning to the other Ghostbloods that they have been discovered by a Radiant spy.
-
-Sentence Count Check: 15

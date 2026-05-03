@@ -15,8 +15,6 @@ Rysn Ftori converses with her Babsk, Vstim, about the Sleepless who are monitori
 
 Taravangian suffers through a day of low intelligence in his prison while copying instructions left for himself by his smarter persona. Renarin Kholin visits the former king and offers a hand of fellowship, claiming that no man is ever too far lost to find his way back. Taravangian realizes that one of the guards is actually Szeth in a magical disguise and attempts to manipulate him into using Nightblood against Odium. He warns Szeth that the sword can harm the god and tells him to ensure it stays with Dalinar so it can be brought into Odium's visions. Szeth refuses to be manipulated and leaves Taravangian weeping alone in his room after rejecting the plea for help.
 
-Sentence count check: 15
-
 ---
 
 ### Chapter 73: Which Master to Follow
@@ -26,8 +24,6 @@ Eight years in the past, Venli begins to hear new rhythms and works with the Voi
 Ulim mocks the listeners’ primitive fighting styles and warns Venli that they cannot hope to stand against the advanced military might of the humans. He describes the horror of human cavalry charges and interlocking shield walls to dampen Venli’s confidence in her people’s warriors. Venli suggests finding a peaceful alternative to war but Ulim insists that the humans will inevitably enslave them as they have the parshmen. The Voidspren explains that the ancestors of the listeners were traitors who abandoned their gods during the ancient war. He reveals that the Unmade Ba-Ado-Mishram once granted forms of power before being imprisoned in a gemstone by human Surgebinders.
 
 Venli returns to her family home and finds her mother Jaxlim struggling to remember the ancient songs of their people. Jaxlim chants the song of the listeners’ departure from the war and their vow to never follow the old gods again. Ulim dismisses the ancestors as fools but Venli argues that they were heroes who sought freedom from divine rule. She decides to use Ulim’s agents among the humans to influence King Gavilar into inviting the listeners to Kholinar. Venli hopes to overwhelm her people with the sight of human power to make them desperate enough to accept forms of power. She resolves to make the listeners afraid so they will finally listen to the promises of the Voidspren.
-
-Sentence count check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Rlain reveals that he used his status as a "tame" parshman to steal meticulously
 
 A group of human water bearers arrives to help the surgeons hydrate the unconscious patients in the infirmary. Lirin notices that some of the workers have painted the shash glyph on their foreheads as a sign of silent protest. He confronts one man about the mark but the worker insists it is merely a reminder of the hero Kaladin. Lirin fears that the symbol of hope will lead the humans into a suicidal rebellion against the brutal Regals. Venli observes the interaction and realizes that the humans need a symbol to trust when they can no longer trust their own hearts. She prepares to visit Raboniel for translation duty while Timbre thrums to an unfamiliar and mysterious rhythm.
 
-Sentence count check: 15
-
 ---
 
 ### Chapter 75: The Middle Step
@@ -51,8 +45,6 @@ Within their shared consciousness, the persona Veil takes control as Shallan Dav
 
 Pattern admits to Shallan that he has been lying to her and spying on her using the communication cube provided by the Ghostbloods. He explains that he volunteered to bond her as a "middle step" to help bridge the gap between humans and spren. Shallan emerges and rejects Pattern's explanations, branding him a traitor for his repeated deceptions and hidden agendas. She stalks Sixteen in the statue garden and forcibly uncovers his face only to find he is a bald Shin man instead of an Alethi. Shallan decides to report to Mraize that his intelligence was wrong and prepares to leave the fortress without fulfilling the mission.
 
-Sentence count check: 15
-
 ---
 
 ### Chapter 76: Harmony
@@ -62,5 +54,3 @@ Navani Kholin attempts to speak with the Sibling through a garnet vein in the wa
 Navani explains that the two Lights remain inert and swirling like smoke unless an emulsifier is found to force them together. She theorizes that sound is the key to the reaction and asks Raboniel to describe the unique rhythms of each Light. Raboniel sings the pure tones of Honor and Odium while explaining that Towerlight is a harmony of two distinct sounds. Navani realizes that she can feel the vibrations of the Lights by strapping infused gemstones directly against her skin. She uses her vocal training to match the tones and rhythms that Raboniel provides in their shared experimental space.
 
 Navani and Raboniel sing together in a unified harmony that allows the Stormlight and Voidlight to finally merge into a black-blue energy. Raboniel identifies this new hybrid as the Rhythm of War and recognizes that it represents the combination of Honor and Odium. Navani has a sudden epiphany that her late husband Gavilar was using similar research to find a way to kill a god. Raboniel breaks her promise to leave the tower and instead declares that she must focus on her duty to secure the fortress. Navani is left alone to contemplate the dangerous implications of her discovery and the secret of the opposite Light she once held.
-
-Sentence count check: 15

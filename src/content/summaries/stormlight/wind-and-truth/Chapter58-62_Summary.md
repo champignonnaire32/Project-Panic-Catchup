@@ -15,8 +15,6 @@ In the present, Thude sings the "song of new sight" to Venli, depicting the hist
 
 Venli speaks with Thude and Bila about the necessity of maintaining listener independence despite the threat of Odium. She questions the chasmfiends about their biology and receives a mental image of them following songs to the Shattered Plains. In the vision world, the Wind speaks to Navani and warns that becoming Honor will bring great pain. Dalinar discovers a stone disc marked with an ox head, representing a debt Nale owes to Jezrien. He seizes the disc and uses it as an anchor to pull Navani and Gav into the next vision.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 59: WHATEVER IT TAKES
@@ -26,8 +24,6 @@ Eighteen years in the past, a nineteen-year-old Szeth prepares an ambush for sto
 The stonewalker raiders capture Szeth after he reveals himself to protect a hidden child from discovery. They mistake his lucky stone for an Oathstone and take him aboard their ships as a slave. Szeth's hidden soldiers execute his plan by burning two of the three raider vessels with oil. Szeth frees himself on the third ship but sustains a fatal sword wound to his stomach during the combat. The Voice heals his injury instantly and grants him a second chance at life to complete the mission.
 
 Szeth defeats eight more sailors and compels the remaining raiders to surrender by showcasing his healed wound. He adopts the title of "Stormrider" to terrify the survivors and stabs two men as a warning of future retaliation. After returning to shore, Szeth meets his father, Neturo, and the General who is leading the coastal defense. They express horror at his violent methods and the destruction of the enemy ships. The General orders Szeth to return to camp to await punishment for taking too much initiative.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Adolin recruits a trans man named Sarqqin who possesses master blacksmithing pap
 
 Venli watches the chasmfiends sing four harmonizing notes that cause the ground to vibrate in geometric patterns. She uses Stormlight to shape stone according to these tones, creating a miniature model of the Shattered Plains. The stones communicate that the Plains were broken during Aharietiam when the "alien stones" of a fallen moon reacted to divine presence. Venli learns that a tenth Oathgate and a magnificent city once stood at the heart of the now-fractured landscape. She resolves to lead an expedition to Narak to discover the secret hidden at the center of the Plains.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 61: FORCED TO BOW
@@ -51,8 +45,6 @@ On the Shattered Plains, Sigzil and Leyten observe a new type of Fused known as 
 
 The enemy forces, supported by Skybreakers, begin a performative march toward Narak Four to distract the defenders. Sigzil recognizes the movement as a feint and orders Leyten to locate the missing Heavenly Ones. The Focused Ones demonstrate their strength by tearing up the wooden planking meant to hinder Deepest Ones. Despite the weakening of the highstorm, gemstones across the camp successfully recharge with Light. The defenders wait on the walls as a massive thunderclast approaches the weakest point of the fortification.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 62: KEEPER OF THE KEYS
@@ -62,5 +54,3 @@ Dalinar, Navani, and Gav arrive in a new vision forty-three years into the war a
 Renarin and Rlain are also present in the vision, inhabiting the bodies of the Heralds Vedel and Pailiah. They discuss the Ghostbloods' interest in the prison of Ba-Ado-Mishram and its connection to the fall of Honor. Renarin uses his unique light-based powers to reveal the souls and potential futures of those around him. He produces a sphere of light for Rlain that shows a vision of the two of them kissing. Rlain struggles to manifest his own light but eventually succeeds in creating a glowing sphere.
 
 The camp experiences a highstorm that has been modulated by Honor to be gentle and warm for the faithful. Dalinar observes the Heralds discussing the necessity of counteracting singer immortality by becoming deities themselves. He identifies the formation of the ten Honorblades as his best chance for a long-term vision anchor. Jezrien acknowledges Nale's past correctness regarding the god Passion, whom they now recognize as Odium. The group of Heralds enters the tent where Renarin and Rlain are hiding to finalize their bond.
-
-Sentence Count Check: 15

@@ -15,8 +15,6 @@ A human woman, a surgeon's assistant named Axindweth, asks Eshonai about spren. 
 
 The humans are frightened by the chasmfiend, but the beast ignores them. Gavilar notices Eshonai's ancient hunting knife and asks where it came from. Eshonai mentions the ruins and the old songs of her people. Gavilar becomes extremely interested when Eshonai mentions the Neshua Kadal and Radiants. Gavilar gives the listeners steel weapons and asks them to move into the ancient cities.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 49: Soul of Discovery
@@ -26,8 +24,6 @@ Navani organizes her scholars to perform busywork to hide their real intentions 
 The Sibling explains that the blue shield solidifies air into glass using Soulcasting and external Stormlight. Raboniel can circumvent the shield by corrupting one of the three remaining nodes connected to the Sibling's heart. The Sibling mentions that a suppression defense was turned against the Radiants. The tower's rhythm was lost centuries ago during the binding of the Unmade Bo-Ado-Mishram. The Sibling reveals that two Radiants are awake in the tower: Lift and Kaladin.
 
 Kaladin sneaks through the darkened tower with Syl to find Stormlight. He discovers that the enemy is pretending the tower has not been conquered to deceive scouts. Kaladin uses a Reverse Lashing—a power that makes an object attract others—to unlock gemstone lanterns. He retrieves several amethysts and travels to a fourth-floor monastery for supplies. Navani contacts Kaladin through the Sibling's bond and instructs him to investigate how the enemy operates the Oathgates.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Jasnah confronts Dalinar about his decision to step back from direct military co
 
 Wit baits Ruthar into a duel and Jasnah exercises her right to be Wit's champion. Jasnah stabs Ruthar through the throat but allows Renarin to heal the wound immediately. She strips Ruthar of his title and passes it to his son as punishment for the insult. Jasnah uses the event to propose a law banning trials by sword. Dalinar observes the efficiency of Jasnah's plan and recognizes its political necessity.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 51: To Sing Hopeless Songs
@@ -51,8 +45,6 @@ Venli meets with Dul, a member of her inner circle of singers who wish to escape
 
 Venli feels the weight of her past failures and doubts her ability to lead her people to safety. She reflects on her history of bringing destruction to the listeners. Timbre, her Reacher spren—a sentient light creature that bonds with singers—pulses with curiosity about Venli's hidden memories. Venli decides it is time to share the story of how the betrayal began. She recalls the second visit of the humans years ago.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 52: A Path Toward Saving
@@ -62,5 +54,3 @@ Eight and a half years ago, Venli's mother Jaxlim begins forgetting the lyrics t
 Venli grows frustrated with the humans' lack of rhythms and their constant interruptions during her performances. She encounters "parshmen" servants—unintelligent human-owned singers—and feels uncomfortable with the humans' perception of her kind. Listeners from many families gather to see the humans and their metallic equipment. Venli boasts about her status as a songkeeper to impress other listeners. She avoids Eshonai, who remains focused on exploring the human world.
 
 A human woman named Axindweth approaches Venli while she is alone on the plateaus. Axindweth reveals she can speak the listener tongue perfectly and offers a way to restore the listeners' glory. She criticizes the listeners' ancestors and mentions forms of power that can heal the sick. Axindweth gives Venli a blood-red gemstone containing a Voidspren—a malevolent spirit that grants dark abilities. She tells Venli to break it in a storm to save those she loves.
-
-Sentence Count Check: 15

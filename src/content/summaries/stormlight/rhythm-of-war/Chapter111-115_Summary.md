@@ -15,8 +15,6 @@ Szeth intervenes with Nightblood, a sentient black sword that consumes Stormligh
 
 Dalinar and his team investigate Ishar's pavilion and find a collection of experimental corpses. These bodies are revealed to be spren, such as honorspren and Cryptics, that Ishar attempted to manifest physically in the mortal realm. The experiments failed as the spren survived only minutes before their physical forms collapsed. The Stormfather identifies the remains as his children and demands they leave the site of the abomination. Moash flees the tower as the light of the Sibling returns, losing his Connection to Odium and feeling the full weight of his guilt for killing Teft. He is blinded by the tower's restoration and is carried away by fleeing Heavenly Ones.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 112: Terms
@@ -26,8 +24,6 @@ Dalinar returns to the Emuli warcamp and receives news that Urithiru is secure a
 Odium proposes a new agreement where he will leave Roshar for a thousand years regardless of the outcome. Dalinar rejects this because it would free the deity from his current prison in the Rosharan system. They negotiate a final set of conditions that focus on the control of Alethkar and Herdaz. If Dalinar's champion wins, Odium remains bound to the system and must return the conquered homelands. If Odium's champion wins, he keeps his conquests and Dalinar must surrender his soul to become a Fused. Dalinar recognizes that a conventional war against immortal Fused is a losing prospect for his people.
 
 The contest is set for the tenth day of the month Palah at the tenth hour on the roof of Urithiru. Dalinar intends to serve as his own champion and wagers his eternal service to save his kingdom. Odium agrees to the terms and promises to cease all hostilities against Dalinar's allies if he loses. The contract is finalized through their mutual agreement within the golden field of the vision. Dalinar reflects on Jasnah’s warnings about the dangers of individual rulers holding too much power. He decides to trust his instincts to secure a definitive end to the centuries of conflict.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Taravangian wakes up in a state of extreme emotional sensitivity and finds a not
 
 Odium pulls Taravangian into a vision between worlds just as the mortal body begins to die. In this spiritual realm, Taravangian's mind is clear and his emotions are intensified by his proximity to the deity. He realizes that Nightblood has also manifested in this space and seizes the black sword. Taravangian stabs Odium with Nightblood, which drinks the essence of the god and kills the vessel, Rayse. The vacuum left by Rayse's death draws Taravangian into the Shard's power because of his extreme emotional state. Taravangian Ascends to become the new vessel for the Shard of Odium.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 114: Broken Gods
@@ -51,8 +45,6 @@ Taravangian explores his new godly perspective and realizes the vastness of the 
 
 The members of Bridge Four hold a funeral for Teft by Soulcasting his body into stone. Kaladin sits with Syl and mourns his friend while reflecting on his own mental health journey. He realizes that the wood horse given to him by Tien in a vision was likely a fabrication of his own mind. Despite this, he feels he has shed the burden of his shame and is ready to move forward. Bridge Four celebrates Teft’s life in a tavern, drinking the way their friend would have appreciated. Taravangian exults in his freedom from his mortal body and prepares to save the universe from its current rulers.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 115: Testament
@@ -62,5 +54,3 @@ Shallan and Adolin stay in Lasting Integrity and observe the deadeye Cryptic the
 She reveals that Wit and Pattern helped her brothers escape Urithiru before the singer occupation. Shallan threatens Mraize, stating she will find the gemstone containing the Unmade Ba-Ado-Mishram before he does. Mraize warns her that she has made an enemy of a powerful interplanar organization and its leader, Thaidakar. Shallan dismisses the threat and relays a mocking message from Wit to the Lord of Scars. She studies a map of the stars provided by Kelek and prepares to investigate the wider cosmere. The honorspren in Lasting Integrity agree to begin bonding with humans again following the trial's outcome.
 
 Venli approaches the listener camp in the eastern plains and finds Thude leading a group of survivors. She reveals her new powers and offers to help the listeners become Radiants to protect themselves. Thude is skeptical due to Venli's past betrayals but allows her to see her mother, Jaxlim. Venli sings the Song of Mornings to her mother, whose mind has been broken by the loss of her Connection. A Reacher spren enters Jaxlim's gemheart to begin a bond that might restore her sanity. The listeners reveal they have tamed chasmfiends to serve as their mounts and guardians. Jaxlim regains consciousness and recognizes Venli as the Stormfather accepts her daughter's new Words.
-
-Sentence Count Check: 15

@@ -15,8 +15,6 @@ Commandant Kushkam of the Azimir Imperial Guard arrives on a horse wearing glowi
 
 Adolin experiences flashbacks to the fall of Kholinar where he abandoned his own troops during a frantic Oathgate transfer. He identifies Captain Sidin as one of the men left behind to face the overwhelming enemy force. These memories of failure fuel a desire for redemption as he commits to protecting Azimir at any cost. He reflects on his mother's advice to fight for something worthy of his heart rather than just following orders. Adolin chooses to wear a formal uniform cape despite his father’s past disapproval of the ostentatious style. The chapter ends as Adolin resolves to hold the dome and prevent the singers from capturing a staging ground.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 35: MEMORIES LIKE WINE
@@ -26,8 +24,6 @@ Szeth leads Kaladin Stormblessed through a Shinovan prairie near the ocean to lo
 The highspren commands Szeth to conserve Stormlight and only use his Surge of Division when specifically instructed. Kaladin attempts to convince Szeth that he has personal volition and is not merely an object used for killing. Szeth remains silent during much of the lecture but eventually challenges Kaladin’s own history of killing singers and listeners. Nightblood, the sentient black sword, interrupts to ask if it truly consumed the soul of Taravangian. Szeth confirms the kill and explains that the sword's power scars the flesh of its wielder if they lack sufficient Stormlight.
 
 Nightblood mentions its creators, Vasher and Shashara, and reveals that it has been killing people for many decades without retaining the memories. Kaladin and Syl meet the sword's comments with concern, though Syl spends much of the trip listening to other spren. The group arrives at a white farmhouse where Kaladin discovers a trembling lifespren hiding in a corner. Syl explains that the local spren are terrified of an impending event that threatens the end of all spren kind. Szeth digs up a large oblong stone near a tree and declares his readiness to proceed to the Stone Shaman monastery.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The Farmer, a ruling peer dressed in vibrant violet and sky-blue robes, sits wit
 
 Elid informs Szeth that three sheep are missing from their flock, including his favorite blind sheep named Molli. Szeth notices a red haze on the southwest horizon, indicating that the raiders have begun burning coastal fishing villages. He initially searches nearby flocks but grows increasingly anxious when Molli cannot be found among the other shepherds. Defying the general atmosphere of fear and the Farmer’s advice to stay put, Szeth puts out his ceramic lamp. He decides to walk alone into the night toward the family homestead to find the missing animal. The chapter concludes with Szeth entering the darkness as he follows a violet moon breaking through the clouds.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 37: PEOPLE WHO BUILD
@@ -51,8 +45,6 @@ Adolin later regrets undermining Kushkam’s authority in front of the emperor a
 
 May Aladar, the daughter of Highprince Aladar, arrives with a group of female scribes to assist Adolin’s volunteer force. Adolin recalls his awkward social history with May, noting that she mistakenly believed they were dating during his time on the Shattered Plains. Maya laughs at Adolin’s history with women, jokingly calling him a "slut" in the manner of his soldier friends. Highprince Aladar informs Adolin that seventeen hundred veterans and Cobalt Guard members have volunteered for the defense of Azimir. He mentions that May has been secretly practicing with Shardplate and Blade, following the example of Queen Jasnah.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 38: THOSE WHO SUBTRACT Years Ago
@@ -62,5 +54,3 @@ Szeth returns to his family's homestead and discovers three Shin soldiers sittin
 The soldier with sunken eyes argues that shepherds like Szeth are the "cowardly" ones who subtract by paying others to kill. He reveals they are eating meat, and Szeth realizes with horror that the charred remains in the fire are his sheep, Molli. Szeth finds the sheep's pelt in the grass and confronts the men, who respond with insults about the hypocrisy of pacifism. The soldiers eventually stumble away into the night, leaving Szeth alone with the remains of his favorite animal. Sunken Eyes stays behind briefly, muttering to himself as if arguing with an unseen presence before wandering off.
 
 Szeth experiences a blinding rage and attacks the drunken soldier, but the man easily overpowers him and begins to squeeze his throat. As he struggles to breathe, Szeth’s hand finds the heavy stone that his family had pulled from the ground. He strikes the soldier repeatedly in the head until the man’s blood covers his hands and the water trough. After the killing, a soft voice speaks in Szeth’s mind and asks him "what are you?" The chapter ends as Szeth sits numbly with Molli's pelt in his lap next to the corpse until he is found the next morning.
-
-Sentence Count Check: 15

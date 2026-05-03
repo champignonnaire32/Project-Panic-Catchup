@@ -15,8 +15,6 @@ Navani Kholin remains trapped in the Spiritual Realm where she faces a nightmare
 
 Navani successfully manipulates the vision to transition from her study to the fall of Kholinar. She chooses the painful memory of her son Elhokar’s death to navigate toward her grandson Gavinor. The room shifts to show the palace under the control of the Unmade with dust covering the shelves. Navani hears the echoes of battle and shouts from the hallway as the scene of the palace siege begins. She prepares to enter the hallway to find Gavinor amid the chaos of the day Elhokar died.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 102: A BLADE IN THE NIGHT
@@ -26,8 +24,6 @@ Nine and a half years ago, Szeth returns to Pozen’s monastery in Mokdown to as
 Sivi expresses doubt about their cause and warns Pozen that Szeth has been recruiting nearby city garrisons. Pozen dismisses her concerns and implies that he has specific leverage over Szeth to keep him in line. Szeth considers killing Sivi to take her Willshaper Blade, which allows for the sculpting of stone. He ultimately chooses to confront her directly instead of striking from the shadows like an assassin. He asks Sivi how she can serve an Unmade, revealing that he saw a captive spren being tortured.
 
 Pozen discovers Szeth in the meditation chamber and accuses him of embarrassing his masters with his rebellion. The older man summons his Shardblade and prepares to fight Szeth in the confined space of the hallway. Szeth Lashes himself away to avoid being transported to the Cognitive Realm known as Shadesmar. He refuses to kill Pozen and instead shouts a warning to the Windrunner acolytes about the return of the Voidbringers. Szeth flees the monastery to continue raising his banner of Truth against the corrupt Honorbearers.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The Wind explains that the nine remaining Heralds are the best pieces left of th
 
 On the Shattered Plains, Sigzil coordinates the defense of Narak against a relentless barrage of boulders. Corrupted windspren and Fused attackers, including massive Magnified Ones, assault the walls and kill many defenders. Lopen arrives with Windrunner reinforcements from Herdaz, but they bring very little Stormlight to sustain the battle. Sigzil realizes they are at their limit and will soon be forced to retreat through the Oathgate to Urithiru. The singer Radiant Venli contacts Sigzil with an offer of assistance that provides the final piece for his tactical plan.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 104: ENEMY
@@ -51,8 +45,6 @@ Rayse creates a deceptive physical form in golden robes to meet with Tanavast at
 
 Tanavast notices a group of dark-skinned people who choose to defy the empire and leave the city in protest. This group includes a young man named Nale and an older relative who insists on forming a new alliance. Inspired by their pride and honor, Tanavast decides to intervene despite his agreement not to interact with Rayse’s subjects. He appears in their tent that night and offers them the power necessary to resist their shared enemy. This encounter marks the beginning of the Heralds’ relationship with the god of Honor before they moved to Roshar.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 105: POINTS OF TRANSITION
@@ -62,5 +54,3 @@ Navani navigates the vibrating hallways of the Kholinar palace during the final 
 Navani finds the real Gavinor hiding behind a screen and comforts the terrified boy who has seen visions of Dalinar killing. She realizes the Elhokar figure accompanying her has transformed into a mask for the god Odium. Odium mocks Navani for her cleverness in manipulating the vision and admits he has been studying her fears and anger. Navani refuses to be baited by the god and decides to continue the vision toward the palace’s covered walkway. She carries Gavinor through the chaos of the singer invasion as the palace floors become a battlefield.
 
 Odium mimics Elhokar’s voice and pleads for Navani to help him as he appears to be wounded in the hallway. Navani ignores the fake pleas and commands the simulacrum of Kaladin to activate the Kholinar Oathgate. She focuses on the tones of Roshar and connects to the Sibling to create a bridge back to the physical world. Navani and Gavinor successfully emerge in her rooms at Urithiru just as Venli arrives at the human camp on the Shattered Plains. Venli meets with the Windrunner Sigzil and proposes a revised tactical plan that requires the assistance of Queen Jasnah.
-
-Sentence Count Check: 15

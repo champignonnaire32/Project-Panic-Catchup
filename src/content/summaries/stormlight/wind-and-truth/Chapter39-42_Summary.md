@@ -15,8 +15,6 @@ Adolin observes approximately one hundred stormforms and one hundred direforms m
 
 Crossbowmen fire into the control building, but stormforms respond with lethal bursts of red lightning. Direforms charge out and immediately begin crushing the Azish infantry lines with their enhanced strength and speed. Adolin leaps from the thirty-foot-high balcony and charges across the stone plateau to reinforce the buckling human defense. He engages multiple direforms and Regals, using his Shardblade and Plate to distract the enemy while the Azish regroup into a wider pike wall. Three Heavenly Ones swoop down to engage Adolin, but May’s archers harry them with long-range Alethi arrows.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 40: STUKO STEM 40
@@ -26,8 +24,6 @@ Szeth and Kaladin arrive at the monastery of Talmut after a quick flight to a hi
 Szeth leads the group to the monastery fortress, which serves as a watchtower originally set up by the Heralds. He reveals that the Shin were guardians of the Honorblades and the Sacred Truth that the enemy would eventually return. They enter the vaulted great hall and meet a Shin shaman named Rit-daughter-Clutio, who was present for Szeth's banishment. Rit summons Talmut’s Honorblade and challenges Szeth to a duel to prove his worthiness. Szeth hands the sword Nightblood to Kaladin with strict instructions not to draw it or intervene in the coming fight.
 
 Back in Azimir, Adolin continues his assault on the singer ranks as more troops transfer through the control building. He uses Maya to strike down direforms and Regals while his support squad arrives to protect his flanks. The Heavenly Ones return after being doused in oil and set on fire by May’s archers using flaming arrows. Adolin slays a Heavenly One who attempts a stealthy attack, cutting her gemheart and sending her back to Braize. Abidi the Monarch, a Fused Adolin previously fought in Shadesmar, emerges from the formation to seek revenge.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The battle continues as Rit drains the stone from the floor to create a complex 
 
 Szeth touches the stone surrounding him and infuses it with destructive power, turning the column into burning char and ash. He rips free from the stone and lunges at Rit, plunging his Shardblade through her skull as she approaches to inspect him. Rit’s Blade falls from her fingers, and she whispers that Szeth's family awaits him before her body disintegrates into black smoke. Meanwhile, in Azimir, Adolin struggles against Abidi the Monarch, who uses aluminum-lined maces to bypass the Shardblade's cutting edge. Adolin’s support squad intervenes to protect him, allowing him to regroup and give the signal for a tactical withdrawal.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 42: CELEBRATIONS 42
@@ -50,5 +44,3 @@ Szeth questions the nature of Rit’s death and the source of her power as she v
 Adolin celebrates the successful defense with his soldiers outside the dome, reporting six wounded and zero fatalities. He allows a Thaylen soldier named Hmask to hold the dull Shardblade Maya to boost the morale of the volunteers. Adolin meets with Emperor Yanagawn and Commandant Kushkam to discuss the battle and future defensive strategies. He defends Kushkam’s tactical pivot to the Azish viziers and proposes a plan to tire out the enemy using pike walls and archer support. Adolin invites the young emperor to camp with the troops and offers to train him in using Shardplate and Plate.
 
 Adolin learns that the singers captured an imperial Soulcaster during the chaos of the initial retreat. He realizes the enemy will continue to launch brutal attacks and decides he needs a significant advantage to protect the city. Maya offers to travel through Shadesmar to recruit the honorspren who recently left Lasting Integrity. Adolin trusts her and allows the Shardblade to vanish so she can begin her journey into the bead ocean. Kaladin and Szeth prepare to depart for the Willshaper monastery as the local Shin people emerge from hiding to thank them.
-
-Sentence Count Check: 15

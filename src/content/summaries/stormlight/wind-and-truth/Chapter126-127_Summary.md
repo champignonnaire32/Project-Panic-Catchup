@@ -15,8 +15,6 @@ Dieno slips his wrist contortions to free his hands and pulls the chain held by 
 
 Dieno escapes from beneath the platform and climbs a set of stairs leading to the top of the fort’s wall. He finds himself surrounded by advancing soldiers with no path for a fifty-foot jump to safety. The general steeled himself for a final jump into the ocean mist while acknowledging he gave Herdaz his all. A sudden thumping shakes the ground and causes the advancing singer guards to pause in confusion. A city-sized greatshell, a massive crustacean, towers over the fort as it emerges from the fog to provide a dramatic finale for Dieno.
 
-Sentence Count Check: 15
-
 ---
 
 ### Interlude 18: CONFLUX
@@ -26,8 +24,6 @@ Taravangian, now the Shard Odium, considers whether he possesses the power to de
 Odium feels a sense of overwhelming relief that Dalinar's return prevents a violation of his intended timeline. The Shard vibrates in alignment with the rhythms of Roshar and the long-abused singer populations. Taravangian realizes that both Honor and Odium are aligned in their desire to care for the suffering singers. He accepts the burden of caring for his subjects and revels in the idea of bringing them due vengeance. The conflux of Shardic intent makes him believe he is better than he previously thought possible.
 
 Odium envisions a future defined by peace, a lack of pain, and a universe united under his rule. He determines that he must become the One God to ensure that the cosmere turns out correctly. Taravangian believes that all people will eventually recognize the necessity of his actions in their name. He shifts his focus toward the upcoming contest and the expansion of his influence across the cosmere. Taravangian prepares to move forward with his plan to rule as the ultimate authority over all existence.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ In Azir, Adolin Kholin learns via spanreed that the Shattered Plains have fallen
 
 Szeth and Kaladin load Nin-son-God into a horse-drawn wagon to begin their journey toward the Bondsmith monastery. Kaladin and Syl are surprised by the small size of the Shin horses and the age of the elderly animals. Syl explains that she was poofed into existence in the Stormfather's Godforge, a divine throne room, rather than being born naturally. Nin warns Szeth that Ishar intends to see him humbled and expects the new Herald candidate to fail his last trial. The Herald of Justice admits he is unsettled by Ishar's plan to build an army of physical spren and Fused.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 127: THEIR HOMES BECOME OUR DENS
@@ -50,5 +44,3 @@ Adolin speaks with the honorspren Maya, who uses her strengthening voice to tell
 Dalinar returns to Urithiru and finds the real Wit sitting in a chair and reading a book. Wit confirms that the visions tried to replicate him but failed because he is too complex to be simulated by the Stormfather. The jester leads Dalinar through the halls of the tower while using Lightweaving to keep the high king from being recognized. Dalinar senses the souls and Connections of his people and accepts his role as their dream and champion. Wit tells a story about a lumberman's son who was raised as a noble to win a bet between a king and a baron.
 
 Noura protests Yanagawn’s plan to retake the palace but eventually relents when she realizes she cannot keep him safe. Adolin gathers a force of survivors, including the blacksmith Sarqqin and the teenage Truthwatcher Rahel, for the mission. Skar and Drehy agree to lead the Heavenly Ones away by creating a distraction that implies a larger Windrunner presence. Yanagawn sheds his ornate imperial robes to prepare for the infiltration by dressing like an ordinary youth. The emperor declares that his people do not need a ruler right now but instead require the skills of a thief.
-
-Sentence Count Check: 15

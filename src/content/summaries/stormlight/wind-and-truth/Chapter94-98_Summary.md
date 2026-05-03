@@ -15,8 +15,6 @@ He enters a cavern and finds Shardblade cuts and fingerprints indicating the pre
 
 Szeth realizes he has been listening to an Unmade rather than a god or a spren throughout his entire life. The Unmade, a creature of shadow that twists spren into corrupted versions, demands that Szeth come forward and worship. Szeth recalls his father's trust in his ability to make his own decisions and take responsibility for his actions. He decides to reject the Unmade's call and flees the cavern to escape the smothering darkness. This flashback confirms that Szeth's training and exile were manipulated by an ancient servant of Odium.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 95: BECAUSE IT IS FLAWED
@@ -26,8 +24,6 @@ Adolin stares at his missing leg while a surgeon affixes a peg to his stump outs
 Adolin limps into the imperial tent to play a game of towers with Emperor Yanagawn using aluminum pieces. Yanagawn executes a successful envelopment move on the board, proving he has learned advanced defensive tactics through Adolin's training. The Emperor explains the Azish legal system, which limits imperial power and includes a representative government for the citizens. He reveals that Gezamal, the soldier who followed his orders to enter battle, has been demoted to cleaning latrines as punishment. Adolin argues that punishing a soldier for a moral decision creates indecisive leadership and endangers the military's effectiveness.
 
 Adolin refuses crutches and limps to the latrines to find Gezamal performing his new duties in the night. Gezamal defends his punishment, stating that accepting legal consequences is a mark of respect for the flawed empire he loves. Adolin realizes that even though the laws are rigid, the soldiers value the system of meritocracy and bureaucracy that defines their society. Colot, who was rejected by the Windrunners for being lighteyed, joins Adolin and shares his own experience of service despite the personal pain. As the moon sets, Adolin feels a mounting dread that the human forces will not survive the final day and a half before the contest.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Szeth confesses that he is terrified of being wrong and expresses hatred for the
 
 Szeth realizes that he is the only one positioned to take action against the corruption in his homeland. He embraces his father one last time before deciding to return to the monastery to confront the other leaders. The smoke from the campfire mixes with the escaping Stormlight as Szeth prepares to launch back into the air. He insists that Neturo stay hidden while he deals with the looming threat of the Unmade and the false Honorbearers. This moment marks the beginning of Szeth's proactive rebellion against the spiritual authorities of the Shin people.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 97: CHARACTERS FROM A PLAY
@@ -51,8 +45,6 @@ Her brothers, Balat, Wikim, and Jhuven, arrive to celebrate, and Shallan accepts
 
 Shallan and Adolin speak their oaths, promising to lend each other strength whenever they are weak or alone. They share a forceful kiss that causes passionspren to explode around them like crystalline snow in the chamber. Shallan notices Testament's pattern begin to right itself and unbend slightly as she experiences the joy of the union. At the back of the room, Shallan finally acknowledges the presence of her mother standing among the servants. She confirms that her mother was a Herald whose death at Shallan's hands initiated the current Desolation and the return of the Voidbringers.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 98: THE DAY OF TRUTH
@@ -62,5 +54,3 @@ Szeth returns to the Windrunner monastery and finds ten shamans gathered in mour
 They enter the monastery's armory, which is stocked with stacks of swords, gemstones, armor, and shields. Szeth explains that the larder and wells are maintained to resist a long siege from the rival Honorbearers. He mentions the need to recruit Moss for Soulcasting and Sivi to ensure a steady supply of food for his troops. Szeth declares that the Desolation has arrived and that the Voidbringers have officially returned to the world of Roshar. He urges the shamans to mobilize and recruit any willing people from the surrounding region for the coming war.
 
 The shamans, initially afraid, begin to nod in agreement as they recognize the truth of Szeth's warning. Szeth hopes to persuade one or two of the other Honorbearers to join his cause before they are attacked. He emphasizes that they must move quickly to cleanse the land of the Unmade's influence and corruption. The group prepares to transition the monastery from a place of ritual into a functional military base for the rebellion. This final flashback scene establishes Szeth's role as the primary defender of Shinovar against the ancient darkness.
-
-Sentence Count Check: 15

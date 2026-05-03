@@ -15,8 +15,6 @@ Venli leads an expedition of listeners through the chasms of the Shattered Plain
 
 Jasnah transfers her Radiants to the Shattered Plains via the Thaylen City Oathgate but keeps her conventional troops to defend the city. She realizes that Emul and Tashikk have turned against the coalition, causing a massive political shift in the Azish Empire. While studying strategic projections in an old temple, Jasnah is confronted by a billowing black mist containing a golden light. The mist coalesces into the form of Taravangian, who reveals that he has replaced Rayse as the vessel of Odium. Taravangian informs Jasnah that he intends to take Thaylen City by the next evening through personal intervention rather than military force.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 90: A CANDLE BEFORE THE STORM
@@ -26,8 +24,6 @@ Szeth returns to the Dustbringer monastery in Shinovar and hands his collection 
 The Honorbearer attacks with a Dustbringer Blade and uses Surges to create burning imprints and flashy bursts of fire to intimidate Szeth. Szeth dodges every strike and realizes the warrior lacks practical experience despite her mastery of feints and destructive Division powers. He calls out to the figure and forces her to stop, eventually recognizing her as his sister, Elid, when she removes her head wrappings. Elid reveals that their mother died of tumors and their father was taken by a mysterious "Voice" before she begins to disintegrate into mist. She tells Szeth that the Oathpact is broken and that he is being auditioned to replace Jezrien as a new Herald.
 
 Sigzil meets with his generals at Narak and discusses the heavy casualties they have sustained while defending the Shattered Plains from the Fused. The leadership acknowledges that they are outnumbered and will likely fall once their Stormlight reserves are completely depleted during the ongoing siege. Sigzil keeps his plan to trick the enemy a secret while he works out the technical details of Dalinar’s agreement with Odium. Beneath the plateau, Venli and the Five discover a magnificent golden pool of liquid light that acts as a gateway for the gods. A guard arrives to warn them that their Heavenly Ones have been discovered by a dangerous-looking Fused.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Jasnah questions the entity appearing as Taravangian and learns that Szeth’s N
 
 Venli is captured by a Fused named El who possesses metal horns and a shimmering steel carapace that has been fused to his skin. El offers to pardon Venli and her listeners if they agree to serve Odium as Fused and use their captive chasmfiends to defeat the humans. Venli demands time to negotiate and consult with her people while realizing that El knows the location of the listener refugees at the edge of the plateaus. Leshwi identifies El as a uniquely powerful and ancient Fused who rarely lies and suggests that his offer might be the only way to survive. The group reunites in a gap between the plateaus to discuss the existential threat posed by the new, remade Odium.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 92: INTO THE BLUE
@@ -51,8 +45,6 @@ Szeth walks along the boarded walkways and notes that the buildings are adorned 
 
 Szeth looks at the clay buildings and reinforcement wood that characterize the unique architecture of the most ancient city on Roshar. He acknowledges the importance of those who touch stone and those who do not, comparing them to shepherds and their sheep. The murals on the walls are described as having as much a splash as anyone could give them in this artistic urban environment. Szeth delays his meeting with the Voice to take in the sight of the city and its complex, historic beauty one last time. He finally takes to the sky again, signaling that he is ready to face the next step in his ascension to the Truth.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 93: WHITE CARPET, NOW RED
@@ -62,7 +54,5 @@ Shallan enters the Spiritual Realm and revisits the day she killed her mother, C
 Chanarach hesitates before striking her daughter with a knife, providing a brief moment of maternal softness before the violence resumes. Young Shallan summons Testament as a Shardblade and rams the weapon through her mother’s chest, killing the Herald and sending her back to Braize. The death of the Herald causes a massive explosion of light and kills Dreder while leaving Shallan’s father to hide the blade in a safe. Shallan realizes that her mother’s death was the event that ended the world by breaking the Oathpact and triggering the return of the Fused. She confronts the memory of her father singing a lullaby to her while she sat in his arms, covered in her mother’s blood.
 
 Pattern and Testament confirm that Chanarach is still alive somewhere since Heralds cannot die permanently even when struck by a Shardblade. Shallan accepts that she is the daughter of a Herald and remembers seeing her mother in disguise at her own wedding to Adolin. Radiant and Veil help Shallan process the trauma of the discovery, reinforcing the fact that she survived the event and filled the cracks in her soul. Shallan decides that while she does not have to forgive her mother for the attempted murder, she wants to try to move toward forgiveness. She takes a deep breath and prepares to face the consequences of her heritage as the group remains in the Spiritual Realm.
-
-Sentence Count Check: 15
 
 ---

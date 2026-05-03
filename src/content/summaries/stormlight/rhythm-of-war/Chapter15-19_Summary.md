@@ -15,8 +15,6 @@ Zahel demonstrates an uncanny awareness of his surroundings and easily defeats K
 
 The conversation shifts to the nature of the Fused, who are immortals directly connected to Odium’s power for sustenance. Zahel mentions that these entities become more like spren over time, losing their original human or singer identities. He warns that killing them permanently requires weapons capable of unravelling the soul rather than just destroying the physical body. Kaladin suggests the possibility of peaceful coexistence, but Zahel remains skeptical due to the corrupted nature of the Fused. Zahel eventually returns to his laundry, leaving Kaladin to contemplate his lack of a clear new purpose. Kaladin departs the plateau feeling the weight of his forced retirement and the complexities of his immortal enemies.
 
-Sentence Count Check: 15
-
 ### Chapter 16: An Unknown Song
 
 Navani examines a strange dark sphere provided by Szeth that Gavilar possessed on the night of his death. The sphere contains a light that is purple-on-black and warps the air with a disorienting sensation. She visits Szeth in his illuminated prison cell to question him again about the night of the assassination. Szeth confirms that Gavilar trusted him with the sphere and gave him a final message for Dalinar. Navani feels physically ill in Szeth's presence but continues her investigation into the nature of Voidlight and the tower.
@@ -24,8 +22,6 @@ Navani examines a strange dark sphere provided by Szeth that Gavilar possessed o
 After the interrogation, Navani walks the Cloudwalk balcony on the eighth tier and encounters her grandson Gavinor. The boy expresses a desire to learn the sword so he can eventually kill the man who murdered Elhokar. This request deeply troubles Navani, as it highlights the cycle of vengeance inherent in Alethi culture. She meets with Brother Benneh, a scientist who reports that atmospheric pressure and temperature rise before a highstorm hits the tower. Navani theorizes that the tower is an organic machine that actively braces itself against the coming weather.
 
 Navani encounters Dalinar and Taravangian promenading together, though the tension between the two monarchs is palpable following Dalinar's published memoirs. She later shows the dark sphere to jewelers Talnah and Nem, who identify the gem as a flawless, non-gemheart diamond. They note that the sphere has held its strange charge for over six years without leaking any light. Rlain views the sphere and claims its song is painful and vibrates incorrectly against his singer soul. Navani leaves the gemstone with the scholars for further testing while she prepares for a strategic meeting with the coalition leaders.
-
-Sentence Count Check: 15
 
 ### Chapter 17: A Proposal
 
@@ -35,8 +31,6 @@ The Mink advises against Dalinar’s plan to launch a massive offensive to retak
 
 Jasnah proposes a controversial new law to abolish slavery in Alethkar, a move Dalinar fears will cause mass social upheaval. She argues that the ardents should also be freed from ownership, even if it risks restoring the church’s political power. The Herald Shalash reveals that the Oathpact is completely shattered following the permanent death of her father, Jezrien. Jasnah plans to seek out the Shin people to learn more about the Honorblades and the specific abilities of Bondsmiths. The meeting concludes with Dalinar agreeing to the Emul offensive, despite his personal desire to prioritize the liberation of his homeland.
 
-Sentence Count Check: 15
-
 ### Chapter 18: Surgeon
 
 Kaladin uses the Oathgate to travel to the Shattered Plains to meet the flying fourth bridge platform and its refugees. He leads his parents, Lirin and Hesina, through the tiers of Urithiru to show them their new living quarters. The tower features bizarre architectural elements like stone ventilation tubes crossing hallways and shafts plummeting dozens of stories. Kaladin explains that the tower is organized into neighborhoods to maintain a sense of community among the various Alethi refugees. He provides his parents with a large suite that includes a private balcony and a communal kitchen area.
@@ -45,8 +39,6 @@ Syl leads the family to a specially prepared surgery room equipped with high-qua
 
 Kaladin finally admits to his parents that he is officially retiring from the military to find a new path. Lirin is overjoyed by the news and immediately assumes Kaladin will return to his abandoned training as a surgeon. Hesina is moved by the announcement, while Syl watches Kaladin with an insistent stare to ensure he speaks the truth. Kaladin accepts that becoming a surgeon is the only logical role for him now that he no longer carries a spear. He commits to continuing his medical education under his father's tutelage within the safety of the tower walls.
 
-Sentence Count Check: 15
-
 ### Chapter 19: Garnets
 
 Navani works with the ardent Rushu to investigate the crystalline pillar that serves as the heart of the tower’s function. They find four garnets that mirror the layout of the suppression fabrial used by the Fused during the Hearthstone assault. Rushu reports that the suppression device manifests a spren in the Cognitive Realm of Shadesmar despite showing no spren on the physical side. This discovery confirms Navani’s theory that the Fused have advanced fabrial technology that does not require trapping spren in gemstones. The investigation into the pillar reaches a temporary impasse as the scholars struggle to map the tower's remaining inactive systems.
@@ -54,5 +46,3 @@ Navani works with the ardent Rushu to investigate the crystalline pillar that se
 The Fused continue to employ specialized metals that conduct Stormlight or resist the cutting edge of a Shardblade. Navani notes that these materials are rare and usually reserved for the high-ranking Fused rather than common singer soldiers. She continues to advocate for open research sharing among the coalition to counter the enemy’s superior technological capabilities. The Thaylen artifabrians remain secretive about their methods for managing large gemstones, a move Navani considers dangerous for the war effort. She hopes to eventually find a way to fully reactivate Urithiru’s automated life-support and defensive systems to protect the coalition.
 
 The group learns that the spren powering the enemy’s suppression device is not trapped, but is instead acting as a willing participant. This suggests a fundamentally different approach to fabrial mechanics than the one traditionally used by human scholars and artifabrians. Navani reflects on the need for a breakthrough in understanding the "music" or rhythms that the singers use to manipulate Investiture. She believes that mastering these tones is the key to creating new defensive tools against the Fused. The chapter ends with Navani focused on the daunting task of deciphering the tower’s ancient and complex mechanical soul.
-
-Sentence Count Check: 15

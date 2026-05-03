@@ -15,8 +15,6 @@ Kelek panics during the commotion and retreats into a piteous state before reset
 
 Shallan absorbs a large quantity of Stormlight to heal her fake wounds while Veil, her espionage-focused personality, uses sleight of hand to steal a perfect emerald. The honorspren guards focus on a falling notebook, allowing Veil to swap a glowing gemstone for a dun (empty) one. Pattern assists by lying to the guards about the severity of Shallan’s condition to ensure they are granted access. The guards eventually discover the missing light and eject the humans from the building in a fury. Veil and Pattern escape with the stolen gemstone and the absorbed Investiture before a search can be conducted.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 88: Falling Star
@@ -26,8 +24,6 @@ In a flashback one year and a half ago, Venli enters her home during a highstorm
 Eshonai leaves the house to confront the highstorm alone, protected by her warform carapace and the Rhythm of Winds. She walks to the edge of a plateau in Narak and shouts questions at the Rider of Storms, the spren of the tempest. A massive chasmfiend (a giant, multi-legged crustacean predator) emerges from the depths and looms over her in the darkness. Lightning flashes reveal the beast’s jagged teeth and massive claws as it watches Eshonai from the rim of the chasm. Eshonai refuses to run, standing perfectly still while the predator observes her with a massive, lidless eye.
 
 A small spren resembling white fire and a falling star appears and zips around Eshonai, casting light on the scene. This tiny entity provides enough illumination for Eshonai to see the chasmfiend slowly retreat back into the depths of the chasm. The beast leaves deep gouges in the stone with its spike-like claws as it disappears into the dark. Eshonai attunes the Rhythm of Anxiety as she hurries back to her mother's house. The strange, fiery spren follows her through the wind and rain as the storm continues to rage.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Navani and Raboniel observe patterns in the sand while Navani secretly searches 
 
 Navani communicates with the Sibling through a crystal vein and learns the tower spren is cold and dying from the Voidlight corruption. The Sibling expresses fear of death and mentions watching a singer who would have made a good Bondsmith. Navani realizes that the Sibling cannot see or act through the corruption barrier without a new source of Stormlight. During the musical performance, Navani notices that the vibrating plates create specific patterns in the black sand on her desk. She concludes that Stormlight and Voidlight are sounds and vibrations, which implies they have distinct opposites.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 90: One Chance
@@ -51,8 +45,6 @@ The prosecutor Sekeir and the audience coordinated their attacks to paint the mo
 
 Adolin recognizes the Cryptic from a previous encounter in the market but cannot refute the evidence of its recent death. He leaves the forum in defeat while the angry crowd shouts questions about the dangers of the Radiant bond. Later, Adolin and Shallan share a moment of intimacy in their darkened room and discuss the threat of imprisonment. A third, hidden personality named Formless emerges from Shallan and encourages Adolin to continue the trial despite the unfavorable odds. Adolin decides to use the final day of the trial to rebut the witnesses and demonstrate his personal honor to the skeptical spren.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 91: Worth Saving
@@ -62,5 +54,3 @@ Teft wakes up in the infirmary after several days in a coma, finding himself fre
 Teft shares his secret backstory with the group, explaining how he was raised by the Envisagers, a cult that sought to return the Radiants. At age eight, Teft reported his family to the citylord of Talinar, leading to the execution of his father and other members. He admits that his parents’ teachings ultimately allowed him to recognize Kaladin’s powers and save him from death. Teft argues that they must rescue the fallen Radiants who are currently being guarded and incapacitated by the Fused. Rlain suggests using a window in the infirmary to escape the tower, though the drop is hundreds of feet.
 
 The group plans to wake the other Radiants using Lift’s abilities and then flee the tower to escape the suppression field. Kaladin expresses exhaustion and doubt about the cost of the conflict, wondering if his father was right to oppose the war. Teft asserts that Kaladin is still their leader and officer, regardless of his formal rank or current mental state. Rlain volunteers to infiltrate the Fused-controlled areas by substituting for a singer servant to contact Navani Kholin. Teft finishes his soup and smiles because he has survived his addiction and found color in the world again.
-
-Sentence Count Check: 15

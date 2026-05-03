@@ -15,8 +15,6 @@ Dalinar tasks Kaladin with a mission to find the Herald Ishar, who is currently 
 
 The Fused Lezian, known as the Pursuer, is reborn early in Kholinar using ancient methods that bypass the Everstorm. He is met by El, a Fused with metal inclusions in his body who has no title and is forbidden from rhythms. El mocks Lezian for his defeats and then stabs him with a dagger that warps the air around its gemstone. This special weapon rips Lezian’s soul apart, permanently ending his cycle of rebirth. Meanwhile, Kaladin finds Tien’s carved wooden horse in a salvage bin and prepares for his journey.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 117: One Final Gift
@@ -27,8 +25,6 @@ Eshonai manages to grab a boulder and briefly empty her helmet to breathe. She r
 
 Eshonai eventually dies from her injuries and exhaustion, but her soul persists briefly because she was Radiant at the moment of death. The Stormfather, the cognitive shadow of the Almighty, appears and explains that her investment allows her to remain for a few minutes. He grants her a final gift by allowing her soul to ride the storm across the entire world. Eshonai sees the diverse landscapes, the people, and the hope for the parshmen’s freedom before fading away. She understands the rhythms of the world and passes into the eternity with a sense of peace.
 
-Sentence Count Check: 15
-
 ---
 
 ### Epilogue: Dirty Tricks
@@ -38,5 +34,3 @@ Wit walks through the hallways of Elhokar’s old palace on the Shattered Plains
 Odium’s presence enters the room and Wit addresses him as Rayse, the original vessel of the Shard. Wit mocks the deity for his handling of the contract and assumes that Dalinar has successfully outmaneuvered him. However, the presence reveals it is no longer Rayse, but Taravangian, the former king of Kharbranth who has taken up the Shard. Taravangian realizes he made an error in the conversation and decides to manipulate Wit’s memories. He uses his power to destroy the Breaths that Wit uses to store his experiences and knowledge.
 
 Wit experiences a moment of disorientation as his memories of the first encounter are erased. Taravangian resets the conversation, making Wit believe the meeting is just beginning. Wit repeats his insults and jokes, unaware that his perfect pitch has been altered and his memories have been tampered with. He concludes the encounter believing that the meeting went exactly as he had planned. Taravangian remains in the room, satisfied that he has successfully tricked the storyteller.
-
-Sentence Count Check: 15

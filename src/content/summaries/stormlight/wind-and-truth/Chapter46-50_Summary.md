@@ -15,8 +15,6 @@ The Heralds at this time are not yet immortal or bound by the Oathpact, though t
 
 Wit appears as a haunted homunculus who has just witnessed the death of his world and is struggling with his own lack of reality. He explains that he is power imitating a man who is currently too traumatized to be useful. His face begins to melt like paint as he stumbles away, claiming he must stare at the sky in failure. Dalinar fails to Connect with the entity, which instead learns their language before retreating. Navani decides to stay with the refugees to learn more while Dalinar heads toward a shimmering spot on the hillside to confront the Stormfather.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 47: FAILURE POINTS a Break
@@ -26,8 +24,6 @@ Adolin leads the human defense in the bronze dome of Azimir against repeated wav
 Sigzil arrives at the Shattered Plains to take command of the coalition forces defending the city of Narak. He flies with his honorspren, Vienta, to observe the approaching Everstorm and the hundreds of Skybreakers and Fused arriving with it. Sigzil proposes a radical defense strategy based on engineering principles by creating intentional failure points across four plateaus. He intends to lure the enemy into attacking less vital positions to protect Narak Prime and the Oathgate. The Alethi generals and scribes initially doubt the plan but are eventually won over by Sigzil's logical, scientific approach to warfare.
 
 Adolin returns to his camp exhausted and orders his aides to find carpenters who can build siege equipment like catapults. He learns that the Azish reserve forces have been delayed by a mysterious enemy raider, leaving his position isolated for at least two more days. Adolin visits the field hospital to encourage his wounded soldiers and encounters the Heralds Ash and Taln. Ash berates him for the price Taln paid for humanity's peace while Taln continues his repetitive mantra about preparing for the desolation. Adolin agrees with a tactical assessment that the enemy is trying to lull them into a rhythm before a surprise night attack.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The Farmer explains that the raids are growing more frequent and he needs moral,
 
 Szeth's father, Neturo, makes the drastic decision to leave his life as an administrator to join his son in training. He refuses to let Szeth step into the darkness of being a killer alone and insists on learning to subtract himself. Mother decides the entire family, including Szeth's sister Elid, will go together to ensure they remain a unit. Neturo challenges the Farmer to point him toward the soldiers who robbed him to prove his willingness to break things. The Farmer eventually relents, sighing at the insanity of the situation, and accepts the family's choice to follow the path of the soldier.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 49: A REALM OF POSSIBILITIES
@@ -51,8 +45,6 @@ Shallan manages to create a complex illusion without a drawing, a significant ad
 
 A terrifying figure with a head of smoke, identifying itself as Formless, appears to Shallan and claims they are one. Formless tells Shallan that she cannot reject her past and that she is defined by what was done to her. Shallan screams and collapses in the mud as the vision begins to unravel into swirling mist. Pattern embraces her to provide comfort while Renarin and Rlain prepare to retreat from the scene. They realize their presence was nearly noticed by the gods and that they must find a way to operate without making such a scene.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 50: THE PRICE OF PEACE Ribbon
@@ -62,5 +54,3 @@ Navani observes the mechanics of the Ishar's portal, noting that it requires con
 Dalinar confronts the Stormfather, who is appearing as a shimmering echo of the dead god Honor. The Stormfather expresses sadness over the impending extinction of dogs on Roshar due to a small breeding population. He mentions a "fallen god" called the Wind, which Dalinar realizes is a separate entity from the Shards. The Stormfather refuses to explain how Honor died or how Dalinar can take up the power, calling Dalinar arrogant like Gavilar. When Dalinar refuses the Stormfather's offer to return home, the spren becomes thundering and hostile before vanishing. Dalinar is left frustrated, realizing he must find the secret of Honor's death to move forward.
 
 Navani hears the voice of the Wind, which advises her that the only path forward is through time to the day Honor died. The Wind suggests she take a ribbon from Shalash to serve as an anchor for their journey through history. Navani mimes her request to the young girl, who gives her a ribbon before the vision bursts into Stormlight. Adolin visits the Azish field hospital and finds the surgeons following ancient sanitary protocols to prevent rotspren. He speaks with a wounded soldier missing an arm and promises to find a high-level Radiant healer for him. Adolin then prepares to visit a friend, having concluded that the enemy will likely attempt a surprise night attack.
-
-Sentence Count Check: 15

@@ -15,8 +15,6 @@ Adolin and Shallan walk through a grove of obsidian trees and glass plants to ob
 
 They return to find the soldiers packing up for the final day's march toward the honorspren stronghold. Adolin notes that the Tukari humans trailing them have not made any aggressive moves yet. Shallan remains suspicious of her own agents, fearing one of them is a Ghostblood spy. Veil continues to monitor the communication cube hidden in Shallan's trunk for any signs of tampering. Radiant maintains a stoic presence to bolster Adolin's morale as they prepare for the final leg of the journey.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 35: The Strength of a Soldier
@@ -26,8 +24,6 @@ Felt reports that the Tukari humans trailing the caravan have suddenly turned so
 Adolin dismounts and engages the twenty Tukari alone with a heavy greatsword. He uses Flamestance, a fast and brutal sword form, to kill several men and decapitate a spearman. The Tukari surround Adolin and wound him in the side with a spear thrust. Maya suddenly dismounts and places her back against Adolin's to protect his rear. She holds Adolin’s shortsword in a defensive stance and mimics the morning katas he taught her.
 
 Adolin feels a surge of confidence and continues the fight with his back to his deadeye. He kills several more men, including one whose fingers he hacks off and another he spears through the stomach. The Tukari leader is wounded in the shoulder and eventually orders his men to retreat. Gallant assists by stomping and screaming to intimidate the remaining attackers. Adolin’s soldiers arrive minutes later to find him bloodied but standing over the wounded Notum.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ The caravan arrives at Lasting Integrity, a massive blue stone fortress built on
 
 Adolin demands a trial to face the honorspren's judgment and defend the integrity of the Kholin house. The honorspren agree to the trial and permit Adolin to enter the fortress with two companions and his deadeye. Adolin chooses Veil and Pattern to accompany him while the rest of the caravan remains outside. As they pass through the gates, honorspren guards seize Adolin and place his wrists in chains. The massive gates boom shut, trapping Adolin and his companions inside the stronghold.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 37: Silence from the Dead
@@ -51,8 +45,6 @@ Venli and Raboniel lead a strike force of five hundred Fused and singers into th
 
 Kaladin and Lirin discuss the need for a medical revolution to better treat battle shock and mental illness. They realize that current treatments involving ardents and isolation are insufficient for broken minds. Teft informs Kaladin that Dabbid, a nonverbal veteran, has been missing for three days. Kaladin feels a sense of failure for not supervising the troubled man more closely. The Everstorm begins to gather outside the tower as the Fused strike force approaches the basement chambers.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 38: Rhythm of the Terrors
@@ -62,5 +54,3 @@ Navani arrives at the laboratory to find that an explosion has killed two expert
 Venli and Raboniel reach the basement chamber containing the Sibling’s crystalline pillar, a massive monolith of mixed gemstones. The Deepest Ones silently slaughter the human scholars and guards stationed in the room. Raboniel places her hand on the pillar and begins to flood it with violet-black Voidlight. She explains that she intends to corrupt the Sibling and turn the tower's defenses against the Radiants. Venli watches the massacre in horror, realizing the true scale of Raboniel’s ambition.
 
 Kaladin and Teft visit a winehouse in the tower and notice how empty it has become with the army away. They see sketches Shallan carved into the tables, including a drawing of Kaladin in oversized boots. Teft expresses his struggle with his addiction and his fear of returning to firemoss. Kaladin tries to comfort him, but they are interrupted by the arrival of Rlain and Syl. The atmosphere in the room remains tense as the tower's residents sense the approaching storm.
-
-Sentence Count Check: 15

@@ -15,8 +15,6 @@ He hears the Voice in his head urging him to kill the other Honorbearers immedia
 
 He accepts that he must become a visible and undeniable danger to draw out his peers. The shaman Visk warns that the conflict currently looks like a simple power struggle. Szeth dismisses his officers and struggles with the administrative headaches of his new conquest. He wonders what he will do when the enemy inevitably threatens his father's life. The group breaks camp and heads toward the mountains to expand their rebellion.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 107: VOIDBRINGER
@@ -26,8 +24,6 @@ Over seven thousand years ago, an avatar named Tanner weeps on the planet Ashyn.
 Jezrien approaches with a small force and offers a hand of friendship to his enemies. He explains that Zoral, the leader known as the Voidbringer, is finally dead. Jezrien claims Ishar has found "songs" capable of leading survivors to a new world. Makibak, a leader of the ghosts, initially resists joining his former conquerors. Ishar intends to use a portal, a gateway through the songs, to transport survivors to safety.
 
 Tanner observes this attempt at reconciliation and decides to help the surviving humans. He travels home to his wife, Kor, and weeps in her arms until the portal opens. Rayse and his followers prepare to follow the survivors through the portal to Roshar. The first humans prepare to flee the melting stones and lava of their home planet. Loss is accepted as an inevitable part of mortal life amidst the global catastrophe.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Szeth asks Kaladin to tell him whether he should fight or refuse at the next mon
 
 They land at the central monastery and find Nale waiting in the grand entryway. Nale plants his Shardblade in the stone floor and commands Szeth to give an oath of obedience. Szeth hands his swords to Kaladin but refuses to use Nightblood for this specific test. For the first time, Szeth tells Nale "No" and refuses to be treated like a thing. Nin raises his sword to execute Szeth for his defiance, but Kaladin intervenes with a spear.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 109: RATIONALIZATION
@@ -51,8 +45,6 @@ Nale reveals that he sent Helaran Davar to murder Amaram’s squad years ago. He
 
 In Thaylenah, Jasnah and Queen Fen meet with Taravangian, who is now the vessel of Odium. He appears as a kindly old man with a wispy white beard and a golden walking stick. Taravangian claims that Jasnah herself is the reason Fen will eventually join his empire. Back at the monastery, Nale uses superior speed to smash Kaladin against a stone wall. Kaladin’s Shardplate shatters, leaving him broken and gasping for breath on the floor.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 110: FLUTE
@@ -62,5 +54,3 @@ The Wind whispers a flute song to Kaladin as he lies broken on the floor. Nale c
 Kaladin describes the island of Uvala, where people were murdered for minor mistakes in the emperor's name. He tells Nale that every person who upholds a brutal law shares the responsibility for that blood. Kaladin reveals that Derethil found no emperor at the top of the tower, only a corpse. Nale screams in realization that Honor is dead and he has no divine authority for his actions. The Herald falls to his knees and weeps over his centuries of misguided slaughter.
 
 He admits he turned to the law because he realized his own mind was deteriorating. Every practice session Kaladin performed is echoed back by the Wind with physical force. Nale drops his Shardblade and asks if Nightblood could be used to finally destroy him. Szeth reaches out a hand to comfort the broken Herald instead of striking him down. Nale’s spren appears as a rip in the sky before streaking away and vanishing.
-
-Sentence Count Check: 15

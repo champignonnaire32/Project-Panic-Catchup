@@ -15,8 +15,6 @@ Melishi the Bondsmith approaches Mishram and uses his Connection to trap her wit
 
 Garith and the other Radiants are granted a vision of their own destructive potential, realizing they are "destruction incarnate" like Dawnshards. Honor abandons them, leading Dalinar to understand that this betrayal triggered the Recreance when the Radiants later abandoned their oaths. The Stormfather reveals to Dalinar that he has known this truth all along but hid it to protect him from Odium. As the vision ends, Dalinar is isolated in the Spiritual Realm and finds himself confronted by the looming shadow of Odium. Odium declares that Dalinar is now his and casts him into chaos as the seventh day ends.
 
-Sentence Count Check: 15
-
 ---
 
 ### Interlude 13: LIFT
@@ -26,8 +24,6 @@ Lift is currently posing as Queen Navani in the Urithiru tower to hide the real 
 Lift realizes the voice belongs to her "chicken," which is actually an Aon-speaking bird, left behind by the mysterious Mraize. She decides to rescue the animal and enlists the Sibling's help to find Mraize's hidden, aluminum-lined room. Using Wyndle as a Shard-crowbar, Lift breaks into the chamber from the floor below to catch any guards off guard. Inside, she finds her bird in a cage and a tortured, naked man hanging from the ceiling in chains. The man is Zahel, the swordmaster, who has been held captive by Mraize’s associates following the tower's occupation.
 
 Three of Mraize's thugs, including a woman who uses Feruchemical speed, enter the room to stop the rescue. Lift uses her Abrasion abilities to make the floor slick and herself impossible to catch, eventually breaking the woman’s legs with traction. After defeating the thugs, Lift helps the guards cut Zahel down and returns him to the medical ward. Zahel praises Lift's raw talent, telling her that her clumsiness is actually a result of untrained, incredible power. Lift decides she must stop pretending to be a child and agrees to let Zahel teach her how to fight.
-
-Sentence Count Check: 15
 
 ---
 
@@ -39,8 +35,6 @@ Odium intends to break Dalinar’s spirit so that the Bondsmith will eventually 
 
 The deity observes Dalinar's isolated state and recognizes that the Bondsmith is currently vulnerable. He plans to force Dalinar to acknowledge that the Shard’s vision of the future is the only stable reality. By breaking the man down, Odium hopes to rebuild him into a tool for the conquest of the cosmere. Taravangian remains confident that his intellect combined with the Shard's power will overcome any remaining resistance. The interlude ends with Odium focusing his immense power on the task of breaking his former friend.
 
-Sentence Count Check: 15
-
 ---
 
 ### Chapter 88: CYCLE OF WAR
@@ -50,5 +44,3 @@ Sigzil manages the defense of Narak Three as the Unmade Yelig-nar attacks and ev
 In the Spiritual Realm, Dalinar is forced by Odium to relive his most shameful memories through a series of visions. He finds himself inhabiting the body of an elite soldier during a Beggars' Feast in Kholinar years ago. He encounters the Herald Jezrien, who appears as the drunkard Ahu, and apologizes for failing to recognize him sooner. Dalinar then witnesses his younger, drunken self being slapped by his older self for ignoring Gavilar’s murder. He feels intense revulsion at the man he used to be, a betrayed drunkard who failed his brother.
 
 Dalinar finds young Gav in the vision and comforts the child as they witness the cycle of death across the Desolations. Gav expresses fear that he must be a soldier and that the fighting will never truly end. Dalinar realizes that Honor’s plan for peace via a treaty is a "bandage on a gut wound" that humans will eventually break. He declares that he needs the strength to deal with Odium personally to end the war at its roots. Odium’s power then rips Gav from Dalinar’s arms and casts the Bondsmith into a vision of Damnation.
-
-Sentence Count Check: 15
