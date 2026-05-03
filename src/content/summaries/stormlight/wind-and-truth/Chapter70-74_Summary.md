@@ -15,7 +15,6 @@ The Lightweaver Honorbearer, Moss-son-Farrier, speaks from the illusions and cha
 
 Venli leads a group of listeners and Heavenly Ones through the chasms of the Shattered Plains toward a discordant rhythm. She reflects on her sister Eshonai and realizes her own past resentment was a result of feeling unappreciated. Thude expresses doubt about the course and mourns the death of Eshonai, though Venli reveals that Eshonai broke free of Odium before dying. Five chasmfiends, including their leader Thundercloud, follow the group because they have decided to stop fighting. Venli promises Thude that the group will not join the active battles between humans and singers taking place on the plateaus above.
 
-Sentence Count: 15
 
 ---
 
@@ -27,7 +26,6 @@ Szeth notices a mural of the Herald Shush on the floor tiles and realizes the fl
 
 Jasnah analyzes Odium's strategy and questions why he would commit large forces to attack the well-defended Thaylen City. She suspects the enemy vessel might be seeking vengeance or attempting to divert coalition resources away from other battlefronts. After reviewing economic and formalist theories, she realizes her primary assumption about the approaching fleet might be incorrect. She hypothesizes that the ships are a decoy carrying costumed civilians instead of actual combat troops to trick the coalition. Jasnah decides to send Windrunner scouts to inspect the enemy vessels closely and confirm her suspicions about the phantom army.
 
-Sentence Count: 15
 
 ---
 
@@ -39,7 +37,6 @@ Syl identifies a matronly woman among the weeping servants as a disguised Honorb
 
 Shallan creates a mental enclave in the Spiritual Realm to meet with Rlain, Renarin, and their respective spren. Renarin notes that they have been in this state for ten hours without feeling hunger or fatigue while their bodies are elsewhere. Shallan discusses the difficulty of killing Ghostbloods who can heal rapidly and explores using anti-Stormlight to target their spren. Pattern and Testament help Shallan process her guilt over past killings while encouraging her to focus on the current mission. The team develops a plan to use Lightwoven avatars to observe the Ghostbloods from a distance without being detected by the gods.
 
-Sentence Count: 15
 
 ---
 
@@ -51,7 +48,6 @@ Szeth investigates a tavern called First Spire and eventually finds a crystal pa
 
 Szeth learns that the religious leaders began favoring him once they discovered he could hear the Voice of the Unmade. Sivi reveals that she and Szeth's father, Neturo, have been discussing Szeth's potential role as an Honorbearer. She challenges Szeth to stop being lazy and accept the complexity of the world instead of clinging to childish simplicity. Szeth agrees to go on the pilgrimage to challenge the Windrunner for his Blade and seek answers about the Voice. Sivi winks at him and departs, leaving Szeth to pay for her drink and reflect on being used by his mentors.
 
-Sentence Count: 15
 
 ---
 
@@ -63,4 +59,3 @@ Sigzil organizes a defense at the Oathgate plateau, using his silvery spear and 
 
 Shallan, Renarin, and Rlain use a cloudy glass pillar and scaffolding in the Spiritual Realm to observe Dalinar's historical visions. They witness various Desolations where technology progresses from stone to bronze weapons as the Knights Radiant become a stable force. Rlain expresses sorrow for the ancient singers who were enslaved or driven to serve Odium because other gods abandoned them. The team spots the Unmade Ba-Ado-Mishram as a darkened shadow on a historical battlefield in Shinovar. Shallan decides to enter the vision directly to interact with the reconstruction of Mishram and search for clues about the real prison.
 
-Sentence Count: 15

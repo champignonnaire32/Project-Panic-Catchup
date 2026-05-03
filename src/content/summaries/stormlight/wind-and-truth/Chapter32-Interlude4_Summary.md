@@ -15,7 +15,6 @@ Pattern and Testament remain passive as Shallan uses her knife training to engag
 
 The Windrunners immediately depart to save the hostages, leaving Shallan alone with the captured Ghostbloods. Iyatil reveals that Mraize still possesses an anti-light dagger, which he holds in a light-repelling bubble. Mraize questions if Shallan has seen a perpendicularity collapse before throwing the dagger into the portal's center. The resulting blast shatters the room just as Dalinar and Navani feel their connection to the Physical Realm snap. Power and wind rush toward the Bondsmiths as their anchor vanishes, pulling them toward an unknown destination.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -27,7 +26,6 @@ Kaladin struggles to cook stew in Shinovar and attempts to offer mental health s
 
 Ishar suddenly appears on the hillside, radiating a divine presence that makes Kaladin’s hair stand on end. He claims to be the Almighty and asserts that he bears the pain of the other Heralds through the Oathpact. Ishar dismisses Dalinar as a false champion and demands that Kaladin prove his worth through service. He orders Kaladin to assist Szeth in his pilgrimage before vanishing in a blinding flash of light. Kaladin remains stubborn despite the encounter, vowing to keep fighting against his internal darkness and help his friends.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -39,7 +37,6 @@ The Regal guards watch in horror as El destroys the most valuable object in the 
 
 El suggests using Dai-Gonarthis, an Unmade known as the Black Fisher, to create a transport gateway called an Elsegate. Odium names El the leader of his armies for the assault on the Shattered Plains, bypassing the Council of Nine. El accepts the command and requests to rule over human lands once the conquest is complete. Odium warns that failure will only be punished if it results from negligence rather than circumstance. El begins composing a poem to celebrate his new god as he prepares to lead the flying singers known as shanay-im into battle.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -51,4 +48,3 @@ Cultivation encourages Taravangian to let the other Shards govern their own real
 
 Taravangian experiences a moment of clarity where he feels like the man he was before his transformation. He decides to attempt a compromise between his warring emotional and logical sides. He envisions himself as a god divided, potentially letting each side rule in turn. The vision of the greater cosmere reinforces his plan to bring order to all worlds, not just Roshar. He vows to protect the singers and Alethkar while preparing for the eventual expansion of his influence.
 
-**Sentence Count Check:** 15

@@ -15,7 +15,6 @@ Zeenid uses gloves to handle the rock while Szeth watches the unnatural metal sh
 
 Szeth hugs a ewe named Molli as they abandon their house and the family stone. Zeenid returns the borrowed shovel to the town before joining the flight inland. They travel toward the town of Clearmount to seek safety with the Farmer's troops. Szeth regrets the discovery of the rock and the events that followed it. The family continues their retreat as the threat of the raiders looms over Shinovar.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -27,7 +26,6 @@ Iyatil loosed the bolt and strikes Shallan in the ribs after tracking her throug
 
 The pair reach a drop-off and observe the aggressive green grass of the Shinovar plains. Szeth identifies a patch of darkness near a monastery that once housed the Honorblades of the Heralds. This monastery formerly held the Blade of Taln, the Bearer of Agonies. Kaladin recognizes the darkness as a sign of an Unmade's presence similar to the one at Kholinar. They decide to camp for the night and investigate the monastery the following morning.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -39,7 +37,6 @@ Lift and Prince Gavinor sit on a table outside a war council involving Dalinar a
 
 Gavinor vows to learn to fight so he can kill the traitor Vyre and those who hurt his father. The Sibling explains that humans are covered in millions of microscopic life-forms that eat dead skin. Dalinar, Navani, and Wit emerge from their meeting and head toward the tower's lifts. Gavinor joins his grandparents while Lift decides to follow them to learn their plans. Lift eats a pork rib and prepares to tail the group through the tower.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -51,7 +48,6 @@ One window shows Renarin sitting on a throne in Kholinar wearing traditional sin
 
 The vision shatters into images of burning cities and broken bodies before the two men return to reality. Shallan arrives at the fields and requests help from Renarin and Rlain. She explains that the Ghostbloods are attempting to find the prison of the Unmade Ba-Ado-Mishram. Rlain recognizes the name of the ancient spren who ruled the singers before they abandoned their forms. The group prepares to stop the Ghostbloods from reaching the Spiritual Realm.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -63,4 +59,3 @@ Navani consoles Prince Gavinor before he is taken away by his governess. Dalinar
 
 In Shadesmar, Renarin realizes that Shallan has bonded two spren including the deadeye Testament. He warns Shallan that interfering with Ba-Ado-Mishram’s prison could lead to the Unmade’s release. They observe the glowing souls of the Bondsmiths through the transparent walls of the cistern room. Renarin identifies Lift spying from an air duct and two other souls hiding in the walls. He realizes the three soldiers standing with their group are the Ghostbloods in disguise.
 
-**Sentence Count Check:** 15

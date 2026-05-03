@@ -15,7 +15,6 @@ He whispers a prayer for help as Abidi flings him toward a stone wall. A swarm o
 
 The joints of Adolin's Plate begin to glow with a flickering orange-red light like a flame. He charges forward to resume the fight against the now-unarmored and shocked Fused warrior. In Shinovar, Szeth endures a brutal beating from his father Neturo and other Honorbearers. His father speaks a plea for help from deep within the Herald's madness. Szeth rejects his "Truthless" identity and declares that he is the law as light erupts around him.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -27,7 +26,6 @@ Shallan Lightweaves a vision of Mraize as a peaceful traveler to offer him an al
 
 In Shinovar, Kaladin pursues Ishar to prevent the Herald from interfering with Szeth’s oath. Szeth stands in a column of light while the Honorbearers collapse to the ground around him. Kaladin demands to know if a Skybreaker can skip oaths to reach the final level. Ishar generates a shield of Stormlight and claims he has developed countermeasures against Bondsmith powers. The Herald remains unfazed by the light of the oath and prepares for a confrontation.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -39,7 +37,6 @@ He summons nine sets of Shardplate and Blades from the deadeyes for his unarmore
 
 He rejects his highspren and releases his bond to seek the original ways of the Skybreakers. This act causes a spiritual wound that leaves Szeth powerless and physically frail on the ground. He reaches for Nightblood to destroy the source of the madness affecting his homeland's people. Ishar intervenes and forces the collective darkness of the Heralds' madness into Kaladin and Szeth. Kaladin and Nale collapse under the weight of the intense mental agony and self-loathing.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -51,7 +48,6 @@ In Azir, Adolin and his nine companions in Shardplate hold the hallway against t
 
 On the roof of the tower, Taravangian demands that Dalinar admit his utilitarian philosophy is correct. He mocks Dalinar’s morality and threatens to turn him into a general for his future wars. Taravangian insists that no price is too high for the goal of bringing universal peace. Dalinar rejects the idea that he should kill Gavinor or forfeit his soul to Odium. Taravangian thrusts the sword Oathbringer into the ground and waits for Dalinar’s final decision.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -63,4 +59,3 @@ Mraize breathes in Stormlight by instinct, causing the anti-light to consume him
 
 At Urithiru, Dalinar watches the approaching highstorm while he contemplates the weight of his impossible choice. He rejects the lie that only kings carry burdens of guilt or make difficult moral decisions. Dalinar recognizes that every mortal must face their own weaknesses and the consequences of their actions. He connects with the power of Honor and sees the spiritual ties that bind all people. Dalinar declares that he knows the Words and is prepared to face the power of Odium.
 
-**Sentence Count Check:** 15

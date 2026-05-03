@@ -15,7 +15,6 @@ Wit tells Dalinar a story about a lumberman’s son named Jerick who was tested 
 
 Adolin receives a tincture of firemoss, an addictive white powder used to numb extreme pain, from a doctor. He leads a small strike force toward the Azimir palace while the city descends into chaos and looting. Adolin accepts that his father is a flawed man and decides he no longer needs to be a perfect paragon. This realization provides Adolin with a sense of peace and relief before the final confrontation. The strike force splits into groups to infiltrate the palace and hold the throne room before the deadline.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -27,7 +26,6 @@ Adolin’s strike force enters the Bronze Palace grounds through a secret smuggl
 
 Abidi reveals he is wearing Adolin’s Plate and wielding the Blade of Memories, a Shardblade that stores records of the past. The aluminum lining of the room prevents Adolin from summoning his own Blade, Maya, leaving him unarmed. Shallan weathers spiritual visions of her killing her mentors and rejects the lies used to torture her. She finds Renarin and Rlain in a nursery-like room containing the corpse of the ancient Bondsmith Melishi. They discover Mishram’s prison, a cracked yellow heliodor gemstone that leaks wisps of smoke into the air.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -39,7 +37,6 @@ Dalinar meets Taravangian on the roof of Urithiru and finds the god standing in 
 
 Adolin dodges Abidi’s attacks in the throne room by using furniture and pillars as cover. He realizes that Abidi is unfamiliar with Shardplate and lacks the mobility he usually possesses while flying. Adolin acknowledges that he has been complaining about being small while most soldiers face Shardbearers without powers. Abidi offers to spare Adolin if he delivers the emperor, Yanagawn, to be used as a puppet ruler. Adolin uses an aluminum candelabra to parry Abidi’s Shardblade and continues the duel with his side sword.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -51,7 +48,6 @@ Kaladin attempts to talk Ishar out of his delusions while Szeth is beaten by the
 
 Renarin and Rlain examine Melishi’s corpse and find child’s blocks in the nursery-themed room. They realize the nursery is a manifestation of Melishi’s childhood room created within the Spiritual Realm. Mishram speaks to them from the cracked gemstone, expressing fear and a desire for vengeance against her betrayers. Renarin and Rlain debate whether to take the gemstone to Urithiru or hide it deeper in the mists. Rlain wonders if freeing Mishram would be a poetic reversal of her previous enslavement.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -63,4 +59,3 @@ The Honorbearers continue to assault Szeth with fists and feet while Ishar deman
 
 Rlain senses Mishram’s fear and loneliness after two thousand years of imprisonment in the gemstone. He asks Mishram if she led them to her prison because she hoped for freedom from her isolation. Kaladin challenges Ishar’s divinity by pointing out that he has stripped the people of Shinovar of their choice. Ishar ignores the logic and turns his attention back to the field of stone where Szeth lies battered. The Wind returns to the area as the confrontation in Shinovar reaches a breaking point.
 
-**Sentence Count Check:** 15

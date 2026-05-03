@@ -15,7 +15,6 @@ Dalinar proposes recruiting Ishar, a Herald and master of Bondsmithing, to help 
 
 Jasnah accepts the book and agrees to write the undertext, which is a traditionally female commentary hidden beneath a male's text. Dalinar encourages her to be honest and include her atheistic viewpoints to show that diverse people can unite. He admits he is effectively revising the Vorin religion and expects his book to cause a major schism. Jasnah warns that her critique will be thorough and may take years to complete. Dalinar expresses hope that their combined perspectives will create a greater work than his individual effort.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -27,7 +26,6 @@ Navani sits in her smoking office, feeling defeated after discovering that Rabon
 
 Moash confronts Navani and blames her for the death of Kaladin’s brother, Tien, before leaving to find the final node. Navani discovers a discarded dagger containing a small charge of anti-Voidlight among the wreckage of her desk. Kaladin walks openly through the tower's ground floor, ignoring guards as he heads toward the atrium. He reunites with Syl, who has recovered from the suppression fabrial's initial strike but remains cold and sad. Kaladin challenges the Fused known as the Pursuer to a final duel in the center of the tower.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -39,7 +37,6 @@ Kaladin engages the Pursuer in a grapple, intentionally letting the Fused exhaus
 
 Moash ambushes Teft and Lift inside the infirmary after emerging from a hiding spot beneath a sheet. He uses an Honorblade to slice through Lift's legs, leaving her unable to walk. Teft tries to defend himself with a knife, but Moash is a far superior warrior trained by Kaladin. Moash reveals he is seeking the "peace" of having no emotions and kills an unconscious Radiant to goad Teft. Teft successfully manifests Phendorana as a solid spear shaft for a moment, surprising Moash and blocking a killing blow.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -51,7 +48,6 @@ Kaladin continues his duel with the Pursuer in the atrium as the highstorm wall 
 
 Moash kills Phendorana by stabbing her with a special anti-spren dagger, causing her to explode into white sand. The bond-snapping strike leaves Teft in physical and spiritual agony as he collapses on the floor. Moash taunts Teft, claiming that killing him will be the ultimate way to break Kaladin's spirit. Teft remains defiant, stating that he dies knowing he is loved, unlike the emotionless Moash. Moash stabs Teft through the neck with his Shardblade, ending the Windrunner's life.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -63,4 +59,3 @@ Moash watches from a distance as Kaladin collapses in grief over Teft's corpse, 
 
 Navani arms a pain-inducing fabrial trap in the hallway after noticing the Sibling's defensive field has vanished. She encounters Raboniel, who is alone in the crystal pillar chamber finishing the corruption process. Raboniel offers Navani a chance to escape, but Navani refuses to abandon the Sibling. Navani feigns a surrender and offers Raboniel the anti-Voidlight dagger as a gesture of peace. Raboniel accepts the weapon and walks into the hallway, where she immediately triggers Navani’s hidden trap.
 
-**Sentence Count Check:** 15

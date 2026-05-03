@@ -15,7 +15,6 @@ Dalinar informs Kaladin that he is being relieved of active duty due to his psyc
 
 Kaladin requests ten days to decide on a new support position within the military. He worries that his inability to speak the Fourth Ideal makes him a broken soldier. Dalinar assures him that there are ways to protect and serve the war effort without fighting. Syl nods in agreement as Kaladin realizes he cannot remain with the Windrunners. He walks away from the conversation feeling like a profound casualty of the ongoing conflict.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -27,7 +26,6 @@ Venli presents a new recruit named Shumin to the lady and forces the girl to sta
 
 Venli takes Shumin to a guardhouse and reveals her secret organization of singers seeking independence. She uses a sphere of Voidlight to peek into Shadesmar and check for spying mavset-im, or Masked Fused. She explains her goal to find a neutral homeland away from both human and Fused control. Timbre pulses within her gemheart to warn her of the dangers of her double life. Leshwi suddenly enters the room and announces that a dangerous turn in the war is approaching.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -39,7 +37,6 @@ Adolin and Syl push into the room and find Kaladin surrounded by exhaustion-spre
 
 Adolin admits he is worried about both Kaladin and Shallan’s mental health and promises to find a way to help. Kaladin suggests that Adolin should bond a spren and discard his dead Shardblade Maya. Rock approaches the table and informs Kaladin that he is leaving the Bridge Four team forever. He intends to return to the Horneater Peaks to face justice for his decision to use a weapon in battle. Kaladin gives his blessing for a Windrunner honor guard to escort Rock’s family home across the lowlands.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -51,7 +48,6 @@ Shallan spots Mraize disguised as a guardsman named Gobby interacting with her f
 
 Mraize informs Shallan that the Sons of Honor have been destroyed but their leader Restares remains alive. Restares is currently seeking asylum in Lasting Integrity, the capital city of the honorspren in Shadesmar. Shallan is tasked with infiltrating the fortress to find the man and learn his secrets. Mraize promises that he will answer all of her questions about her past if she completes this mission. Shallan walks away realizing that Mraize is using her hunger for answers to keep her bound to the Ghostbloods.
 
-**Sentence Count Check:** 15
 
 ---
 
@@ -63,4 +59,3 @@ The Pursuer, a Fused of the nex-im brand with jagged carapace, enters and demand
 
 Raboniel intends to corrupt the Sibling, the soul of the tower, and use its heart for experiments. The Nine agree to the plan and decide to use information provided by the human king Taravangian. Leshwi orders Venli and her singer staff to serve Raboniel during the upcoming infiltration of the tower. She secretly tells Venli to report on Raboniel’s actions to prevent a catastrophe that could desolate the land. Venli prepares to leave Kholinar, hoping to find a way to learn from the human Radiants at Urithiru.
 
-**Sentence Count Check:** 15
