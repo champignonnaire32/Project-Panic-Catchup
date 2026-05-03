@@ -52,7 +52,3 @@ Adolin discovers that the Unoathed, Shardbearers who bonded deadeye spren, can s
 Hoid sits in a waiting room on Scadrial, disguised as a coachman and reflecting on the nature of art as improvisation. He realizes Dalinar Kholin's final gamble was a masterpiece of majestic improvisation that released a global threat to force cosmic action. Hoid applies for a job with the Ladrian house, seeking to stay close to relevant people while he plans his next moves. He intends to help guide the crisis on Scadrial before seeking out Valor, another god, to help fight Retribution. Hoid recognizes that Dalinar has given the cosmere a chance by forcing the other Shards to finally confront Odium.
 
 Kalak wakes on a grassy hillside in a vision created by Ishar to protect the minds of the Heralds. He is greeted by Kaladin, who explains that he has joined the circle to replace Jezrien as a Herald. Kaladin tells Kalak that Ishar has changed the Oathpact to allow their minds to find peace while time passes strangely. Taln is present in the vision and has spoken words of forgiveness to the Heralds who abandoned him. Kalak finally stops wavering and takes Kaladin's hand, agreeing to try once more for a final Return to Roshar.
-
----
-
-TASK COMPLETE
