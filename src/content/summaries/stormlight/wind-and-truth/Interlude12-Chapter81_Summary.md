@@ -4,7 +4,7 @@ series: "The Stormlight Archive"
 book: "Wind and Truth"
 bookOrder: 5
 range: "Interlude12-81"
-startChapter: 12
+startChapter: 78
 ---
 
 ### Interlude 12: What Must Be Done

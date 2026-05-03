@@ -4,7 +4,7 @@ series: "The Stormlight Archive"
 book: "Wind and Truth"
 bookOrder: 5
 range: "Prologue-4"
-startChapter: 4
+startChapter: 0
 ---
 
 ### Chapter Prologue: To Live

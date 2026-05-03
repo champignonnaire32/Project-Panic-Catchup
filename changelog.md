@@ -5,6 +5,12 @@
 *   **Format:** Every entry heading must include the **Date**, the **Topic**, and the **Name of the AI** that completed the work (e.g., `## [May 1, 2026 - Feature Name] (by Gemini)`).
 *   **Content:** Keep entries concise and bulleted. 
 
+## [May 3, 2026 - Wind and Truth Chapter Order Fix] (by Gemini)
+*   **Chapter Ordering Fix:** Resolved a critical sequencing bug in *Wind and Truth* where the "Interlude 12" chunk was appearing prematurely after Chapter 13.
+*   **Metadata Correction:** Updated `startChapter` for `Interlude12-Chapter81_Summary.md` from `12` to `78` to ensure correct numerical sorting.
+*   **Prologue Normalization:** Set `startChapter: 0` for the Prologue chunk to guarantee it remains the first entry in the book list.
+*   **Verification:** Cross-referenced all 33 chunks for the book and verified a seamless narrative progression from Chapter 1 through the Epilogue.
+
 ---
 
 ## [May 3, 2026 - UI Polish & Floating Button Fix] (by Claude)
