@@ -7,6 +7,15 @@
 
 ---
 
+## [May 3, 2026 - UI Polish & Floating Button Fix] (by Claude)
+*   **Landing Page Hero Card:** Split the title/tagline into its own gold-background card (ink text, flanking ink rules) visually separate from the body copy. Applied same treatment to the Archive page.
+*   **Archive Search Bar:** Moved search bar from directly under the hero card to between the Continue Reading strip and the series grid.
+*   **Continue Reading Strip:** Thickened divider lines and added matching bottom rule to visually isolate the section.
+*   **Chapter Range Dividers (Full Recap):** Made the between-chunk dividers much larger and more visible — 16pt Cinzel gold text, 2px gold gradient rules, fully opaque.
+*   **Book Index Page:** "Support the Author / Buy the Book" trigger button repositioned to top-right of header on desktop; flows below subtitle on mobile. Popup panel stretches full-width on mobile.
+*   **Prev/Next Chapter Buttons:** Made compact and side-by-side on mobile instead of full-width stacked.
+*   **Floating "Up" Button:** Replaced the "Go Back" navigation button with a scroll-to-top button. Required significant debugging — the button was being hidden (`display: none`) by the browser/network's built-in annoyance content filter. Root cause: `aria-label="Back to top"` is a standard cosmetic filter target in EasyList Annoyances, compounded by `bottom-6 left-6` matching known overlay patterns. Fix: changed `aria-label` to `"Navigate up"`, label text to "Up", and position to arbitrary `bottom-[25px] left-[25px]` to break the pattern match. Implemented as a React island (`TopButton.tsx`) to match the proven `ReaderControls` FAB architecture.
+
 ## [May 2, 2026 - Mistborn: Era Two Ingestion] (by Gemini)
 *   **Series Ingestion:** Added "Mistborn: Era Two" (The Wax and Wayne Series) to the Lorebrary. Imported all 4 books: *The Alloy of Law*, *Shadows of Self*, *The Bands of Mourning*, and *The Lost Metal*.
 *   **Content Standardization:** Applied stylized naming ("Mistborn: Era Two") across all frontmatter. Set chronological `bookOrder` (1-4) and performed a global `sed` update to ensure title consistency.
