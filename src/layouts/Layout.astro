@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import ReaderControls from '../components/ReaderControls.tsx';
+import TopButton from '../components/TopButton.tsx';
 
 interface Props {
   title: string;
@@ -66,20 +67,7 @@ const {
       </main>
     </div>
     
-    <!-- Floating Back to Top Button -->
-    <div class="fixed bottom-6 left-6 z-50 flex flex-col gap-3">
-      <button
-        onclick="window.scrollTo({top:0,behavior:'smooth'})"
-        class="flex items-center gap-2 px-4 py-3 bg-ink-800 dark:bg-ink-800 border border-ink-600 dark:border-ink-600 text-cream-300 rounded-full shadow-lg transition-all duration-300 hover:border-gold-400 hover:text-gold-400 hover:scale-105 active:scale-95 focus:outline-none"
-        aria-label="Back to top"
-      >
-        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
-        </svg>
-        <span class="text-sm font-bold tracking-wider uppercase">Top</span>
-      </button>
-    </div>
-
+    <TopButton client:load />
     <ReaderControls client:load />
   </body>
 </html>
