@@ -1,11 +1,13 @@
 ---
 title: "Chapters 15-19"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "15-19"
 startChapter: 15
 ---
+
+
 
 ### Chapter 15: The Decoy
 Adolin oversees the cleanup after the chasmfiend attack while the king brushes off the heavy casualties. Dalinar reflects on the war's stagnation and how the focus has shifted from vengeance to competing for gemhearts. He notes that the Parshendi are being depleted, but the Alethi are distracted by greed and sport. In the pavilion, Dalinar and Sadeas manipulate Highprince Vamah to ensure he continues relying on the king's Soulcasters for lumber. This joint effort shows a lingering, albeit strained, partnership between the two powerful highprinces.

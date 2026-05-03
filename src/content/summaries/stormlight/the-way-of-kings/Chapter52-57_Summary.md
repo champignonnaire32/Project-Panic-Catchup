@@ -1,11 +1,13 @@
 ---
 title: "Chapters 52-57"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "52-57"
 startChapter: 52
 ---
+
+
 
 ### Chapter 52: A Highway to the Sun
 Dalinar Kholin discusses his plan to abdicate the highprincedom with his sons Adolin and Renarin. Adolin is pained by his father's decision, realizing his own doubts about Dalinar's sanity triggered it. Dalinar explains he will return to Alethkar to aid the queen while Renarin remains in the warcamps. The sons tie Dalinar's arms to a chair to prepare him for the coming highstorm vision. Dalinar finds himself in a vision atop the red stone battlements of Feverstone Keep.

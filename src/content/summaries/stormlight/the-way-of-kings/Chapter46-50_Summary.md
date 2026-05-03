@@ -1,11 +1,13 @@
 ---
 title: "Chapters 46-50"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "46-50"
 startChapter: 46
 ---
+
+
 
 ### Chapter 46: Child of Tanavast
 Kaladin dreams of being the Highstorm and soaring across the continent of Roshar. He views the Shattered Plains from above and notices their symmetrical, art-like pattern. He passes over Alethkar and the Horneater Peaks, witnessing various armies huddled in shelters. In the west, he observes a man with a shaved head and white clothing standing over two corpses in a red-tiled hallway. This murderer holds a long, thin sword and appears to see Kaladin's presence.

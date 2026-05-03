@@ -1,13 +1,15 @@
 ---
-title: "Chapters 1-2-14"
+title: "Chapters Interlude 2-14"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
-range: "1-2-14"
-startChapter: 1
+range: "I2-14"
+startChapter: 2
 ---
 
-### Chapter 1: 2: Nan Balat
+
+
+### Interlude 2: Nan Balat
 Nan Balat sits on his family's porch in Jah Keved pulling the legs off small crabs to soothe his internal aches. He walks with a cane due to a badly broken leg that a surgeon nearly amputated following years of his father’s abuse. The Davar estate is covered in thick vines and greenery that retreat whenever anyone steps near them. Balat interacts with his axehound Scrak, a six-legged, smooth-skinned creature with a hard carapace and dual voices. Scrak plays with a songling, a peaked disc-shaped animal with four arms used to scrape rhythms on its shell.
 
 Balat reflects on his sister Shallan, who recently messaged via spanreed to confirm she is now Jasnah Kholin’s ward. Shallan intends to steal a Soulcaster, a legendary fabrial device capable of transforming materials, from the highprincess. Balat feels like a coward for staying behind while his shy sister carries out a dangerous heist against a powerful woman. He recalls his deceased eldest brother Helaran, who was the only one to stand up to their brutal father. His father is also dead, leaving the siblings to manage a fractured household of emotional and physical cripples.
@@ -16,7 +18,7 @@ Balat pulls the shell off a crab and ponders how creatures seem dead once they s
 
 
 
-### Chapter 1: 3: The Glory of Ignorance
+### Interlude 3: The Glory of Ignorance
 Szeth-son-son-Vallano sits in a grimy tavern in Ironsway, Bavland, with beer soaking into his fraying trousers. He is currently owned by Took, a transient miner who purchased Szeth for a sack of seeds from a farmer. Took orders Szeth to jump and then to cut his own arm with a dirty boot knife to impress local miners. Szeth explains he is Truthless and forbidden from taking his own life, though he must obey all other commands. The miners view Szeth as a Shin slave, noting his large round eyes and lack of facial hair.
 
 Szeth is a Surgebinder and a Windrunner who possesses a Shardblade, a magical weapon that turns his eyes pale green. He hides his identity as the "Assassin in White" who killed King Gavilar Kholin five years ago in Alethkar. After the assassination, the Parshendi discarded Szeth’s Oathstone, a simple rock that dictates who owns him. A merchant named Avado found Szeth and eventually traded him away into a cycle of menial labor. Szeth keeps a mysterious black sphere given to him by Gavilar hidden away in a secret location in Jah Keved.

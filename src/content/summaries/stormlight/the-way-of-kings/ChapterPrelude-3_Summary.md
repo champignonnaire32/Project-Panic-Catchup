@@ -1,13 +1,15 @@
 ---
 title: "Chapters Prelude-3"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "Prelude-3"
 startChapter: 0
 ---
 
-### Prelude to the Stormlight Archive
+
+
+### Prelude: Kalak
 Kalak walks across a battlefield littered with human and non-human corpses and smoldering rocks. He reaches a stone spire to meet the other Heralds but finds only Jezrien waiting for him. Seven masterly swords are driven into the ground, representing the seven Heralds who survived the battle. Talenel is missing because he died holding a passage and has been sent back to the place of torture. Kalak admits to Jezrien that he can no longer endure the cycle of torture and death.
 
 Jezrien reveals that a decision has been made to abandon the Oathpact and leave the cycle of Desolations. He believes that Ishar’s plan will work as long as one person remains bound to the pact. Taln is left alone to suffer the eternal torture while the other nine Heralds stay behind on Roshar. Kalak looks at the primitive humans and the Radiants who must now defend themselves without the Heralds' guidance. Jezrien summons his own glowing Blade and thrusts it into the stone alongside the others.
@@ -16,7 +18,7 @@ The Heralds decide to go their separate ways and never seek each other out again
 
 
 
-### Prologue: To Kill
+### Prologue: Szeth
 Szeth-son-son-Vallano sits in a white robe at a treaty-signing feast between the Alethi and the Parshendi. He observes King Gavilar’s relatives, including the drunken Dalinar and the heirs Elhokar and Jasnah. The Parshendi musicians play drums while the Alethi lighteyes dance and drink sapphire wine. Szeth leaves the hall and passes nine statues of the Heralds, noting that Shalash's statue is missing. He prepares to assassinate King Gavilar as commanded by his Parshendi masters.
 
 Szeth draws Stormlight from sapphire lamps to power his Lashings and infiltrates the king's hallway. He uses a Basic Lashing to change his gravity, allowing him to walk on walls and drop guards with his feet. After a ten-heartbeat delay, Szeth summons his Shardblade and kills a guard by severing his soul. He uses a Full Lashing to bond a stone block to a doorframe, crushing the pursuing soldiers. Szeth enters the king's chambers and confronts a Shardbearer who he realizes is actually King Gavilar.

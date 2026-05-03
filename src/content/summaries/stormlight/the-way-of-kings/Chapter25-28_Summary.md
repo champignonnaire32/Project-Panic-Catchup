@@ -1,11 +1,13 @@
 ---
 title: "Chapters 25-28"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "25-28"
 startChapter: 25
 ---
+
+
 
 ### Chapter 25: The Butcher
 In a flashback to seven years ago, thirteen-year-old Kaladin walks through the snowy town of Hearthstone. He overhears townspeople gossiping that his father, the surgeon Lirin, stole spheres from the recently deceased Citylord Wistiow. Kaladin confronts his mother Hesina about the rumors, but she explains that people fear Lirin's medical knowledge. While helping his mother chip crem from buildings, Kaladin admits he is tempted by the life of a soldier. Lirin interrupts them to announce the sudden arrival of the new Citylord, Brightlord Roshone.

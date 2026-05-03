@@ -1,11 +1,13 @@
 ---
 title: "Chapters 63-67"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "63-67"
 startChapter: 63
 ---
+
+
 
 ### Chapter 63: Fear
 Leyten completes the first set of chasmfiend carapace armor for Kaladin and Bridge Four. Kaladin orders full sets for the entire crew and uses wounded men to gather more carapace from the chasms. Hashal reduces the crew's scavenging quota after Kaladin presents the armor concept as her own idea. Leyten explains he was made a bridgeman to take the blame for a broken piece of lighteyes armor. Kaladin trains his men with spears in a wide chasm intersection using diamond chips for light.

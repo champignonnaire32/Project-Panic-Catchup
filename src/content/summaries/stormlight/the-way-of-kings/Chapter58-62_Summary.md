@@ -1,11 +1,13 @@
 ---
 title: "Chapters 58-62"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "58-62"
 startChapter: 58
 ---
+
+
 
 ### Chapter 58: The Journey
 Adolin drinks yellow wine with Danlan, an auburn-haired scribe, and his friends Jakamav and Toral at a market wineshop. He admits his prediction that Sadeas would move against Dalinar after the assassination attempt was wrong. The group discusses the decline of House Kholin's favor and Dalinar's reputation among the highprinces. Adolin reflects on his agreement to accept his father's decision to step down if the visions are proven false. He worries that he is not ready to become the next Highprince of House Kholin.

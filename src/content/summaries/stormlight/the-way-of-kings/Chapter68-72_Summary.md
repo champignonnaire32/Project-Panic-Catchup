@@ -1,11 +1,13 @@
 ---
 title: "Chapters 68-72"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "68-72"
 startChapter: 68
 ---
+
+
 
 ### Chapter 68: Eshonai
 Adolin and Dalinar lead a desperate charge against the Parshendi to escape the Shattered Plains. They use their Shardblades to carve a path through the enemy ranks for their wounded and exhausted soldiers. Kaladin defends the bridge head alone while infused with Stormlight, displaying inhuman speed and precision. The bridgemen watch in awe as he kills Parshendi with his spear to protect the retreating Alethi. Teft organizes the bridge crews into defensive formations to support Kaladin's stand.

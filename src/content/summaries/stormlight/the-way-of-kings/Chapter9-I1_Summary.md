@@ -1,11 +1,13 @@
 ---
-title: "Chapters 9-1-1"
+title: "Chapters 9-Interlude 1"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
-range: "9-1-1"
+range: "9-I1"
 startChapter: 9
 ---
+
+
 
 ### Chapter 9: Damnation
 Kaladin sits in the rain at the Sadeas warcamp and looks at the casualty rates for Bridge Four. He counts that only he and one other man survive from the original group of twenty-five. Bridge Four runs toward the plateau chrysalises while Parshendi archers target them specifically. Kaladin refuses to ask his teammates for their names during their work details. Syl, a windspren appearing as a girl in a misty dress, flies near him and asks why he has not spoken for days.
@@ -34,7 +36,7 @@ Kaladin grabs Gaz by the throat, sweeps his legs, and slams him to the ground. H
 
 
 
-### Chapter 1: 1: ISHIKK
+### Interlude 1: Ishikk
 Ishikk wades through the knee-deep water of the Purelake while wearing lake sandals and breeches. He carries a pole with buckets containing five fish, including a lucky kolgril with healing properties. The Purelake is a vast, shallow body of water inhabited by riverspren and colorful cremlings. Ishikk enters the village of Fu Abra, which consists of domed buildings raised on blocks. He meets three foreigners at Maib's house who sit at a table with footrests to avoid the water.
 
 The foreigners include two Makabaki men and a light-skinned man with a scar on his scalp. Ishikk refers to the men as Grump, Blunt, and Thinker based on their various temperaments. They ask Ishikk for a report on a man named Hoid, who has white hair and a clever tongue. Ishikk states that he has visited four different villages and found no trace of the target. The foreigners argue in a different language about the possibility of using fish to find the man.

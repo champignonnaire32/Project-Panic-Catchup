@@ -1,11 +1,13 @@
 ---
 title: "Chapters 36-40"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "36-40"
 startChapter: 36
 ---
+
+
 
 ### Chapter 36: The Lesson
 Shallan sits in a luxuriously heated bathing chamber in Kharbranth while Jasnah Kholin soaks in the water. The young ward reads King Gavilar’s personal account regarding his first meeting with the self-sufficient Parshendi people. Shallan considers swapping her broken Soulcaster, an ancient fabrial used for transmutation, for the working one Jasnah keeps in a nearby pouch. Jasnah wakes and explains that her father Gavilar may have sought a treaty with the Parshendi to secure their Shardblades. Despite the opportunity, Shallan fails to make the exchange in the bathing room and instead massages soap into Jasnah’s hair.

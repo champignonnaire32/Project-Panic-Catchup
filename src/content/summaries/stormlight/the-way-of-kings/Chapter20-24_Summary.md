@@ -1,11 +1,13 @@
 ---
 title: "Chapters 20-24"
 series: "The Stormlight Archive"
-book: "The Way Of Kings"
+book: "The Way of Kings"
 bookOrder: 1
 range: "20-24"
 startChapter: 20
 ---
+
+
 
 ### Chapter 20: Scarlet
 Thirteen-year-old Kaladin attempts to save a five-year-old girl named Miasal after she suffers a high fall. He identifies a compound fracture in her leg and notes significant blood loss from severed arteries. Kaladin applies a tourniquet using his shirt while the girl’s father, Harl, is restrained by the crowd. He requests fire and a knife to perform an emergency cauterization on the open wound. The young surgeon successfully stops the bleeding using the heated blade while his hands remain steady.
@@ -25,7 +27,7 @@ Kaladin asks the other bridgemen to share their rations, but Moash and most othe
 
 
 
-### Chapter 22: EYES, HANDS, OR SPHERES?
+### Chapter 22: Eyes, Hands, or Spheres?
 Dalinar Kholin walks with his sons Adolin and Renarin toward the king’s outdoor feasting basin. Adolin reports that leatherworkers found no definitive proof that the king’s saddle girth was intentionally cut. They arrive at a series of artificial islands created by Soulcasters for the royal celebration. Wit sits on a high stool at the entrance to the king's island and insults the arriving guests. Dalinar observes the younger lighteyes drinking violet wine while he adheres to the strict Alethi Codes.
 
 Wit warns Dalinar that rumors about him abandoning the Vengeance Pact are spreading through the camp. Navani Kholin, the king's mother, arrives unexpectedly and interrupts the conversation between Dalinar and Wit. She reveals that Veden artifabrians have developed "half-shards," which are shields capable of blocking Shardblades. Navani explains that she returned because she believes the warcamps are the true political center of Alethkar. She demonstrates a crustacean-like ruby fabrial to her dinner companions while Dalinar watches from a distance.
