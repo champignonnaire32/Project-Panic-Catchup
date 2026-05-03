@@ -7,6 +7,14 @@
 
 ---
 
+## [May 2, 2026 - Mistborn: Era Two Ingestion] (by Gemini)
+*   **Series Ingestion:** Added "Mistborn: Era Two" (The Wax and Wayne Series) to the Lorebrary. Imported all 4 books: *The Alloy of Law*, *Shadows of Self*, *The Bands of Mourning*, and *The Lost Metal*.
+*   **Content Standardization:** Applied stylized naming ("Mistborn: Era Two") across all frontmatter. Set chronological `bookOrder` (1-4) and performed a global `sed` update to ensure title consistency.
+*   **Orphaned Chapter Merging:** Manually merged "Epilogue 6-7" into "Epilogue 1-5" for *The Lost Metal* per the project's 15-sentence density and length standards.
+*   **Chronological Ordering Fix:** Resolved a spoiler bug in *The Alloy of Law* where the Epilogue appeared at the start of the book list due to a `startChapter: 0` error; corrected to `startChapter: 21`.
+*   **Metadata & SEO:** Authored a professional, high-density SEO blurb for the series in `series-metadata.ts` focusing on the industrial setting and magic system evolution.
+*   **Build & Deploy:** Verified the full site build (677 pages) and pushed to production.
+
 ## [May 2, 2026 - Mistborn Era One Ingestion] (by Gemini)
 *   **Series Ingestion:** Added "Mistborn: Era One" to the Lorebrary. Copied the generated summaries for *The Final Empire*, *The Well of Ascension*, and *The Hero of Ages* into the `raw-summaries` directory.
 *   **Pipeline Updates:** Updated `split-summaries.js` with the correct book ordering and title casing for the Mistborn novels to ensure clean parsing.
