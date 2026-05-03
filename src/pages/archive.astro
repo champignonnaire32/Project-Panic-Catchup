@@ -72,11 +72,11 @@ const searchData = Array.from(searchDataMap.values());
       </p>
     </div>
 
-    <ContinueReading client:load />
-
     <div class="mb-8 sm:mb-10 flex flex-col items-center text-center">
       <SearchBar client:load searchData={searchData} />
     </div>
+
+    <ContinueReading client:load />
 
     <div class="grid gap-5 md:grid-cols-2">
       {seriesList.map(series => (
