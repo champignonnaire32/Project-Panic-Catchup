@@ -7,7 +7,7 @@ range: "106-110"
 startChapter: 106
 ---
 
-### Chapter 106: CARDINAL SIN
+### Chapter 106: Cardinal Sin
 
 Nine years ago, Szeth leads a rebellion of acolytes in Shinovar to root out corruption. He kills twenty soldiers in a single pass to shatter an enemy line during his first battle. He uses an infused holy boulder to crush the remaining resistance and secures a small town. The townspeople pay him lip service out of fear but refuse to truly join his cause. Szeth realizes the other Honorbearers will ignore his revolution as long as it remains small.
 
@@ -17,7 +17,7 @@ He accepts that he must become a visible and undeniable danger to draw out his p
 
 ---
 
-### Chapter 107: VOIDBRINGER
+### Chapter 107: Voidbringer
 
 Over seven thousand years ago, an avatar named Tanner weeps on the planet Ashyn. The sky burns with fire and smoke as the kingdom Tanner raised is obliterated. Rayse appears as a mountain-sized figure and admits the destruction went too far. Souls flee the dying world, which is renamed Ashyn due to its charred biome. Nale finds the limp body of his sister among thousands of charred corpses.
 
@@ -27,7 +27,7 @@ Tanner observes this attempt at reconciliation and decides to help the surviving
 
 ---
 
-### Chapter 108: SERVICE
+### Chapter 108: Service
 
 Szeth and Kaladin hike through the hilly borderlands between Shinovar and the highlands. Kaladin observes that the local grass hides from the wind instead of retracting like Alethi flora. Szeth carries Nightblood and several Honorblades while Kaladin carries the rest in a rucksack. Kaladin admits he struggles with the memory of the people and singers he has killed. He explains that he chose to become a leader to take responsibility for stopping the violence.
 
@@ -37,7 +37,7 @@ They land at the central monastery and find Nale waiting in the grand entryway. 
 
 ---
 
-### Chapter 109: RATIONALIZATION
+### Chapter 109: Rationalization
 
 Kaladin challenges Nale to a duel to protect Szeth from immediate execution. Nale agrees to the fight but insists that it must be to the death. Kaladin convinces Nale to discard his Stormlight and fight with pure physical skill. They engage in a precise exchange of strikes within the ruins of the monastery. Kaladin manifests his Fourth Ideal Shardplate to deflect a blow to his head.
 
@@ -47,7 +47,7 @@ In Thaylenah, Jasnah and Queen Fen meet with Taravangian, who is now the vessel 
 
 ---
 
-### Chapter 110: FLUTE
+### Chapter 110: Flute
 
 The Wind whispers a flute song to Kaladin as he lies broken on the floor. Nale crushes Kaladin's wooden flute and drains all available Stormlight from nearby spheres. Kaladin uses his Radiant spren, Syl, to manifest a new flute made of silver metal. He begins to tell the story of Derethil and the Wandersail to the Herald. Nale becomes agitated as the Wind plays a chorus of overlapping flute melodies.
 

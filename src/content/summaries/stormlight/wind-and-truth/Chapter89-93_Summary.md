@@ -7,7 +7,7 @@ range: "89-93"
 startChapter: 89
 ---
 
-### Chapter 89: REVELATIONS
+### Chapter 89: Revelations
 
 Kaladin and Nale debate the validity of ancient laws as they hike through the soil-covered highlands of Shinovar towards a Dustbringer monastery. Nale recounts his early days as a Herald and the origins of Odium’s influence over the singers to a listening Kaladin. Szeth remains focused on his mission to stop an Unmade that is disrupting the traditions and laws of his homeland. The group enters a corrupted town where the air feels dark and the inhabitants hide fearfully within their homes. Kaladin reflects on the importance of individual choice and the true meaning of the Windrunners’ journey as they approach their destination.
 
@@ -17,7 +17,7 @@ Jasnah transfers her Radiants to the Shattered Plains via the Thaylen City Oathg
 
 ---
 
-### Chapter 90: A CANDLE BEFORE THE STORM
+### Chapter 90: A Candle Before the Storm
 
 Szeth returns to the Dustbringer monastery in Shinovar and hands his collection of Honorblades to Kaladin for safekeeping during his upcoming trial. Nale explains that Szeth must face a single younger foe rather than the elderly Honorbearer he previously encountered at this location. Syl observes that the sky over Shinovar is filled with nature and emotion spren but lacks any Radiant spren. Szeth enters the stone monastery alone and finds a lone figure swathed in grey robes waiting at the far end of the hall. He chooses to dismiss his Shardblade and refuses to fight, seeking to understand how his people were manipulated by the Unmade.
 
@@ -27,7 +27,7 @@ Sigzil meets with his generals at Narak and discusses the heavy casualties they 
 
 ---
 
-### Chapter 91: RECRUITING
+### Chapter 91: Recruiting
 
 Dalinar experiences a vision where he occupies the body of his deceased nephew, Elhokar, in the Pinnacle at the warcamps. He feels Elhokar’s underlying paranoia and his desperate desire to be a strong king like the Blackthorn while facing the Cryptic spren. A younger version of Dalinar enters the room and brutally attacks Elhokar to secure his own position of power within the kingdom. The older Dalinar fights back against his past self but ultimately realizes his own historical actions as a despot led to Elhokar’s insecurity and death. The vision concludes with a young Gavinor witnessing his father being beaten, which Dalinar recognizes as a deliberate attempt by Odium to unnerve him.
 
@@ -37,7 +37,7 @@ Venli is captured by a Fused named El who possesses metal horns and a shimmering
 
 ---
 
-### Chapter 92: INTO THE BLUE
+### Chapter 92: Into the Blue
 
 Nine and a half years ago, Szeth Lashes himself into the high winds above the mountains of Shinovar to find a sense of liberation. He falls upward into the blue until the air grows thin and he can no longer breathe before canceling his Lashing to return to the ground. Szeth descends back through the clouds and sees the ancient city of Ayabiza, which is also known as the place of landing. He lands in the central square with a crash of Stormlight, startling the local marketgoers who are swathed in brilliant, colorful clothing. The city is constructed of clay and wood with vibrant murals on every wall and a sewer system built to an ancient Herald’s design.
 
@@ -47,7 +47,7 @@ Szeth looks at the clay buildings and reinforcement wood that characterize the u
 
 ---
 
-### Chapter 93: WHITE CARPET, NOW RED
+### Chapter 93: White Carpet, Now Red
 
 Shallan enters the Spiritual Realm and revisits the day she killed her mother, Chanarach, at the Davar estate when she was eleven. She watches her younger self interact with Testament in the gardens and witnesses the moment her mother met with the Herald Nale. Nale commands Chanarach to kill Shallan because she is a budding Radiant, citing legal justification under the Veden Voidcraft Act. Chanarach reveals that she believes she has passed her Heraldic bond to Shallan, which will allow her to become mortal and die. Adult Shallan observes the ensuing struggle in her father’s chambers as he attempts to defend the family from a Skybreaker named Dreder.
 

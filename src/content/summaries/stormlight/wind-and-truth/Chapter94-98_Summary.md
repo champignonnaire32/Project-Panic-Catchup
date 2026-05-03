@@ -7,7 +7,7 @@ range: "94-98"
 startChapter: 94
 ---
 
-### Chapter 94: SACRED TRUTH
+### Chapter 94: Sacred Truth
 
 Szeth arrives at the center of the Bondsmith monastery, which is a natural rock formation created by the First Spren. He observes the nine stone divots where the Honorblades were kept, realizing there were only nine instead of the ten he expected. He prays to Taln, the Herald who remained in Damnation alone to save humanity from the Desolation. The Voice, which Szeth has followed for years, directs him to a hidden trail along a shallow ridge. Szeth encounters a dark presence that he senses but cannot visually identify in the clear sunlight.
 
@@ -17,7 +17,7 @@ Szeth realizes he has been listening to an Unmade rather than a god or a spren t
 
 ---
 
-### Chapter 95: BECAUSE IT IS FLAWED
+### Chapter 95: Because It Is Flawed
 
 Adolin stares at his missing leg while a surgeon affixes a peg to his stump outside the Azir tents. The surgeon explains that a tight fit is necessary to prevent chafing in the hogshide cup, a protective leather socket for the prosthesis. Adolin uses Regrowth to form scars quickly, but he is warned that he might need crutches for the rest of his life. He is told that he will likely never return to combat because a man on a peg cannot hold a shield wall. Meanwhile, the Azish defensive lines are failing, holding the dome breach with only three ranks of exhausted soldiers.
 
@@ -27,7 +27,7 @@ Adolin refuses crutches and limps to the latrines to find Gezamal performing his
 
 ---
 
-### Chapter 96: ALL THEY HAD
+### Chapter 96: All They Had
 
 In a flashback to nine and a half years ago, Szeth lands near his father's cookfire after fleeing the Unmade's cavern. He is leaking Stormlight and feeling the intense pressure of the truth he just discovered about the Honorbearers. Szeth finds his father, Neturo, waiting at a waystop off the main roadway in the land of Shinovar. He warns his father to hide but refuses to explain the full scale of the danger to avoid involving him in the corruption. Neturo encourages Szeth to take deep breaths and reminds him of the peaceful days of his childhood.
 
@@ -37,7 +37,7 @@ Szeth realizes that he is the only one positioned to take action against the cor
 
 ---
 
-### Chapter 97: CHARACTERS FROM A PLAY
+### Chapter 97: Characters From a Play
 
 Shallan enters a vision of her wedding day in Urithiru, asserting her will over the memory to start the experience early. She is being prepared by Alethi makeup artists and receives a gift of military-style boots from Kaladin. Pattern and Testament, a deadeye spren who was Shallan's first bond, appear in the meditation room together. Testament speaks the words "Enjoy it" to Shallan, encouraging her to find happiness despite her past traumas and lies. Shallan realizes that relearning lessons is actually a process of reinforcing them through the practical proof of living.
 
@@ -47,7 +47,7 @@ Shallan and Adolin speak their oaths, promising to lend each other strength when
 
 ---
 
-### Chapter 98: THE DAY OF TRUTH
+### Chapter 98: The Day of Truth
 
 Szeth returns to the Windrunner monastery and finds ten shamans gathered in mourning, wearing faded red armbands. He identifies the lead shaman as Faraz-daughter-Daraz, a short woman with curly black hair, and commands the group to walk with him. The shamans explain that they are rejects from other monasteries who were gathered by Tuko for a planned rebellion. Szeth reveals that he killed Tuko because he was more skilled and better suited to lead the resistance. He informs the group that the other Honorbearers are serving an Unmade they refer to as the Voice.
 

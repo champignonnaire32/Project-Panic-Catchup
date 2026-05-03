@@ -7,7 +7,7 @@ range: "82-86"
 startChapter: 82
 ---
 
-### Chapter 82: THE PRIMARY PURPOSE OF SCIENCE
+### Chapter 82: The Primary Purpose of Science
 
 Navani enters a vision of the ancient tower-city Urithiru as it begins to grow cold and inhospitable. She successfully establishes a mental connection with the Sibling and learns about the Skybreakers' historic departure from the tower. The Sibling describes how the previous Bondsmith, Melishi, grew distant after inventing the method for imprisoning spren within fabrials. Navani and Dalinar realize they are observing the timeline leading up to the Recreance, roughly a decade before the event occurs. Dalinar manipulates the vision to move them to a battlefield where they encounter a Windrunner named Garith.
 
@@ -15,7 +15,7 @@ In the physical realm, Adolin Kholin leads a desperate urban defense in Azimir a
 
 The Shardbearer Neziham distracts the creature but is eventually crushed into gore by a massive stone fist. Adolin attempts to secure the chain around the creature's ankles, but the thunderclast kicks out and sends him flying. The monster easily snaps the metal links of Adolin's trap and resumes its march toward the city's central dome. Neziham's Shardblade falls to the street and fails to vanish, indicating the permanent death of its wielder. Adolin lies exhausted and defeated in the roadway as the thunderclast ignores him to pursue more significant targets.
 
-### Chapter 83: HIRED BLADE
+### Chapter 83: Hired Blade
 
 Nine and a half years ago, Szeth-son-Neturo kills Tuko-son-Tuko in a sanctioned duel at a Shin monastery. Tuko is the current Honorbearer of the Wind and warns Szeth against their leader before succumbing to his wounds. Szeth has completed seven years of pilgrimage and officially claims the simple, elegant Windrunner Honorblade. He joins a group of six other Honorbearers, including Pozen the Elsecaller and Moss the Lightweaver. The assembly confirms that no Stoneward, Skybreaker, or Bondsmith Honorbearers are currently present at the monastery.
 
@@ -23,7 +23,7 @@ Szeth expresses deep remorse for the killing, but the other leaders dismiss his 
 
 Szeth demands to meet the entity known as the Voice to seek clarification on his duties. The Voice communicates with the group and instructs Szeth to travel to the holy grotto beyond Ayabiza. It promises that he will find the answers he seeks regarding the full extent of the Truth. Szeth prepares for his second pilgrimage, which requires him to prove his combat prowess at each monastery. He leaves the grand hall feeling sickened by the internal politics that governed his ascension to Honorbearer.
 
-### Chapter 84: FOR THE BROKEN
+### Chapter 84: For the Broken
 
 Adolin recovers from his fall in Azimir and struggles with feelings of obsolescence compared to his Radiant brother. The Thaylen soldier Hmask assists Adolin to his feet, prompting the prince to retrieve Neziham's fallen Shardblade. Adolin mounts his Ryshadium horse, Gallant, and pursues the thunderclast as it approaches a watchpost tower. In a nearby hospital, Ash watches over the catatonic Taln while the Fused invade the medical district. The Fused leader Abidi orders the execution of the wounded, causing Taln to cease his mantra and stand up.
 
@@ -31,7 +31,7 @@ The unarmed Herald Taln terrifies the Fused and begins slaughtering the invaders
 
 Renarin enters a vision of Narak and finds Rlain sitting alone in a former meeting chamber. The two share a conversation about their shared feelings of isolation and their mutual attraction. Rlain explains that singer attraction exists outside of mateform and admits he has thought about a relationship with Renarin. They hold hands as Renarin experiences the Rhythm of Excitement pulsing from the singer. Shallan watches the interaction with excitement before Renarin gathers the group to discuss the clues left by Mishram.
 
-### Chapter 85: PARLEY
+### Chapter 85: Parley
 
 Adolin regains consciousness and discovers that his right leg has been amputated below the knee due to being pinned. A Radiant healer named Rahel stabilizes his injuries, though she lacks the experience to regrow the missing limb. Adolin discards his shattered Plate and insists on being carried toward the city's breached dome to continue the fight. They find a plaza littered with hundreds of dead Fused and singers who were slaughtered by the Heralds. Taln is found dead at the top of a corpse pile, speared by lances while holding a crushed Fused skull.
 
@@ -39,7 +39,7 @@ Ash dies smiling beside Taln, having chosen to stay with him rather than leaving
 
 The Bondsmith Melishi and the Heralds Nale and Kalak observe the proceedings with suspicion and skepticism. Dalinar uses his powers to follow Garith to a clandestine night meeting in a secluded rock formation. Melishi and Kalak hide in the brush to gather evidence that Garith is a traitor to the human cause. Dalinar accidentally swaps places with Garith just as a group of singers arrives for the secret meeting. The vision concludes when a tall direform femalen singer approaches Dalinar and kisses him passionately.
 
-### Chapter 86: RIVER OF LIGHT
+### Chapter 86: River of Light
 
 Kaladin Stormblessed finds peace in the realization that he will not return in time to serve as Dalinar's champion. He plays a melancholy song on his flute to honor the memories of his fallen friends from Bridge Four. Syl explains that the Wind cherishes his music, though Nale expresses a deep hatred for the specific melody. Kaladin learns from Nale that while Herald souls are immortal, their physical bodies require food and can be killed. Szeth-son-Neturo joins Kaladin for stew and confesses his internal conflict regarding Nale's rigid orders.
 

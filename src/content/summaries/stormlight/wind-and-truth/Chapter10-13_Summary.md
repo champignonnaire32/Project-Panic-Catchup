@@ -7,7 +7,7 @@ range: "10-13"
 startChapter: 10
 ---
 
-### Chapter 10: BOOK-QUARTERMASTER
+### Chapter 10: Book-Quartermaster
 
 Kaladin follows Syl into the Urithiru library, which he describes as a scribes’ supply depot filled with books and ardents. Syl approaches a pale, frowning head librarian to retrieve a rucksack of supplies for their upcoming mission. The librarian provides a movable type copy of The Way of Kings and a set of lightweight writing pens. Syl changes her appearance to wear a ko-takama, an ancient female warrior outfit consisting of a pleated skirt and fitted jacket. She jokes with the librarian about having a chull head, a large shelled creature, hidden beneath her clothing to mock human modesty.
 
@@ -17,7 +17,7 @@ Kaladin tucks the paper Syl wrote on into his pocket and packs the remaining boo
 
 ---
 
-### Chapter 11: MUSICSPREN
+### Chapter 11: Musicspren
 
 Shallan fights the Fused Abidi in the Shadesmar bead ocean, but the enemy escapes through a wall of beads. The cavern collapses and Shallan sinks into the depths while searching for a soul-bead to use as a blueprint. She finds a bead representing a room and creates a solid square space at the bottom to save Adolin. In the darkness, Shallan sees a face made of beads resembling the singer queen Ba-Ado-Mishram and hears a voice promising to kill everything she loves. Adolin strikes the face with a massive greatsword, causing the cavern to disintegrate into a torrent of shifting beads.
 
@@ -27,7 +27,7 @@ The group rescues their spren from the bead ocean and follows a navigational fab
 
 ---
 
-### Chapter 12: BEYOND THE BRANDS
+### Chapter 12: Beyond the Brands
 
 Kaladin hovers above Urithiru and watches the highstorm approach before heading to a tavern to find Bridge Four. He finds the group celebrating Rlain, who has recently bonded a spren and become a Truthwatcher instead of a Windrunner. Kaladin gives a salute to Rlain and thanks him for choosing to stay with the humans instead of returning to the singers. The men share mugs of wine and celebrate their collective progress from bridge slaves to flying warriors. Kaladin notices the absence of Moash and realizes he no longer misses his former friend.
 
@@ -37,7 +37,7 @@ Sigzil expresses doubt about his ability to lead, but Kaladin reassures him by p
 
 ---
 
-### Chapter 13: PROMISE
+### Chapter 13: Promise
 
 Shallan and Adolin reach the Azimir Oathgate platform in Shadesmar and find it guarded by two massive, corrupted inkspren. These spren explain that they have been "liberated" by the Unmade Sja-anat and will allow the singer army to pass through the portal. Shallan’s group transfers to the Physical Realm and arrives in the Azimir market dome during the height of a highstorm. As she enters the real world, a suit of red Shardplate made of overeager creationspren locks around her body. Shallan realizes she has achieved the Fourth Ideal of the Lightweavers and experiments with adjusting the armor’s fit.
 

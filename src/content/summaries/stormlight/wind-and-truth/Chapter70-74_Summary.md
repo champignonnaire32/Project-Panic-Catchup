@@ -7,7 +7,7 @@ range: "70-74"
 startChapter: 70
 ---
 
-### Chapter 70: CONTEST OF ILLUSIONS
+### Chapter 70: Contest of Illusions
 
 Szeth, Kaladin, and Nale arrive at the Lightweaver monastery, which is cut into a rock face in a quiet ravine. Szeth carries several Honorblades and reflects on his past while speaking to Nightblood. Nightblood questions if killing innocents is evil, causing Szeth to explain the need for guidelines and laws. They find the monastery empty of servants and keepers before Szeth enters the main hall alone. Inside, thirty illusory women wearing the same face stand in a column of sunlight beneath a skylight.
 
@@ -18,7 +18,7 @@ Venli leads a group of listeners and Heavenly Ones through the chasms of the Sha
 
 ---
 
-### Chapter 71: ASSUMPTIONS
+### Chapter 71: Assumptions
 
 Szeth attempts to solve Moss's riddle by identifying tiny differences in the hair, eyes, and sashes of the thirty illusory figures. Sylphrena appears and offers her assistance, noting that Nale only prohibited Kaladin from helping Szeth directly. They count the traits and find sixteen figures with violet eyes and fourteen with green eyes, suggesting a deliberate pattern. Syl argues that the most obvious choice is likely a trap designed to trick Szeth into failing. Szeth concludes that Moss has created a puzzle where every choice leading to an illusion would result in a loss.
 
@@ -29,7 +29,7 @@ Jasnah analyzes Odium's strategy and questions why he would commit large forces 
 
 ---
 
-### Chapter 72: STATISTICALLY DANGEROUS
+### Chapter 72: Statistically Dangerous
 
 Sylphrena watches the acolytes recover from the Lightweaver illusions and notices their distress at being used as human anchors for the trick. Nale glares at Syl but remains silent as Szeth collects gemstones and prepares to leave the ravine. Nightblood speaks to the newly captured Honorblades, asking them to remain dull and peaceful during their continued travels. Kaladin praises Szeth's performance, but Syl becomes fixated on the specific wording of Moss's earlier instructions. She realizes that while twenty-nine figures were innocuous, the mention of one being deadly implies a hidden second threat.
 
@@ -40,7 +40,7 @@ Shallan creates a mental enclave in the Spiritual Realm to meet with Rlain, Rena
 
 ---
 
-### Chapter 73: THE LUXURY OF SIMPLICITY
+### Chapter 73: The Luxury of Simplicity
 
 Sixteen years ago, Szeth defeats the swordmaster Gonda-son-Darias in five consecutive practice bouts at the Shinovar monastery. He removes his practice mask, which is made of Soulcast mesh and reflective white material, while the other acolytes watch in silence. The Honorbearer Pozen emerges to congratulate Szeth on becoming the new swordmaster but notes his continued weakness with Elsecalling. Pozen sets Szeth on a hunt riddle, directing him to find a clue atop the seventh spire. Szeth travels to the nearby city of Mokdown, where buildings are constructed of interlocking wood without the use of metal nails.
 
@@ -51,7 +51,7 @@ Szeth learns that the religious leaders began favoring him once they discovered 
 
 ---
 
-### Chapter 74: WHAT HE MADE OF US
+### Chapter 74: What He Made of Us
 
 Sigzil struggles to save his squire Deti during a chaotic battle in Narak as stormform Regals breach the human defenses. Deti utters a Death Rattle about the Night of Sorrows and a consuming darkness before dying in Sigzil's arms. Sigzil uses a captured Heavenly One lance that drains Voidlight to kill several spiked direform Regals in his path. He leads a group of soldiers and Edgedancers in a tactical retreat toward the stabilizing rear lines of Narak Four. Vienta, his spren, encourages him to suppress his rage and focus on the logistics of the necessary military withdrawal.
 

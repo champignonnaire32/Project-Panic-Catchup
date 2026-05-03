@@ -17,7 +17,7 @@ Pozen cancels Szeth's punishment and instead recruits him to train as a shaman a
 
 ---
 
-### Interlude 9: ZAHEL
+### Interlude 9: Zahel
 
 Vasher, known in this land as Zahel, hangs naked from chains in a room lined with aluminum sheets. He is a prisoner of Axindweth, who uses his inability to bring fabric to life against him. A red parrot sits in a cage nearby, and Zahel attempts to keep it engaged by playing a game. He periodically erases his own memories to nullify the effects of the physical torture his captors inflict. Zahel reflects on his long life and his recent decision to flee from his past responsibilities.
 
@@ -27,7 +27,7 @@ Axindweth uses the painrial to force Zahel into a state of extreme suffering. Th
 
 ---
 
-### Interlude 10: THE MOMENT OF DECISION
+### Interlude 10: The Moment of Decision
 
 Taravangian observes the landscape of Shinovar from a mountaintop while contemplating his plans for total conquest. He monitors Szeth's movements through the land and considers his own ability to dominate distant kingdoms. Cultivation appears behind him to question if his mind and heart still reject her assumptions. Taravangian realizes that he possesses both the divine intellect and the overwhelming emotions of the god Odium. He admits to himself that he wants to conquer the cosmere for his own personal satisfaction.
 
@@ -37,7 +37,7 @@ Taravangian coalesces into a new avatar wearing radiant gold vestments and holdi
 
 ---
 
-### Chapter 69: RADICAL PHILOSOPHY
+### Chapter 69: Radical Philosophy
 
 Kaladin and Szeth travel toward the Lightweaver monastery on foot under the supervision of the Herald Nale. Nale walks with an imperious gait and requires no rest or water during the long journey northward. Kaladin attempts to convince Szeth to think for himself rather than blindly following Nale's rigid legalism. Nale joins the conversation and defends the absolute authority of the law as the only valid moral compass. He argues that human hearts are too weak to be trusted and requires something greater to guide them.
 

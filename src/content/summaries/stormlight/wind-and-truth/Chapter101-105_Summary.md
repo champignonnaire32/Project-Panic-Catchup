@@ -7,7 +7,7 @@ range: "101-105"
 startChapter: 101
 ---
 
-### Chapter 101: STEERING A CHULL
+### Chapter 101: Steering a Chull
 
 Venli and the listeners spend a fitful night at the Shattered Plains considering an offer to serve Odium. The listener leaders known as the Five argue over whether they can maintain their identity while accepting Odium’s dominance. Thude insists that rejecting Odium defines their people, while others fear they will be used as fodder in the coming battle. Venli comforts the Fused Leshwi and realizes she no longer fears the god who once enslaved her. She decides to propose a dangerous alternative plan to the Five to seek true freedom for the listeners.
 
@@ -17,7 +17,7 @@ Navani successfully manipulates the vision to transition from her study to the f
 
 ---
 
-### Chapter 102: A BLADE IN THE NIGHT
+### Chapter 102: A Blade in the Night
 
 Nine and a half years ago, Szeth returns to Pozen’s monastery in Mokdown to assassinate his former master. He has discovered that the Honorbearers are part of a conspiracy and that the Desolation has returned. Szeth intends to seize Pozen’s Blade to gain Soulcasting abilities for his growing rebel army. He sneaks through the roof access hatch and navigates the familiar hallways where he was once trained as a weapon. While hiding in a meditation chamber, he overhears a conversation between Sivi and Pozen about a murdered Honorbearer named Tuko.
 
@@ -27,7 +27,7 @@ Pozen discovers Szeth in the meditation chamber and accuses him of embarrassing 
 
 ---
 
-### Chapter 103: WEATHERED
+### Chapter 103: Weathered
 
 Kaladin fries carrots for breakfast while traveling with Szeth toward the penultimate Skybreaker monastery. He plays his flute to calm his nerves, drawing the attention of the ancient spren known as the Wind. The Wind shows Kaladin and Syl a vision of a weathered stone statue that was once a beautiful woman. This statue serves as a metaphor for Nale, a Herald who has been worn down by thousands of years. The Wind urges Kaladin to help Nale remember his original purpose as a hero and protector of humanity.
 
@@ -37,7 +37,7 @@ On the Shattered Plains, Sigzil coordinates the defense of Narak against a relen
 
 ---
 
-### Chapter 104: ENEMY
+### Chapter 104: Enemy
 
 Eight thousand years ago, the god Tanavast watches as his rival Rayse enters the star system. Rayse has already killed the Shard known as Ambition and has begun building a violent empire on the planet Alaswha. Tanavast and his companion Kor have been creating the first singers and spren varieties on the world of Roshar. Kor encourages Tanavast to ignore Rayse, but Tanavast is drawn to investigate the chaos on the neighboring planet. He discovers that Rayse has granted humans the power of microkinesis, which allows them to shear axons and destroy matter.
 
@@ -47,7 +47,7 @@ Tanavast notices a group of dark-skinned people who choose to defy the empire an
 
 ---
 
-### Chapter 105: POINTS OF TRANSITION
+### Chapter 105: Points of Transition
 
 Navani navigates the vibrating hallways of the Kholinar palace during the final siege by singers and corrupted humans. She hears the voice of the Sibling, who explains that she is lost among infinite discordant future possibilities. The Sibling warns her that she must find a point of transition to escape the Spiritual Realm before the contest deadline. Navani encounters a simulacrum of Elhokar leading his soldiers and decides to follow him to reach her grandson Gavinor. She guides the group to Aesudan’s chambers where the queen is singing under the influence of the Unmade.
 

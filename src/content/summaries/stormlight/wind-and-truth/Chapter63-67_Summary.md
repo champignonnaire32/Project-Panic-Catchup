@@ -7,7 +7,7 @@ range: "63-67"
 startChapter: 63
 ---
 
-### Chapter 63: ONE WAY FORWARD
+### Chapter 63: One Way Forward
 
 Renarin uses Glys's guidance to navigate the vision of the Heralds' gathering. He successfully identifies himself as Vedel to Jezrien and Nale by reciting the correct historical script. Gavinor interrupts the vision by asking Navani a question that deviates from the expected events. Renarin realizes that he can identify intruders like the Ghostbloods by their inability to follow the established script. Glys warns Renarin that the assassins might also have learned the script, complicating his plan to find them.
 
@@ -17,7 +17,7 @@ Back in the vision, Dalinar watches as Vedel expresses guilt over the destructio
 
 ---
 
-### Chapter 64: TO HOLD BACK THE DARKNESS
+### Chapter 64: To Hold Back the Darkness
 
 Tanavast, the personification of Honor, addresses the Heralds and warns them that Rayse intends to annihilate them. Nale expresses doubt due to the destructive potential of the powers previously granted by Honor. Tanavast promises to prevent another cataclysm and explains Ishar’s plan to bind the Fused away on Braize. Ishar proposes a pact where the Heralds swear oaths to Honor to channel his power and govern their Surges. The ritual requires ten volunteers, though Shalash notes they are currently only nine.
 
@@ -27,7 +27,7 @@ Kaladin and Szeth hike through Shinovar during a highstorm that recharges their 
 
 ---
 
-### Chapter 65: NOT FOR HONOR
+### Chapter 65: Not for Honor
 
 Mraize, disguised as Tanavast, attacks Renarin and Radiant with a knife in the vision tent. Radiant engages Mraize in a knife fight while Rlain attempts to assist her with a spear. Mraize kills Rlain with a blowgun dart and a knife to the throat, causing the impersonated Heralds to freeze. Radiant stabs Mraize in the chest with an anti-Stormlight knife, but he survives because he does not immediately heal. Shallan realizes that Odium has kept Sja-anat's daughter, Mishram, imprisoned because he fears her.
 
@@ -37,7 +37,7 @@ In a separate part of the vision, Dalinar finds Taln working as a horse keeper a
 
 ---
 
-### Chapter 66: REINFORCEMENTS
+### Chapter 66: Reinforcements
 
 Szeth, Kaladin, and Syl arrive at a monastery in a small Shin city located on an island. They find a woman sweeping a house who explains that the townspeople were recently released from a mental fog. The woman reveals that the inhabitants were sent to the first monastery to gather as an army against Szeth. Szeth explores the empty monastery and leads Kaladin to the acolyte rooms where he once lived. He retrieves a hidden toy lamb from his old bunk and weeps while holding it to his forehead.
 
@@ -47,7 +47,7 @@ Szeth admits that he wants to stop killing and cause no more pain to others. Kal
 
 ---
 
-### Chapter 67: FIELD COMMISSION
+### Chapter 67: Field Commission
 
 Notum appears in Adolin's command tent and explains that he has transitioned to the Physical Realm to help the war effort. He claims a feminine voice called him to arms, allowing him to bypass the usual years of disorientation for spren. Adolin grants Notum a field commission as a captain in the Cobalt Guard to lead his messenger corps. May expresses skepticism about Notum’s quick recovery and his refusal to form a Radiant bond. Adolin prepares for a dinner appointment with Emperor Yanagawn while worrying about Shallan’s safety on her mission.
 

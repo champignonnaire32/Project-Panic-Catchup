@@ -7,7 +7,7 @@ range: "14-16"
 startChapter: 14
 ---
 
-### Interlude 1: KALAK
+### Interlude 1: Kalak
 
 Kalak locks himself in a secure building in Lasting Integrity and repeatedly checks the locks in a state of panic. He reflects on his survival and feels a crushing darkness that only the Herald Ishar could previously hold back. While rushing into his study to prepare for another escape, magical drapes seize him and bind him against the wall. A foreigner named Felt, accompanied by the seon spren Ala, waits in the study to interrogate the bound Herald. Ala reveals that she was spying on Shallan and Adolin and has already sent Ba-Ado-Mishram’s location to Iyatil and Kelsier.
 
@@ -17,7 +17,7 @@ Kalak whimpers as the cloth gag in his mouth prevents him from speaking while he
 
 ---
 
-### Interlude 2: THE DIVIDED GOD
+### Interlude 2: The Divided God
 
 Taravangian, now the Vessel for the Shard Odium, holds a dying child named Tu Bayla in a famine-stricken land. He experiences infinite capacity for agony and weeps for the children dying due to war and collapsed trade. Cultivation appears in vibrant green and brown clothing and explains that he is forbidden from taking direct action against mortals. Taravangian argues that he should strike down warlords and change the systems to prevent future suffering and famines. Cultivation warns that removing the capacity for violence would also remove the capacity for mercy and stifle all human progress.
 
@@ -27,7 +27,7 @@ Taravangian reacts with a tempest of rage and claims that he is the substance of
 
 ---
 
-### Chapter 14: NOT ASLEEP
+### Chapter 14: Not Asleep
 
 Dalinar stands on his balcony in Urithiru and feels alone as he contemplates his upcoming contest against Odium in eight days. A Windrunner squire arrives frantically at his door to report that the predicted "storm" of conflict has finally arrived. Jasnah Kholin lies in a plush bed with Wit and reflects on her dissatisfaction with their physical and emotional distance. Wit suddenly leaps from the bed in a panic after realizing he is missing three minutes and twenty-seven seconds of memory. He explains that he stores his vast memories in Investiture called Breath and discovered that Odium excised their recent conversation.
 
@@ -37,7 +37,7 @@ The Skybreakers sank half of the Thaylen fleet and are now launching an assault 
 
 ---
 
-### Chapter 15: PASSIONSPREN
+### Chapter 15: Passionspren
 
 Adolin and Shallan share a warm shower in Urithiru and find comfort in their physical and emotional intimacy. Shallan explains that she must hunt for Mraize and the Ghostbloods before they can move against her and her family. Adolin agrees to represent Shallan at the monarchs' meeting while she leads her "Unseen Court" on a preemptive strike. Dalinar learns from Sigzil that a third offensive is underway as a thousand Fused march toward the Shattered Plains. He orders every soldier in Urithiru to wake and posts quadruple guards at all potential incursion points into the tower.
 
@@ -47,7 +47,7 @@ Dalinar realizes that Cultivation hides from Odium, which prevents the Stormfath
 
 ---
 
-### Chapter 16: VAGUE PROMISES AND HINTS
+### Chapter 16: Vague Promises and Hints
 
 Shallan finishes her shower and vows to find a way to help her original deadeye spren, Testament. She meets with the "Unseen Court" to examine sketches of twelve Ghostblood members, including new offworlder reinforcements. Shallan reveals that she has reached her next Ideal and can now manifest living Shardplate around herself. She attempts to command her Plate to protect Red, but the armor leaves him motionless because it lacks power. Darcira explains that Shardplate requires power to move and notes that Kaladin uses windspren to protect others.
 

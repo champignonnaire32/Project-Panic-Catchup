@@ -7,7 +7,7 @@ range: "Prologue-4"
 startChapter: 4
 ---
 
-### Chapter Prologue: TO LIVE
+### Chapter Prologue: To Live
 
 Gavilar Kholin enters a vision with the Stormfather, an ancient spren, to examine the nine Honorblades, ancient swords that grant the powers of the Heralds. He believes he can achieve immortality and join the Oathpact by finding the correct Words within the book *The Way of Kings*. Gavilar dismisses the failure of the past Heralds and expects to replace Talenelat as a new guardian of Roshar. He reveals he has learned to read in secret to search for divine secrets without the knowledge of his wife, Navani. The Stormfather remains skeptical of Gavilar's worthiness and warns him about the mental toll of eternal life.
 
@@ -17,7 +17,7 @@ Gavilar meets Taravangian, the king of Kharbranth, and discusses prophetic warni
 
 ---
 
-### Chapter 1: UNFAMILIAR GROUND
+### Chapter 1: Unfamiliar Ground
 
 Kaladin Stormblessed stands in his room at Urithiru, an ancient tower city, two days after its liberation from the Fused. Although he has officially stepped down as the leader of the Windrunners, he chooses to wear his military uniform as a source of comfort. Syl, his honorspren, appears at full human size wearing a blue and violet havah as they discuss the upcoming contest of champions. They acknowledge that in nine days, Dalinar and Odium’s chosen warriors will decide the fate of the world. Kaladin experiences a sense of peace despite the grief of losing his friend Teft during the occupation.
 
@@ -27,7 +27,7 @@ In the Cognitive Realm, Shallan Davar stands atop the fortress of Lasting Integr
 
 ---
 
-### Chapter 2: TAKING THE NEXT STEP
+### Chapter 2: Taking the Next Step
 
 Kaladin joins his family in their quarters at Urithiru and finds his younger brother, Oroden, playing with wooden blocks. He uses his Radiant powers to make the blocks hover for the toddler's amusement while Syl participates in the game. Kaladin reflects on the strangeness of finding domestic peace while the world prepares for a catastrophic contest for survival. He realizes that even in his retirement, his subconscious echoes the voice of his late sergeant, Teft, guiding his actions. The tower city itself feels different now that it is fully infused with Towerlight, a combination of divine energies that makes the environment warm and responsive.
 
@@ -37,7 +37,7 @@ Lirin joins the family and discusses the medical challenges facing Dalinar’s a
 
 ---
 
-### Chapter 3: THE COST OF HEROISM
+### Chapter 3: The Cost of Heroism
 
 Shallan and Pattern meet with Adolin, Maya, and the Herald Kelek on the walls of Lasting Integrity to discuss their next steps. They use a seon, a floating ball of light from another world, to communicate with Wit, who is currently at Urithiru. Wit informs them that the contest of champions is officially set to take place in nine days atop the tower. He also warns Shallan that she is now a primary target for the Ghostbloods after openly defying their leader, Mraize. Shallan admits she is terrified of her own capacity for violence but resolves to fight for her family’s safety.
 
@@ -47,7 +47,7 @@ Kelek reveals a major secret regarding Ba-Ado-Mishram, one of the Unmade who are
 
 ---
 
-### Chapter 4: LISTENING
+### Chapter 4: Listening
 
 Kaladin flies to the upper levels of Urithiru to meet with Dalinar but finds Wit waiting outside the conference room. Wit is lounging on a couch and reading a book while a strange globe of light hovers nearby to assist him. He produces a red lacquered flute and offers to teach Kaladin how to play it during the wait. Kaladin agrees, recognizing that music might offer a different kind of strength than the spear he has abandoned. He spends an hour learning basic fingerings and how to read the rhythmic symbols Wit provides on scraps of paper.
 

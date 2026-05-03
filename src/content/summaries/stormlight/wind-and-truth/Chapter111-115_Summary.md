@@ -7,7 +7,7 @@ range: "111-115"
 startChapter: 111
 ---
 
-### Chapter 111: THE FLAG OF REBELLION
+### Chapter 111: The Flag of Rebellion
 
 Szeth stands before his old home and attempts to convince General Lumo that the Honorbearers are controlled by an Unmade. Honorbearer Pozen arrives via an Elsegate to denounce Szeth as a heretic. An army from seven other monasteries arrives through a portal to attack Szeth's small force. Szeth raises the flag of rebellion but refuses to kill any enemies with his Blade during the battle. He leads his men from the air, using Stormlight to hover and shout orders while his army retreats up the cliffs.
 
@@ -17,7 +17,7 @@ Neturo is Szeth’s father and reveals he is the new leader of the people and a 
 
 ---
 
-### Chapter 112: THE SONG OF RENUNCIATION
+### Chapter 112: The Song of Renunciation
 
 Taravangian tells Jasnah that she has been serving him her entire life through her pursuit of the greatest good. He argues that his unified empire will bring lasting peace and end the misery of the singers. Jasnah claims that Dalinar’s covenant will enforce peace, but Taravangian points out that humans often break treaties. Queen Fen notes that losing the right to conflict would strip her people of a fundamental right. Taravangian responds by threatening to crush Thaylen City tonight if Fen does not join him.
 
@@ -27,7 +27,7 @@ Heavenly Ones launch an attack against the human air forces as red lightning rum
 
 ---
 
-### Chapter 113: ACCOMODATION
+### Chapter 113: Accomodation
 
 Tanavast creates a spren avatar of himself to experience simple joy while riding the storms. Kor, a dragon with deep brown skin and silver lining, returns to Roshar in her human shape. She informs Tanavast that Rayse has killed the Shards Devotion and Dominion after turning them against each other. Tanavast declares they must move against Rayse immediately to prevent further strikes. Together they sweep out of their nest, building a storm behind them as they fly.
 
@@ -37,7 +37,7 @@ Kor proposes equations that restrict divine power to individuals who must follow
 
 ---
 
-### Chapter 114: THE GREATEST GOOD
+### Chapter 114: The Greatest Good
 
 Taravangian claims he has already put plans in motion to destroy Thaylen City if Fen refuses to negotiate. He produces contracts showing that every major port on Roshar except Thaylen City has joined his empire. He offers the Thaylens a contractual say in the management of his empire alongside the singers. Jasnah argues that Taravangian is a tyrant and a murderer who killed thousands in Jah Keved. Taravangian counters that his actions serve the ultimate peace of the entire cosmere.
 
@@ -47,7 +47,7 @@ Wit explains that the illusion was meant to keep the tower calm while Navani was
 
 ---
 
-### Chapter 115: BINDING
+### Chapter 115: Binding
 
 Tanavast and Kor use their divine powers to sculpt stone structures and sweeping vistas across Roshar. Tanavast fears that Rayse will turn the planet’s inhabitants into a personal army to conquer the cosmere. He argues that he must act directly against Odium through his followers to stop this destruction. Kor disagrees and warns that acting directly will allow Rayse to go even further. Tanavast realizes that the covenant has holes that could be exploited if one of the gods dies.
 

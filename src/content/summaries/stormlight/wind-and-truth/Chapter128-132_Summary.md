@@ -7,7 +7,7 @@ range: "128-132"
 startChapter: 128
 ---
 
-### Chapter 128: THE PRICE OF SURVIVAL
+### Chapter 128: The Price of Survival
 
 Szeth, Kaladin, and Nin travel in a wagon while Nin explains Ishar’s history of violence. Nin reveals that Ishar took Odium’s power to create physical spren and Human Fused called Honorbearers. These Honorbearers require a new human body for every rebirth, which Ishar claims is a necessary price for survival. Kaladin argues that the cost of such an army is too high because it destroys the integrity of those it protects. Szeth decides that he must stop Ishar to save his family and his people from this system.
 
@@ -18,7 +18,7 @@ Adolin receives a tincture of firemoss, an addictive white powder used to numb e
 
 ---
 
-### Chapter 129: OATHS AND LIGHT
+### Chapter 129: Oaths and Light
 
 Nin explains that Ishar Connected himself to Shinovar centuries ago and began believing he was the Almighty. Kaladin and Szeth discuss using the Fourth Ideal to restore Ishar’s sanity, but Szeth must first finish his quest. Syl describes the Wind as an ancient power that existed on Roshar before the arrival of the Shards. The group reaches a rock formation where Ishar waits with an Honorblade and blue robes. Szeth leaves the sentient black sword Nightblood in the wagon to ensure he does not kill unnecessarily today.
 
@@ -29,7 +29,7 @@ Abidi reveals he is wearing Adolin’s Plate and wielding the Blade of Memories,
 
 ---
 
-### Chapter 130: THE PLEASURE OF BLEEDING
+### Chapter 130: The Pleasure of Bleeding
 
 Ishar greets Szeth and claims he was the "Voice" in Szeth’s head for centuries. He explains that he rejected the spren of Shinovar because they had rejected him first. Six Honorbearers, including Szeth’s father Neturo and his sister, emerge and take Honorblades from the wagon. Ishar orders the Honorbearers to defeat Szeth in combat to teach him a final lesson in humility. Szeth refuses to summon his Blade and decides to take the beating to prove his resolve.
 
@@ -40,7 +40,7 @@ Adolin dodges Abidi’s attacks in the throne room by using furniture and pillar
 
 ---
 
-### Chapter 131: THE WORTH OF A LIFE
+### Chapter 131: The Worth of a Life
 
 Shallan confronts Mraize in a grey expanse of the Spiritual Realm while her spren guard Mishram’s prison. Mraize demands the heliodor gemstone and reveals that Iyatil is watching Dalinar instead of helping him here. Shallan realizes that Formless, her own persona, is standing nearby and acting as a distraction. She spins and strikes Formless with an anti-Stormlight dagger to remove the threat from her mind. Mraize remains confident as the conflict over the Unmade’s prison escalates into a physical confrontation.
 
@@ -51,7 +51,7 @@ Renarin and Rlain examine Melishi’s corpse and find child’s blocks in the nu
 
 ---
 
-### Chapter 132: FEAR WHAT IS COMING
+### Chapter 132: Fear What Is Coming
 
 Adolin fights Abidi using a two-weapon style with his side sword and the aluminum candelabra. He incorporates his peg leg into his footwork, realizing he can adapt to his disability in combat. Abidi grows frustrated as Adolin diverts his powerful strikes instead of attempting to catch them. Adolin explains that the invasion unified Roshar and made the fight personal for all its people. He continues to parry Shardblade strikes with the aluminum tool, refusing to surrender the throne room.
 

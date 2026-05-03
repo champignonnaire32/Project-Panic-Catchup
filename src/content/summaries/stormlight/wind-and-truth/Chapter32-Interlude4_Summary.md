@@ -7,7 +7,7 @@ range: "32-Interlude4"
 startChapter: 32
 ---
 
-### Chapter 32: CORDS OF LIGHT
+### Chapter 32: Cords of Light
 
 Dalinar opens a perpendicularity, a pillar of light connecting three realms, while Wit and Navani assist him. Inside the tower, Shallan realizes Mraize has spotted them and the Ghostbloods attack, leading to immediate chaos. Mraize wields a dagger that warps the air with anti-light, while Iyatil and Lieke target the Windrunner guards. Iyatil slashes Isasik's neck, but Renarin begins healing him as the perpendicularity floods the room with power. Radiant, manifesting in physical Shardplate, pins Iyatil to the ground while Shallan dodges attacks.
 
@@ -18,7 +18,7 @@ The Windrunners immediately depart to save the hostages, leaving Shallan alone w
 
 ---
 
-### Chapter 33: THE CONFLUX OF ALL DARKNESS AND SORROW
+### Chapter 33: The Conflux of All Darkness and Sorrow
 
 Lift watches the perpendicularity collapse, witnessing a vision of her mother before Gavinor is sucked into the Spiritual Realm. Wit rescues Lift from the rift but confirms that Dalinar, Navani, and the prince have vanished completely. In Shadesmar, Lopen and Huio investigate the blast site at the tower, finding the crystalline walls cracked and smoking. They discover a broken Malwish corpse—a race of humans from a southern continent—but find no signs of Shallan. Lopen decides to trust that the leaders have the situation handled and proceeds with flying refugees to Herdaz.
 
@@ -29,7 +29,7 @@ Ishar suddenly appears on the hillside, radiating a divine presence that makes K
 
 ---
 
-### Interlude 3: EL
+### Interlude 3: El
 
 El, a Fused with metal plates replacing his carapace, enters the Kholinar palace vault to retrieve a specific artifact. He commands four Regal singer guards to open the vault, and they obey despite his lack of official status. The Regal leader, an envoyform named Heshual, accompanies El as he strolls through the aluminum-lined chamber. El finds Jezrien’s prison, a gemstone attached to a dagger that holds the soul of the dead Herald. He uses a gemstone containing anti-Stormlight to permanently destroy Jezrien’s soul, ending his existence forever.
 
@@ -40,7 +40,7 @@ El suggests using Dai-Gonarthis, an Unmade known as the Black Fisher, to create 
 
 ---
 
-### Interlude 4: THE WRONG LESSON
+### Interlude 4: The Wrong Lesson
 
 Taravangian walks unseen through Kholinar, observing the delicate balance between humans and singers. He feels the conflicting influence of his mind’s cold logic and his heart’s emotional compassion. Cultivation appears and grants him a vision of the cosmere, showing stars and other worlds with Shards. Taravangian observes that other gods are afraid of him and content to leave him trapped on Roshar. He notices that two Shards are missing from the others, specifically questioning the location of Valor.
 

@@ -7,7 +7,7 @@ range: "5-9"
 startChapter: 5
 ---
 
-### Chapter 5: WHAT MIGHT STILL BE
+### Chapter 5: What Might Still Be
 
 Shallan sits in the open-air forum of Lasting Integrity and sketches a surreal depiction of vertical falling. She notices that each of her drawings contains the hidden face of a singer with crownlike carapace. Adolin and the Edgedancer Godeke wait for honorspren volunteers but only twelve individuals respond to the call. Notum explains that many honorspren support Adolin’s cause but are still hesitant to form a Nahel bond. The twelve volunteers begin to fade from Shadesmar to reappear as bonded spren for squires at Urithiru.
 
@@ -17,7 +17,7 @@ Adolin insists on bringing his Ryshadium horse Gallant and all of his swords on 
 
 ---
 
-### Chapter 6: NOBILITY
+### Chapter 6: Nobility
 
 Dalinar watches the frosted peaks of the Ur mountain range from a window in Urithiru. Szeth meditates in the corner dressed in white with his black-hilted Shardblade resting in his lap. Kaladin agrees to serve as a "surgeon for the mind" rather than a traditional soldier. Dalinar reveals that he is sending Szeth to accompany Kaladin on his mission to Shinovar. Szeth explains that he must cleanse an evil in his homeland to achieve the Fourth Ideal of the Skybreakers.
 
@@ -27,7 +27,7 @@ Dalinar instructs Kaladin to help the Herald Ishar and Szeth because he has no o
 
 ---
 
-### Chapter 7: LOST BLADES
+### Chapter 7: Lost Blades
 
 Windrunners use Stormlight to Lash Adolin and his Ryshadium horse Gallant into the air for travel. Adolin brings several boxes of swords and his heavy two-handed greatsword attached to the saddle. Maya smiles and shows progress in her recovery while watching the deadeye spren on the shore. Several deadeyes walk into the bead ocean to return to the location of their Physical Realm blades. Shallan says goodbye to Kelek, who remains in Lasting Integrity to hide from Mraize's assassins.
 
@@ -37,7 +37,7 @@ Drehy explains that Navani and the Sibling have discovered "compass" fabrials th
 
 ---
 
-### Chapter 8: A COMING STORM
+### Chapter 8: A Coming Storm
 
 Kaladin finds Szeth staring at a wall in an antechamber while wearing his unsheathed Shardblade. Nightblood, Szeth's sentient sword, asks if there will be snacks on their upcoming trip to Shinovar. Kaladin plans to fly with the highstorm after it passes Azimir to reach their destination quickly. Leyten prepares a rucksack for Kaladin containing rations, medical supplies, and Hoid’s dark-wood flute. Kaladin discovers a small toy horse and a dull brown rock among his personal belongings in the pack.
 
@@ -47,7 +47,7 @@ In Shadesmar, Heavenly Ones ambush the Windrunners and run a lance through one o
 
 ---
 
-### Chapter 9: TOSSING SPEARS
+### Chapter 9: Tossing Spears
 
 Kaladin decides to attend Rlain's celebration for receiving a spren before he departs for Shinovar. Skar encourages Kaladin to say goodbye to his friends and reminds him that he has survived impossible odds. Syl changes her appearance to a Bridge Four uniform and leads Kaladin to fetch her own "things." Shallan struggles against the undertow of the bead ocean as they clatter and surge against her. Radiant surfaces and uses the mental impression of a building to lock the beads into a stable platform.
 

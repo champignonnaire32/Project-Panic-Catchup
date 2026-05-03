@@ -7,7 +7,7 @@ range: "22-26"
 startChapter: 22
 ---
 
-### Chapter 22: LOOKING FOR A THIRD OPTION
+### Chapter 22: Looking for a Third Option
 
 Kaladin and Szeth descend the mountain pass and enter the lush, forested region of Shinovar. Kaladin observes that the local plants are docile and do not retract or hide when touched as plants elsewhere on Roshar do. Syl zips through the white-barked trees, delighted by the novelty of the unresponsive flora. Szeth explains that the Shin do not believe plants have volition or feelings. The black sword on Szeth's back speaks, jokingly threatening to kill Szeth for the perceived insult to inanimate objects.
 
@@ -17,7 +17,7 @@ In Urithiru, the Stormfather rages against Dalinar's contemplation of taking up 
 
 ---
 
-### Chapter 23: COMPROMISE
+### Chapter 23: Compromise
 
 Radiant, Red, and Gaz position themselves near the Ghostblood hideout during a heavy rainstorm in the military camp. They set up a pavilion as a cover while pretending to be workers ordered to level the intersection. A Ghostblood named Shade orders them to move, but they use Gaz’s feigned anger as a foreman to create a distraction. Radiant uses her living Shardplate to freeze a masked guard in place by forming the armor around the woman. They stash the immobilized guard in a tool cart and wheel her into their pavilion for questioning.
 
@@ -27,7 +27,7 @@ Navani manages a multitude of administrative crises in the awakened tower, inclu
 
 ---
 
-### Chapter 24: IN THE DANCING RING
+### Chapter 24: In the Dancing Ring
 
 Twenty-six years ago in Shinovar, a young Szeth dances in methodic circles around a large family boulder. His sister Elid plays the flute to provide a rhythmic accompaniment for his intense physical practice. Szeth loves the feel of the soil beneath his bare feet and the clean rainwater from the homestead trough. He considers their station as "people who add," a social class allowed to tend sheep and develop talents rather than fight. Their father Neturo works on the roof of their wooden home while the rest of the flock grazes in the distance.
 
@@ -37,7 +37,7 @@ Szeth notices that Molli the ewe is licking a specific patch of dirt near their 
 
 ---
 
-### Chapter 25: PURPOSEFUL DANGER
+### Chapter 25: Purposeful Danger
 
 Shallan descends into the Ghostblood basement and observes Mraize's collection of exotic trophies from other worlds. She spots a reflection of the Unmade Sja-anat in a glass case, though the entity quickly vanishes. Mraize practices with a heavy hand ballista, a crossbow-like device designed to deliver payloads rather than simple bolts. A seon, a floating orb containing a consciousness from another world, reveals that the Herald Restares has been found. Felt is revealed to be a Ghostblood spy who has been monitoring Dalinar and reporting his movements to Mraize.
 
@@ -47,7 +47,7 @@ Dalinar and Navani discuss the profound risks and potential consequences of Dali
 
 ---
 
-### Chapter 26: HUNTING THE HUNTER
+### Chapter 26: Hunting the Hunter
 
 Iyatil addresses Shallan in an unknown language, forcing Shallan to bluff by whispering the name of Sja-anat. Sja-anat appears as a reflection in a doorknob and confirms she knows Shallan is an impostor but does not immediately reveal her. The Unmade claims she fights for the survival of her "children" against the neglect of the Shards. Iyatil leads Shallan and Mraize to a mirror where Sja-anat warns them that the Sibling is aware of their presence. Mraize confirms that he and Iyatil have bonded Sja-anat's enlightened spren, which are corruptions of standard spren, to gain their own powers.
 

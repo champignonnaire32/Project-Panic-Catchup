@@ -7,7 +7,7 @@ range: "75-Interlude11"
 startChapter: 75
 ---
 
-### Chapter 75: FAMILY
+### Chapter 75: Family
 
 Szeth prepares for his pilgrimage to become an Honorbearer—a traditional warrior role trained in the skills of the Heralds—in a monastery rock garden. He prays to a large stone with a crystal vein, believing it houses a guiding spren. An internal Voice speaks to Szeth, claiming it orchestrated his life and warning him that the next phase of his journey will be difficult. His sister Elid—a lean woman who trains with the shamans—interrupts his meditation to tell him their father Neturo plans to follow him. Elid carries a small side sword—a weapon indicating her commitment to Truth—and criticizes Szeth for allowing their father to abandon his position as mayor.
 
@@ -17,7 +17,7 @@ Neturo refuses to stay, stating that he belongs wherever his family is and that 
 
 ---
 
-### Chapter 76: CONCESSIONS
+### Chapter 76: Concessions
 
 Shallan enters a historical vision inhabiting the body of a mortally wounded singer soldier on a battlefield. Pattern communicates directly with her mind, noting that their strengthening bond allows this connection even while Shallan is submerged in the vision. Ba-Ado-Mishram—a powerful Unmade appearing as a black mass of smoke with stretching hands—approaches the fallen soldiers. The Unmade transforms into a singer female with long black hair and begins healing the wounded, including Shallan’s host body. Mishram tells Shallan that they must love themselves because Odium—the god of hatred—does not care for his followers.
 
@@ -27,7 +27,7 @@ In the physical realm, Adolin trains the young Makabaki emperor Yanagawn in mili
 
 ---
 
-### Chapter 77: AHARIETIAM
+### Chapter 77: Aharietiam
 
 Dalinar navigates the Spiritual Realm alone until he uses the Honorblade anchor—a powerful weapon of the Heralds—to arrive at the aftermath of the final Desolation. He inhabits the body of the Herald Chana and joins Jezrien, who is visibly haggard and trembling from centuries of torture. Jezrien explains that the Oathpact functions as a lock on the prison planet Braize, powered by the Heralds' willpower and Honor’s binding. They meet Ishar and the Almighty—the god Honor—who appears as a man with golden clothing and white hair. Honor informs the Heralds that he will no longer provide aid and encourages the idea that a single person could hold the Oathpact.
 
@@ -37,7 +37,7 @@ The Stormfather bids Dalinar farewell and attempts to leave him to die as the vi
 
 ---
 
-### Interlude 11: DYEL
+### Interlude 11: Dyel
 
 Dyel, a golden-haired Iriali girl, serves tea to three strange worldhoppers—Baon, Galladon, and Demoux—in her mother’s shop. The men ask if she has seen moving lights, which terrifies Dyel because her grandfather Ym was murdered by a man seeking such spren. Her mother intervenes by summoning a Shardblade—a magical silver sword—which she has kept hidden for months. The strangers clarify that they are looking for the Herald Nale and are not the ones responsible for the local murders. Uma—a spren appearing as a collection of prismatic lights—manifests and confirms the men’s identities are not those of the killer.
 

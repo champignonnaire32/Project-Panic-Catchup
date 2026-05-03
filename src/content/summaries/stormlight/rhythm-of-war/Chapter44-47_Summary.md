@@ -7,7 +7,7 @@ range: "44-47"
 startChapter: 44
 ---
 
-### Interlude 4: VYRE
+### Interlude 4: Vyre
 
 Vyre, formerly known as Moash, works in a quarry near Kholinar where he practices throwing his Honorblade and realizes it is inferior to Radiant Shards. He claims to be unchained and freed from all guilt and negative emotions because he has given them to Odium. Khen, a singer in warform who has worked with him, announces she is leaving the quarry because she no longer wishes to participate in raids and wants to live for herself. Vyre hauls marble into Kholinar for the construction of specialized housing for the Deepest Ones, a brand of Fused that prefers touching natural stone. While hauling, Vyre is pulled into a vision by Odium, who appears as a majestic Fused on a field of golden light.
 
@@ -17,7 +17,7 @@ Vyre suggests isolating Kaladin, removing his friends, and breaking his spirit t
 
 ---
 
-### Interlude 5: ODIUM
+### Interlude 5: Odium
 
 Lift dangles from a ceiling rope in Urithiru to steal a food basket but realizes the thrill is gone because people have become fond of her. She retreats into the ventilation tunnels with her spren, Wyndle, who appears as a vine with a crystal face. They inspect the "stolen" goods, which include flatbread, curry, mashed beans, and jam left out specifically for her by a Horneater boy. Lift grumbles about the gift, preferring to be seen as a mysterious and feared shadow rather than a liked member of the community. She reaches her "nest," a junction of ventilation shafts where she keeps treasures like blankets and one of Dalinar's knives.
 
@@ -27,7 +27,7 @@ Lift discovers her "awesomeness" ability is gone when she tries to use Stormligh
 
 ---
 
-### Interlude 6: LIFT
+### Interlude 6: Lift
 
 Taravangian sits in a stormwagon during the end of an Everstorm, feeling the weight of his dwindling intelligence and his mandatory compassion. He prepares to give the order for his Veden forces to betray the coalition, knowing Odium is likely attacking Urithiru simultaneously. He reviews hidden pages from the Diagram, noting that Renarin Kholin is invisible to the deity's foresight. Taravangian weeps for the people he has failed, realizing his deal with Odium only saves Kharbranth while condemning the rest of the world. Odium pulls him into a vision, appearing as a twenty-foot-tall human with golden features and ornate robes.
 

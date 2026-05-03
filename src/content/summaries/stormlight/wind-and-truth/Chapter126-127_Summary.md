@@ -7,7 +7,7 @@ range: "126-127"
 startChapter: 126
 ---
 
-### Interlude 17: DIENO
+### Interlude 17: Dieno
 
 Dieno the Mink lies on a headsman’s block in a Herdazian courtyard awaiting execution by beheading. A Herdazian judiciary in singer robes reads his crimes while warform singers stand guard over the prisoner. Dieno mocks the execution method and suggests more creative alternatives like being launched by a catapult or thrown from a tower. He successfully baits the judiciary and singer minders into considering a more dramatic death involving a mallet. The headsman and assistants are distracted by the discussion of a more legendary finale for the Herdazian general.
 
@@ -17,7 +17,7 @@ Dieno escapes from beneath the platform and climbs a set of stairs leading to th
 
 ---
 
-### Interlude 18: CONFLUX
+### Interlude 18: Conflux
 
 Taravangian, now the Shard Odium, considers whether he possesses the power to destroy the remnant of Honor. He decides against an outright attack because clashing with Honor would violate his oaths and leave him vulnerable to Cultivation. Odium realizes that power cannot be truly destroyed and weighs the option of Splintering Honor to prevent it from resisting him. He spends time placating his own raging power by feeding it other emotions while observing the rats in the walls of his consciousness. Dalinar Kholin is finally ejected from the visions and returns safely to the Physical Realm.
 
@@ -27,7 +27,7 @@ Odium envisions a future defined by peace, a lack of pain, and a universe united
 
 ---
 
-### Chapter 126: THAT WHICH HE MUST NOT KNOW
+### Chapter 126: That Which He Must Not Know
 
 Dalinar views the final glimpses of the Stormfather's two-thousand-year history following the betrayal of Ba-Ado-Mishram. The Stormfather reveals that he rejected previous candidates for champion, including Gavilar Kholin, because they were too haughty and power-hungry. Dalinar realizes that Gavilar brought about his own death and was not the man his brother imagined him to be. The Bondsmith admits that his current contract with Odium merely kicks the problem of war to the next generation. Dalinar offers forgiveness to the Stormfather and the piece of Tanavast within him before preparing to leave the visions.
 
@@ -37,7 +37,7 @@ Szeth and Kaladin load Nin-son-God into a horse-drawn wagon to begin their journ
 
 ---
 
-### Chapter 127: THEIR HOMES BECOME OUR DENS
+### Chapter 127: Their Homes Become Our Dens
 
 Adolin speaks with the honorspren Maya, who uses her strengthening voice to tell him that he has always had a purpose. The Windrunners Skar and Drehy arrive in the Azish saferoom to report that Sigzil has lost his spren and others have died. Adolin accepts that his father is not perfect and finds a new sense of hope in relying on Dalinar’s example. Emperor Yanagawn refuses to retreat and insists that holding the physical throne room is the only way to retain legitimacy. The small band of survivors decides to sneak into the palace using Yanagawn’s skills as a former thief to retake the city.
 

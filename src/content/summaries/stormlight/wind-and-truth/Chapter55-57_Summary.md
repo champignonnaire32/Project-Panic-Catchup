@@ -7,7 +7,7 @@ range: "55-57"
 startChapter: 55
 ---
 
-### Interlude 7: MOASH
+### Interlude 7: Moash
 
 Moash lies in a plush bed in Kholinar with his eyes burned away. Odium, possessing a new voice, refuses to take Moash's emotional pain and guilt over killing Teft. The new Odium explains that passion and sacrifice are necessary for a hero and that he celebrates emotion rather than feeding on it. Odium shows Moash a vision of an immortal army marching across worlds to bring retribution to the highborn. Moash sees himself leading this army as a man in black Shardplate with red glowing eyes.
 
@@ -17,7 +17,7 @@ Moash looks at Odium and sees him as a blazing source of light resembling a near
 
 ---
 
-### Interlude 8: THE ONLY WAY
+### Interlude 8: The Only Way
 
 Taravangian allows his emotions to rule his mind and experiences a flood of worry, fear, and rage. He travels to Kharbranth and blankets the city to feel the emotions of every citizen simultaneously. He reflects on his past actions of killing patients for Death Rattles to gain insight into the future. Taravangian finds justification in his policies of exiling criminals to maintain peace in his city. He realizes that his previous methods of merely exiling offenders will not be enough to protect his people.
 
@@ -27,7 +27,7 @@ He resolves to punish his enemies to ensure his city and family remain untouched
 
 ---
 
-### Chapter 55: PRAYERS, HEAVENS, AND SONGS
+### Chapter 55: Prayers, Heavens, and Songs
 
 Venli sits in a hand-carved cave and speaks to the stones of the hills, which she calls Ko. The stones show her visions of the past where her kind crossed the land and sang together. Venli worries that her decision to shelter Leshwi and other Fused will bring Odium's destruction to the listeners. Two dozen listeners have bonded lightspren, or Reachers, and taken the oaths of Knights Radiant. Jaxlim, Venli's mother, suggests that Venli speak with the ancient Fused to find a way to survive.
 
@@ -37,7 +37,7 @@ Navani explains to Gavinor that the vision is a story made of light to keep him 
 
 ---
 
-### Chapter 56: BY BONDS AND SPREN
+### Chapter 56: By Bonds and Spren
 
 Sigzil leads five squires to intercept Heavenly Ones carrying boulders intended for the defenders of Narak. Eight Windrunners die in a single day of brutal fighting that lacks the previous honor shown by the Fused. Sigzil uses a Shardspear that transforms into a glaive and a lance to kill a Heavenly One through its gemheart. The remaining enemy forces retreat into the darkness as rain begins to fall over the Shattered Plains. Vienta, Sigzil's spren, notes that the enemy is retreating for real rather than performing a feint.
 
@@ -47,7 +47,7 @@ In the listener settlement, Leshwi's Voidlight runs out, leaving her unable to f
 
 ---
 
-### Chapter 57: WHICH ONE TO FOLLOW
+### Chapter 57: Which One to Follow
 
 Fourteen-year-old Szeth defeats a larger youth named Jormo-son-Falk in the practice yards of the Stoneward monastery. A mysterious Voice in Szeth's head encourages him to hit his opponents harder and stop holding back. Szeth refuses to lose control even when Jormo attacks him after a bout and slams his head against the ground. Sergeant Szrand punishes Szeth with sixteen laps for goading others and acting superior to his peers. Szeth refuses the punishment because he has done nothing wrong, leading to a duel with the sergeant.
 

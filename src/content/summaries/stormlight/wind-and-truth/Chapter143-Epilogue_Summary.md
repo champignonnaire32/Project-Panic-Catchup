@@ -7,7 +7,7 @@ range: "143-Epilogue"
 startChapter: 143
 ---
 
-### Chapter 143: ONE OF THEM WILL DESTROY US
+### Chapter 143: One of Them Will Destroy Us
 
 Szeth kills his sister and a Truthwatcher in the Shinobar land before confronting his father, Neturo. Neturo reveals he followed the Honorbearers because he thought Szeth had found the truth, rather than having answers himself. Szeth realizes his father is just a man and stabs him with Nightblood, releasing Neturo's soul to join the shadows. Nightblood attempts to consume Szeth's soul, but Szeth chooses to live and casts the sword away. The sword spins and screams for destruction until Kaladin speaks to it, convincing Nightblood it can choose not to kill its friends.
 
@@ -17,7 +17,7 @@ Dalinar renounces his oaths and the contract with Odium, causing his divinity to
 
 ---
 
-### Chapter 144: THE TOWER, THE CROWN, AND THE SPEAR
+### Chapter 144: The Tower, the Crown, and the Spear
 
 Nale and Ishar realize the Stormfather is dead and that Honor's power is being consumed by Retribution. Ishar proposes reforging the Oathpact, a magical binding circle of ten Heralds, to prevent Retribution from destroying the spren. The Wind, a collective of windspren, suggests Ishar can create a vision to protect the Heralds' minds from torture on Braize. Kaladin stands and offers to join the circle, even though Nale believes Szeth should be the one to serve. Kaladin dons a blue cloak and prepares to take the place of Jezrien, the fallen King of Heralds.
 
@@ -27,7 +27,7 @@ Ishar touches Kaladin's head to forge the oath using powers of the Surges outsid
 
 ---
 
-### Chapter 145: TO WEEP FOR THE END OF ALL THINGS
+### Chapter 145: To Weep for the End of All Things
 
 Navani feels a sense of love and farewell from Dalinar before the Sibling informs her that he is dead. The Sibling warns that Retribution is coming to destroy the spren and urges Navani to create defenses for Urithiru. Retribution, now holding both Honor and Odium, consumes the highstorm to create a new, dark tempest across Roshar. He attempts to absorb all spren but finds they are protected by the reforged Oathpact and Adonalsium’s strength. Retribution realizes Dalinar has trapped him by drawing the attention of every other god in the cosmere to his location.
 
@@ -37,7 +37,7 @@ Shallan discovers that all Stormlight has been drawn back to the enemy, leaving 
 
 ---
 
-### Chapter 146: NIGHT OF SORROWS
+### Chapter 146: Night of Sorrows
 
 Sigzil loses his spren, Vienta, and is approached by Wit, who reveals that Dalinar has died and the world is ending. Wit gives Sigzil a Dawnshard, an ancient power more powerful than gods, to keep it away from Odium. Sigzil accepts the burden of the Dawnshard, which commands him to exist, and is knocked into Shadesmar as Wit is vaporized. Renarin and Jasnah remain trapped in Urithiru, which is now encased in a protective dome of light and crystal. They realize they are cut off from the rest of the world, with no spanreeds or Stormlight available.
 

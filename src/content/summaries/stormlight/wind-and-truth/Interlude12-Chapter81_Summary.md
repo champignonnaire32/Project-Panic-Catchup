@@ -7,7 +7,7 @@ range: "Interlude12-81"
 startChapter: 12
 ---
 
-### Interlude 12: WHAT MUST BE DONE
+### Interlude 12: What Must Be Done
 
 Odium discovers Cultivation is moving against him in Kharbranth. Cultivation's forces, equipped with advanced gear and strange armor, infiltrate the city in black boats. Taravangian forms an invisible avatar to watch as his city guards are systematically slaughtered. Cultivation appears beside him, threatening his family who have been captured in the palace. She demands an immediate armistice and peace with the human coalition.
 
@@ -17,7 +17,7 @@ Taravangian identifies specific friends and family members like his daughter Sav
 
 ---
 
-### Chapter 78: A TRUE RADIANT
+### Chapter 78: A True Radiant
 
 Sigzil plans a diversion to Narak Three to prevent the enemy from overwhelming Narak Prime. He convinces his generals that the enemy will prioritize the supply depot over the Oathgate. Sigzil argues that capturing the Oathgate would only isolate the humans and increase their desperation. He proposes a feint to make the enemy believe their Stormlight cache is stored at Narak Three. A Lightweaver named Stargyle is tasked with creating an illusion of gemstones to bait the trap.
 
@@ -27,7 +27,7 @@ The group encounters an old bridge wedged in the chasm walls from the human brid
 
 ---
 
-### Chapter 79: THE RHYTHM OF LONGING
+### Chapter 79: The Rhythm of Longing
 
 Shallan experiences a vision of her past as a child hiding from her shouting parents. She sees her mother muttering about not being a soldier and wanting a simple life. Shallan hides under the steps with her brothers Balat, Jushu, and Wikim. She tells them a story about an adventurous axehound to provide joy amidst their fear. Her first Cryptic, Testament, is drawn to the "wonderful lie" of her feigned happiness.
 
@@ -37,7 +37,7 @@ Rlain experiences a vision of a strategy meeting with Eshonai and other listener
 
 ---
 
-### Chapter 80: SEEING THE FUTURE
+### Chapter 80: Seeing the Future
 
 Adolin inspects the city of Azimir from a tower and uses a new fabrial device called binoculars. He describes the binoculars as two joined spyglasses that magnify images and provide depth perception. He observes four Heavenly Ones in the air and orders his scouts to be put on alert. Navani and Dalinar experience a vision of Urithiru during its ancient abandonment by the Radiants. They follow a Windrunner named Garith through a crowd of people wheeling belongings to the Oathgates.
 
@@ -47,7 +47,7 @@ Adolin and Commandant Kushkam survey the battle-scarred Oathgate platform at the
 
 ---
 
-### Chapter 81: THE SCHOLAR WITH A SPEAR
+### Chapter 81: The Scholar with a Spear
 
 Sigzil and thirty Windrunners clash with Skybreakers and Focused Ones, Fused with springlike musculature used for launching boulders, in the Everstorm. He uses a stolen enemy lance to drain Stormlight from a Skybreaker, causing them to fall. Sigzil's feint at Narak Three succeeds as the enemy army pivots toward the illusory gemstone cache. Leyten sends a coded spanreed message confirming that he has located the traitor Moash. Sigzil dives toward the north side of the battlefield where Moash has been spotted.
 

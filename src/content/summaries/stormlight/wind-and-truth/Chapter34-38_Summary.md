@@ -7,7 +7,7 @@ range: "34-38"
 startChapter: 34
 ---
 
-### Chapter 34: FOR THE GOOD OF ALL ROSHAR
+### Chapter 34: For the Good of All Roshar
 
 Adolin Kholin transfers through the Azimir Oathgate and surveys the bronze-domed platform in preparation for an incoming singer invasion. He notes the Azish defenders have positioned archers on high balconies and hung oil sacks as a contingency for burning the interior. Maya communicates telepathically with Adolin, revealing that her strength has increased since the restoration of Urithiru. Adolin identifies a tactical weakness in the defense, fearing the singers will overwhelm a narrow ring of defenders around the central control building. He argues against using the oil early because singer carapace provides natural heat resistance and the fire would destroy the dome's defensive utility.
 
@@ -17,7 +17,7 @@ Adolin experiences flashbacks to the fall of Kholinar where he abandoned his own
 
 ---
 
-### Chapter 35: MEMORIES LIKE WINE
+### Chapter 35: Memories Like Wine
 
 Szeth leads Kaladin Stormblessed through a Shinovan prairie near the ocean to locate his childhood homestead. The landscape features wooden buildings and dirt roads but is notably devoid of the rock-based structures common in Eastern Roshar. Szeth explains that his people are divided into those who add, like farmers, and those who subtract, like soldiers. He admits to Kaladin that he was never actually Truthless, meaning the murders he committed were his own moral responsibility. A highspren—a sentient ink-like entity from the Cognitive Realm—speaks to Szeth and demands he find his own path to cleanse the land.
 
@@ -37,7 +37,7 @@ Elid informs Szeth that three sheep are missing from their flock, including his 
 
 ---
 
-### Chapter 37: PEOPLE WHO BUILD
+### Chapter 37: People Who Build
 
 Emperor Yanagawn greets Adolin with an informal handshake that shocks the gathered Azish soldiers and attendants. Adolin realizes his father, Dalinar, has used Bondsmith abilities to grant him the permanent ability to speak and understand the Azish language. Commandant Kushkam proposes a plan to fill the central Oathgate building with water and Soulcast it into solid bronze to block the entrance. Adolin publicly contradicts this strategy, arguing that the enemy will simply transfer the bronze back to Shadesmar and clear the way. He suggests instead filling the dome with debris and furniture to create barricades for pike blocks and archer support.
 

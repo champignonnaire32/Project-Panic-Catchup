@@ -7,7 +7,7 @@ range: "27-31"
 startChapter: 27
 ---
 
-### Chapter 27: WHAT IS RIGHT
+### Chapter 27: What Is Right
 
 Twenty-six years ago, Szeth and his father Neturo-son-Vallano discover a new stone on their property. Szeth’s mother Zeenid-daughter-Beth arrives with a Soulcast metal shovel to relocate the rock in secret. The family decides to move the stone a few hundred yards to avoid the Stone Shamans seizing their land. Szeth is forced to make the final decision and chooses to move the rock to save their home. His parents dig up the small grey stone and hide it in a tree nook near their house.
 
@@ -18,7 +18,7 @@ Szeth hugs a ewe named Molli as they abandon their house and the family stone. Z
 
 ---
 
-### Chapter 28: OBSTACLE
+### Chapter 28: Obstacle
 
 Shallan activates a spanreed for emergencies and summons her Shardplate to confront the Ghostbloods. She manifests Pattern as a sword and Testament as a shield to face Mraize and Iyatil. Mraize fires a ballista bolt which Shallan deflects with her Testament shield. Iyatil prepares a ballista loaded with an anti-Stormlight bolt to neutralize the Radiant. Shallan dismisses her weapons and attempts to distract the pair with information about the Unmade Ba-Ado-Mishram.
 
@@ -29,7 +29,7 @@ The pair reach a drop-off and observe the aggressive green grass of the Shinovar
 
 ---
 
-### Chapter 29: SECRET HANDSHAKES
+### Chapter 29: Secret Handshakes
 
 Darcira pulls the anti-Light bolt from Shallan’s side in the captured Ghostblood hideout. Shallan heals the wound with Stormlight after the anti-Light evaporates from her skin. The Lightweavers explore the basement and discover a secret exit leading into the chasms. Shallan peeks into Shadesmar and observes Mraize’s team escaping on a boat toward a platform. She realizes the Ghostbloods are heading to Urithiru to continue their pursuit of Ba-Ado-Mishram.
 
@@ -40,7 +40,7 @@ Gavinor vows to learn to fight so he can kill the traitor Vyre and those who hur
 
 ---
 
-### Chapter 30: NOT ALONE
+### Chapter 30: Not Alone
 
 Renarin observes the humid air and rapid crop growth in the tower’s stone fields. Rlain teaches human farmers to use listener-strain crops and Stormlight to feed the tower's occupants. Drehy delivers a report to Renarin and encourages him to pursue his interest in Rlain. Renarin enters a vision of the future alongside Rlain and their spren, Glys and Tumi. They walk through a tunnel of stained glass windows depicting various possible outcomes for the world.
 
@@ -51,7 +51,7 @@ The vision shatters into images of burning cities and broken bodies before the t
 
 ---
 
-### Chapter 31: EXPERIMENT
+### Chapter 31: Experiment
 
 Shallan brings Renarin and Rlain through the Oathgate into the Shadesmar version of the tower. The structure appears as a massive mountain of glowing glass that shifts through a thousand colors. Two Windrunners report that they have found no sign of the Ghostbloods near the gateways. Renarin and Rlain use their unique sight to identify souls within the crystalline tower. They spot Dalinar, Navani, and Wit descending in a lift toward a cistern room.
 

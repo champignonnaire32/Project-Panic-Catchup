@@ -7,7 +7,7 @@ range: "133-137"
 startChapter: 133
 ---
 
-### Chapter 133: PUPPET
+### Chapter 133: Puppet
 
 Adolin fights the Fused Abidi in the Azir palace while struggling with his physical exhaustion. He uses an aluminum candelabra to parry a Shardblade strike and targets a single plate section. After landing three precise hits, Adolin stabs his sword through the eyeslit of Abidi's helmet. The Fused heals the wound instantly and lifts Adolin by the throat to taunt him. Adolin realizes he must become a leader for his people rather than just a swordsman.
 
@@ -18,7 +18,7 @@ The joints of Adolin's Plate begin to glow with a flickering orange-red light li
 
 ---
 
-### Chapter 134: THE THIRD WAY
+### Chapter 134: The Third Way
 
 Shallan fights a figure she believes is Formless but discovers it is Iyatil in disguise. She uses an anti-Stormlight dagger to stab Iyatil in the eye during a struggle. The interaction between the anti-light and Iyatil’s healing Stormlight causes a fatal internal explosion. Mraize reveals his own anti-Stormlight knife and claims his honor demands vengeance for his mentor’s death. Shallan explains she identified the imposter because of information shared with a corrupted communication spren.
 
@@ -29,7 +29,7 @@ In Shinovar, Kaladin pursues Ishar to prevent the Herald from interfering with S
 
 ---
 
-### Chapter 135: THE CHOICE OF HONOR
+### Chapter 135: The Choice of Honor
 
 Adolin prepares his small force to defend the palace with only ten minutes remaining. Maya communicates with Adolin and reveals a group of fifty deadeye spren within Shadesmar. These deadeyes include various types such as peakspren and ashspren who have come to help. They salute Adolin to acknowledge their shared wounds and their persistence despite their fallen states. Adolin accepts their support and interprets their presence as a promise deeper than a formal oath.
 
@@ -40,7 +40,7 @@ He rejects his highspren and releases his bond to seek the original ways of the 
 
 ---
 
-### Chapter 136: TEN PEOPLE, WITH SHARDBLADES ALIGHT
+### Chapter 136: Ten People, with Shardblades Alight
 
 The contest for the fate of Roshar begins at Urithiru as Gavinor attacks Dalinar. Gavinor utilizes a perfect Flamestance and claims he has chosen his path of his own will. Dalinar dodges the strikes while Taravangian offers him a Shardblade to use in his defense. Dalinar eventually accepts the weapon to block Gavinor's attacks and protect himself from the lethal strikes. Taravangian reveals his legal champion and freezes Gavinor in place to force a moral choice.
 
@@ -51,7 +51,7 @@ On the roof of the tower, Taravangian demands that Dalinar admit his utilitarian
 
 ---
 
-### Chapter 137: THE SUCKLING CHILD
+### Chapter 137: The Suckling Child
 
 Mraize approaches Shallan with the intent to eliminate her after she refuses to serve him. Shallan uses a Lightweaving of Mraize as a distraction to facilitate a sleight of hand. She swaps her drained anti-Stormlight dagger with the active one hidden in Mraize’s own pocket. Mraize attacks Shallan’s spren and believes he has successfully cornered his former acolyte for the kill. Shallan reveals herself and stabs Mraize with the active knife while he holds the useless one.
 

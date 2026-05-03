@@ -7,7 +7,7 @@ range: "99-100"
 startChapter: 99
 ---
 
-### Chapter 99: NEVER TOO LATE
+### Chapter 99: Never Too Late
 
 Shallan corners her mother, Chanarach, in a vision of her wedding day in Urithiru. The Herald admits she broke on Braize and expresses remorse for attempting to kill Shallan in the past. Shallan chooses to forgive her mother, who warns her that no Herald can be trusted except for Taln. Chana dissolves into smoke, and Testament warns Shallan that Odium has arrived within the vision. Dalinar finds himself trapped in a mental reconstruction of the burning of Rathalas and the death of his wife, Evi.
 
@@ -17,7 +17,7 @@ Using his personal agony as a tether, Dalinar pulls himself through the spiritua
 
 ---
 
-### Interlude 15: RYSN
+### Interlude 15: Rysn
 
 Rysn travels to the middle floors of Urithiru alongside Thaylen patent officials to negotiate with Alethi scholars and ardents. She demonstrates her enhanced floating chair, which now features advanced lateral movement and high-speed propulsion powered by ocean-wave prototypes. Chiri-Chiri, a larkin which now resembles a segmented chasmfiend with wings and a hooked tail, rests in Rysn's lap. The Alethi eventually agree to ratify a treaty that guarantees Rysn and her partner, Huio, royalties on their proprietary designs. Rysn feels the heightened senses granted by the Dawnshard, including an acute awareness of souls and colors.
 
@@ -27,7 +27,7 @@ The Shin man makes a specific gesture with his hands and commands the vibration 
 
 ---
 
-### Interlude 16: SURPRISE
+### Interlude 16: Surprise
 
 Taravangian, acting as the new vessel for Odium, manipulates the spiritual visions to inflict maximum psychological pain upon Dalinar. The god intends to break Dalinar's spirit so he can rebuild the man into a servant for his cosmic goals. Odium finds pleasure in the intensity of the human emotions he provokes within the shared spiritual space. The process proceeds according to the deity's design until Dalinar unexpectedly vanishes from the god's sight. Taravangian discovers that he can no longer track Dalinar's presence anywhere within the vastness of the Spiritual Realm.
 
@@ -37,7 +37,7 @@ Odium analyzes the behavior of Honor's lingering power and concludes that it is 
 
 ---
 
-### Chapter 100: GOD
+### Chapter 100: God
 
 Ten thousand years ago, the deity Tanavast arrives at the world of Roshar and identifies it as a mathematical masterpiece of Adonalsium. He describes the planet as a celebration of song and numbers that resonates with his divine nature as the Shard of Honor. Tanavast observes the native singers, describing them as hunter-gatherers with carapace skin who communicate through tones. He chooses to invest the land and its people, restoring a sense of godhood to the orphaned world. The new god notices three powerful incarnations left behind by his predecessor and countless smaller spirits inhabiting the nature of the planet.
 

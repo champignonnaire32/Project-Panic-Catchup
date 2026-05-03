@@ -7,7 +7,7 @@ range: "46-50"
 startChapter: 46
 ---
 
-### Chapter 46: ALASWHA
+### Chapter 46: Alaswha
 
 Navani and Dalinar witness a vision of Ashyn's destruction and the first arrival of human refugees on Roshar. Ishar, appearing much younger in simple blue robes, forcibly holds open a thirty-foot portal while thousands of people flee the burning sky. Dalinar identifies several figures as younger versions of future Heralds, including Jezrien, Chanaranach, and Shalash. The refugees bring strange animals like horses and chickens, but notably lack wagons or carts. Dalinar is shocked to recognize the future King of Heralds, Jezrien, as Ahu, the beggar he used to drink with in Kholinar.
 
@@ -37,7 +37,7 @@ Szeth's father, Neturo, makes the drastic decision to leave his life as an admin
 
 ---
 
-### Chapter 49: A REALM OF POSSIBILITIES
+### Chapter 49: A Realm of Possibilities
 
 Shallan, Rlain, and Renarin enter the vision of the crossing disguised as singers to observe Mraize and Iyatil. Shallan finds it surreal to be in a singer's body with functional carapace and to feel real soil beneath her feet. Rlain notes that their spren are hovering outside the vision to avoid detection by the gods. They spot Dalinar and Navani as themselves, but realize the Ghostblood assassins are also hidden among the crowd. Shallan decides to infiltrate the refugee groups by using a Lightweaving to appear as a human woman in a mud-stained dress.
 

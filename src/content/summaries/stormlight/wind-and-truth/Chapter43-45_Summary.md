@@ -7,7 +7,7 @@ range: "43-45"
 startChapter: 43
 ---
 
-### Interlude 5: BAXIL
+### Interlude 5: Baxil
 
 Baxil walks through Azimir wrapped in crimson cloths, invisible to most unless they seek him out. He visits a tea shop and meets Axies the Collector, an Aimian who records notes as tattoos on his skin and is currently hitting his hand with a hammer to attract rare spren. Axies is an Aimian, a race of blue-skinned people who can alter their skin color and are often immortal or very long-lived. Baxil tastes bitter jaramon tea through the collective memories of the patrons because he can no longer consume physical things directly due to his condition. He exchanges a gemstone containing a spren for specialized red bandages that are essential for his continued existence.
 
@@ -15,7 +15,7 @@ Axies informs Baxil that his former employer, the Herald Shalash, is currently i
 
 Baxil leaves a few spheres as payment and departs the tea shop to continue his personal quest. He reflects on his "blessing" and "curse," which has left him feeling like smoke from a dead fire. The narrative notes that he always keeps one hand on his kattar, a traditional Azish punching dagger. He hopes to one day regain the ability to enjoy simple physical pleasures like sipping tea. Baxil moves through the city unseen, a crimson-wrapped figure navigating a world that has mostly forgotten him.
 
-### Interlude 6: THE WEIGHT OF INFORMATION
+### Interlude 6: The Weight of Information
 
 Taravangian, now the vessel of the god Odium, allows his intellect to rule his decisions while still acknowledging his emotions. He determines that ending the war early as Cultivation suggests is illogical because his predecessor's power prefers conflict and rage. He realizes that the Unmade Ba-Ado-Mishram is a potential rival for his power if he does not satisfy the Shard's lust for battle. Ba-Ado-Mishram is an Unmade, a powerful ancient spren of Odium capable of granting forms and Connection to the singers. Taravangian feeds the power promises of future cosmic conquests to keep it from leaving him for a more violent host.
 
@@ -23,7 +23,7 @@ He observes that the power of Odium favors loud, intense emotions like anger and
 
 He asks Dova if she can use her crystal spikes to restore sight to the blind by allowing them to sense Investiture. Dova confirms the possibility but notes that the subjects will never truly see in the traditional sense again. Taravangian offers to eventually give her a planet of her own if she agrees to serve his new organization. Dova, motivated by the promise of extreme wealth and off-world travel, immediately agrees to join him. Taravangian leaves her to gather her things, confident that he has secured a genius-level mortal tool for his upcoming moves.
 
-### Chapter 43: THE ORIGIN OF SONGS
+### Chapter 43: The Origin of Songs
 
 Dalinar floats in a warm, peaceful void before using a rock from Wit as an anchor to enter a historical vision. He manifests in the past as a singer named Moash, joining a group of nine singers trekking through a mountain pass. He discovers that he is in Shinovar, which at this point in time is a vast, flat wasteland of brown mud. Dalinar notes that his Connection to the Physical Realm is severed and he has already lost a day of real-world time. He meets a femalen singer who believes the "little gods" are responsible for the strange nature of the mud field.
 
@@ -31,7 +31,7 @@ Navani arrives in the vision by following the silver cord of her bond to Dalinar
 
 A short downpour occurs, representing a highstorm in Shinovar, followed by a shimmering distortion in the air called the Wind. The Wind identifies itself as a collective of caretakers who are weakening due to the arrival of new gods. It informs Dalinar and Navani that Kaladin and Szeth have already reached the physical Shinovar in their own time. The Wind laughs when Dalinar asks how to persuade Honor's power to accept him, calling the power stubborn. A portal splits the sky over the mudflats, revealing the arrival of humans from a world that is currently on fire.
 
-### Chapter 44: A SEMBLANCE OF REALITY
+### Chapter 44: A Semblance of Reality
 
 Shallan transitions from a dreamlike state of shifting colors into a spiritual recreation of Renarin’s childhood bedroom. She still carries the anti-Light dagger she stole from the Ghostbloods, which warps the air around its metal tip. Pattern and Testament are present, appearing more solid than the toy soldiers and furniture that show misaligned prismatic colors. Renarin enters with his spren Glys, a mistspren whose red-tinted body contains a swirling void instead of a face. Rlain follows with his spren Tumi, appearing as a massive and intimidating figure in his singer uniform.
 
@@ -39,7 +39,7 @@ Glys explains that they are using Renarin’s memories to shape a stable environ
 
 Renarin determines that they must find Mishram’s prison before the Ghostbloods do to prevent Odium from gaining strength. Shallan suggests joining Dalinar and Navani, but the spren refuse to risk revealing their presence to the Bondsmiths. Pattern points out that Shallan is "good at murder" and could potentially kill Mraize and Iyatil to stop them. Shallan reflects on her childhood memories with her brothers and her mother while holding hands with Pattern and Testament. Renarin locates Dalinar within a vision, and the group prepares to follow him to intercept their enemies.
 
-### Chapter 45: SELF-MASTERY AND CONTROL
+### Chapter 45: Self-Mastery and Control
 
 Kaladin and Szeth arrive at a Shin monastery protected by a flimsy wooden fort and a group of armed townspeople. Kaladin carries the Honorblade of the Willshapers wrapped in cloth, while Szeth carries the black sword Nightblood. Nightblood is a sentient Shardblade that consumes Investiture and can destroy things on all three realms of existence. Szeth explains that the Shin people consider easterners to be barbarians because they walk on stone and lack social graces. Kaladin attempts to talk Szeth through his trauma, suggesting he needs "warrior thoughts" to counter his internal self-destructive impulses.
 

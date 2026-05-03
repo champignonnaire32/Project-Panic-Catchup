@@ -7,7 +7,7 @@ range: "116-120"
 startChapter: 116
 ---
 
-### Chapter 116: TWO WOMEN
+### Chapter 116: Two Women
 
 Taravangian reveals a contract Jasnah signed to watch Queen Aesudan with the option of assassination. He uses this evidence to accuse Jasnah of hypocrisy and manipulative behavior before Queen Fen of Thaylenah. Jasnah admits to investigating every monarch for potential threats to her people. Taravangian highlights Fen’s admitted softheartedness and contrasts it with Jasnah’s cold pragmatism. He attempts to convince Fen that joining his coalition is the only rational choice for her kingdom's survival.
 
@@ -17,7 +17,7 @@ Taravangian displays a Lightweaving of a past meeting where Jasnah suggested neg
 
 ---
 
-### Chapter 117: TRUTHLESS
+### Chapter 117: Truthless
 
 Nine years ago, Szeth sits by a fire while the leaders of the Shin determine his punishment for starting a civil war. His father Neturo carries the Bondsmith Honorblade, which is known for being the most destructive of the ten blades. The Voice in Szeth’s head mocks his lack of resolve and tells him he must be hardened for future wars. Szeth’s father and other leaders discuss their lack of trust in the Voice's true intentions. They ultimately decide that Szeth must be named Truthless to prevent further rebellions and maintain social order.
 
@@ -27,7 +27,7 @@ Pozen provides Szeth with a small round rock that will serve as his Oathstone du
 
 ---
 
-### Chapter 118: PROPHECY
+### Chapter 118: Prophecy
 
 Venli and Thude ride the chasmfiend Thundercloud into the human camp at Narak while red lightning and thunder roar. Thundercloud breaks through the fortifications and begins stomping through wooden rooftops to simulate a violent attack. Sigzil organizes the human retreat and tosses a package of papers to Venli to conclude their secret plan. The human soldiers flee onto the Oathgate platform as chasmfiends destroy the gates between the plateaus. Venli orders the chasmfiends to eat human corpses left behind to make the assault appear lethal and effective.
 
@@ -37,7 +37,7 @@ Sigzil renounces his oaths to save Vienta, causing her to vanish just before Moa
 
 ---
 
-### Chapter 119: SUNMAKER'S GAMBIT
+### Chapter 119: Sunmaker's Gambit
 
 Adolin walks on a wooden peg leg and prepares for the final defense of the dome in Azir. He plays a game of towers with Emperor Yanagawn and May Aladar to pass the time before the inevitable assault. May reports that the Shattered Plains have been lost and reinforcements from Urithiru will be limited. Adolin teaches Yanagawn that two weaker forces will always align against a stronger one in a three-way political conflict. The horns sound a desperate signal, and Adolin prepares to join the front lines despite his missing limb.
 
@@ -47,7 +47,7 @@ Kaladin, Szeth, and the Herald Nale camp in a broken monastery as the final nigh
 
 ---
 
-### Chapter 120: SHELTERED FROM THE EYES OF GOD
+### Chapter 120: Sheltered From the Eyes of God
 
 Four thousand five hundred years ago, the god Honor walks a battlefield of corpses and reflects on the arms race against Rayse. Honor has crafted the Radiant oaths to maximize human abilities against the Fused and the Unmade. He notes that the Heralds are beginning to access the powers of Roshar directly rather than just his Surges. Rayse appears and mocks Honor for trapping his best warriors in the hellscape of Braize. Honor realizes that the stalemate of constant Desolations is slowly wearing down human civilization until only ashes remain.
 

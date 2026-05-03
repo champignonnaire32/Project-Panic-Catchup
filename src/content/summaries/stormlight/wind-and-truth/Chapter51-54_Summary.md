@@ -7,7 +7,7 @@ range: "51-54"
 startChapter: 51
 ---
 
-### Chapter 51: TEST
+### Chapter 51: Test
 
 Young Szeth and his family arrive at a military training camp situated on a ridge near the Stoneward monastery. His sister Elid displays resentment toward their new life while their mother gives Szeth a small wool toy for comfort. They meet Betheth, a burly recruitment captain with dark hair, who notes that the parents are volunteers. Szeth hears a mysterious voice in his head for the first time as he steps onto the hard stone. The voice remains silent after its initial greeting, leaving the boy feeling unnerved and apprehensive about his future.
 
@@ -17,7 +17,7 @@ The mysterious voice identifies itself as a stone spren and instructs Szeth to s
 
 ---
 
-### Chapter 52: A PERFECT MOMENT
+### Chapter 52: A Perfect Moment
 
 Adolin Kholin assists Emperor Yanagawn in donning Shardplate for a training session inside a large, cluttered tent in Azimir. The emperor changes into a thick gambeson and padded hose while trusted guards observe the intimate process of his dressing. Adolin interacts with a friendly guard named Gezamal, who discusses various regional board games like Flat Face and Deliverer. Yanagawn experiences the immense power of the Plate for the first time and accidentally stumbles onto his face. The monarch quickly recovers and expresses his delight at the unnatural strength provided by the ancient suit of armor.
 
@@ -27,7 +27,7 @@ Yanagawn asks Adolin to call him by his personal name rather than his imperial t
 
 ---
 
-### Chapter 53: MAKARI SIN
+### Chapter 53: Makari Sin
 
 Szeth and Kaladin rest near a river while Szeth contemplates the mysterious voice he heard during his childhood. Without warning, Szeth is pulled into the Cognitive Realm of Shadesmar, which he recognizes as the glasslands of Makari Sin. He uses Stormlight to create a small raft from beads to prevent himself from drowning in the endless sea. Pozen-son-Nash, an Elsecaller Honorbearer carrying a hooked Blade, appears on a separate platform to challenge Szeth to a test. A Shin woman bearing a narrow, six-foot-long Edgedancer Honorblade initiates an attack against the weaponless Szeth with her sword.
 
@@ -37,7 +37,7 @@ Pozen refuses to help Szeth and instead commits suicide by falling on his own Ho
 
 ---
 
-### Chapter 54: A FRIEND
+### Chapter 54: A Friend
 
 Shallan, Renarin, and Rlain explore a woodblock-print-style vision of the Shattered Plains created by their respective spren. Shallan discusses her mental struggles with Pattern and resolves to accept her pain without letting it define her personality. The group discovers the malevolent face of the Unmade Ba-Ado-Mishram manifesting in the clouds and the patterns of the stone. They retreat into a hollow stone building to hide from the entity's gaze and discuss the history of the location. Renarin and Rlain bond over their shared experiences of childhood isolation while they wait for the next vision to trigger.
 

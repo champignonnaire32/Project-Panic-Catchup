@@ -7,7 +7,7 @@ range: "17-21"
 startChapter: 17
 ---
 
-### Chapter 17: A TOUGH KIND OF LOVE
+### Chapter 17: A Tough Kind of Love
 
 Adolin meets the Cobalt Guardsman Colot, a yellow-green eyed former squire of the elite guard unit, in the tower's atrium. He learns his father Dalinar slipped his guards again and joins the Azish Emperor Yanagawn on a high-speed lift ride. Yanagawn is swathed in thick robes and wears a headdress several feet wide as he heads to a high-level meeting. Adolin admits to the Emperor that the invading army is approximately fifteen to twenty thousand strong. He expresses his fear of failure and the lingering trauma from the fall of Kholinar and Elhokar's death.
 
@@ -17,7 +17,7 @@ Shallan's informants report that Shob has spotted a Ghostblood spy watching Dali
 
 ---
 
-### Chapter 18: AN EXCEPTION TO THE RULES
+### Chapter 18: An Exception to the Rules
 
 The monarchs gather where Dalinar welcomes the Reshi king, a Dustbringer Radiant wearing loose robes over a powerful chest, to join them. Queen Fen of Thaylenah and Emperor Yanagawn express immediate concern about the imminent invasions of their respective homelands. Dalinar takes responsibility for the lack of border freezes in the contract, but Yanagawn defends him for securing a potential peace. Sigzil laughs at the complexity of legal documents as the group shifts focus to establishing military positions. The Lightweaver Stargyle prepares to create a Stormlight map of Roshar to aid the strategic discussion.
 
@@ -27,7 +27,7 @@ Wit concludes that they are no longer facing Rayse, as the former Vessel of Odiu
 
 ---
 
-### Chapter 19: RULED BY VOICES
+### Chapter 19: Ruled By Voices
 
 Szeth-son-Honor continues to wear white clothing and shave his head daily as a lingering tradition from his time as Truthless. He flies toward Shinovar with Kaladin-son-Lirin, noting the absence of the voices that usually scream from the shadows. The pair avoids the northern border due to Shin arrows and approaches the southern farmlands near Szeth's childhood home. Szeth's highspren, a tall and regal spren whose name has not been offered, commands him to maintain his dignity. Kaladin uses Windrunning to sculpt airflow and speak clearly through the rushing wind while Szeth lacks such convenience.
 
@@ -37,7 +37,7 @@ Szeth reflects on his previous battle with Kaladin and how his soul remains loos
 
 ---
 
-### Chapter 20: THREE VITAL POINTS OF DEFENSE
+### Chapter 20: Three Vital Points of Defense
 
 Wit informs the gathered monarchs that a new Vessel has taken up the Shard of Odium, a fact confirmed by the Stormfather. The Stormfather and the Sibling sense a change in Odium's tone, indicating that Rayse is indeed dead and replaced. Wit explains that the new Odium is likely a former mortal who will be more brash and willing to take risks. He warns that the new Vessel is not bound by the same informal promises as the original deity. The leaders realize that capturing the capitals of Azir, Thaylenah, or the Shattered Plains would result in losing entire kingdoms.
 
@@ -47,7 +47,7 @@ Jasnah takes command of the twenty thousand troops at Thaylen City, while Sigzil
 
 ---
 
-### Chapter 21: INCOMPLETE TRUTHS
+### Chapter 21: Incomplete Truths
 
 Shallan and her team of five Lightweavers transfer to Narak, the fortress city at the center of the Shattered Plains. They navigate the defensive bastions and Soulcast walls of the plateau while disguised as common spearmen and later as crem scrapers. Gaz and Red argue about whether the circular walls of the plateaus look like chouta rolls or tree stumps. The team uses falsified orders and Lightweaving to evade detection by the soldiers and scribes guarding the gates. Jayn reports that several people have entered a storehouse being used as a Ghostblood hideout, including an Azish vizier.
 

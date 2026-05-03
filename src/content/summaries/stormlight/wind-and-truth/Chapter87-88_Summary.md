@@ -17,7 +17,7 @@ Garith and the other Radiants are granted a vision of their own destructive pote
 
 ---
 
-### Interlude 13: LIFT
+### Interlude 13: Lift
 
 Lift is currently posing as Queen Navani in the Urithiru tower to hide the real Navani's absence. She finds the role of queen frustrating and boring because her keepers, Khal and Aladar, refuse to let her do anything active. Wyndle, her cultivation-spren, tries to cheer her up with expensive food like caviar, but Lift is depressed by her perceived failures. She blames herself for the explosion that lost Gavilar and feels useless being kept in an office. The Sibling, the tower's sentience, communicates with her and mentions hearing a strange "peeky time" voice on the thirty-third floor.
 
@@ -27,7 +27,7 @@ Three of Mraize's thugs, including a woman who uses Feruchemical speed, enter th
 
 ---
 
-### Interlude 14: THE CORRECT FUTURE
+### Interlude 14: The Correct Future
 
 Odium turns his focus toward Dalinar after dealing with the "rats" in the Spiritual Realm. He reflects on his destruction of Kharbranth, viewing it as a necessary sacrifice to prove his commitment to his cause. Cultivation has stopped attempting to persuade him, having failed in her own strategic plays for the moment. Taravangian realizes he cannot see Dalinar's future clearly because the man is tainted by the Stormfather’s foresight. He believes that winning the contest of champions is inevitable because all possible outcomes serve his ultimate goals.
 
@@ -37,7 +37,7 @@ The deity observes Dalinar's isolated state and recognizes that the Bondsmith is
 
 ---
 
-### Chapter 88: CYCLE OF WAR
+### Chapter 88: Cycle of War
 
 Sigzil manages the defense of Narak Three as the Unmade Yelig-nar attacks and eventually dies after consuming its host. Despite the victory over the Unmade, the plateau is lost to the Fused, and Sigzil orders a strategic retreat to Narak Prime. He oversees the destruction of the bridge and the abandonment of uninfused gemstones to trick the enemy. Sigzil feels the weight of leadership and the deaths of his friends, Teft and Leyten, while struggling with a lack of Stormlight. He is informed by his spren that they will run out of Light by the following morning.
 
