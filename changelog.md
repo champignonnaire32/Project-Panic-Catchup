@@ -5,6 +5,15 @@
 *   **Format:** Every entry heading must include the **Date**, the **Topic**, and the **Name of the AI** that completed the work (e.g., `## [May 1, 2026 - Feature Name] (by Gemini)`).
 *   **Content:** Keep entries concise and bulleted. 
 
+## [May 3, 2026 - Oathbringer Audit & Interlude Overhaul] (by Gemini)
+*   **Sequencing Fix:** Resolved a major sorting bug where the Chapter 88-91 chunk (previously mislabeled `X-91`) was appearing at the start of the book list. Renamed the raw file to `Chapter88-91_Summary.md` to ensure correct `startChapter` derivation.
+*   **Interlude Labeling:** Converted generic "Interludes" headers to individual, descriptive labels (e.g., `### Interlude I-1: Puuli`) for all 14 interludes in the book.
+*   **Content Completion:** Added missing summaries for Interlude I-9 (*True Labor Begins*) and Interlude I-11 (*Her Reward*) to the Part Three interlude group, ensuring 100% narrative coverage.
+*   **Consistency Fix:** Renamed `Chapter54-Interludes_Summary.md` to `Chapter54-57_Summary.md` for cleaner sorting and better range clarity.
+*   **Ingestion:** Re-ran `split-summaries.js` to propagate all labeling and sequencing fixes to the live content collection.
+
+---
+
 ## [May 3, 2026 - Wind and Truth Content Completion] (by Gemini)
 *   **Content Ingestion:** Added missing chapter summaries for *Wind and Truth* (Chapters 121-125 and 138-142).
 *   **Consistency Fix:** Ensured all chapters for the final book in the Stormlight Archive are now present and correctly ordered.
